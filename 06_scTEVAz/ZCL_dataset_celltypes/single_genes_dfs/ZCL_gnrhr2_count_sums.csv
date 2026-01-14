@@ -1,0 +1,6 @@
+stage,Cardiomyocyte,Epithelial.cell,Granulocyte,Hepatocyte,Intestinal.bulb.cell,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Primordial.germ.cell,Retinal.pigment.epithelial.cell
+24hpf,0,0,0,0,0,0,0,4.08640457285017,0,4.08640457285017
+72hpf,0,0,0,0,0,0,4.27916456586431,0,0,0
+21Day,1.33853308820331,0,0,0,0,0,13.3853308820331,0,0,0
+3Month,0,0.319949299554195,0,0,0.319949299554195,0,0,0,0,0
+22Month,0,0,0.546654651197433,6.01320116317177,0.546654651197433,0.546654651197433,0,0,0.546654651197433,0

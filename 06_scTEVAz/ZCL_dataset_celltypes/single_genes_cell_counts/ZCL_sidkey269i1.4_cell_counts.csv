@@ -1,0 +1,4 @@
+stage,Cardiomyocyte,Endothelial.cell,Epithelial.cell,Epithelial.cell..Brain.,Erythrocyte,Erythroid.progenitor.cell,Hatching.gland,Hepatocyte,Intestinal.bulb.cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal.cell,Nephron.cell,Neural.cell,Neural.progenitor.cell,Osteoblast,Retinal.pigment.epithelial.cell
+24hpf,19,10,44,1,1,1,217,0,1,10,20,18,71,1,25,481,6,2
+72hpf,0.563696112006446,0,10.9920741841257,0,0,0.281848056003223,0.563696112006446,0,0,0,1.97293639202256,0,0.281848056003223,0,3.10032861603546,2.53663250402901,0.281848056003223,0
+3Month,0,0,0,0,0,0,0,0.104017006644673,0,0,0,0.104017006644673,0.104017006644673,0,0,0,0,0

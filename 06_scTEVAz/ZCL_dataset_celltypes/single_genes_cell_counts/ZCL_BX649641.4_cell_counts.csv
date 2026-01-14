@@ -1,0 +1,4 @@
+stage,Epithelial.cell,Hepatocyte,Intestinal.bulb.cell,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Primordial.germ.cell
+24hpf,0,0,0,1,1,1,0
+72hpf,0,0,0,0,0,0.281848056003223,0
+3Month,0.104017006644673,0.208034013289345,0.104017006644673,0,0,0,0.312051019934018

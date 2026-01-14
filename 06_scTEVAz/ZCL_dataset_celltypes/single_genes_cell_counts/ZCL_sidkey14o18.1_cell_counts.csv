@@ -1,0 +1,4 @@
+stage,Cardiomyocyte,Epithelial.cell,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Retinal.pigment.epithelial.cell
+24hpf,7,0,2,0,6,0
+72hpf,0,0,0,0.281848056003223,0.281848056003223,0.281848056003223
+21Day,0,0.369986860264282,0,0,0,0

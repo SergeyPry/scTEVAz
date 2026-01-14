@@ -1,0 +1,6 @@
+sampleName	condition
+21Day	juvenile
+22Month	adult
+24hpf	embryo
+3Month	adult
+72hpf	larvae

@@ -1,0 +1,4 @@
+stage,Cardiomyocyte,Epithelial.cell,Neural.cell,Neural.progenitor.cell,Osteoblast,Primordial.germ.cell,Radial.glia,Retinal.pigment.epithelial.cell
+24hpf,1,0,0,4,0,0,0,0
+72hpf,0,0,1.40924028001612,0.563696112006446,0,0.281848056003223,0.281848056003223,0
+21Day,0.739973720528564,0.739973720528564,0,0,0.369986860264282,0,0,0.369986860264282

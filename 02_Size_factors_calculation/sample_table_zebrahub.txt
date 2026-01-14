@@ -1,0 +1,11 @@
+sampleName	condition
+0 somites	embryo
+05 somites	embryo
+10 somites	embryo
+15 somites	embryo
+20 somites	embryo
+30 somites	embryo
+larval-2dpf	larvae
+larval-3dpf	larvae
+larval-5dpf	larvae
+larval-10dpf	larvae

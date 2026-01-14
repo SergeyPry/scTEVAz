@@ -1,0 +1,5 @@
+stage,Hepatocyte,Immune.progenitor.cell,Mesenchymal.cell,Nephron.cell,Neural.cell,Neural.progenitor.cell,Radial.glia,Retinal.cone.cell
+24hpf,0,0,0,0,0,4.08640457285017,0,0
+72hpf,0,0,0,1.06979114146608,21.3958228293216,0,0,0
+21Day,0,2.67706617640661,1.33853308820331,0,22.7550624994562,0,1.33853308820331,1.33853308820331
+22Month,2.18661860478973,0,0,0,0,0,0,0

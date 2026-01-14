@@ -1,0 +1,4 @@
+stage,Epithelial.cell,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Macrophage,Mesenchymal.cell,Neural.progenitor.cell,Osteoblast,Primordial.germ.cell,Retinal.pigment.epithelial.cell,Spermatocyte
+24hpf,1,0,0,0,0,2,1,2,0,1,0
+21Day,0,0,0,0,0.369986860264282,0,0,0,0,0,0
+3Month,0.312051019934018,0.104017006644673,0.208034013289345,0.104017006644673,0,0,0,0,1.1441870730914,0,0.208034013289345

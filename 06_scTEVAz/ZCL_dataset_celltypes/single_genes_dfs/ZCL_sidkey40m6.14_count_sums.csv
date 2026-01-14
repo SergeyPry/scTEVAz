@@ -1,0 +1,4 @@
+stage,Cardiomyocyte,Goblet.cell,Hepatocyte,Intestinal.bulb.cell,Mesenchymal.cell,Muscle.cell,Neural.cell,Neural.progenitor.cell,Primordial.germ.cell,Spermatocyte
+72hpf,0,0,0,0,0,1.06979114146608,0,1.06979114146608,0,0
+21Day,1.33853308820331,0,0,0,0,0,1.33853308820331,0,0,0
+3Month,0,0.319949299554195,0.639898599108391,0.319949299554195,0.319949299554195,0,0,0,6.07903669152971,2.23964509687937

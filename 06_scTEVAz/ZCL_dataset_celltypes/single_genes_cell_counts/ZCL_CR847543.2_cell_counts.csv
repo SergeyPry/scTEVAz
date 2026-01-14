@@ -1,0 +1,4 @@
+stage,Erythrocyte,Erythroid.progenitor.cell,Immune.progenitor.cell,Macrophage,Neural.cell,T.cell
+24hpf,0,0,0,1,0,0
+72hpf,3.10032861603546,0,0,0,0,0
+21Day,4.06985546290711,1.47994744105713,0.369986860264282,0,0.369986860264282,0.369986860264282

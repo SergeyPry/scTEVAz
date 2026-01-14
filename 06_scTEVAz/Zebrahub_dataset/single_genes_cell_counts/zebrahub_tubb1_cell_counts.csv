@@ -1,0 +1,6 @@
+stage,central_nervous_system,endoderm,hematopoietic_system,intermediate_mesoderm,lateral_mesoderm,mesenchyme,neural_crest,notochord,paraxial_mesoderm,periderm
+24hpf,0,0,106,0,0,1,0,0,0,0
+2dpf,4.17,0,35.03,0,5.84,5,2.5,0,0.83,1.67
+3dpf,7.47,1.72,31.61,0,0,2.3,0,0,0,0.57
+5dpf,3.62,1.03,44.96,1.03,0.52,11.89,2.07,0.52,1.03,7.24
+10dpf,1.26,0,77.19,0.63,0.63,0.63,0,0,0.63,0.63

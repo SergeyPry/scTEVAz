@@ -1,0 +1,11 @@
+tissue
+Endothelial
+Epithelial
+Erythroid
+Germ
+Immune
+Muscle
+Neuron
+Other
+Secretory
+Stromal

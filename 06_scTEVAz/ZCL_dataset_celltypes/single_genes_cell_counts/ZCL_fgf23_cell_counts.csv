@@ -1,0 +1,6 @@
+stage,Cardiomyocyte,Epithelial.cell,Hatching.gland,Hepatocyte,Immune.progenitor.cell,Macrophage,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Osteoblast
+24hpf,0,0,10,0,0,1,0,0,2,0
+72hpf,0.281848056003223,0,0,0,0,0,0,0.563696112006446,0.281848056003223,0.281848056003223
+21Day,0,0.369986860264282,0,0,0.369986860264282,0,2.21992116158569,0,0,0
+3Month,0,0.416068026578691,0,0,0,0,0,0,0,0
+22Month,0,0,0,0.273298863976266,0,0,0,0,0,0

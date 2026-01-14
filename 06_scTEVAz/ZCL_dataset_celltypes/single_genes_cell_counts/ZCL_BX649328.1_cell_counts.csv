@@ -1,0 +1,5 @@
+stage,Epithelial.cell,Erythrocyte,Keratinocyte,Mesenchymal.cell,Primordial.germ.cell,Spermatocyte
+24hpf,1,0,0,1,0,0
+72hpf,0,0,0.281848056003223,0,0,0
+21Day,0,0.369986860264282,0,0,0,0
+3Month,0,0,0,0,0.832136053157381,0.208034013289345

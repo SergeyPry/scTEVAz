@@ -1,0 +1,45 @@
+library(stringr)
+
+# Algorithm:
+
+# 1. Read filenames from both count-sums and cell-counts folders.
+# 2. Extract processed gene names from both and make a union from both of them.
+# 3. subset the gene mapping data frame to this union of processed genes.
+# 4. Store this gene mapping data frame for future use.
+
+
+# 1. Read filenames from both count-sums and cell-counts folders.
+
+countsum_file_names <- list.files("./single_genes_dfs/")
+cellcount_file_names <- list.files("./single_genes_cell_counts/")
+
+all_file_names <- c(countsum_file_names, cellcount_file_names)
+
+# 2. Extract processed gene names from both and make a union from both of them.
+
+# set up and collect all of the available processed file names 
+processed_names <- c()
+
+
+for(filename in all_file_names){
+  
+  items <- str_split(filename, '_')  
+  
+  processed_names <- c(processed_names, items[[1]][2]) 
+  
+}
+
+# take care of the processed name duplication
+processed_names <- unique(processed_names)
+
+# 3. subset the gene mapping data frame to this union of processed genes.
+
+# read the data frame with all gene names
+map_df <- read.csv("ZCL_map_df.csv", header = TRUE)
+
+# subset 
+map_df_updated <- map_df[map_df$proc_gene %in% processed_names,] 
+  
+
+# 4. Store this gene mapping data frame for future use.
+write.csv(map_df_updated, file = "ZCL_map_lineages_df.csv",  quote = FALSE, row.names = FALSE)

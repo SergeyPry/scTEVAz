@@ -1,0 +1,5 @@
+stage,central_nervous_system,hematopoietic_system,intermediate_mesoderm,lateral_mesoderm,mesenchyme,neural_crest,paraxial_mesoderm
+2dpf,0,0,0,0,1.24,0,0
+3dpf,0.58,0,0,0.9,0.52,0,0
+5dpf,0,0,0.42,0,0.8,0,0.69
+10dpf,1.02,0.81,0,0,0.38,1.33,1.99

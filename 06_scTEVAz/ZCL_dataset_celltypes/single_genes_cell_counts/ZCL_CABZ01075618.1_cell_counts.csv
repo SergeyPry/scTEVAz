@@ -1,0 +1,6 @@
+stage,Endothelial.cell,Epithelial.cell,Erythrocyte,Erythroid.progenitor.cell,Ionocyte,Keratinocyte,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Oocyte,Osteoblast,Radial.glia,Spermatocyte
+24hpf,1,1,1,0,0,1,2,0,23,0,0,0,0
+72hpf,0,0,0,0,0.281848056003223,0.563696112006446,1.40924028001612,0.563696112006446,1.12739222401289,0,0.281848056003223,0.281848056003223,0
+21Day,0,0,0,0.369986860264282,0,0,0.369986860264282,0,0,0,0,0,0
+3Month,0,0,0,0,0,0,0,0,0,0,0,0,0.104017006644673
+22Month,0,0,0,0,0,0,0,0,0,2.4596897757864,0,0,0
