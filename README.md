@@ -17,7 +17,7 @@ All of the required packages and their installation are listed in the README fil
 
 
 ## Repository structure
-This repository for the scTEVAz project describes all the relevant steps performed to obtain the publicly available zebrafish scRNAseq, calculate size factors for individual stages in each dataset, summarize the large datasets into more easily accessible data files for individual genes containing either normalized read count sums or normalized counts of gene-positive cells. These individual data files were further filtered to remove empty data frames or those containing only a single number.
+This repository for the scTEVAz project describes all the relevant steps performed to obtain the publicly available zebrafish scRNAseq, calculate size factors for individual stages in each dataset, summarize the large datasets into more easily accessible data files for individual genes containing either normalized read count sums or normalized counts of gene-positive cells. These individual data files were further filtered to remove empty data frames or those containing only a single number.	
 
 - [01_Loading_raw_data_and_sources](https://github.com/SergeyPry/scTEVAz/tree/main/01_Loading_raw_data_and_sources) - Description and links to the original data sources that were used in this project as well as the code to read the data files for subsequent data extraction and processing.
 
