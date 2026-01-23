@@ -50,7 +50,7 @@ rownames(daniocell.annot) <- daniocell.annot$clust
 daniocell.annot <- daniocell.annot[,c("tissue", "identity.super", "identity.sub", "identity.super.short", "identity.sub.short", "zfin")]
 daniocell@meta.data <- cbind(daniocell@meta.data, daniocell.annot[daniocell@meta.data$cluster,])
 ```
-
+The code is also available here: [Daniocell_load_data.R](https://github.com/SergeyPry/scTEVAz/tree/main/01_Loading_raw_data_and_sources/Daniocell_load_data.R).
 Later sections will discuss how we can use the imported Seurat object to extract the data for individual genes or groups of genes.
 
 
@@ -61,7 +61,7 @@ https://bis.zju.edu.cn/ZCL/index.html
 and then clicked on its data repository page:
 https://figshare.com/s/1ab3c6d7648d12247eb2
 
-We downloaded the following files from the repository:
+and downloaded the following files from the repository:
 * ZCDL.rdata (Seurat object)
 * ZCDL_cellinfo.csv (Cell annotations)
 
@@ -87,7 +87,7 @@ rownames(ZCL_metadata) <- ZCL_metadata$barcodes
 
 ZCL_metadata <- ZCL_metadata[,c("cluster", "stage", "cell_type", "cell_lineage", "tsne_x", "tsne_y" )]
 ```
-
+The code is also available here: [ZCL_load_data.R](https://github.com/SergeyPry/scTEVAz/tree/main/01_Loading_raw_data_and_sources/ZCL_load_data.R).
 Later sections will discuss how we can use the imported Seurat object to extract the data for individual genes or groups of genes.
 
 ### Zebrahub
@@ -116,5 +116,5 @@ zhub_seurat <- LoadH5Seurat("zf_atlas_full_v4_release.h5seurat",assays = "RNA")
 # store meta data in a separate object
 zebrahub_meta <- zhub_seurat@meta.data
 ```
-
+The code is also available here: [Zebrahub_load_data.R](https://github.com/SergeyPry/scTEVAz/tree/main/01_Loading_raw_data_and_sources/Zebrahub_load_data.R).
 Later sections will discuss how we can use the imported Seurat object to extract the data for individual genes or groups of genes.
