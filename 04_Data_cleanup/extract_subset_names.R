@@ -8,6 +8,13 @@ library(stringr)
 # 4. Store this gene mapping data frame for future use.
 
 
+# original data frame with both original and processed gene names
+gene_df_filename <- "ZCL_map_df.csv"  # others: daniocell_map_df.csv, zhub_map_df.csv 
+
+updated_df_filename <- "ZCL_map_celltypes_df.csv" # others: daniocell_map_df_updated.csv,
+# ZCL_map_lineages_df.csv, zhub_map_df_updated.csv
+
+
 # 1. Read filenames from both count-sums and cell-counts folders.
 
 countsum_file_names <- list.files("./single_genes_dfs/")
@@ -35,11 +42,11 @@ processed_names <- unique(processed_names)
 # 3. subset the gene mapping data frame to this union of processed genes.
 
 # read the data frame with all gene names
-map_df <- read.csv("ZCL_map_df.csv", header = TRUE)
+map_df <- read.csv(gene_df_filename, header = TRUE)
 
 # subset 
 map_df_updated <- map_df[map_df$proc_gene %in% processed_names,] 
   
 
 # 4. Store this gene mapping data frame for future use.
-write.csv(map_df_updated, file = "ZCL_map_celltypes_df.csv",  quote = FALSE, row.names = FALSE)
+write.csv(map_df_updated, file = updated_df_filename,  quote = FALSE, row.names = FALSE)

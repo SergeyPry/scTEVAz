@@ -1,7 +1,7 @@
 # Load DESeq2 package
 library(DESeq2)
 
-setwd("c:/Bioinformatics/00_Daniocell_data/size_factors_data/")
+#setwd("c:/Bioinformatics/00_Daniocell_data/size_factors_data/")
 
 readCountData <- function(filename, sampTab){
   count_data <- read.csv(filename, sep = "\t", header = TRUE)
@@ -11,14 +11,6 @@ readCountData <- function(filename, sampTab){
   
   return(count_data)
 }
-
-# Assume 'countData' is your raw count matrix and 'colData' contains metadata
-# Example:
-# countData <- matrix(rnbinom(n=1000, mu=100, size=100), ncol=10)
-# rownames(countData) <- paste0("gene", 1:100)
-# colData <- data.frame(condition = factor(rep(c("A", "B"), each=5)))
-# rownames(colData) <- paste0("sample", 1:10)
-
 
 # # load and process the sample table - custom for each table
 sampleTable <- read.csv("sample_table_zebrahub.txt", sep = "\t")

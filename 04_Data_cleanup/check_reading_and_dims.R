@@ -1,8 +1,12 @@
 # Load the necessary library
 library(dplyr)
 
-setwd("c:/Bioinformatics/00_Daniocell_data/scTEVAz/Daniocell_dataset")
+# uncomment and choose which folder needs this processing step
 
+#setwd("c:/Bioinformatics/00_Daniocell_data/scTEVAz/Daniocell_dataset")
+
+
+################### count sums data ##########################################
 
 all_countsum_files <- list.files("./single_genes_dfs/")
 
@@ -39,7 +43,7 @@ for(filename in all_countsum_files){
 }
 
 
-#################################
+################### cell counts data ##########################################
 
 all_cellcount_files <- list.files("./single_genes_cell_counts/")
 
@@ -65,7 +69,7 @@ for(filename in all_cellcount_files){
     next # Skip the rest of the loop body
   }
   
-  num_table_cells <- (ncol(df_main) - 1) * (nrow(df_main) - 1) 
+  num_table_cells <- (ncol(df_main) - 1) * nrow(df_main)  
   
   newpath <- paste0("./filtered/", filename)
   

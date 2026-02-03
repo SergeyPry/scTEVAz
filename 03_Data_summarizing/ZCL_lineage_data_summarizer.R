@@ -4,7 +4,7 @@
 #remotes::install_version("SeuratObject", "4.1.4", repos = c("https://satijalab.r-universe.dev", getOption("repos")))
 #remotes::install_version("Seurat", "4.4.0", repos = c("https://satijalab.r-universe.dev", getOption("repos")))
 
-setwd("c:/Bioinformatics/00_Daniocell_data")
+#setwd("c:/Bioinformatics/00_Daniocell_data")
 
 library(tidyverse)
 library(dplyr)
