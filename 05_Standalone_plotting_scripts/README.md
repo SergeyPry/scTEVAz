@@ -21,7 +21,7 @@ The next steps are performed separately for count-sum and cell-counts data:
 The scripts can be viewed and downloaded using the links below:
 * [Daniocell script](https://github.com/SergeyPry/scTEVAz/tree/main/05_Standalone_plotting_scripts/daniocell_visualize_gene.R)
 * [ZCL script](https://github.com/SergeyPry/scTEVAz/tree/main/05_Standalone_plotting_scripts/ZCL_visualize_gene.R)
-* [Zebrahub script](https://github.com/SergeyPry/scTEVAz/tree/main/05_Standalone_plotting_scripts/zebrahub_visualize_gene.R)
+* [Zebrahub script](https://github.com/SergeyPry/scTEVAz/tree/main/05_Standalone_plotting_scripts/Zebrahub_visualize_gene.R)
 
 
 
