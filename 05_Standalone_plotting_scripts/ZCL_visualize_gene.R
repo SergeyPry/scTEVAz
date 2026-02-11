@@ -4,10 +4,17 @@
 #remotes::install_version("SeuratObject", "4.1.4", repos = c("https://satijalab.r-universe.dev", getOption("repos")))
 #remotes::install_version("Seurat", "4.4.0", repos = c("https://satijalab.r-universe.dev", getOption("repos")))
 
-setwd("c:/Bioinformatics/00_Daniocell_data")
+#install.packages("paletteer")
 
-library(tidyverse)
+#setwd("c:/Bioinformatics/00_Daniocell_data")
+
 library(dplyr)
+library(tidyverse)
+library(ggplot2)
+library(ggsci)
+library(paletteer)
+library(SeuratObject)
+library(Seurat)
 
 
 # UPDATE THESE PATHS TO REFLECT WHERE YOU HAVE PUT THE FILES:
@@ -112,20 +119,29 @@ gene_expression_summary <- gene_data |>
   summarise(counts_sum = sum(counts_norm)) |> 
   arrange(cell_type, stage, .by_group = TRUE)
 
+# sorting by the sum of expression values
+gene_expression_summary <- gene_expression_summary %>%
+  group_by(tissue) %>%
+  mutate(Total_sum = sum(counts_sum)) %>%
+  arrange(desc(Total_sum))
+
+# adjusting tissue levels
+gene_expression_summary$tissue <- factor(gene_expression_summary$tissue, 
+                                         levels = unique(gene_expression_summary.$tissue))
+
 
 ############################### Visualization of the data ####################
 # 
-library(ggplot2)
-
 
 # redefine gene name if the official symbol is too weird
 # gene <- "kmt2ca"
 
 # subset tissues as required
-gene_expression_summary <- gene_expression_summary[gene_expression_summary$cell_type %in% c("Epithelial cell", "Erythrocyte", "Hepatocyte", "Mesenchymal cell", 
-                                                                                         "Neural cell", "Neural progenitor cell", "Osteoblast", "Primordial germ cell", 
-                                                                                         "Radial glia", "Retinal cell", "Retinal cone cell", "Spermatocyte", "T cell"),]
+# gene_expression_summary <- gene_expression_summary[gene_expression_summary$cell_type %in% c("Epithelial cell", "Erythrocyte", "Hepatocyte", "Mesenchymal cell", 
+#                                                                                          "Neural cell", "Neural progenitor cell", "Osteoblast", "Primordial germ cell", 
+#                                                                                          "Radial glia", "Retinal cell", "Retinal cone cell", "Spermatocyte", "T cell"),]
 
+# sqrt-scaled plot
 ggplot(gene_expression_summary, aes(x = stage, y = counts_sum, fill = stage)) +
   geom_col() +
   scale_y_sqrt(breaks = c(0, 20, 50, 100,200, 300, 400)) +
@@ -148,7 +164,7 @@ ggplot(gene_expression_summary, aes(x = stage, y = counts_sum, fill = stage)) +
 
 ggsave(paste0(gene, "_counts-sum-normalized_plot_sqrt_ZCL.png"), height = 12, width = 15)
 
-
+# linear plot
 ggplot(gene_expression_summary, aes(x = stage, y = counts_sum, fill = stage)) +
   geom_col() +
   scale_y_continuous(breaks = c(0, 20, 50, 100,200, 300, 400)) +
@@ -170,11 +186,6 @@ ggplot(gene_expression_summary, aes(x = stage, y = counts_sum, fill = stage)) +
 
 
 ggsave(paste0(gene, "_counts-sum-normalized_plot_linear_ZCL.png"), height = 12, width = 15)
-
-
-
-##############################################################################
-
 
 
 ############################ Cell counts distribution ########################
@@ -214,15 +225,20 @@ gene_counts$stage <- factor(gene_counts$stage, levels = c("24hpf", "72hpf","21Da
 # adjust the counts by size factors
 gene_counts$counts_norm <- gene_counts$cell_count/gene_counts$size_factors
 
+# sorting by the sum of expression values
+gene_counts <- gene_counts %>%
+  group_by(tissue) %>%
+  mutate(Total_sum = sum(counts_norm)) %>%
+  arrange(desc(Total_sum))
 
 # subset tissues as required
-gene_counts <- gene_counts[gene_counts$cell_type %in% c("Epithelial cell", "Erythrocyte", "Hepatocyte", "Immune cell", "Keratinocyte", "Mesenchymal cell", 
-                                                                                            "Neural cell", "Neural progenitor cell", "Osteoblast", "Primordial germ cell", 
-                                                                                            "Radial glia", "Retinal cell", "Retinal cone cell", "Spermatocyte", "T cell"),]
-
-
+# gene_counts <- gene_counts[gene_counts$cell_type %in% c("Epithelial cell", "Erythrocyte", "Hepatocyte", "Immune cell", "Keratinocyte", "Mesenchymal cell", 
+#                                                                                             "Neural cell", "Neural progenitor cell", "Osteoblast", "Primordial germ cell", 
+#                                                                              "Radial glia", "Retinal cell", "Retinal cone cell", "Spermatocyte", "T cell"),]
 
 ############################### Visualization of the data ####################
+
+# linear data
 ggplot(gene_counts, aes(x = stage, y = counts_norm, fill = stage)) +
   geom_col() +
   scale_y_continuous()+
@@ -241,6 +257,6 @@ ggplot(gene_counts, aes(x = stage, y = counts_norm, fill = stage)) +
         panel.spacing = unit(0.1, "lines")
   )
 
-
+# l
 ggsave(paste0(gene, "_cell-counts-normalized_plot_linear_ZCL.png"), height = 12, width = 15)
 

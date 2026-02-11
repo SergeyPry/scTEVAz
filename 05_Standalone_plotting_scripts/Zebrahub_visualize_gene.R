@@ -3,19 +3,19 @@
 
 #remotes::install_version("SeuratObject", "4.1.4", repos = c("https://satijalab.r-universe.dev", getOption("repos")))
 #remotes::install_version("Seurat", "4.4.0", repos = c("https://satijalab.r-universe.dev", getOption("repos")))
+
 #install.packages("paletteer")
 
-
-setwd("c:/Bioinformatics/00_Daniocell_data")
+#setwd("c:/Bioinformatics/00_Daniocell_data")
 
 library(dplyr)
 library(tidyverse)
 library(ggplot2)
 library(ggsci)
+library(paletteer)
+library(SeuratObject)
+library(Seurat)
 
-#remotes::install_github("mojaveazure/seurat-disk", force = TRUE)
-
-library(SeuratDisk)
 
 # run the line below only once
 #Convert("zf_atlas_full_v4_release.h5ad", dest="h5seurat", overwrite=TRUE)
@@ -100,20 +100,31 @@ gene_data$counts_norm <- gene_data$counts/gene_data$size_factors
 # order the stages
 gene_data$stage <- factor(gene_data$stage, levels = c("0 somites", "05 somites", "10 somites", "15 somites", "20 somites", "30 somites", "larval-2dpf", "larval-3dpf", "larval-5dpf", "larval-10dpf"))
 
-
+# tissue level aggregation
 gene_expression_summary <- gene_data |> 
   group_by(cell_lineage, stage) |> 
   summarise(counts_sum = sum(counts_norm)) |> 
   arrange(cell_lineage, stage, .by_group = TRUE)
 
 
+# sorting by the sum of expression values
+gene_expression_summary <- gene_expression_summary %>%
+  group_by(tissue) %>%
+  mutate(Total_sum = sum(counts_sum)) %>%
+  arrange(desc(Total_sum))
+
+# adjusting tissue levels
+gene_expression_summary$tissue <- factor(gene_expression_summary$tissue, 
+                                         levels = unique(gene_expression_summary.$tissue))
+
+
 ############################### Visualization of the data ####################
-# 
-library(ggplot2)
+
 
 # Uncomment if another gene label is required
 #gene <- "plex9.2"
 
+# sqrt-scaled plot
 ggplot(gene_expression_summary, aes(x = stage, y = counts_sum, fill = stage)) +
   geom_col() +
   scale_y_sqrt(breaks = c(0, 100,250, 500, 1000, 1500, 2000)) +
@@ -135,7 +146,7 @@ ggplot(gene_expression_summary, aes(x = stage, y = counts_sum, fill = stage)) +
 
 ggsave(paste0(gene, "_counts-sum-normalized_plot_sqrt_zhub.png"), height = 12, width = 15)
 
-
+# linear plot
 ggplot(gene_expression_summary, aes(x = stage, y = counts_sum, fill = stage)) +
   geom_col() +
   scale_y_continuous(breaks = c(0, 250, 500, 1000, 1500, 2000)) +
@@ -198,7 +209,16 @@ gene_counts$stage <- factor(gene_counts$stage, levels = c("0 somites", "05 somit
 # adjust the counts by size factors
 gene_counts$counts_norm <- gene_counts$cell_count/gene_counts$size_factors
 
+# sorting by the sum of expression values
+gene_counts <- gene_counts %>%
+  group_by(tissue) %>%
+  mutate(Total_sum = sum(counts_norm)) %>%
+  arrange(desc(Total_sum))
+
+
 ############################### Visualization of the data ####################
+
+#linear plot
 ggplot(gene_counts, aes(x = stage, y = counts_norm, fill = stage)) +
   geom_col() +
   scale_y_continuous(breaks = c(0,100, 200, 500, 1000, 1250))+

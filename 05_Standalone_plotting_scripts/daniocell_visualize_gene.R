@@ -6,13 +6,15 @@
 
 #install.packages("paletteer")
 
-setwd("c:/Bioinformatics/00_Daniocell_data")
+#setwd("c:/Bioinformatics/00_Daniocell_data")
 
 library(dplyr)
 library(tidyverse)
 library(ggplot2)
 library(ggsci)
 library(paletteer)
+library(SeuratObject)
+library(Seurat)
 
 
 # UPDATE THESE PATHS TO REFLECT WHERE YOU HAVE PUT THE FILES:
@@ -29,7 +31,7 @@ daniocell.annot <- daniocell.annot[,c("tissue", "identity.super", "identity.sub"
 daniocell@meta.data <- cbind(daniocell@meta.data, daniocell.annot[daniocell@meta.data$cluster,])
 
 ###############################################################################
-############################## Daniocell dataset ############################## ###############################
+############################## Daniocell dataset ############################## 
 
 
 ################################## isolation of gene-specific data ############
@@ -75,7 +77,7 @@ gene_data <- gene_data[!is.na(gene_data$tissue),]
 nrow(gene_data)
 # [1] 8343
 
-library(dplyr)
+# suppress the scientific notation
 options(scipen=999)
 
 
@@ -102,29 +104,16 @@ gene_expression_summary <- gene_data |>
   summarise(counts_sum = round(sum(counts_norm), 2) ) |> 
   arrange(tissue, stage, .by_group = TRUE)
 
-################################## read the data from a data frame ###########
-curr_folder = getwd()
+# sorting by the sum of expression values
+gene_expression_summary <- gene_expression_summary %>%
+  group_by(tissue) %>%
+  mutate(Total_sum = sum(counts_sum)) %>%
+  arrange(desc(Total_sum))
 
-counts_df_name <- paste0(curr_folder, "/Daniocell_dataset/single_genes_dfs/", "daniocell_", gene, "_count_sums.csv")
-stored_counts_df <- read.csv(counts_df_name)
+# adjusting tissue levels
+gene_expression_summary$tissue <- factor(gene_expression_summary$tissue, 
+                              levels = unique(gene_expression_summary.$tissue))
 
-stored_counts_df_long <- pivot_longer(stored_counts_df, cols = colnames(stored_counts_df)[2:ncol(stored_counts_df)],
-                                      names_to = "tissue", values_to = "counts_sum")
-
-stored_counts_df_long <- stored_counts_df_long[stored_counts_df_long$counts_sum > 0, ]
-
-
-stored_counts_df_long <- stored_counts_df_long |> 
-  group_by(tissue, stage)  |> 
-  arrange(tissue, stage, .by_group = TRUE)
-
-res <- stored_counts_df_long$counts_sum - gene_expression_summary$counts_sum
-# all are 0
-
-
-# c:\Bioinformatics\00_Daniocell_data/Daniocell_dataset/single_genes_cell_counts/
-
-###############################################################################
 
 
 ############################### Visualization of the data ####################
@@ -133,11 +122,12 @@ res <- stored_counts_df_long$counts_sum - gene_expression_summary$counts_sum
 # redefine gene name if the official symbol is too weird
 # gene <- "kmt2ca"
 
-# subset tissues as required
-gene_expression_summary <- gene_expression_summary[gene_expression_summary$tissue %in% c("endoderm", "eye", "glial", "mesenchyme", 
-                                                                                  "neural", "olfactory", "otic", "paraxial mesoderm", 
-                                                                                         "periderm", "pgc", "pronephros", "spinal cord"),]
+# # subset tissues as required
+# gene_expression_summary <- gene_expression_summary[gene_expression_summary$tissue %in% c("endoderm", "eye", "glial", "mesenchyme", 
+#                                                                                   "neural", "olfactory", "otic", "paraxial mesoderm", 
+#                                                                                          "periderm", "pgc", "pronephros", "spinal cord"),]
 
+# sqrt-scaled plot
 ggplot(gene_expression_summary, aes(x = stage, y = counts_sum, fill = stage)) +
   geom_col() +
   scale_y_sqrt(breaks = c(0, 50, 100,200, 500, 1000, 1200)) +
@@ -159,6 +149,8 @@ ggplot(gene_expression_summary, aes(x = stage, y = counts_sum, fill = stage)) +
 
 ggsave(paste0(gene, "_counts-sum-normalized_plot_sqrt.png"), height = 12, width = 15)
 
+
+# linear plot
 ggplot(gene_expression_summary, aes(x = stage, y = counts_sum, fill = stage)) +
   geom_col() +
   scale_y_continuous(breaks = c(0, 100,200, 500, 1000, 1200)) +
@@ -192,10 +184,10 @@ ggsave(paste0(gene, "_counts-sum-normalized_plot_linear.png"), height = 12, widt
 stage_cell_nums <- table(daniocell@meta.data$stage.group)
 stage_cell_factors <- as.vector(stage_cell_nums/41326)
 
-stage_cell_factors_df <- data.frame(stage = c("  3-4","  5-6","  7-9"," 10-12", " 14-21", " 24-34", " 36-46", " 48-58", " 60-70", " 72-82", " 84-94", " 96-106", "108-118", "120"),
-                                    size_factors = stage_cell_factors)
+stage_cell_factors_df <- data.frame(stage = c("  3-4","  5-6","  7-9"," 10-12", " 14-21", " 24-34", 
+                " 36-46", " 48-58", " 60-70", " 72-82", " 84-94", " 96-106", "108-118", "120"), size_factors = stage_cell_factors)
 
-##################### cell counts per tissue and stage
+##################### cell counts per tissue and stage #######################
 
 # tissue level aggregation
 gene_counts <- gene_data |> 
@@ -209,13 +201,23 @@ gene_counts <- inner_join(gene_counts , stage_cell_factors_df, by = "stage")
 # adjust the counts by size factors
 gene_counts$counts_norm <- gene_counts$cell_count/gene_counts$size_factors
 
+
+# sorting by the sum of expression values
+gene_counts <- gene_counts %>%
+  group_by(tissue) %>%
+  mutate(Total_sum = sum(counts_norm)) %>%
+  arrange(desc(Total_sum))
+
+
 # subset the tissues or lineages as required
-gene_counts <- gene_counts[gene_counts$tissue %in% c("endoderm", "eye", "glial", "mesenchyme", 
-                                                    "neural", "olfactory", "otic", "paraxial mesoderm", 
-                                                    "periderm", "pgc", "pronephros", "spinal cord"),]
+# gene_counts <- gene_counts[gene_counts$tissue %in% c("endoderm", "eye", "glial", "mesenchyme", 
+#                                                     "neural", "olfactory", "otic", "paraxial mesoderm", 
+#                                                     "periderm", "pgc", "pronephros", "spinal cord"),]
 
 
 ############################### Visualization of the data ####################
+
+# linear data plot
 ggplot(gene_counts, aes(x = stage, y = counts_norm, fill = stage)) +
   geom_col() +
   scale_y_continuous(breaks = c(0,100, 200, 400, 600, 700))+
