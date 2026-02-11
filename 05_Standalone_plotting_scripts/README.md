@@ -17,6 +17,7 @@ The next steps are performed separately for count-sum and cell-counts data:
 8. Plot the data in the square-root and linear scales for count-sum data and linear-only for the cell-counts data.
 
 **Scripts:**
+
 The scripts can be viewed and downloaded using the links below:
 * [Daniocell script](https://github.com/SergeyPry/scTEVAz/tree/main/05_Standalone_plotting_scripts/daniocell_visualize_gene.R)
 * [ZCL script](https://github.com/SergeyPry/scTEVAz/tree/main/05_Standalone_plotting_scripts/ZCL_visualize_gene.R)
