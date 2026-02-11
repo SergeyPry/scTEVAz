@@ -9,7 +9,8 @@ The scripts provided in this folder visualize the data in Daniocell, Zebrafish C
 3. Converting the expression data to count-like data.
 4. Removing cells without known tissue, cell type or lineage assignment.
 
-The next steps are performed separately for count-sum and cell-counts data 
+The next steps are performed separately for count-sum and cell-counts data:
+
 5. Normalize the data by the size factors of the stages.
 6. Aggregate the data at the levels of tissue, cell type or lineage.
 7. Sort the data by the sum of expression values.
