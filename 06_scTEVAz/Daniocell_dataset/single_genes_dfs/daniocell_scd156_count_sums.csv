@@ -1,4 +1,4 @@
-stage,erythrocytes,eye,glial,immune,mesenchyme,mural.cell,neural,otic,pronephros,spinal.cord,vasculature
+stage,erythrocytes,eye,glial,immune,mesenchyme,mural_cell,neural,otic,pronephros,spinal_cord,vasculature
  14-21,1.45,0,0,17.29,0,0,0,0,0,0,0
  24-34,0,0,0,26.76,0.7,0,2.9,0,0,2.21,0
  36-46,13.46,0,0,53.21,0,0,0,0,0,0,0

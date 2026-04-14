@@ -1,4 +1,4 @@
-stage,epidermis,eye,gut,immune,neural,periderm,pronephros,vasculature,visceral.smooth.muscle
+stage,epidermis,eye,gut,immune,neural,periderm,pronephros,vasculature,visceral_smooth_muscle
  10-12,0,0,0,0,12.69,0,0,0,0
  24-34,0,0,0,0,0,0.76,0,0,0
  48-58,0,0.59,0,0,0.94,0,0,0,0

@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,immune,lateral.line,mesenchyme,mucous,neural,notochord,otic,periderm,spinal.cord
+stage,blastomeres,epidermis,eye,glial,immune,lateral_line,mesenchyme,mucous,neural,notochord,otic,periderm,spinal_cord
   3-4,0,0,0,0,0,0,0,0,0,0,0,11.98,0
   7-9,0,0,0,0,0,0,0,0,3.85,0,0,0,0
  10-12,7.35,0,0,0,0,0,0,0,0,0,0,0,0

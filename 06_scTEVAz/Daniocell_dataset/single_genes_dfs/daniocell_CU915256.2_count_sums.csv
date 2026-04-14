@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,fin.epithelia,glial,heart,immune,melanocytes,mesenchyme,mural.cell,muscle,neural,pronephros,spinal.cord,vascular.smooth.muscle,vasculature
+stage,blastomeres,endoderm,epidermis,eye,fin_epithelia,glial,heart,immune,melanocytes,mesenchyme,mural_cell,muscle,neural,pronephros,spinal_cord,vascular_smooth_muscle,vasculature
   5-6,6.91,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,2.84,0.82,0,0,0,0,0,1.93,0,0,1.09,0,0,0,0
  24-34,0,0,0,1.84,0,0,1.24,0,0,0.91,0,0,2.81,0,3.55,0,0

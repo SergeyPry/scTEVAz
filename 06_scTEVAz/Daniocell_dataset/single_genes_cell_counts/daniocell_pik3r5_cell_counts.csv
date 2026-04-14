@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,erythrocytes,exocrine.pancreas,eye,fin.epithelia,glial,gut,immune,ionocyte,liver,mesenchyme,mucous,muscle,neural,notochord,olfactory,otic,spinal.cord,vasculature
+stage,axial,blastomeres,endoderm,epidermis,erythrocytes,exocrine_pancreas,eye,fin_epithelia,glial,gut,immune,ionocyte,liver,mesenchyme,mucous,muscle,neural,notochord,olfactory,otic,spinal_cord,vasculature
   3-4,13.18,395.34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,12.26,55.17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.63,0,0,0,0,0

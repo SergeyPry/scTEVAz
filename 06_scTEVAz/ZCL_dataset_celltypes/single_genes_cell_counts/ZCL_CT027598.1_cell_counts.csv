@@ -1,5 +1,5 @@
-stage,Cardiomyocyte,Endothelial.cell,Enterocyte,Epithelial.cell,Erythrocyte..Liver.,Goblet.cell,Granulocyte,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Keratinocyte,Mesenchymal.cell,Mt.rich.cell,Muscle.cell,Neural.cell,Neural.progenitor.cell,Oligodendrocyte,Oocyte,Pancreatic.cell
-72hpf,0,0,0,0,0,0,0,0,0,0,0,0,0.281848056003223,0,0,0,0,0,0
-21Day,0.369986860264282,0,0,0.369986860264282,0,0,0,5.91978976422852,0,0.369986860264282,0,0,0,0,0.369986860264282,0.369986860264282,0,0,0.739973720528564
-3Month,0,0,0,0,0,0,0,0.312051019934018,0,0,0,0,0,0,0,0,0,0,0
-22Month,0.136649431988133,0.273298863976266,0.273298863976266,0.956546023916932,0.136649431988133,0.136649431988133,0.273298863976266,120.251500149557,0.546597727952532,0.683247159940666,0.136649431988133,0.819896591928799,1.77644261584573,0.273298863976266,0,0,0.136649431988133,0.136649431988133,0
+stage,Cardiomyocyte,Endothelial_cell,Enterocyte,Epithelial_cell,Erythrocyte__Liver_,Goblet_cell,Granulocyte,Hepatocyte,Immune_cell,Intestinal_bulb_cell,Keratinocyte,Mesenchymal_cell,Mt_rich_cell,Muscle_cell,Neural_cell,Neural_progenitor_cell,Oligodendrocyte,Oocyte,Pancreatic_cell
+72hpf,0,0,0,0,0,0,0,0,0,0,0,0,0.28,0,0,0,0,0,0
+21Day,0.37,0,0,0.37,0,0,0,5.92,0,0.37,0,0,0,0,0.37,0.37,0,0,0.74
+3Month,0,0,0,0,0,0,0,0.31,0,0,0,0,0,0,0,0,0,0,0
+22Month,0.14,0.27,0.27,0.96,0.14,0.14,0.27,120.25,0.55,0.68,0.14,0.82,1.78,0.27,0,0,0.14,0.14,0

@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Goblet.cell,Hepatocyte,Intestinal.bulb.cell,Mesenchymal.cell,Primordial.germ.cell,Spermatocyte
-24hpf,0,0,0,0,4.08640457285017,0,0
-3Month,0.319949299554195,0,0.959847898662586,0.639898599108391,0,0.959847898662586,0.319949299554195
-22Month,0,1.09330930239487,7.10651046556663,1.6399639535923,0,0,0
+stage,Epithelial_cell,Goblet_cell,Hepatocyte,Intestinal_bulb_cell,Mesenchymal_cell,Primordial_germ_cell,Spermatocyte
+24hpf,0,0,0,0,4.09,0,0
+3Month,0.32,0,0.96,0.64,0,0.96,0.32
+22Month,0,1.09,7.11,1.64,0,0,0

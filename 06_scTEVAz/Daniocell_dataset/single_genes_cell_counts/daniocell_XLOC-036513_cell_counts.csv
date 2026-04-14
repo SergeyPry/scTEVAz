@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,fast.muscle,glial,heart,immune,iridophores,mesenchyme,mural.cell,muscle,neural,paraxial.mesoderm,slow.muscle,somites,spinal.cord,vasculature,visceral.smooth.muscle
+stage,blastomeres,epidermis,erythrocytes,eye,fast_muscle,glial,heart,immune,iridophores,mesenchyme,mural_cell,muscle,neural,paraxial_mesoderm,slow_muscle,somites,spinal_cord,vasculature,visceral_smooth_muscle
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,5.26,2.63,0,0,0,0,0

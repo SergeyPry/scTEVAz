@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Erythrocyte,Hepatocyte,Macrophage,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Oligodendrocyte,Radial.glia
-72hpf,0,0,0,0,0,1.97293639202256,1.69108833601934,0,0.563696112006446
-21Day,0.369986860264282,0.369986860264282,0,0,0,2.21992116158569,0,0.369986860264282,0
-3Month,0,0,0.312051019934018,0.208034013289345,0.104017006644673,0,0,0,0
+stage,Epithelial_cell,Erythrocyte,Hepatocyte,Macrophage,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Oligodendrocyte,Radial_glia
+72hpf,0,0,0,0,0,1.97,1.69,0,0.56
+21Day,0.37,0.37,0,0,0,2.22,0,0.37,0
+3Month,0,0,0.31,0.21,0.1,0,0,0,0

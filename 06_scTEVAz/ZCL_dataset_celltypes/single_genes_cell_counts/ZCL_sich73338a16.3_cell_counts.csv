@@ -1,5 +1,5 @@
-stage,Enterocyte,Epithelial.cell,Goblet.cell,Hepatocyte,Ionocyte,Macrophage,Mesenchymal.cell,Nephron.cell,Neural.cell,Neural.progenitor.cell,Osteoblast,Primordial.germ.cell,Retinal.pigment.epithelial.cell,Spermatocyte,T.cell
+stage,Enterocyte,Epithelial_cell,Goblet_cell,Hepatocyte,Ionocyte,Macrophage,Mesenchymal_cell,Nephron_cell,Neural_cell,Neural_progenitor_cell,Osteoblast,Primordial_germ_cell,Retinal_pigment_epithelial_cell,Spermatocyte,T_cell
 24hpf,0,1,0,0,1,0,0,0,0,3,0,0,0,0,0
-72hpf,0,0,0,0,0,0,0.281848056003223,6.20065723207091,0.281848056003223,0,0,0,0.281848056003223,0,0
-21Day,1.84993430132141,0,0.369986860264282,0,0,0,0.369986860264282,1.84993430132141,0,0.369986860264282,0.369986860264282,0,0,0,0
-3Month,1.56025509967009,0.104017006644673,0,0.208034013289345,0.104017006644673,0.208034013289345,0,5.40888434552298,0,0,0,0.832136053157381,0,0.624102039868036,0.104017006644673
+72hpf,0,0,0,0,0,0,0.28,6.2,0.28,0,0,0,0.28,0,0
+21Day,1.85,0,0.37,0,0,0,0.37,1.85,0,0.37,0.37,0,0,0,0
+3Month,1.56,0.1,0,0.21,0.1,0.21,0,5.41,0,0,0,0.83,0,0.62,0.1

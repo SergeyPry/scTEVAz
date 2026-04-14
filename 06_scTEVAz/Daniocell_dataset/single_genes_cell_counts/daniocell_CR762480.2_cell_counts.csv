@@ -1,4 +1,4 @@
-stage,erythrocytes,eye,fin.epithelia,glial,heart,mesenchyme,mural.cell,muscle,neural,olfactory,periderm,somites,spinal.cord,vasculature
+stage,erythrocytes,eye,fin_epithelia,glial,heart,mesenchyme,mural_cell,muscle,neural,olfactory,periderm,somites,spinal_cord,vasculature
  10-12,0,0,0,0,0,0,0,0,3.15,0,0,0,0,0
  14-21,1,0,0,0,0,3,0,1,2,0,0,1,0,0
  24-34,0,0,0,0,0.82,6.57,0,3.28,0.82,0,0,0,0.82,0.82

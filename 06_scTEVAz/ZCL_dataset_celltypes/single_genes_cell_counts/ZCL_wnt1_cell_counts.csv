@@ -1,4 +1,4 @@
-stage,Keratinocyte,Neural.cell,Neural.progenitor.cell,Radial.glia
+stage,Keratinocyte,Neural_cell,Neural_progenitor_cell,Radial_glia
 24hpf,0,0,3,0
-72hpf,0.281848056003223,0,1.12739222401289,0
-21Day,0,0.369986860264282,0.369986860264282,0.369986860264282
+72hpf,0.28,0,1.13,0
+21Day,0,0.37,0.37,0.37

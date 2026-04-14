@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,glial,gut,iridophores,lateral.line,mesenchyme,neural,otic,periderm,pronephros,spinal.cord
+stage,epidermis,eye,fin_epithelia,glial,gut,iridophores,lateral_line,mesenchyme,neural,otic,periderm,pronephros,spinal_cord
  14-21,0,0,0,0,0,0,0,0,0,0,0,1,1
  24-34,0,0,0,0.82,0,0,0,0.82,0.82,0,0,0,0
  36-46,0,4.03,0,0,0,0,0,0,2.42,0,0,0,0

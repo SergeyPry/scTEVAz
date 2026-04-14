@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,endoderm,epidermis,erythrocytes,eye,fin.epithelia,glial,gut,lateral.line,liver,melanocytes,mesenchyme,neural,olfactory,otic,paraxial.mesoderm,pronephros,somites,spinal.cord,taste,xanthophores
+stage,endocrine_pancreas,endoderm,epidermis,erythrocytes,eye,fin_epithelia,glial,gut,lateral_line,liver,melanocytes,mesenchyme,neural,olfactory,otic,paraxial_mesoderm,pronephros,somites,spinal_cord,taste,xanthophores
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,5.62,0,0,3.81,0,0,0,0,0
  10-12,0,4.47,0,0,0,0,0,0,0,0,0,0,52.01,0,0,3.34,0,0,0,0,0
  14-21,0,0,0.81,0.92,0,0,201.75,0,0,0,0,0,91.72,0,2.44,0.87,15.2,1.1,323.21,0,0

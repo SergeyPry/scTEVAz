@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,epidermis,eye,fin.epithelia,gut,iridophores,mesenchyme,mural.cell,muscle,neural,pericytes,spinal.cord
+stage,blastomeres,endocrine_pancreas,epidermis,eye,fin_epithelia,gut,iridophores,mesenchyme,mural_cell,muscle,neural,pericytes,spinal_cord
   3-4,16.95,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0.81,0,0,0,0,0,0,1.42,0,0.98
  24-34,0,1.26,0,0,0,0,0,0,0,0,9.59,0,0

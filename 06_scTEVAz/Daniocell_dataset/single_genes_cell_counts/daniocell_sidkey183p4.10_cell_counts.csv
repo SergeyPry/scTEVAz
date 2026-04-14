@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,glial,heart,immune,mesenchyme,neural,otic,slow.muscle,spinal.cord,vasculature
+stage,epidermis,erythrocytes,eye,glial,heart,immune,mesenchyme,neural,otic,slow_muscle,spinal_cord,vasculature
   7-9,0,0,0,0,0,0,0,2.63,0,0,0,0
  10-12,0,0,0,0,0,0,0,3.15,0,0,0,0
  14-21,0,1,0,0,0,0,0,2,7,0,3,0

@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Hepatocyte,Primordial.germ.cell,Radial.glia,Spermatocyte,T.cell
-21Day,0.369986860264282,0,0,0,0,0
-3Month,0,0.208034013289345,0.624102039868036,0.104017006644673,0.624102039868036,0.312051019934018
-22Month,0,0.409948295964399,0,0,0,0
+stage,Epithelial_cell,Hepatocyte,Primordial_germ_cell,Radial_glia,Spermatocyte,T_cell
+21Day,0.37,0,0,0,0,0
+3Month,0,0.21,0.62,0.1,0.62,0.31
+22Month,0,0.41,0,0,0,0

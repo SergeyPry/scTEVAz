@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,exocrine.pancreas,eye,fin.mesenchyme,lateral.line,mesenchyme,mucous,mural.cell,neural,periderm,somites,spinal.cord,vasculature,visceral.smooth.muscle
+stage,blastomeres,epidermis,exocrine_pancreas,eye,fin_mesenchyme,lateral_line,mesenchyme,mucous,mural_cell,neural,periderm,somites,spinal_cord,vasculature,visceral_smooth_muscle
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,2.63,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0

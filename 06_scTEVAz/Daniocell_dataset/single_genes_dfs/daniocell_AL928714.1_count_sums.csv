@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,erythrocytes,exocrine.pancreas,eye,fast.muscle,glial,gut,hatching.gland,immune,liver,mesenchyme,mucous,muscle,neural,otic,paraxial.mesoderm,periderm,presomitic.mesoderm,somites,spinal.cord,xanthophores
+stage,axial,blastomeres,epidermis,erythrocytes,exocrine_pancreas,eye,fast_muscle,glial,gut,hatching_gland,immune,liver,mesenchyme,mucous,muscle,neural,otic,paraxial_mesoderm,periderm,presomitic_mesoderm,somites,spinal_cord,xanthophores
   3-4,9.79,25.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,0,237.41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,5.24,0,0,0,0,7.42,0,0,0,8.77,0,0,0,0,0,24,0,33.2,0,0,0,0,0

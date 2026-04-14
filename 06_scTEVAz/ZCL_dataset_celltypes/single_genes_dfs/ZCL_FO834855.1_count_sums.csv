@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Epithelial.cell,Erythrocyte,Hepatocyte,Mesenchymal.cell,Muscle.cell,Neural.cell,Oocyte,Osteoblast,Retinal.cell,Retinal.cone.cell
-72hpf,0,1.06979114146608,0,0,1.06979114146608,0,19.2562405463894,0,4.27916456586431,3.20937342439823,2.13958228293216
-21Day,1.33853308820331,5.35413235281323,1.33853308820331,0,6.69266544101654,1.33853308820331,0,0,1.33853308820331,2.67706617640661,28.1091948522695
-22Month,0,0,0,1.09330930239487,0,0,0,0.546654651197433,0,0,0
+stage,Cardiomyocyte,Epithelial_cell,Erythrocyte,Hepatocyte,Mesenchymal_cell,Muscle_cell,Neural_cell,Oocyte,Osteoblast,Retinal_cell,Retinal_cone_cell
+72hpf,0,1.07,0,0,1.07,0,19.26,0,4.28,3.21,2.14
+21Day,1.34,5.35,1.34,0,6.69,1.34,0,0,1.34,2.68,28.11
+22Month,0,0,0,1.09,0,0,0,0.55,0,0,0

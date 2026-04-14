@@ -1,4 +1,4 @@
-stage,Hepatocyte,Mesenchymal.cell,Mt.rich.cell,Neural.cell,Primordial.germ.cell
-21Day,0,0,0,14.7238639702364,0
-3Month,0,0,0,4.15934089420454,0.319949299554195
-22Month,1.6399639535923,0.546654651197433,0.546654651197433,0,0
+stage,Hepatocyte,Mesenchymal_cell,Mt_rich_cell,Neural_cell,Primordial_germ_cell
+21Day,0,0,0,14.72,0
+3Month,0,0,0,4.16,0.32
+22Month,1.64,0.55,0.55,0,0

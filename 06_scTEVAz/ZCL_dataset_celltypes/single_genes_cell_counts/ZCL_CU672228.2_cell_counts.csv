@@ -1,3 +1,3 @@
-stage,Epithelial.cell,Intestinal.bulb.cell,Macrophage,Nephron.cell,Neural.progenitor.cell,Primordial.germ.cell,T.cell
+stage,Epithelial_cell,Intestinal_bulb_cell,Macrophage,Nephron_cell,Neural_progenitor_cell,Primordial_germ_cell,T_cell
 24hpf,2,0,0,0,1,0,0
-3Month,0.104017006644673,0.104017006644673,0.104017006644673,0.312051019934018,0,0.104017006644673,0.416068026578691
+3Month,0.1,0.1,0.1,0.31,0,0.1,0.42

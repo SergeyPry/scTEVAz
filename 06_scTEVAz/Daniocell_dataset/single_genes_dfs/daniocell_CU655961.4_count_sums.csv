@@ -1,4 +1,4 @@
-stage,blastomeres,eye,glial,immune,mesenchyme,mural.cell,muscle,neural,notochord,otic,periderm,presomitic.mesoderm,pronephros,somites,spinal.cord,taste,vasculature
+stage,blastomeres,eye,glial,immune,mesenchyme,mural_cell,muscle,neural,notochord,otic,periderm,presomitic_mesoderm,pronephros,somites,spinal_cord,taste,vasculature
   3-4,648.33,0,0,0,0,0,0,0,0,0,20.95,0,0,0,0,0,0
   5-6,136.29,0,0,0,0,0,0,0,0,0,14.25,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,5.94,0,0,0,0,0,0,0,0,0

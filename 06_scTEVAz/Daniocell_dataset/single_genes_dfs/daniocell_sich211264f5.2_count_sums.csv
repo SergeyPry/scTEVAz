@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,erythrocytes,eye,immune,liver,mesenchyme,muscle,neural,paraxial.mesoderm,pronephros,vascular.smooth.muscle,vasculature
+stage,axial,blastomeres,epidermis,erythrocytes,eye,immune,liver,mesenchyme,muscle,neural,paraxial_mesoderm,pronephros,vascular_smooth_muscle,vasculature
   3-4,0,93.84,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,18.66,9.53,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,3.77,0,0,0,0,7.55,3.25,0,0,0

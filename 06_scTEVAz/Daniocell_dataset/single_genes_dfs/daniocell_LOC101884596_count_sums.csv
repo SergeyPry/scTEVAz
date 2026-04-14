@@ -1,4 +1,4 @@
-stage,erythrocytes,eye,immune,mesenchyme,muscle,neural,somites,spinal.cord,vasculature
+stage,erythrocytes,eye,immune,mesenchyme,muscle,neural,somites,spinal_cord,vasculature
  14-21,0,0,0,0,0,0.81,4.78,0,0
  24-34,0,0,0,0,0,0,0,0.74,0
  36-46,0,0,0,0,0,5,0,0,0

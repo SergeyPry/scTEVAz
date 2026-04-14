@@ -1,4 +1,4 @@
-stage,erythrocytes,eye,immune,ionocyte,liver,mesenchyme,muscle,neural,presomitic.mesoderm,spinal.cord,vasculature,visceral.smooth.muscle
+stage,erythrocytes,eye,immune,ionocyte,liver,mesenchyme,muscle,neural,presomitic_mesoderm,spinal_cord,vasculature,visceral_smooth_muscle
   7-9,0,0,0,0,0,0,0,2.63,0,0,0,0
  10-12,0,0,0,0,0,0,0,6.29,0,0,0,0
  14-21,1,0,0,0,0,2,1,4,1,0,2,0

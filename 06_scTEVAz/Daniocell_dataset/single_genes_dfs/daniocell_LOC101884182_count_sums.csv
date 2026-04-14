@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.epithelia,fin.mesenchyme,glial,gut,lateral.line,melanocytes,mesenchyme,mural.cell,muscle,neural,otic,paraxial.mesoderm,pericytes,periderm,presomitic.mesoderm,pronephros,spinal.cord
+stage,epidermis,erythrocytes,eye,fin_epithelia,fin_mesenchyme,glial,gut,lateral_line,melanocytes,mesenchyme,mural_cell,muscle,neural,otic,paraxial_mesoderm,pericytes,periderm,presomitic_mesoderm,pronephros,spinal_cord
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12.84,0,0,0,3.39,0
  14-21,0,0,0,0,0,0,1,0,0,0,0,0,1.24,0,0.89,0,0,0.83,0,1.41
  24-34,0,1.22,0.69,0,0,0,0,0,1.29,2.95,0,1.3,16.68,0,0,0,0,0,0,2.51

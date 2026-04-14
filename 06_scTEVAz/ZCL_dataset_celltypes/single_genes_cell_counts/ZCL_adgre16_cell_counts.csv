@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Ionocyte,Neural.cell,Primordial.germ.cell,Spermatocyte
-72hpf,0,0,0.281848056003223,0,0
-21Day,1.47994744105713,0,0.369986860264282,0,0
-3Month,0.416068026578691,0.104017006644673,0,0.832136053157381,0.312051019934018
+stage,Epithelial_cell,Ionocyte,Neural_cell,Primordial_germ_cell,Spermatocyte
+72hpf,0,0,0.28,0,0
+21Day,1.48,0,0.37,0,0
+3Month,0.42,0.1,0,0.83,0.31

@@ -1,6 +1,6 @@
-stage,Epithelial.cell,Erythroid.progenitor.cell,Hepatocyte,Ionocyte,Keratinocyte,Macrophage,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Osteoblast
+stage,Epithelial_cell,Erythroid_progenitor_cell,Hepatocyte,Ionocyte,Keratinocyte,Macrophage,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Osteoblast
 24hpf,0,0,0,0,1,1,1,0,17,0
-72hpf,0,0,0,0.281848056003223,0.563696112006446,0,0,0.84554416800967,1.69108833601934,0.563696112006446
-21Day,0.739973720528564,0,0,0,0.739973720528564,0,0.369986860264282,0,0,0
-3Month,0.104017006644673,0.104017006644673,0,0,0,0,0,0,0,0
-22Month,0,0,0.273298863976266,0,0,0,0,0,0,0
+72hpf,0,0,0,0.28,0.56,0,0,0.85,1.69,0.56
+21Day,0.74,0,0,0,0.74,0,0.37,0,0,0
+3Month,0.1,0.1,0,0,0,0,0,0,0,0
+22Month,0,0,0.27,0,0,0,0,0,0,0

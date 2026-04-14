@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.mesenchyme,glial,immune,melanocytes,mesenchyme,neural,periderm,somites,spinal.cord,vasculature,xanthophores
+stage,blastomeres,epidermis,eye,fin_mesenchyme,glial,immune,melanocytes,mesenchyme,neural,periderm,somites,spinal_cord,vasculature,xanthophores
   3-4,39.53,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,3,0,0,0
  24-34,0,0.82,0,0,0,0,0.82,0,0.82,0.82,0,0,0,0

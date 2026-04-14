@@ -1,3 +1,3 @@
-stage,Epithelial.cell,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Ionocyte,Macrophage,Neural.progenitor.cell,Primordial.germ.cell,Smooth.muscle.cell,Spermatocyte
-21Day,0,0,0,0,0,0,0.369986860264282,0,0,0
-3Month,0.208034013289345,0.832136053157381,0.104017006644673,0.104017006644673,0.104017006644673,0.208034013289345,0,0.104017006644673,0.104017006644673,5.40888434552298
+stage,Epithelial_cell,Hepatocyte,Immune_cell,Intestinal_bulb_cell,Ionocyte,Macrophage,Neural_progenitor_cell,Primordial_germ_cell,Smooth_muscle_cell,Spermatocyte
+21Day,0,0,0,0,0,0,0.37,0,0,0
+3Month,0.21,0.83,0.1,0.1,0.1,0.21,0,0.1,0.1,5.41

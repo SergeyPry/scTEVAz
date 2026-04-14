@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.epithelia,glial,mesenchyme,mural.cell,muscle,neural,paraxial.mesoderm,periderm,spinal.cord,vasculature
+stage,epidermis,erythrocytes,eye,fin_epithelia,glial,mesenchyme,mural_cell,muscle,neural,paraxial_mesoderm,periderm,spinal_cord,vasculature
  10-12,0,0,0,0,0,0,0,0,0,7.37,0,0,0
  14-21,1.15,0,0,0,0,0,0,0,0,0,0,0,0
  24-34,0,0,0.6,0,0,0,0,1.31,0,0,0.82,0,0

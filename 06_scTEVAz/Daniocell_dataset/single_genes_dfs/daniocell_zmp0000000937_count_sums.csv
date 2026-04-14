@@ -1,4 +1,4 @@
-stage,blastomeres,eye,fast.muscle,fin.epithelia,glial,gut,immune,liver,mesenchyme,mural.cell,neural,olfactory,otic,spinal.cord
+stage,blastomeres,eye,fast_muscle,fin_epithelia,glial,gut,immune,liver,mesenchyme,mural_cell,neural,olfactory,otic,spinal_cord
   3-4,20.64,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,0,1.01
  24-34,0,0,0,0,0,0,0,0,0.98,0,7.44,0,0,1.13

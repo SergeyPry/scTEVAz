@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Epithelial.cell,Epithelial.cell..Brain.,Granulosa.cell,Hepatocyte,Immune.progenitor.cell,Mesenchymal.cell,Muscle.cell,Neural.cell,Neural.progenitor.cell,Neurosecretory.cell,Osteoblast,Pancreatic.cell,Radial.glia,Retinal.cell,Retinal.cone.cell,T.cell
-72hpf,0,0,0,0,0,0,0,0,4.50956889605157,0.281848056003223,0.281848056003223,0.281848056003223,0,0,0,0,0
-21Day,0.369986860264282,0.369986860264282,0.739973720528564,0,0,0.369986860264282,0.739973720528564,1.47994744105713,2.95989488211426,0.369986860264282,0.739973720528564,0,0.739973720528564,0,0.369986860264282,0.369986860264282,0.369986860264282
-22Month,0,0.136649431988133,0,0.273298863976266,0.136649431988133,0,0.136649431988133,0,0,0,0,0,0,0.136649431988133,0,0,0
+stage,Cardiomyocyte,Epithelial_cell,Epithelial_cell__Brain_,Granulosa_cell,Hepatocyte,Immune_progenitor_cell,Mesenchymal_cell,Muscle_cell,Neural_cell,Neural_progenitor_cell,Neurosecretory_cell,Osteoblast,Pancreatic_cell,Radial_glia,Retinal_cell,Retinal_cone_cell,T_cell
+72hpf,0,0,0,0,0,0,0,0,4.51,0.28,0.28,0.28,0,0,0,0,0
+21Day,0.37,0.37,0.74,0,0,0.37,0.74,1.48,2.96,0.37,0.74,0,0.74,0,0.37,0.37,0.37
+22Month,0,0.14,0,0.27,0.14,0,0.14,0,0,0,0,0,0,0.14,0,0,0

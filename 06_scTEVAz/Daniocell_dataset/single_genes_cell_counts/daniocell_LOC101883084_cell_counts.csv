@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,glial,gut,ionocyte,lateral.line,mesenchyme,mucous,neural,notochord,olfactory,periderm,spinal.cord,taste
+stage,epidermis,eye,fin_epithelia,glial,gut,ionocyte,lateral_line,mesenchyme,mucous,neural,notochord,olfactory,periderm,spinal_cord,taste
  14-21,0,0,0,0,0,0,0,1,0,0,1,0,9,0,0
  24-34,0.82,0,0,0,0,0,0,0,0,1.64,0,0.82,25.45,0,0
  36-46,0,0,0,0.81,0,0,0,0,0,0,0,0,39.48,1.61,0

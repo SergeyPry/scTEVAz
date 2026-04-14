@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,glial,ionocyte,liver,melanocytes,mesenchyme,mural.cell,muscle,neural,periderm,presomitic.mesoderm,pronephros,slow.muscle,spinal.cord
+stage,epidermis,eye,fin_epithelia,glial,ionocyte,liver,melanocytes,mesenchyme,mural_cell,muscle,neural,periderm,presomitic_mesoderm,pronephros,slow_muscle,spinal_cord
  14-21,1.27,0,0,1.22,0,0,0,0,0,0,2.44,0,0.89,0.81,0,0
  24-34,0,1.91,0,0,0,0,0,1.28,0,0,10.07,0,0,0,0,1.23
  36-46,0.58,2.89,0,0,0,0,0,0,0,0,6.74,0,0,0,0,7.48

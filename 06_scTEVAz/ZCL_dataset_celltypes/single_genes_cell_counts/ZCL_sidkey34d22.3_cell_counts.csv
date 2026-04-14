@@ -1,4 +1,4 @@
-stage,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Retinal.pigment.epithelial.cell
+stage,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Retinal_pigment_epithelial_cell
 24hpf,0,0,1,0
-72hpf,0.281848056003223,0.563696112006446,0.281848056003223,0.281848056003223
-21Day,0,0,0.369986860264282,0
+72hpf,0.28,0.56,0.28,0.28
+21Day,0,0,0.37,0

@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,mesenchyme,muscle,neural,otic,periderm,somites,spinal.cord
+stage,blastomeres,epidermis,eye,glial,mesenchyme,muscle,neural,otic,periderm,somites,spinal_cord
   3-4,91.82,0,0,0,0,0,0,0,0,0,0
   5-6,13.66,0,0,0,0,0,0,0,8.52,0,0
   7-9,0,0,7.31,0,0,0,27.71,0,0,0,0

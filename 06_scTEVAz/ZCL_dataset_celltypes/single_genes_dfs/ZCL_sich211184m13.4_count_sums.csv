@@ -1,5 +1,5 @@
-stage,Epithelial.cell,Hepatocyte,Immune.progenitor.cell,Macrophage,Neural.progenitor.cell,T.cell
-24hpf,0,0,0,4.08640457285017,0,0
-72hpf,0,0,0,0,1.06979114146608,0
-21Day,0,1.33853308820331,8.03119852921984,0,0,4.01559926460992
-3Month,0.319949299554195,0.319949299554195,0,0,0,1.27979719821678
+stage,Epithelial_cell,Hepatocyte,Immune_progenitor_cell,Macrophage,Neural_progenitor_cell,T_cell
+24hpf,0,0,0,4.09,0,0
+72hpf,0,0,0,0,1.07,0
+21Day,0,1.34,8.03,0,0,4.02
+3Month,0.32,0.32,0,0,0,1.28

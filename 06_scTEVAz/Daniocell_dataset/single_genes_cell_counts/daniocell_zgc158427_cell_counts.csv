@@ -1,4 +1,4 @@
-stage,blastomeres,fin.epithelia,gut,mesenchyme,periderm,pronephros,taste
+stage,blastomeres,fin_epithelia,gut,mesenchyme,periderm,pronephros,taste
   3-4,13.18,0,0,0,0,0,0
  24-34,0,0,0,0.82,0,0.82,0
  36-46,0,0,0,0,1.61,0,0

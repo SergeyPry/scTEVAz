@@ -1,4 +1,4 @@
-stage,erythrocytes,eye,heart,mesenchyme,neural,notochord,spinal.cord,vasculature
+stage,erythrocytes,eye,heart,mesenchyme,neural,notochord,spinal_cord,vasculature
  14-21,2.03,0,0,0,0,0,0.99,0
  24-34,0,0.61,0,0.72,0,1.23,5.48,1.77
  36-46,0,0,0,0,4.05,0,0.74,0.87

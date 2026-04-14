@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,fast.muscle,fin.epithelia,glial,hatching.gland,ionocyte,iridophores,lateral.line,mesenchyme,mural.cell,neural,paraxial.mesoderm,pericytes,periderm,presomitic.mesoderm,slow.muscle,somites,spinal.cord,vasculature
+stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,fast_muscle,fin_epithelia,glial,hatching_gland,ionocyte,iridophores,lateral_line,mesenchyme,mural_cell,neural,paraxial_mesoderm,pericytes,periderm,presomitic_mesoderm,slow_muscle,somites,spinal_cord,vasculature
   5-6,0,36.78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,7.89,0,2.63,0,0,0,0,0,0,2.63,0,0,0,0,0,15.77,5.26,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,3.15,0,0,0,0,0,0,0,0,0,18.88,12.59,0,0,0,0,0,0,0

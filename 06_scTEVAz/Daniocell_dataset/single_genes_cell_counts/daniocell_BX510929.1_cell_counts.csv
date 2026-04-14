@@ -1,4 +1,4 @@
-stage,exocrine.pancreas,eye,fast.muscle,glial,melanocytes,mesenchyme,muscle,neural,olfactory,somites,spinal.cord,taste
+stage,exocrine_pancreas,eye,fast_muscle,glial,melanocytes,mesenchyme,muscle,neural,olfactory,somites,spinal_cord,taste
   7-9,0,0,0,0,0,0,0,2.63,0,0,0,0
  10-12,0,0,0,0,0,0,0,9.44,0,0,0,0
  14-21,0,0,0,0,0,0,0,3,0,2,1,0

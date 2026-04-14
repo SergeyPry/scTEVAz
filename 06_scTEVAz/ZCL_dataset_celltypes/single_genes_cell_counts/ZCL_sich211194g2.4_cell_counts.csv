@@ -1,5 +1,5 @@
-stage,Epithelial.cell,Hepatocyte,Neural.cell
+stage,Epithelial_cell,Hepatocyte,Neural_cell
 24hpf,3,0,0
-72hpf,0.84554416800967,0,0
-21Day,0,0,0.369986860264282
-22Month,0,0.409948295964399,0
+72hpf,0.85,0,0
+21Day,0,0,0.37
+22Month,0,0.41,0

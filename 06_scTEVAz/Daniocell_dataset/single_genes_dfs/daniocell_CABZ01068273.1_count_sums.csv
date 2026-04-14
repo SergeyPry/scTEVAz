@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,gut,immune,lateral.line,liver,mesenchyme,muscle,neural,notochord,olfactory,otic,periderm,presomitic.mesoderm,somites,spinal.cord,vasculature,xanthophores
+stage,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,gut,immune,lateral_line,liver,mesenchyme,muscle,neural,notochord,olfactory,otic,periderm,presomitic_mesoderm,somites,spinal_cord,vasculature,xanthophores
   7-9,0,0,0,0,0,0,0,0,0,0,0,7.62,3.26,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,9.02,0,0,0,0,0,0,0,0,0
  14-21,0.83,1.72,1.16,0,3.56,0,0,0,0,0,0,7.49,0,0,0,1.66,2.62,0,2.29,0.92,0

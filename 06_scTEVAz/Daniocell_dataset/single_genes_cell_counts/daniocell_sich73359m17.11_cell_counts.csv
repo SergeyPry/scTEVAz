@@ -1,4 +1,4 @@
-stage,eye,fin.mesenchyme,glial,heart,lateral.line,mesenchyme,mural.cell,muscle,neural,notochord,olfactory,periderm,spinal.cord,vasculature
+stage,eye,fin_mesenchyme,glial,heart,lateral_line,mesenchyme,mural_cell,muscle,neural,notochord,olfactory,periderm,spinal_cord,vasculature
  24-34,0.82,0,0.82,0,0.82,0,0,0,4.1,0,0.82,0,0.82,0.82
  36-46,2.42,0,0.81,0,0,0,0,0,5.64,0,0,0,0,0
  48-58,2.87,0,0,0,0,1.15,0,0.57,5.16,0,0,0,0.57,0

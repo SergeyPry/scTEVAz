@@ -1,4 +1,4 @@
-stage,axial,epidermis,eye,fast.muscle,mesenchyme,mural.cell,muscle,neural,spinal.cord,vascular.smooth.muscle
+stage,axial,epidermis,eye,fast_muscle,mesenchyme,mural_cell,muscle,neural,spinal_cord,vascular_smooth_muscle
   7-9,3.98,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,1.23,0,0
  24-34,0,0,0,0,0.85,0,1.3,2.07,0,0

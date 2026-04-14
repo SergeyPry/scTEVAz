@@ -1,4 +1,4 @@
-stage,epidermis,exocrine.pancreas,eye,ionocyte,mesenchyme,neural,olfactory,otic,periderm,spinal.cord
+stage,epidermis,exocrine_pancreas,eye,ionocyte,mesenchyme,neural,olfactory,otic,periderm,spinal_cord
  14-21,0,0,0,0,0,2.37,0,0,0,0
  24-34,0,0,0,0,0,2.33,0.99,0,0,2.26
  36-46,0,0,0,0,0,2.24,0,0,0.89,0

@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,fin.epithelia,gut,hatching.gland,immune,ionocyte,lateral.line,mesenchyme,mucous,neural,otic,paraxial.mesoderm,periderm,presomitic.mesoderm,somites,vasculature
+stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,fin_epithelia,gut,hatching_gland,immune,ionocyte,lateral_line,mesenchyme,mucous,neural,otic,paraxial_mesoderm,periderm,presomitic_mesoderm,somites,vasculature
   3-4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13.18,0,0,0
   5-6,6.13,79.69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12.26,0,0,0
   7-9,0,0,13.14,0,0,2.63,0,0,5.26,0,0,0,0,0,31.54,0,2.63,0,0,0,0

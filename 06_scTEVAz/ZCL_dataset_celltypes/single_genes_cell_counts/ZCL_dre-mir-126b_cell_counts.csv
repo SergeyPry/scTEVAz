@@ -1,5 +1,5 @@
-stage,Cardiomyocyte,Endothelial.cell,Epithelial.cell,Erythrocyte,Immune.cell,Intestinal.bulb.cell,Neural.cell,Neural.progenitor.cell,Smooth.muscle.cell
+stage,Cardiomyocyte,Endothelial_cell,Epithelial_cell,Erythrocyte,Immune_cell,Intestinal_bulb_cell,Neural_cell,Neural_progenitor_cell,Smooth_muscle_cell
 24hpf,1,19,1,0,0,0,0,1,0
-72hpf,0,2.25478444802579,0,0,0,0,0,0,0
-21Day,0,1.84993430132141,0,0.369986860264282,0,0,0.369986860264282,0,0
-3Month,0,0.312051019934018,0,0,0.104017006644673,0.104017006644673,0,0,0.312051019934018
+72hpf,0,2.25,0,0,0,0,0,0,0
+21Day,0,1.85,0,0.37,0,0,0.37,0,0
+3Month,0,0.31,0,0,0.1,0.1,0,0,0.31

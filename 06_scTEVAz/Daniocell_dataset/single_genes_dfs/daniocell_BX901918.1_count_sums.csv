@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,eye,fin.epithelia,glial,mesenchyme,mural.cell,muscle,neural,otic,paraxial.mesoderm,spinal.cord
+stage,blastomeres,endoderm,eye,fin_epithelia,glial,mesenchyme,mural_cell,muscle,neural,otic,paraxial_mesoderm,spinal_cord
   3-4,18.22,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,4.77,0,0,0,0,0,0,5.66,0,4.57,0
  10-12,5.04,8.04,8.88,0,0,0,0,0,59.2,0,14.13,0

@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Epithelial.cell,Epithelial.cell..Brain.,Erythrocyte,Granulosa.cell,Hatching.gland,Hepatocyte,Intestinal.bulb.cell,Macrophage,Mesenchymal.cell,Mt.rich.cell,Neural.progenitor.cell
+stage,Cardiomyocyte,Epithelial_cell,Epithelial_cell__Brain_,Erythrocyte,Granulosa_cell,Hatching_gland,Hepatocyte,Intestinal_bulb_cell,Macrophage,Mesenchymal_cell,Mt_rich_cell,Neural_progenitor_cell
 24hpf,1,0,1,1,0,1,0,0,0,1,0,2
-21Day,0.369986860264282,1.47994744105713,0,0,0,0,0,0,0.369986860264282,0.369986860264282,0,0
-22Month,0,0.136649431988133,0,0,0.273298863976266,0,1.09319545590506,0.136649431988133,0.136649431988133,0.136649431988133,0.136649431988133,0
+21Day,0.37,1.48,0,0,0,0,0,0,0.37,0.37,0,0
+22Month,0,0.14,0,0,0.27,0,1.09,0.14,0.14,0.14,0.14,0

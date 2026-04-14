@@ -1,4 +1,4 @@
-stage,eye,fin.epithelia,mesenchyme,muscle,neural,otic,spinal.cord
+stage,eye,fin_epithelia,mesenchyme,muscle,neural,otic,spinal_cord
  24-34,0,0,0.82,0,0.82,0.82,1.64
  36-46,0,0,0,0,0.81,0,0.81
  48-58,1.15,0,1.15,0,2.3,0.57,0

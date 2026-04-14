@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,fin.epithelia,immune,mesenchyme,mucous,muscle,neural,notochord,olfactory,otic,periderm,presomitic.mesoderm,taste,vascular.smooth.muscle,vasculature
+stage,blastomeres,epidermis,erythrocytes,eye,fin_epithelia,immune,mesenchyme,mucous,muscle,neural,notochord,olfactory,otic,periderm,presomitic_mesoderm,taste,vascular_smooth_muscle,vasculature
   3-4,15.68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,10.09,0,0,0,0,0,0,0,0

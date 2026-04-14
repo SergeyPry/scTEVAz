@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Goblet.cell,Hepatocyte,Intestinal.bulb.cell,Keratinocyte,Neural.cell,Osteoblast
-72hpf,0,0,0,0,0.281848056003223,0.563696112006446,0
-21Day,1.84993430132141,0,0,0,1.10996058079285,0,0.369986860264282
-22Month,0,0.136649431988133,0.136649431988133,0.136649431988133,0,0,0
+stage,Epithelial_cell,Goblet_cell,Hepatocyte,Intestinal_bulb_cell,Keratinocyte,Neural_cell,Osteoblast
+72hpf,0,0,0,0,0.28,0.56,0
+21Day,1.85,0,0,0,1.11,0,0.37
+22Month,0,0.14,0.14,0.14,0,0,0

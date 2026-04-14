@@ -1,4 +1,4 @@
-stage,eye,fin.epithelia,glial,melanocytes,mesenchyme,mural.cell,neural
+stage,eye,fin_epithelia,glial,melanocytes,mesenchyme,mural_cell,neural
  72-82,0,0,1.44,0,0,1.19,2.3
  84-94,0,0,0,0,0.74,0,4.68
  96-106,0,0,0,0,0,0,2.41

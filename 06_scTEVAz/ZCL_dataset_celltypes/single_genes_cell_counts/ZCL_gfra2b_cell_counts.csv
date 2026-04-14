@@ -1,4 +1,4 @@
-stage,Hepatocyte,Keratinocyte,Neural.cell,Radial.glia
-72hpf,0,0.281848056003223,1.40924028001612,0
-21Day,0,0,1.47994744105713,0
-22Month,0.546597727952532,0,0,0.273298863976266
+stage,Hepatocyte,Keratinocyte,Neural_cell,Radial_glia
+72hpf,0,0.28,1.41,0
+21Day,0,0,1.48,0
+22Month,0.55,0,0,0.27

@@ -1,4 +1,4 @@
-stage,epidermis,eye,immune,ionocyte,lateral.line,mesenchyme,mucous,neural,periderm,spinal.cord,vasculature
+stage,epidermis,eye,immune,ionocyte,lateral_line,mesenchyme,mucous,neural,periderm,spinal_cord,vasculature
  14-21,1.72,0,0,0,0,0,0,0,0,0,1.86
  24-34,0,0,0,0,0,0.66,0,0,0.59,0,0
  36-46,0,0,0,0,0,0,0,5.59,0,5.14,0

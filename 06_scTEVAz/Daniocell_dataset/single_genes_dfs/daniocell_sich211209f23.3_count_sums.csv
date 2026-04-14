@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,glial,immune,iridophores,mesenchyme,mucous,mural.cell,neural,periderm,pronephros,spinal.cord,vasculature
+stage,epidermis,erythrocytes,eye,glial,immune,iridophores,mesenchyme,mucous,mural_cell,neural,periderm,pronephros,spinal_cord,vasculature
   7-9,0,0,8.99,0,0,0,0,0,0,4.69,0,0,0,0
  14-21,0.92,5.29,0,0,0,0,0,0,0,2.55,0.89,0,2.62,15.1
  24-34,0,0.79,0,0,0,0,2.03,0.69,0,29,0.71,0,8.95,17.48

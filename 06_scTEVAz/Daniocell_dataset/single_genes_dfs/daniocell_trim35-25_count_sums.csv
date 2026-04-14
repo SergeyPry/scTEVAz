@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,gut,mesenchyme,muscle,neural,otic,periderm,spinal.cord
+stage,blastomeres,epidermis,gut,mesenchyme,muscle,neural,otic,periderm,spinal_cord
   3-4,13,0,0,0,0,0,0,0,0
  14-21,0,0.86,0,0,0,0,0,0,1.15
  24-34,0,0,0,0.92,1.03,2.39,0,0,0.85

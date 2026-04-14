@@ -1,4 +1,4 @@
-stage,Immune.cell,Immune.progenitor.cell,Intestinal.bulb.cell,Macrophage,Neural.progenitor.cell,T.cell
+stage,Immune_cell,Immune_progenitor_cell,Intestinal_bulb_cell,Macrophage,Neural_progenitor_cell,T_cell
 24hpf,0,0,0,0,1,0
-21Day,0,1.84993430132141,0,0,0,0.369986860264282
-3Month,0.104017006644673,0,0.208034013289345,0.104017006644673,0,0.104017006644673
+21Day,0,1.85,0,0,0,0.37
+3Month,0.1,0,0.21,0.1,0,0.1

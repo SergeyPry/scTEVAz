@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,heart,immune,ionocyte,lateral.line,melanocytes,mesenchyme,neural,olfactory,otic,spinal.cord
+stage,epidermis,eye,glial,heart,immune,ionocyte,lateral_line,melanocytes,mesenchyme,neural,olfactory,otic,spinal_cord
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,0.84
  24-34,0,0,0,0,0,0,0,0,1.25,5.98,0,0,2.81
  36-46,0,0,0,1.84,0,0,0,0,0,1.89,0,0,0.57

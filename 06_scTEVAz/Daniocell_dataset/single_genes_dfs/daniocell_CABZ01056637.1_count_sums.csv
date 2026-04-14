@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,mesenchyme,muscle,neural,olfactory,otic,periderm,spinal.cord,vasculature,xanthophores
+stage,epidermis,eye,glial,mesenchyme,muscle,neural,olfactory,otic,periderm,spinal_cord,vasculature,xanthophores
  14-21,0,0,0,0,0,0.97,0,0,0,0,0,0
  24-34,0,0,0,0,0.91,6.26,0,0.73,0,0,0,0
  36-46,0,1.07,1.69,1.29,0,3.95,0.78,0,0,4.18,0,0

@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,mesenchyme,muscle,neural,olfactory,otic,periderm,pronephros,spinal.cord,vascular.smooth.muscle
+stage,epidermis,eye,glial,mesenchyme,muscle,neural,olfactory,otic,periderm,pronephros,spinal_cord,vascular_smooth_muscle
  14-21,0,0,2.8,0,0,9.18,0,0,0,0.89,7.25,0
  24-34,0,0,0,0,0,0,0,4.88,0.7,0,2.71,0
  36-46,0,0.92,1.09,0,0,0,0,0,0,0.72,5.84,0

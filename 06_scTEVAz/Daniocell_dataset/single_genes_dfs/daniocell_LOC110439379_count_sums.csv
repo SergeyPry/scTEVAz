@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,exocrine.pancreas,eye,glial,immune,melanocytes,mesenchyme,mucous,muscle,neural,notochord,olfactory,otic,presomitic.mesoderm,spinal.cord,vasculature
+stage,blastomeres,epidermis,erythrocytes,exocrine_pancreas,eye,glial,immune,melanocytes,mesenchyme,mucous,muscle,neural,notochord,olfactory,otic,presomitic_mesoderm,spinal_cord,vasculature
   7-9,0,0,0,0,0,0,0,0,0,0,0,5.15,0,0,0,0,0,0
  10-12,5.3,0,0,0,0,0,0,0,0,0,0,5.72,0,0,0,0,0,0
  14-21,0,0,0,0,0.83,0,0,0,0.93,0,0,5.32,0.87,0,0,0.95,0.92,0.85

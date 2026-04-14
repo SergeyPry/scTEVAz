@@ -1,5 +1,5 @@
-stage,Erythrocyte,Hepatocyte,Immune.progenitor.cell,Ionocyte,Keratinocyte,Neural.cell,Neural.progenitor.cell,Radial.glia
+stage,Erythrocyte,Hepatocyte,Immune_progenitor_cell,Ionocyte,Keratinocyte,Neural_cell,Neural_progenitor_cell,Radial_glia
 24hpf,0,0,0,0,0,0,124,0
-72hpf,0,0,0,0.281848056003223,0.563696112006446,1.40924028001612,7.89174556809025,10.7102261281225
-21Day,0.369986860264282,0.369986860264282,0.369986860264282,0,0,0.369986860264282,11.0996058079285,6.65976348475708
-22Month,0,0.409948295964399,0,0,0,0,0,0
+72hpf,0,0,0,0.28,0.56,1.41,7.89,10.71
+21Day,0.37,0.37,0.37,0,0,0.37,11.1,6.66
+22Month,0,0.41,0,0,0,0,0,0

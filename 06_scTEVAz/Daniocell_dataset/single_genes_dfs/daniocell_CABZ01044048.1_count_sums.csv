@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,exocrine.pancreas,eye,glial,gut,heart,iridophores,liver,mesenchyme,muscle,neural,paraxial.mesoderm,periderm,spinal.cord
+stage,blastomeres,endocrine_pancreas,exocrine_pancreas,eye,glial,gut,heart,iridophores,liver,mesenchyme,muscle,neural,paraxial_mesoderm,periderm,spinal_cord
   3-4,15.41,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,4.96,3.96,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.1

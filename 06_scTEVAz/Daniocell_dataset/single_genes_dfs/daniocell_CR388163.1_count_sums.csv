@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,glial,heart,immune,ionocyte,iridophores,lateral.line,mesenchyme,muscle,neural,notochord,otic,periderm,presomitic.mesoderm,somites,spinal.cord,vasculature,visceral.smooth.muscle
+stage,endoderm,epidermis,eye,glial,heart,immune,ionocyte,iridophores,lateral_line,mesenchyme,muscle,neural,notochord,otic,periderm,presomitic_mesoderm,somites,spinal_cord,vasculature,visceral_smooth_muscle
   7-9,0,0,0,0,0,0,0,0,0,0,0,5.94,0,0,0,0,0,0,0,0
  10-12,0,0,3.98,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,1.23,0,0,0,0,0,0,0,1.39,0,5.46,0,0,0,0.83,0.98,1.05,0,0

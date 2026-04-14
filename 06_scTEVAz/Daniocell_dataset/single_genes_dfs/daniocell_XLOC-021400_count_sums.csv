@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,glial,immune,ionocyte,mesenchyme,mural.cell,muscle,neural,notochord,olfactory,otic,pronephros,spinal.cord,taste,vasculature
+stage,blastomeres,epidermis,erythrocytes,eye,glial,immune,ionocyte,mesenchyme,mural_cell,muscle,neural,notochord,olfactory,otic,pronephros,spinal_cord,taste,vasculature
   3-4,42.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,7.81,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,12.83,0,0,0,0,0,0,0

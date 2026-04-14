@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,fin.mesenchyme,mesenchyme,muscle,neural,notochord,spinal.cord,vasculature
+stage,endoderm,epidermis,eye,fin_mesenchyme,mesenchyme,muscle,neural,notochord,spinal_cord,vasculature
   7-9,0,0,0,0,0,0,2.63,0,0,0
  14-21,0,0,0,0,0,0,0,1,1,0
  24-34,0.82,0.82,0,0,0,0,0,0.82,0,0

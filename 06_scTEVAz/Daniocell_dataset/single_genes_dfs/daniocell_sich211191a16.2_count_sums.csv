@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,erythrocytes,eye,fin.epithelia,glial,gut,ionocyte,iridophores,liver,mesenchyme,mucous,muscle,neural,olfactory,otic,pericytes,periderm,spinal.cord,taste,vascular.smooth.muscle,vasculature,visceral.smooth.muscle
+stage,blastomeres,endoderm,epidermis,erythrocytes,eye,fin_epithelia,glial,gut,ionocyte,iridophores,liver,mesenchyme,mucous,muscle,neural,olfactory,otic,pericytes,periderm,spinal_cord,taste,vascular_smooth_muscle,vasculature,visceral_smooth_muscle
   3-4,15.35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8.85,0,0,0,0,0,0,0,0,0
  10-12,0,16.53,0,0,0,0,0,0,0,0,0,0,0,0,17.7,0,0,0,0,0,0,0,0,0

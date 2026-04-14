@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,erythrocytes,eye,fast.muscle,fin.mesenchyme,glial,immune,ionocyte,iridophores,liver,mesenchyme,mucous,mural.cell,muscle,neural,periderm,presomitic.mesoderm,somites,spinal.cord,vascular.smooth.muscle,vasculature,visceral.smooth.muscle,xanthophores
+stage,axial,blastomeres,epidermis,erythrocytes,eye,fast_muscle,fin_mesenchyme,glial,immune,ionocyte,iridophores,liver,mesenchyme,mucous,mural_cell,muscle,neural,periderm,presomitic_mesoderm,somites,spinal_cord,vascular_smooth_muscle,vasculature,visceral_smooth_muscle,xanthophores
   3-4,0,78.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,8.5,52.74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43.27,14.69,0,0,0,0,0,0,0

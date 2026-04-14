@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Hepatocyte,Intestinal.bulb.cell,Keratinocyte,Nephron.cell
-72hpf,0,0,0,0.281848056003223,0
-21Day,0,0,0,1.47994744105713,0
-22Month,0.136649431988133,0.273298863976266,0.136649431988133,0,0.136649431988133
+stage,Epithelial_cell,Hepatocyte,Intestinal_bulb_cell,Keratinocyte,Nephron_cell
+72hpf,0,0,0,0.28,0
+21Day,0,0,0,1.48,0
+22Month,0.14,0.27,0.14,0,0.14

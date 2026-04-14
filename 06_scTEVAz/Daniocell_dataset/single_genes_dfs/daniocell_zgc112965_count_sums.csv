@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,eye,fast.muscle,muscle,neural,paraxial.mesoderm,somites,xanthophores
+stage,blastomeres,endoderm,eye,fast_muscle,muscle,neural,paraxial_mesoderm,somites,xanthophores
   3-4,10.23,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,3.14,0,0
  14-21,0,0,0,0,0,0,0,0.98,0

@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,fin.epithelia,glial,immune,mesenchyme,muscle,neural,otic,periderm,spinal.cord,vasculature
+stage,blastomeres,epidermis,erythrocytes,eye,fin_epithelia,glial,immune,mesenchyme,muscle,neural,otic,periderm,spinal_cord,vasculature
   3-4,28.83,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,18,0,0,0,0
  10-12,9.89,0,0,0,0,0,0,0,0,0,0,0,0,0

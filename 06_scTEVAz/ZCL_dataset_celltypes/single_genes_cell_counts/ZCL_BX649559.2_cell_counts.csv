@@ -1,5 +1,5 @@
-stage,Epithelial.cell,Erythrocyte,Granulocyte,Hepatocyte,Immune.cell,Immune.progenitor.cell,Intestinal.bulb.cell,Keratinocyte,Macrophage,Mesenchymal.cell,Neural.cell,Primordial.germ.cell,Retinal.pigment.epithelial.cell
+stage,Epithelial_cell,Erythrocyte,Granulocyte,Hepatocyte,Immune_cell,Immune_progenitor_cell,Intestinal_bulb_cell,Keratinocyte,Macrophage,Mesenchymal_cell,Neural_cell,Primordial_germ_cell,Retinal_pigment_epithelial_cell
 24hpf,0,0,0,0,0,0,0,0,1,0,0,0,0
-21Day,0.369986860264282,0.369986860264282,0,0,0,0,0,0,0,0,0.739973720528564,0,0
-3Month,0.104017006644673,0,0,0.312051019934018,0.104017006644673,0.104017006644673,0,0.104017006644673,0,0,0,0.104017006644673,0
-22Month,0.136649431988133,0,0.136649431988133,2.049741479822,0.136649431988133,0.136649431988133,0.273298863976266,0,0.136649431988133,0.136649431988133,0,0,0.136649431988133
+21Day,0.37,0.37,0,0,0,0,0,0,0,0,0.74,0,0
+3Month,0.1,0,0,0.31,0.1,0.1,0,0.1,0,0,0,0.1,0
+22Month,0.14,0,0.14,2.05,0.14,0.14,0.27,0,0.14,0.14,0,0,0.14

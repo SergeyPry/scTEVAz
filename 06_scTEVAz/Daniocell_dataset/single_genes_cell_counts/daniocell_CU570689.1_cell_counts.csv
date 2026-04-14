@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,ionocyte,liver,mesenchyme,neural,otic,paraxial.mesoderm,pronephros,spinal.cord,vasculature
+stage,blastomeres,epidermis,eye,ionocyte,liver,mesenchyme,neural,otic,paraxial_mesoderm,pronephros,spinal_cord,vasculature
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,2.63,0,0,0,2.63,0,2.63,0,0,0
  10-12,0,0,3.15,0,0,0,3.15,0,3.15,0,0,0

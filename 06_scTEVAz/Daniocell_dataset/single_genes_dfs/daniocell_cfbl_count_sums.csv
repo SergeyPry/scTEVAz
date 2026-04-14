@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,exocrine.pancreas,eye,glial,gut,immune,ionocyte,iridophores,lateral.line,liver,melanocytes,mesenchyme,mucous,muscle,neural,otic,periderm,pronephros,spinal.cord,taste,vasculature
+stage,epidermis,erythrocytes,exocrine_pancreas,eye,glial,gut,immune,ionocyte,iridophores,lateral_line,liver,melanocytes,mesenchyme,mucous,muscle,neural,otic,periderm,pronephros,spinal_cord,taste,vasculature
  14-21,0,0,0,0,0,0,4.73,0,0,0,0,0,0,0,0,0,0,0,0.89,0,0,0
  24-34,0,0.81,0,0,0,0,56.66,0.6,0,0,0,0,0,0,0.84,0,3.36,0,0,0,0,0
  36-46,0,0,0,2.29,0,0,173.53,0,0,0,0,0,0,0,0.58,0.87,0,0,0,1.83,0,1.62

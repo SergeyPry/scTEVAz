@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,exocrine.pancreas,eye,fin.mesenchyme,glial,gut,heart,iridophores,melanocytes,mesenchyme,mucous,mural.cell,muscle,neural,olfactory,otic,spinal.cord,vasculature
+stage,epidermis,erythrocytes,exocrine_pancreas,eye,fin_mesenchyme,glial,gut,heart,iridophores,melanocytes,mesenchyme,mucous,mural_cell,muscle,neural,olfactory,otic,spinal_cord,vasculature
  14-21,2,0,0,2,0,0,0,0,0,0,1,0,0,0,9,0,0,4,0
  24-34,0,0,0,0.82,0,1.64,0,0,0,0,0.82,0,0,0.82,10.67,0,0,2.46,0.82
  36-46,0.81,0,0,2.42,0,0.81,0,0,0,0,0,0,0,0.81,11.28,0.81,0,3.22,0

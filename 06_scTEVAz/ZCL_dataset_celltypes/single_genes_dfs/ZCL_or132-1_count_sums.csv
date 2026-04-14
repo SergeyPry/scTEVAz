@@ -1,5 +1,5 @@
-stage,Epithelial.cell,Erythrocyte..Liver.,Hepatocyte,Immune.cell,Immune.progenitor.cell,Intestinal.bulb.cell,Keratinocyte,Neural.cell,Neural.progenitor.cell
-24hpf,0,0,0,0,0,0,0,0,4.08640457285017
-72hpf,0,0,0,0,0,0,0,1.06979114146608,0
-3Month,0.319949299554195,0,0.319949299554195,0.319949299554195,0,0.319949299554195,0.319949299554195,1.59974649777098,0
-22Month,0,0.546654651197433,1.6399639535923,0,0.546654651197433,0,0.546654651197433,0,0
+stage,Epithelial_cell,Erythrocyte__Liver_,Hepatocyte,Immune_cell,Immune_progenitor_cell,Intestinal_bulb_cell,Keratinocyte,Neural_cell,Neural_progenitor_cell
+24hpf,0,0,0,0,0,0,0,0,4.09
+72hpf,0,0,0,0,0,0,0,1.07,0
+3Month,0.32,0,0.32,0.32,0,0.32,0.32,1.6,0
+22Month,0,0.55,1.64,0,0.55,0,0.55,0,0

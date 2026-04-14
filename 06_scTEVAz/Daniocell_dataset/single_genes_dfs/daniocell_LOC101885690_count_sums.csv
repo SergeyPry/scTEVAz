@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,glial,gut,heart,ionocyte,mesenchyme,mural.cell,neural,paraxial.mesoderm,pericytes,periderm,pronephros,spinal.cord,vasculature,visceral.smooth.muscle
+stage,epidermis,erythrocytes,eye,glial,gut,heart,ionocyte,mesenchyme,mural_cell,neural,paraxial_mesoderm,pericytes,periderm,pronephros,spinal_cord,vasculature,visceral_smooth_muscle
   7-9,0,0,0,0,0,0,0,0,0,3.21,3.68,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,16.08,0,0,0,6.14,0,0,0
  14-21,1.62,0,0,0,1.09,0,0,1.51,0,3.46,0,0,0,0,0.9,0,0

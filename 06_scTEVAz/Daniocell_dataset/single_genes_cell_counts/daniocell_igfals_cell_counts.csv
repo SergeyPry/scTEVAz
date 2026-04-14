@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,fin.mesenchyme,glial,gut,heart,liver,melanocytes,mesenchyme,mural.cell,muscle,neural,notochord,olfactory,otic,periderm,pronephros,slow.muscle,spinal.cord,vascular.smooth.muscle,vasculature,visceral.smooth.muscle
+stage,endoderm,epidermis,eye,fin_mesenchyme,glial,gut,heart,liver,melanocytes,mesenchyme,mural_cell,muscle,neural,notochord,olfactory,otic,periderm,pronephros,slow_muscle,spinal_cord,vascular_smooth_muscle,vasculature,visceral_smooth_muscle
  14-21,1,0,0,0,0,0,0,0,0,0,0,0,1,14,0,0,0,0,1,0,0,0,0
  24-34,0,0.82,0,0,0,0,0.82,0,0,0.82,0,1.64,0.82,0,0,0,0.82,0.82,0,1.64,0,0,0
  36-46,0,0,0.81,0,0,0,1.61,0,0.81,1.61,0.81,0,6.45,0,0,0,0,0,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,eye,glial,neural,periderm,somites,spinal.cord,vasculature
+stage,eye,glial,neural,periderm,somites,spinal_cord,vasculature
  14-21,0,0,1.11,0,1.85,0,0
  24-34,0,2.57,1,0,0,0,0.64
  36-46,1.04,0,1.75,0,0,0.83,0

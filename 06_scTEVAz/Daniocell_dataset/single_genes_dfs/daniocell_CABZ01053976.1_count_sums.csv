@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,erythrocytes,eye,fin.epithelia,fin.mesenchyme,glial,heart,lateral.line,mesenchyme,mural.cell,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,presomitic.mesoderm,slow.muscle,somites,spinal.cord,vasculature,xanthophores
+stage,endoderm,epidermis,erythrocytes,eye,fin_epithelia,fin_mesenchyme,glial,heart,lateral_line,mesenchyme,mural_cell,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,presomitic_mesoderm,slow_muscle,somites,spinal_cord,vasculature,xanthophores
   7-9,0,0,0,15.07,0,0,0,0,0,0,0,0,22.32,0,0,0,7.26,0,0,0,0,0,0
  10-12,6.16,0,0,0,0,0,0,0,0,0,0,0,21.94,9.41,0,0,0,0,0,0,0,0,0
  14-21,0,11.27,1.07,2.54,0,0,0,0,0,0,0,6,97.11,0.88,0,0,0,1.57,1.88,10.88,16.1,1.12,0

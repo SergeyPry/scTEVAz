@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,eye,fin.mesenchyme,glial,immune,iridophores,liver,mesenchyme,mural.cell,muscle,neural,olfactory,otic,periderm,spinal.cord,vasculature,xanthophores
+stage,axial,blastomeres,epidermis,eye,fin_mesenchyme,glial,immune,iridophores,liver,mesenchyme,mural_cell,muscle,neural,olfactory,otic,periderm,spinal_cord,vasculature,xanthophores
   3-4,0,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,12.26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,1,0,0,4,0,0,0,1,0,0

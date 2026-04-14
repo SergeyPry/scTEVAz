@@ -1,6 +1,6 @@
-stage,Endothelial.cell,Enterocyte,Epithelial.cell,Goblet.cell,Granulocyte,Granulosa.cell,Hepatocyte,Immune.progenitor.cell,Intestinal.bulb.cell,Keratinocyte,Macrophage,Mesenchymal.cell,Mt.rich.cell,Neural.cell,Neural.progenitor.cell,Osteoblast,Primordial.germ.cell,Radial.glia,Retinal.cell,Spermatocyte,T.cell
-24hpf,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.08640457285017,0,0,0,0,0,0
-72hpf,0,0,0,0,0,0,0,0,0,0,0,0,0,4.27916456586431,1.06979114146608,1.06979114146608,0,0,0,0,0
-21Day,0,0,0,0,0,0,0,0,0,0,0,0,0,1.33853308820331,1.33853308820331,0,0,0,0,0,0
-3Month,0,0,0,0,0,0,0.319949299554195,0,0.319949299554195,0,0,0,0,0,0,0,0.639898599108391,0,0,0.319949299554195,0
-22Month,0.546654651197433,0.546654651197433,4.37323720957947,0.546654651197433,2.18661860478973,3.2799279071846,26.2394232574768,0.546654651197433,8.74647441915893,1.09330930239487,1.09330930239487,0.546654651197433,3.82658255838203,0,0,0,0,1.09330930239487,0.546654651197433,0,1.6399639535923
+stage,Endothelial_cell,Enterocyte,Epithelial_cell,Goblet_cell,Granulocyte,Granulosa_cell,Hepatocyte,Immune_progenitor_cell,Intestinal_bulb_cell,Keratinocyte,Macrophage,Mesenchymal_cell,Mt_rich_cell,Neural_cell,Neural_progenitor_cell,Osteoblast,Primordial_germ_cell,Radial_glia,Retinal_cell,Spermatocyte,T_cell
+24hpf,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.09,0,0,0,0,0,0
+72hpf,0,0,0,0,0,0,0,0,0,0,0,0,0,4.28,1.07,1.07,0,0,0,0,0
+21Day,0,0,0,0,0,0,0,0,0,0,0,0,0,1.34,1.34,0,0,0,0,0,0
+3Month,0,0,0,0,0,0,0.32,0,0.32,0,0,0,0,0,0,0,0.64,0,0,0.32,0
+22Month,0.55,0.55,4.37,0.55,2.19,3.28,26.24,0.55,8.75,1.09,1.09,0.55,3.83,0,0,0,0,1.09,0.55,0,1.64

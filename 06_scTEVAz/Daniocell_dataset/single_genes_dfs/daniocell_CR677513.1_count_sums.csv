@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,eye,glial,mesenchyme,neural,otic,paraxial.mesoderm,periderm,somites,spinal.cord,vasculature
+stage,axial,blastomeres,epidermis,eye,glial,mesenchyme,neural,otic,paraxial_mesoderm,periderm,somites,spinal_cord,vasculature
   3-4,10.46,14.09,0,0,0,0,0,0,0,0,0,0,0
   5-6,0,27.51,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,23.32,0,3.94,0,0,0,0

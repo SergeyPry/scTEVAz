@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.mesenchyme,glial,lateral.line,melanocytes,mural.cell,neural,otic,periderm,somites,spinal.cord,taste,xanthophores
+stage,epidermis,erythrocytes,eye,fin_mesenchyme,glial,lateral_line,melanocytes,mural_cell,neural,otic,periderm,somites,spinal_cord,taste,xanthophores
  10-12,0,0,0,0,0,0,0,0,13.52,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,0.83,0,0,0
  24-34,0.82,0,0,0,0,0,0,0,2.36,1.32,0.93,0,0.81,0,0

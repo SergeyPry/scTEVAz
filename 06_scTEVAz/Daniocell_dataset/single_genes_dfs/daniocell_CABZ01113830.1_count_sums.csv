@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,glial,gut,immune,ionocyte,mesenchyme,mucous,muscle,neural,otic,periderm,pronephros,spinal.cord,taste,vasculature
+stage,epidermis,eye,fin_epithelia,glial,gut,immune,ionocyte,mesenchyme,mucous,muscle,neural,otic,periderm,pronephros,spinal_cord,taste,vasculature
  10-12,0,0,0,0,0,0,0,0,0,0,6.74,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,11.5,0,0,0,0
  24-34,0.6,0,0,0,0,0,0,11.92,0,0,1.34,0,91.67,0,0.97,0,0

@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.mesenchyme,glial,gut,heart,lateral.line,mesenchyme,muscle,neural,periderm,presomitic.mesoderm,pronephros,spinal.cord,vasculature
+stage,epidermis,eye,fin_mesenchyme,glial,gut,heart,lateral_line,mesenchyme,muscle,neural,periderm,presomitic_mesoderm,pronephros,spinal_cord,vasculature
   7-9,0,0,0,0,0,0,0,0,0,15.66,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,11.58,0,0,0,0,0
  14-21,4.84,0.97,0,0,0,0,0,1.56,0,6.91,0,1.6,0,1.08,0

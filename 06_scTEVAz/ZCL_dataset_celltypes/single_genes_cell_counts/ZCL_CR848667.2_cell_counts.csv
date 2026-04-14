@@ -1,4 +1,4 @@
-stage,Erythrocyte,Mesenchymal.cell,Neural.progenitor.cell
+stage,Erythrocyte,Mesenchymal_cell,Neural_progenitor_cell
 24hpf,0,1,2
-72hpf,0.563696112006446,0,0
-21Day,0,0.369986860264282,0
+72hpf,0.56,0,0
+21Day,0,0.37,0

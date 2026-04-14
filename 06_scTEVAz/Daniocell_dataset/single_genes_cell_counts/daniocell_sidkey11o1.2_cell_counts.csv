@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endocrine.pancreas,endoderm,eye,glial,gut,heart,ionocyte,mesenchyme,muscle,neural,paraxial.mesoderm,periderm,pronephros,spinal.cord,vasculature
+stage,axial,blastomeres,endocrine_pancreas,endoderm,eye,glial,gut,heart,ionocyte,mesenchyme,muscle,neural,paraxial_mesoderm,periderm,pronephros,spinal_cord,vasculature
   3-4,13.18,26.36,0,0,0,0,0,0,0,0,0,0,0,13.18,0,0,0
   5-6,6.13,73.56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,5.26,0,0,0,0,0,0,0,0,0,60.46,10.51,5.26,0,0,0

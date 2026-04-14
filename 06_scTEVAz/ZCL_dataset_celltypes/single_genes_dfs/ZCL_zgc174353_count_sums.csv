@@ -1,2 +1,2 @@
-stage,Epithelial.cell,Epithelial.cell..Brain.,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Keratinocyte,Mesenchymal.cell,Pancreatic.cell,Primordial.germ.cell,Spermatocyte,T.cell
-3Month,0.959847898662586,0.319949299554195,0.319949299554195,0.319949299554195,0.319949299554195,0.639898599108391,0.959847898662586,0.639898599108391,11.518174783951,31.6749806558653,0.639898599108391
+stage,Epithelial_cell,Epithelial_cell__Brain_,Hepatocyte,Immune_cell,Intestinal_bulb_cell,Keratinocyte,Mesenchymal_cell,Pancreatic_cell,Primordial_germ_cell,Spermatocyte,T_cell
+3Month,0.96,0.32,0.32,0.32,0.32,0.64,0.96,0.64,11.52,31.67,0.64

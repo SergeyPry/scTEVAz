@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,gut,mesenchyme,muscle,neural,notochord,olfactory,otic,periderm,pronephros,slow.muscle,spinal.cord
+stage,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,gut,mesenchyme,muscle,neural,notochord,olfactory,otic,periderm,pronephros,slow_muscle,spinal_cord
   7-9,0,2.63,0,0,0,0,0,0,2.63,0,0,0,0,0,0,0
  14-21,1,0,0,0,0,0,3,0,2,1,0,0,0,0,0,0
  24-34,0,1.64,0,0,0,0,0,0,4.93,0,1.64,0,0,0,0,0

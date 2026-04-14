@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,exocrine.pancreas,eye,glial,immune,ionocyte,mesenchyme,mural.cell,muscle,neural,notochord,olfactory,periderm,spinal.cord,xanthophores
+stage,blastomeres,epidermis,erythrocytes,exocrine_pancreas,eye,glial,immune,ionocyte,mesenchyme,mural_cell,muscle,neural,notochord,olfactory,periderm,spinal_cord,xanthophores
   3-4,65.89,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,18.39,0,0,0,0,0,0,0,0,0,0,6.13,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,5.26,0,0,0,0,0

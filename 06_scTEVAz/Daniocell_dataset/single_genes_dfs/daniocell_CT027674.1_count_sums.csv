@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,exocrine.pancreas,eye,fast.muscle,fin.mesenchyme,immune,lateral.line,liver,mesenchyme,mural.cell,muscle,neural,olfactory,otic,paraxial.mesoderm,periderm,slow.muscle,xanthophores
+stage,blastomeres,epidermis,exocrine_pancreas,eye,fast_muscle,fin_mesenchyme,immune,lateral_line,liver,mesenchyme,mural_cell,muscle,neural,olfactory,otic,paraxial_mesoderm,periderm,slow_muscle,xanthophores
   3-4,62.64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,31.92,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.23,0,0,0

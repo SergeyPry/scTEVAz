@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,erythrocytes,eye,fin.mesenchyme,glial,gut,immune,neural,notochord,paraxial.mesoderm,periderm,spinal.cord,xanthophores
+stage,axial,blastomeres,epidermis,erythrocytes,eye,fin_mesenchyme,glial,gut,immune,neural,notochord,paraxial_mesoderm,periderm,spinal_cord,xanthophores
   3-4,0,16.4,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.12,92.65,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,5.41,0,0,0,0,0,0,0,0,88.68,3.59,11.11,0,0,0

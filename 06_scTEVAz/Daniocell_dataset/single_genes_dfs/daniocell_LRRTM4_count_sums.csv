@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,ionocyte,iridophores,mesenchyme,mural.cell,muscle,neural,olfactory,otic,pericytes,periderm,pronephros,spinal.cord,taste,vasculature,visceral.smooth.muscle
+stage,axial,blastomeres,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,ionocyte,iridophores,mesenchyme,mural_cell,muscle,neural,olfactory,otic,pericytes,periderm,pronephros,spinal_cord,taste,vasculature,visceral_smooth_muscle
   3-4,11.48,157.79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,0,138.45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,6.82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

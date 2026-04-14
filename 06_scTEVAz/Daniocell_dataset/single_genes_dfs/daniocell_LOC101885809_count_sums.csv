@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,glial,immune,mesenchyme,muscle,neural,olfactory,otic,spinal.cord,vasculature,xanthophores
+stage,epidermis,eye,fast_muscle,glial,immune,mesenchyme,muscle,neural,olfactory,otic,spinal_cord,vasculature,xanthophores
   7-9,0,5.16,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,1.87,0,0,1.86,3.01,0
  24-34,0.65,0,0,0,0,1.77,0,4.39,0,0,0,0,0

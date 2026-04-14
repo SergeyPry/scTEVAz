@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,glial,gut,ionocyte,mesenchyme,neural,periderm,somites,spinal.cord
+stage,endocrine_pancreas,glial,gut,ionocyte,mesenchyme,neural,periderm,somites,spinal_cord
  14-21,0,0,0,1,0,0,0,10,0
  24-34,0,0,0,0,0,0,0,0,0.82
  48-58,0,0,0,0,0,0.57,0,0,0

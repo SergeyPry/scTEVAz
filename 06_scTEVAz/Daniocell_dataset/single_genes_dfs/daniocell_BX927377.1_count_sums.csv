@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,hatching.gland,mesenchyme,neural,paraxial.mesoderm,periderm,spinal.cord
+stage,blastomeres,endoderm,epidermis,eye,hatching_gland,mesenchyme,neural,paraxial_mesoderm,periderm,spinal_cord
   7-9,0,0,0,0,3.94,0,5.3,0,0,0
  10-12,8.79,4.52,0,0,0,0,4.6,4.58,0,0
  14-21,0,0,0,0,0,0,0,0,1,0

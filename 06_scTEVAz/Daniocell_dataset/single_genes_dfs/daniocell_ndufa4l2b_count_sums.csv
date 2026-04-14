@@ -1,4 +1,4 @@
-stage,eye,glial,neural,spinal.cord,vascular.smooth.muscle
+stage,eye,glial,neural,spinal_cord,vascular_smooth_muscle
  48-58,0.71,1.68,0.67,0.77,0
  60-70,0,1.59,0,0,0
  72-82,0.99,8.13,0,0,1.19

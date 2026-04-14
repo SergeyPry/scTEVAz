@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Ionocyte,Keratinocyte,Neural.progenitor.cell
+stage,Cardiomyocyte,Ionocyte,Keratinocyte,Neural_progenitor_cell
 24hpf,0,0,0,1
-72hpf,0,0.281848056003223,0,0
-21Day,0.369986860264282,0,0.369986860264282,0
+72hpf,0,0.28,0,0
+21Day,0.37,0,0.37,0

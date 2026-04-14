@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,glial,gut,liver,mesenchyme,muscle,neural,olfactory,pericytes,periderm,spinal.cord,taste
+stage,epidermis,eye,fin_epithelia,glial,gut,liver,mesenchyme,muscle,neural,olfactory,pericytes,periderm,spinal_cord,taste
   7-9,0,0,0,0,0,0,0,0,2.63,0,0,0,0,0
  14-21,0,0,0,0,0,0,1,0,1,0,0,0,1,0
  24-34,0.82,0.82,0,0,0,0,0,0,4.1,0,0,0,1.64,0

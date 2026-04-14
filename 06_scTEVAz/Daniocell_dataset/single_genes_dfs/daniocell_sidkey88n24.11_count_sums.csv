@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,exocrine.pancreas,eye,fin.mesenchyme,glial,gut,ionocyte,liver,melanocytes,mesenchyme,mucous,neural,olfactory,otic,periderm,somites,spinal.cord,vasculature,visceral.smooth.muscle
+stage,blastomeres,endoderm,epidermis,exocrine_pancreas,eye,fin_mesenchyme,glial,gut,ionocyte,liver,melanocytes,mesenchyme,mucous,neural,olfactory,otic,periderm,somites,spinal_cord,vasculature,visceral_smooth_muscle
   5-6,29.89,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,4.66,0,0,0,0,0,0,0
  14-21,0,10.36,0.94,0,0,0,0,0,3.76,0,0,0,0,1.67,0,0,25.25,1.08,0,0,0

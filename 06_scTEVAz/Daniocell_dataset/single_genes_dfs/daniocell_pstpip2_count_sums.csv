@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endocrine.pancreas,endoderm,epidermis,erythrocytes,eye,fin.mesenchyme,glial,gut,heart,immune,ionocyte,iridophores,liver,mesenchyme,muscle,neural,notochord,olfactory,paraxial.mesoderm,pericytes,periderm,presomitic.mesoderm,pronephros,slow.muscle,somites,spinal.cord,vascular.smooth.muscle,vasculature,visceral.smooth.muscle
+stage,axial,blastomeres,endocrine_pancreas,endoderm,epidermis,erythrocytes,eye,fin_mesenchyme,glial,gut,heart,immune,ionocyte,iridophores,liver,mesenchyme,muscle,neural,notochord,olfactory,paraxial_mesoderm,pericytes,periderm,presomitic_mesoderm,pronephros,slow_muscle,somites,spinal_cord,vascular_smooth_muscle,vasculature,visceral_smooth_muscle
   3-4,0,64.61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,9.84,51.98,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.9,0,0,0,0,0,0,0,0,0,0
   7-9,0,16.36,0,26.8,0,0,10.81,0,0,0,0,0,0,0,0,0,0,52.5,6.66,0,860.23,0,0,0,0,0,0,0,0,0,0

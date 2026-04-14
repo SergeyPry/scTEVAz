@@ -1,4 +1,4 @@
-stage,erythrocytes,eye,glial,heart,ionocyte,iridophores,lateral.line,liver,melanocytes,mesenchyme,mural.cell,muscle,neural,notochord,olfactory,pericytes,slow.muscle,spinal.cord,visceral.smooth.muscle,xanthophores
+stage,erythrocytes,eye,glial,heart,ionocyte,iridophores,lateral_line,liver,melanocytes,mesenchyme,mural_cell,muscle,neural,notochord,olfactory,pericytes,slow_muscle,spinal_cord,visceral_smooth_muscle,xanthophores
  10-12,5.46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.95,0,61.84
  24-34,0,0.82,0,0,0.62,0,0,0,0.59,1.58,0,0,22.03,0,1.06,0,0.78,8.79,0,240.6

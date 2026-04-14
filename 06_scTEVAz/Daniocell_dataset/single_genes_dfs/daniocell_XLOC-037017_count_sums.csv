@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,eye,glial,immune,liver,mesenchyme,mucous,muscle,neural,olfactory,paraxial.mesoderm,periderm,presomitic.mesoderm,somites,spinal.cord,xanthophores
+stage,axial,blastomeres,epidermis,eye,glial,immune,liver,mesenchyme,mucous,muscle,neural,olfactory,paraxial_mesoderm,periderm,presomitic_mesoderm,somites,spinal_cord,xanthophores
   3-4,0,25.15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,0,47.17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,6.34,0,0,68.98,0,0,0,0,0,0,228.44,0,9.08,0,0,0,0,0

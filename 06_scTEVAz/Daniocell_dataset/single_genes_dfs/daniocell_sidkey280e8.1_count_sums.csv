@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,erythrocytes,eye,ionocyte,mesenchyme,neural,notochord,paraxial.mesoderm,periderm,presomitic.mesoderm,pronephros,spinal.cord,vasculature
+stage,axial,blastomeres,epidermis,erythrocytes,eye,ionocyte,mesenchyme,neural,notochord,paraxial_mesoderm,periderm,presomitic_mesoderm,pronephros,spinal_cord,vasculature
   3-4,14.29,304.32,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,0,104.91,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,3.43,0,0,0,14.68,0,0,105.21,0,23.24,5.09,0,0,0,0

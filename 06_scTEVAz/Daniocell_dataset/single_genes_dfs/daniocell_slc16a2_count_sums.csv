@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.epithelia,fin.mesenchyme,glial,gut,ionocyte,liver,mesenchyme,mucous,mural.cell,muscle,neural,olfactory,otic,pericytes,periderm,spinal.cord,vasculature
+stage,epidermis,erythrocytes,eye,fin_epithelia,fin_mesenchyme,glial,gut,ionocyte,liver,mesenchyme,mucous,mural_cell,muscle,neural,olfactory,otic,pericytes,periderm,spinal_cord,vasculature
  14-21,0,1.72,0.87,0,0,0,1.07,0,0,0,0,0,0,21.06,0,0,0,0,0,0
  24-34,0,0,10.21,0,0,0,0,1.13,0,0,0,0,0.75,29.55,0,0,0,0,0.69,0
  36-46,0,0,8.07,5.92,0,0,0,0,0,0.9,0,0,0,25.96,0,0,0,0,4.43,0.75

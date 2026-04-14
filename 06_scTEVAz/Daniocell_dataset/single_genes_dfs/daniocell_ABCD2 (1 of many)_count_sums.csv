@@ -1,4 +1,4 @@
-stage,eye,fin.epithelia,glial,immune,mesenchyme,mural.cell,muscle,neural,olfactory,otic,spinal.cord,vasculature
+stage,eye,fin_epithelia,glial,immune,mesenchyme,mural_cell,muscle,neural,olfactory,otic,spinal_cord,vasculature
  14-21,0,0,0,0,0,0,0,1.07,0,0,0,0
  24-34,0,0,0,0,0,0,0,18.22,0,0,5.85,0
  36-46,0,0,2.89,0,0,0,0,34.27,0.79,0,10.71,0

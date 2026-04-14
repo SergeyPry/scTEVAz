@@ -1,4 +1,4 @@
-stage,blastomeres,erythrocytes,eye,glial,mesenchyme,muscle,neural,paraxial.mesoderm,periderm,spinal.cord,vasculature,xanthophores
+stage,blastomeres,erythrocytes,eye,glial,mesenchyme,muscle,neural,paraxial_mesoderm,periderm,spinal_cord,vasculature,xanthophores
   3-4,9.92,0,0,0,0,0,0,0,0,0,0,0
   5-6,7.08,0,0,0,0,0,0,0,0,0,0,0
   7-9,7.72,0,0,0,0,0,16.97,3.47,0,0,0,0

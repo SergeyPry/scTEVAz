@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,fin.epithelia,glial,immune,lateral.line,melanocytes,mesenchyme,mucous,neural,notochord,olfactory,paraxial.mesoderm,periderm,presomitic.mesoderm,spinal.cord
+stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,fin_epithelia,glial,immune,lateral_line,melanocytes,mesenchyme,mucous,neural,notochord,olfactory,paraxial_mesoderm,periderm,presomitic_mesoderm,spinal_cord
   3-4,19.57,75.71,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51.38,0,0
   5-6,6.94,140.68,0,0,0,0,0,0,0,0,0,0,0,9.09,0,0,0,0,0,0
   7-9,0,0,0,0,0,3.72,0,0,0,0,0,0,0,16.65,0,0,11.71,0,0,0

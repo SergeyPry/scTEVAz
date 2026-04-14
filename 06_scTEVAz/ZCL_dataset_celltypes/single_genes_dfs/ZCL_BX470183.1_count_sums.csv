@@ -1,6 +1,6 @@
-stage,Endothelial.cell,Granulocyte,Hepatocyte,Immune.progenitor.cell,Keratinocyte,Macrophage,Neural.cell,Primordial.germ.cell,Spermatocyte,T.cell
-24hpf,4.08640457285017,0,0,0,0,4.08640457285017,0,0,0,0
-72hpf,0,0,0,0,1.06979114146608,0,1.06979114146608,0,0,0
-21Day,0,0,0,1.33853308820331,0,0,0,1.33853308820331,0,0
-3Month,0,0.319949299554195,0,0,0,0.319949299554195,0,1.91969579732517,1.27979719821678,0.319949299554195
-22Month,0,1.09330930239487,0.546654651197433,0,0,0,0,2.73327325598717,0,0
+stage,Endothelial_cell,Granulocyte,Hepatocyte,Immune_progenitor_cell,Keratinocyte,Macrophage,Neural_cell,Primordial_germ_cell,Spermatocyte,T_cell
+24hpf,4.09,0,0,0,0,4.09,0,0,0,0
+72hpf,0,0,0,0,1.07,0,1.07,0,0,0
+21Day,0,0,0,1.34,0,0,0,1.34,0,0
+3Month,0,0.32,0,0,0,0.32,0,1.92,1.28,0.32
+22Month,0,1.09,0.55,0,0,0,0,2.73,0,0

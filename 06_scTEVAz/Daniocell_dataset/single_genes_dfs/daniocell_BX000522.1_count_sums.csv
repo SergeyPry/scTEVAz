@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.mesenchyme,mesenchyme,muscle,neural,notochord,olfactory,otic,spinal.cord
+stage,epidermis,eye,fin_mesenchyme,mesenchyme,muscle,neural,notochord,olfactory,otic,spinal_cord
  14-21,0,0,0,0,0.85,1.37,0,0,0,0
  24-34,0,0.59,0.61,0.72,0,4.03,0,0,0,0
  36-46,0,0,0,0.87,0,4.05,0,0,0,0

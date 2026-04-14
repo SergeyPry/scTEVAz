@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,fast.muscle,glial,gut,mesenchyme,muscle,neural,olfactory,slow.muscle,spinal.cord
+stage,blastomeres,epidermis,erythrocytes,eye,fast_muscle,glial,gut,mesenchyme,muscle,neural,olfactory,slow_muscle,spinal_cord
   5-6,6.13,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,2.63,0,0,0
  24-34,0,0,0,0.82,0,0,0,0.82,0,4.93,0,0,0.82

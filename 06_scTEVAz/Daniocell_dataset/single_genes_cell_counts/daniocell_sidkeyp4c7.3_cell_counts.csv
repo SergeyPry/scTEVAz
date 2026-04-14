@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,eye,gut,immune,neural,olfactory,otic,paraxial.mesoderm,periderm,pgc,presomitic.mesoderm,vasculature
+stage,axial,blastomeres,epidermis,eye,gut,immune,neural,olfactory,otic,paraxial_mesoderm,periderm,pgc,presomitic_mesoderm,vasculature
   3-4,13.18,593.01,0,0,0,0,0,0,0,0,26.36,0,0,0
   5-6,30.65,183.89,0,0,0,0,0,0,0,6.13,6.13,0,0,0
   7-9,0,0,0,0,0,0,15.77,0,0,10.51,0,2.63,0,0

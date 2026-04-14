@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.mesenchyme,glial,lateral.line,melanocytes,mesenchyme,mucous,neural,notochord,olfactory,otic,periderm,somites,spinal.cord,vasculature,xanthophores
+stage,epidermis,erythrocytes,eye,fin_mesenchyme,glial,lateral_line,melanocytes,mesenchyme,mucous,neural,notochord,olfactory,otic,periderm,somites,spinal_cord,vasculature,xanthophores
  14-21,0,0,0,0,0,0,0,0,0,2.04,0,0,0,1.01,0.81,2.63,0,0
  24-34,0,0,0,0,0,0,0,0,0,1.78,1.75,0,0,2.73,0,0,0,0
  36-46,0,0,5.14,0,0,0,0,4.21,0,17.45,0,0,0,0,0,4.25,0,0

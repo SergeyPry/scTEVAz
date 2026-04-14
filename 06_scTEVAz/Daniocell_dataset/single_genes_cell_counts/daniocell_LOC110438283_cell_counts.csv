@@ -1,4 +1,4 @@
-stage,eye,glial,ionocyte,mesenchyme,mucous,neural,olfactory,otic,periderm,spinal.cord,visceral.smooth.muscle
+stage,eye,glial,ionocyte,mesenchyme,mucous,neural,olfactory,otic,periderm,spinal_cord,visceral_smooth_muscle
  14-21,0,0,0,0,0,1,0,0,0,1,0
  24-34,1.64,0,0,1.64,0,1.64,0,0,0.82,0.82,0
  36-46,0,0,0,0,0,4.83,0,0,0,0,0

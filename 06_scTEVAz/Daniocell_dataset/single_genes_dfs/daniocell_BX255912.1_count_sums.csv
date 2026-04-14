@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endocrine.pancreas,epidermis,eye,fast.muscle,glial,gut,liver,mesenchyme,neural,olfactory,otic,paraxial.mesoderm,periderm,pronephros,somites,spinal.cord,taste
+stage,axial,blastomeres,endocrine_pancreas,epidermis,eye,fast_muscle,glial,gut,liver,mesenchyme,neural,olfactory,otic,paraxial_mesoderm,periderm,pronephros,somites,spinal_cord,taste
   3-4,0,93.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,19.35,63.97,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,8.72,0,0,4.4,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,erythrocytes,eye,fast.muscle,glial,ionocyte,iridophores,liver,mesenchyme,mucous,muscle,neural,notochord,olfactory,periderm,spinal.cord
+stage,axial,blastomeres,epidermis,erythrocytes,eye,fast_muscle,glial,ionocyte,iridophores,liver,mesenchyme,mucous,muscle,neural,notochord,olfactory,periderm,spinal_cord
   3-4,0,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.13,0,0,0,0,0,0,0,0,0,0,0,0,6.13,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,2.63,0,0,0,0

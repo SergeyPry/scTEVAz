@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,fin.mesenchyme,glial,ionocyte,mesenchyme,muscle,neural,notochord,otic,periderm,presomitic.mesoderm,somites,spinal.cord,vasculature,xanthophores
+stage,blastomeres,endoderm,epidermis,eye,fin_mesenchyme,glial,ionocyte,mesenchyme,muscle,neural,notochord,otic,periderm,presomitic_mesoderm,somites,spinal_cord,vasculature,xanthophores
   3-4,21.46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,3.67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0.82,1.04,0,0,0,0.92,0,14.12,4.21,0.91,3.48,2.82,1.08,0,0,0

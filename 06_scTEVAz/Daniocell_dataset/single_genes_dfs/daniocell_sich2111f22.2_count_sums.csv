@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,eye,gut,immune,mesenchyme,muscle,neural,olfactory,periderm,spinal.cord,vasculature
+stage,blastomeres,endocrine_pancreas,eye,gut,immune,mesenchyme,muscle,neural,olfactory,periderm,spinal_cord,vasculature
   3-4,17.93,0,0,0,0,0,0,0,0,0,0,0
   5-6,18.28,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,12.73,0,0,0,0

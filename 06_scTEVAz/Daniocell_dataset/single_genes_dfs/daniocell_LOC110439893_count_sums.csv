@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,erythrocytes,eye,immune,mesenchyme,neural,periderm,somites,spinal.cord,taste,vasculature
+stage,endocrine_pancreas,epidermis,erythrocytes,eye,immune,mesenchyme,neural,periderm,somites,spinal_cord,taste,vasculature
   7-9,0,0,0,0,0,0,11.48,0,0,0,0,0
  10-12,0,0,0,0,0,0,15.6,0,0,0,0,0
  14-21,0,1.67,5.73,0,0,2.06,1.23,0,0,0,0,0

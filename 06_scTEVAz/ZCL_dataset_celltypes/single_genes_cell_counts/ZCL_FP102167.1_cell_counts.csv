@@ -1,5 +1,5 @@
-stage,Epithelial.cell,Hepatocyte,Immune.progenitor.cell,Keratinocyte,Neural.cell,Neural.progenitor.cell,Oligodendrocyte,Osteoblast,Primordial.germ.cell,Radial.glia,Spermatocyte
+stage,Epithelial_cell,Hepatocyte,Immune_progenitor_cell,Keratinocyte,Neural_cell,Neural_progenitor_cell,Oligodendrocyte,Osteoblast,Primordial_germ_cell,Radial_glia,Spermatocyte
 24hpf,0,0,0,0,0,7,0,0,0,0,0
-72hpf,0.563696112006446,0,0,0.563696112006446,2.53663250402901,2.81848056003223,0.281848056003223,0,0,0.563696112006446,0
-21Day,0,0,0.369986860264282,0.739973720528564,1.84993430132141,1.47994744105713,0,0.369986860264282,0,1.10996058079285,0
-3Month,0.104017006644673,0.104017006644673,0,0.104017006644673,0,0,0,0,0.520085033223363,0,1.24820407973607
+72hpf,0.56,0,0,0.56,2.54,2.82,0.28,0,0,0.56,0
+21Day,0,0,0.37,0.74,1.85,1.48,0,0.37,0,1.11,0
+3Month,0.1,0.1,0,0.1,0,0,0,0,0.52,0,1.25

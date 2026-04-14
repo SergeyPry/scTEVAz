@@ -1,3 +1,3 @@
-stage,Endothelial.cell,Enterocyte,Epithelial.cell,Granulocyte,Hepatocyte,Immune.progenitor.cell,Intestinal.bulb.cell,Macrophage,Mesenchymal.cell,Muscle.cell,Nephron.cell,Neural.cell,Neurosecretory.cell,T.cell
-72hpf,0,0,0,0,0,0,0,0,1.06979114146608,0,0,0,0,0
-22Month,0.546654651197433,0.546654651197433,0.546654651197433,0.546654651197433,54.6654651197433,0.546654651197433,1.09330930239487,1.09330930239487,1.09330930239487,0.546654651197433,0.546654651197433,0.546654651197433,0.546654651197433,0.546654651197433
+stage,Endothelial_cell,Enterocyte,Epithelial_cell,Granulocyte,Hepatocyte,Immune_progenitor_cell,Intestinal_bulb_cell,Macrophage,Mesenchymal_cell,Muscle_cell,Nephron_cell,Neural_cell,Neurosecretory_cell,T_cell
+72hpf,0,0,0,0,0,0,0,0,1.07,0,0,0,0,0
+22Month,0.55,0.55,0.55,0.55,54.67,0.55,1.09,1.09,1.09,0.55,0.55,0.55,0.55,0.55

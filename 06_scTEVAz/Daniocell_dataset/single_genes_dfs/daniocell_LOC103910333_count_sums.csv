@@ -1,4 +1,4 @@
-stage,epidermis,eye,ionocyte,mesenchyme,muscle,neural,otic,periderm,somites,spinal.cord,vasculature
+stage,epidermis,eye,ionocyte,mesenchyme,muscle,neural,otic,periderm,somites,spinal_cord,vasculature
  14-21,1.85,0,0,0,0,3.61,1.09,8.26,1.62,1.08,1.09
  24-34,0.59,0,0,0,0,1.89,0,0.68,0,0,0
  36-46,0,0,0,0,0,0.57,0,0,0,0,0

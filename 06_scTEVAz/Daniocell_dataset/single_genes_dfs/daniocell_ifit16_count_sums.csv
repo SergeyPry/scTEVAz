@@ -1,4 +1,4 @@
-stage,blastomeres,eye,glial,immune,melanocytes,neural,otic,periderm,pronephros,spinal.cord,vasculature,xanthophores
+stage,blastomeres,eye,glial,immune,melanocytes,neural,otic,periderm,pronephros,spinal_cord,vasculature,xanthophores
   3-4,22.68,0,0,0,0,0,0,36.71,0,0,0,0
  14-21,0,0,0,0,0,0.82,0.8,0,1.13,0,0,0
  36-46,0,0,0,5.79,1.33,0,0,0,0,0,0,0

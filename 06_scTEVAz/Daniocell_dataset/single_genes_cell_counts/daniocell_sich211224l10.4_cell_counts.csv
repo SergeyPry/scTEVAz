@@ -1,4 +1,4 @@
-stage,blastomeres,eye,glial,immune,liver,mesenchyme,mucous,neural,paraxial.mesoderm,pronephros,xanthophores
+stage,blastomeres,eye,glial,immune,liver,mesenchyme,mucous,neural,paraxial_mesoderm,pronephros,xanthophores
   5-6,6.13,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,3.15,0,0
  14-21,0,0,0,0,1,0,0,0,0,0,0

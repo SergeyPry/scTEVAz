@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,gut,ionocyte,mesenchyme,mucous,neural,notochord,paraxial.mesoderm,periderm,presomitic.mesoderm,somites,spinal.cord,vasculature
+stage,blastomeres,endoderm,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,gut,ionocyte,mesenchyme,mucous,neural,notochord,paraxial_mesoderm,periderm,presomitic_mesoderm,somites,spinal_cord,vasculature
   3-4,46.26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,107.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,3.32,0,0,0,0,0,0,0,0,0,45.38,0,9.25,0,0,0,0,0

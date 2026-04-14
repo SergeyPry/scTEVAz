@@ -1,4 +1,4 @@
-stage,epidermis,glial,gut,immune,neural,periderm,spinal.cord
+stage,epidermis,glial,gut,immune,neural,periderm,spinal_cord
  24-34,0,0,0,0,0,0,0.91
  36-46,0.7,0,0,0,0,7.04,0
  48-58,0,0,0,0,0,0,0.43

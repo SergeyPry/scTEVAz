@@ -1,4 +1,4 @@
-stage,epidermis,exocrine.pancreas,eye,glial,gut,immune,lateral.line,liver,mesenchyme,muscle,neural,otic,pericytes,periderm,spinal.cord,taste,vasculature
+stage,epidermis,exocrine_pancreas,eye,glial,gut,immune,lateral_line,liver,mesenchyme,muscle,neural,otic,pericytes,periderm,spinal_cord,taste,vasculature
  14-21,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2,0,0
  24-34,1.64,0,0.82,0,0,0,0,0,0,0,7.39,0,0.82,4.1,1.64,0,0
  36-46,0,0,0,0.81,0,0,0,0.81,0.81,0.81,19.34,0.81,0,0,3.22,0,0

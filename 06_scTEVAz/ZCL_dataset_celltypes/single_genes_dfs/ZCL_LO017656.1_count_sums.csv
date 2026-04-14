@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Hepatocyte,Keratinocyte,Neural.cell
-72hpf,1.06979114146608,0,1.06979114146608,16.0468671219912
-21Day,1.33853308820331,0,0,1.33853308820331
-22Month,0,4.37323720957947,0,0
+stage,Cardiomyocyte,Hepatocyte,Keratinocyte,Neural_cell
+72hpf,1.07,0,1.07,16.05
+21Day,1.34,0,0,1.34
+22Month,0,4.37,0,0

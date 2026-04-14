@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fast.muscle,fin.mesenchyme,glial,gut,heart,lateral.line,liver,mesenchyme,mural.cell,muscle,neural,olfactory,pericytes,periderm,pronephros,somites,spinal.cord,vasculature
+stage,epidermis,erythrocytes,eye,fast_muscle,fin_mesenchyme,glial,gut,heart,lateral_line,liver,mesenchyme,mural_cell,muscle,neural,olfactory,pericytes,periderm,pronephros,somites,spinal_cord,vasculature
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.15,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
  24-34,0.82,0,0.82,0,0,0.82,0,22.16,0,0,4.1,0,4.1,9.03,0,0,0.82,0,0.82,2.46,0.82

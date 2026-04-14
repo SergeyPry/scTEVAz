@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,glial,heart,iridophores,lateral.line,melanocytes,mesenchyme,mural.cell,muscle,neural,olfactory,periderm,spinal.cord,vascular.smooth.muscle,xanthophores
+stage,epidermis,erythrocytes,eye,glial,heart,iridophores,lateral_line,melanocytes,mesenchyme,mural_cell,muscle,neural,olfactory,periderm,spinal_cord,vascular_smooth_muscle,xanthophores
  14-21,1,1,1,0,0,0,0,0,0,0,0,5,0,0,0,0,0
  24-34,0.82,0,0,0,0.82,0,0,0,0,0,0,5.75,0,0.82,1.64,0,0
  36-46,0,0,0,0,0,0.81,0,0,0,0,0.81,16.11,0,0.81,4.03,0,0

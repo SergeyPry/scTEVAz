@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,eye,fast.muscle,glial,heart,ionocyte,mesenchyme,muscle,neural,notochord,otic,paraxial.mesoderm,pgc,pronephros,slow.muscle,spinal.cord
+stage,axial,blastomeres,epidermis,eye,fast_muscle,glial,heart,ionocyte,mesenchyme,muscle,neural,notochord,otic,paraxial_mesoderm,pgc,pronephros,slow_muscle,spinal_cord
   3-4,0,40.24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,7.2,6.41,0,0,0,0,0,0,0,0,29.01,0,0,0,0,0,0,0
   7-9,7.01,0,0,0,0,0,0,0,0,0,0,0,0,8.13,0,0,0,0

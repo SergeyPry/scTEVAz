@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Keratinocyte,Macrophage,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Osteoblast,Pancreatic.cell,Radial.glia,Retinal.cell
+stage,Epithelial_cell,Keratinocyte,Macrophage,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Osteoblast,Pancreatic_cell,Radial_glia,Retinal_cell
 24hpf,0,0,2,0,0,6,1,0,0,0
-72hpf,0,0.281848056003223,0,0.563696112006446,0.563696112006446,0.563696112006446,0,0,0,0
-21Day,0.369986860264282,0,0,0,0.369986860264282,0.369986860264282,0,0.369986860264282,0.369986860264282,0.369986860264282
+72hpf,0,0.28,0,0.56,0.56,0.56,0,0,0,0
+21Day,0.37,0,0,0,0.37,0.37,0,0.37,0.37,0.37

@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.epithelia,glial,gut,heart,immune,ionocyte,mesenchyme,mucous,neural,olfactory,periderm,somites,spinal.cord,taste,vasculature
+stage,epidermis,erythrocytes,eye,fin_epithelia,glial,gut,heart,immune,ionocyte,mesenchyme,mucous,neural,olfactory,periderm,somites,spinal_cord,taste,vasculature
  10-12,0,0,0,0,0,0,0,0,0,0,0,6.29,0,6.29,0,0,0,0
  14-21,1,2,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
  24-34,4.93,0,0,0,0,0,0,0,0.82,0,0.82,1.64,0.82,16.42,0,0.82,0,4.1

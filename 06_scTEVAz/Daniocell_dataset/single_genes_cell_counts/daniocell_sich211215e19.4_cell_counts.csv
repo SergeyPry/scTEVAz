@@ -1,4 +1,4 @@
-stage,erythrocytes,eye,glial,immune,ionocyte,mesenchyme,neural,spinal.cord,visceral.smooth.muscle
+stage,erythrocytes,eye,glial,immune,ionocyte,mesenchyme,neural,spinal_cord,visceral_smooth_muscle
  14-21,0,0,0,0,0,0,0,1,0
  48-58,0,1.15,0,0,0,0,0.57,0,0
  60-70,0,0.98,0,0,0,0,0,0,0

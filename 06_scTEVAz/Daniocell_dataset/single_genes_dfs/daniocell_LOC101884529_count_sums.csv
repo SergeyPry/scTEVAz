@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,fast.muscle,fin.mesenchyme,glial,gut,hatching.gland,heart,immune,lateral.line,liver,mesenchyme,muscle,neural,notochord,olfactory,otic,periderm,pgc,spinal.cord,vasculature,visceral.smooth.muscle
+stage,blastomeres,epidermis,erythrocytes,eye,fast_muscle,fin_mesenchyme,glial,gut,hatching_gland,heart,immune,lateral_line,liver,mesenchyme,muscle,neural,notochord,olfactory,otic,periderm,pgc,spinal_cord,vasculature,visceral_smooth_muscle
   3-4,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,24.49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0.87,1.06,0.86,0,0,0,0,0,0,0,0,0,0,0,10.51,0,0,0,0.97,0.91,4.27,0,0

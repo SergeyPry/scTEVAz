@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,erythrocytes,eye,fin.epithelia,fin.mesenchyme,glial,immune,melanocytes,mesenchyme,mural.cell,muscle,neural,olfactory,otic,paraxial.mesoderm,pericytes,periderm,presomitic.mesoderm,somites,spinal.cord,vasculature,xanthophores
+stage,blastomeres,endoderm,epidermis,erythrocytes,eye,fin_epithelia,fin_mesenchyme,glial,immune,melanocytes,mesenchyme,mural_cell,muscle,neural,olfactory,otic,paraxial_mesoderm,pericytes,periderm,presomitic_mesoderm,somites,spinal_cord,vasculature,xanthophores
   3-4,43.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,58.83,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,8.04,0,0,0,0,0,0,0,0,21.27,0,0,24.91,0,0,0,0,0,0,0

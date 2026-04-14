@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,glial,mesenchyme,muscle,neural,paraxial.mesoderm,periderm,presomitic.mesoderm,taste
+stage,blastomeres,epidermis,erythrocytes,eye,glial,mesenchyme,muscle,neural,paraxial_mesoderm,periderm,presomitic_mesoderm,taste
   3-4,65.89,0,0,0,0,0,0,0,0,13.18,0,0
   5-6,24.52,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,5.26,2.63,0,0,0

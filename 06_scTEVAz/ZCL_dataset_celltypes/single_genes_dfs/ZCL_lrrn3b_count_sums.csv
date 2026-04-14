@@ -1,4 +1,4 @@
-stage,Intestinal.bulb.cell,Keratinocyte,Macrophage,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Osteoblast,Radial.glia,Retinal.cone.cell,T.cell
-24hpf,0,0,0,0,0,4.08640457285017,4.08640457285017,0,0,0
-72hpf,1.06979114146608,0,0,2.13958228293216,20.3260316878555,0,0,2.13958228293216,0,0
-21Day,0,6.69266544101654,1.33853308820331,2.67706617640661,10.7082647056265,2.67706617640661,0,4.01559926460992,1.33853308820331,1.33853308820331
+stage,Intestinal_bulb_cell,Keratinocyte,Macrophage,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Osteoblast,Radial_glia,Retinal_cone_cell,T_cell
+24hpf,0,0,0,0,0,4.09,4.09,0,0,0
+72hpf,1.07,0,0,2.14,20.33,0,0,2.14,0,0
+21Day,0,6.69,1.34,2.68,10.71,2.68,0,4.02,1.34,1.34

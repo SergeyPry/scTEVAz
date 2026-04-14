@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,exocrine.pancreas,eye,fin.epithelia,glial,gut,hatching.gland,ionocyte,iridophores,mesenchyme,mucous,muscle,neural,olfactory,periderm,pronephros,spinal.cord,vasculature,visceral.smooth.muscle,xanthophores
+stage,epidermis,erythrocytes,exocrine_pancreas,eye,fin_epithelia,glial,gut,hatching_gland,ionocyte,iridophores,mesenchyme,mucous,muscle,neural,olfactory,periderm,pronephros,spinal_cord,vasculature,visceral_smooth_muscle,xanthophores
  10-12,0,0,0,0,0,0,0,3.15,0,0,0,0,0,0,0,0,3.15,0,0,0,0
  14-21,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
  24-34,0,0,0,0,0,0,0,0,0,0,0,0,0,26.27,0,0.82,0,4.1,0,0,0

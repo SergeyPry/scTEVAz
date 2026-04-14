@@ -1,4 +1,4 @@
-stage,Hepatocyte,Macrophage,Neural.cell,Retinal.cone.cell
-72hpf,0,0,0.563696112006446,0
-21Day,0,0,0,0.369986860264282
-3Month,0.208034013289345,0.104017006644673,0,0
+stage,Hepatocyte,Macrophage,Neural_cell,Retinal_cone_cell
+72hpf,0,0,0.56,0
+21Day,0,0,0,0.37
+3Month,0.21,0.1,0,0

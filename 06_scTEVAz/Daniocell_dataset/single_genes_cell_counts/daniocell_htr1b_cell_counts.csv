@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,fast.muscle,fin.epithelia,glial,gut,hatching.gland,heart,iridophores,liver,mesenchyme,mucous,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,periderm,pgc,pronephros,somites,spinal.cord,taste
+stage,axial,blastomeres,endoderm,epidermis,eye,fast_muscle,fin_epithelia,glial,gut,hatching_gland,heart,iridophores,liver,mesenchyme,mucous,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,periderm,pgc,pronephros,somites,spinal_cord,taste
   3-4,13.18,250.38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,92.25,0,0,0,0,0
   5-6,24.52,698.78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,67.43,0,0,0,36.78,67.43,0,0,0,0,0
   7-9,5.26,23.66,86.75,0,26.29,0,0,0,0,34.17,0,0,0,0,0,0,688.72,2.63,0,0,399.56,7.89,2.63,0,0,0,0

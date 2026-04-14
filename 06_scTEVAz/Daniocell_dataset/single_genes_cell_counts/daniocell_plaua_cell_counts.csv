@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fast.muscle,glial,heart,immune,ionocyte,melanocytes,mesenchyme,neural,notochord,pericytes,periderm,somites,spinal.cord,vascular.smooth.muscle,vasculature,xanthophores
+stage,blastomeres,epidermis,eye,fast_muscle,glial,heart,immune,ionocyte,melanocytes,mesenchyme,neural,notochord,pericytes,periderm,somites,spinal_cord,vascular_smooth_muscle,vasculature,xanthophores
   3-4,26.36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,2,0,1,0

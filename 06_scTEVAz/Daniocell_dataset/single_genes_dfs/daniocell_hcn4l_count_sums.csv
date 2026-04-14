@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,erythrocytes,exocrine.pancreas,eye,fin.epithelia,glial,gut,ionocyte,mesenchyme,mural.cell,neural,olfactory,periderm,spinal.cord,taste,visceral.smooth.muscle,xanthophores
+stage,blastomeres,endoderm,epidermis,erythrocytes,exocrine_pancreas,eye,fin_epithelia,glial,gut,ionocyte,mesenchyme,mural_cell,neural,olfactory,periderm,spinal_cord,taste,visceral_smooth_muscle,xanthophores
   3-4,11.21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,4.85,0,0,0,0,0,0,8.41,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,5.97,0,2.18,5.52,0,0,0

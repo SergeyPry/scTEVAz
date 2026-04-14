@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endocrine.pancreas,endoderm,epidermis,erythrocytes,eye,fin.epithelia,fin.mesenchyme,glial,gut,hatching.gland,heart,ionocyte,iridophores,lateral.line,liver,mesenchyme,mural.cell,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,periderm,pgc,presomitic.mesoderm,pronephros,slow.muscle,somites,spinal.cord,vasculature,xanthophores
+stage,axial,blastomeres,endocrine_pancreas,endoderm,epidermis,erythrocytes,eye,fin_epithelia,fin_mesenchyme,glial,gut,hatching_gland,heart,ionocyte,iridophores,lateral_line,liver,mesenchyme,mural_cell,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,periderm,pgc,presomitic_mesoderm,pronephros,slow_muscle,somites,spinal_cord,vasculature,xanthophores
   3-4,1001.52,15510.43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,645.72,0,0,0,0,0,0,0,0
   5-6,876.54,9592.88,0,12.26,0,0,0,0,0,0,0,30.65,0,0,0,0,0,0,0,0,355.52,36.78,0,0,104.2,306.48,0,0,0,0,0,0,0,0
   7-9,78.86,105.15,0,202.41,0,0,241.84,0,0,0,0,168.24,0,0,0,0,0,0,0,0,2860.04,115.66,0,0,1148.75,10.51,23.66,0,0,0,0,0,0,0

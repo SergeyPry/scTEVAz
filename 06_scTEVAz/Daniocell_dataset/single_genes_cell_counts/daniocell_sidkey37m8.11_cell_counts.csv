@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,fin.epithelia,glial,gut,immune,ionocyte,lateral.line,liver,mesenchyme,mucous,neural,otic,paraxial.mesoderm,periderm,taste,xanthophores
+stage,axial,blastomeres,endoderm,epidermis,eye,fin_epithelia,glial,gut,immune,ionocyte,lateral_line,liver,mesenchyme,mucous,neural,otic,paraxial_mesoderm,periderm,taste,xanthophores
   3-4,0,52.71,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.13,18.39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12.26,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.63,0,2.63,5.26,0,0

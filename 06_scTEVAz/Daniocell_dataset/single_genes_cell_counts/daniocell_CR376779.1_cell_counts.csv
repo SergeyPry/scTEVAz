@@ -1,4 +1,4 @@
-stage,epidermis,eye,mesenchyme,mural.cell,muscle,neural,somites
+stage,epidermis,eye,mesenchyme,mural_cell,muscle,neural,somites
  24-34,0,1.64,0.82,0,0,0,0.82
  36-46,0,0.81,0,0,0,0,0
  48-58,0,0,0,0,0.57,0,0

@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fast.muscle,glial,heart,ionocyte,liver,mesenchyme,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,periderm,presomitic.mesoderm,pronephros,slow.muscle,somites,spinal.cord,taste,vascular.smooth.muscle,visceral.smooth.muscle,xanthophores
+stage,blastomeres,epidermis,eye,fast_muscle,glial,heart,ionocyte,liver,mesenchyme,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,periderm,presomitic_mesoderm,pronephros,slow_muscle,somites,spinal_cord,taste,vascular_smooth_muscle,visceral_smooth_muscle,xanthophores
   3-4,15.59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.54,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,3.12,0,0,0,12.59,0,0,0,0,0,0,0,0,0,0

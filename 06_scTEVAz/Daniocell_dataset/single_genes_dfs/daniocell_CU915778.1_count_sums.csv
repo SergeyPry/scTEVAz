@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,eye,fin.epithelia,gut,hatching.gland,mesenchyme,muscle,neural,paraxial.mesoderm,vasculature
+stage,blastomeres,endoderm,eye,fin_epithelia,gut,hatching_gland,mesenchyme,muscle,neural,paraxial_mesoderm,vasculature
   5-6,15.87,0,0,0,0,0,0,0,12.95,0,0
   7-9,0,4.06,0,0,0,0,0,0,15.35,3.8,0
  10-12,6.2,0,0,0,0,7.6,0,0,8,6.2,0

@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.mesenchyme,immune,mesenchyme,neural,notochord,otic,paraxial.mesoderm,periderm,spinal.cord,vasculature,xanthophores
+stage,blastomeres,epidermis,eye,fin_mesenchyme,immune,mesenchyme,neural,notochord,otic,paraxial_mesoderm,periderm,spinal_cord,vasculature,xanthophores
   3-4,82.37,0,0,0,0,0,0,0,0,0,40.09,0,0,0
   5-6,70.37,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,8.23,4.91,0,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,fin.epithelia,fin.mesenchyme,glial,heart,immune,iridophores,lateral.line,mesenchyme,mural.cell,muscle,neural,olfactory,otic,periderm,presomitic.mesoderm,slow.muscle,somites,spinal.cord,vascular.smooth.muscle,vasculature,visceral.smooth.muscle
+stage,epidermis,eye,fast_muscle,fin_epithelia,fin_mesenchyme,glial,heart,immune,iridophores,lateral_line,mesenchyme,mural_cell,muscle,neural,olfactory,otic,periderm,presomitic_mesoderm,slow_muscle,somites,spinal_cord,vascular_smooth_muscle,vasculature,visceral_smooth_muscle
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,1,3,1,4,1,2,0,0,0
  24-34,2.46,1.64,0,0,0,0,0,0,0,0,0.82,0,0,5.75,0,0,0,0,1.64,0,0,0,0,0
  36-46,0,6.45,0,0,0,0,0,0,0,0,0,0,0,9.67,0,0,0.81,0,0.81,0,0.81,0,0.81,0

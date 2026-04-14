@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,fast.muscle,fin.epithelia,glial,heart,ionocyte,iridophores,lateral.line,liver,mesenchyme,muscle,neural,notochord,otic,paraxial.mesoderm,periderm,slow.muscle,spinal.cord
+stage,blastomeres,epidermis,erythrocytes,eye,fast_muscle,fin_epithelia,glial,heart,ionocyte,iridophores,lateral_line,liver,mesenchyme,muscle,neural,notochord,otic,paraxial_mesoderm,periderm,slow_muscle,spinal_cord
   3-4,26.26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,17.37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15.47,3.96,0,0,0,0,0

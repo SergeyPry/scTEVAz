@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,epidermis,erythrocytes,eye,glial,mesenchyme,mural.cell,neural,olfactory,otic,paraxial.mesoderm,pronephros,somites,spinal.cord,xanthophores
+stage,blastomeres,endocrine_pancreas,epidermis,erythrocytes,eye,glial,mesenchyme,mural_cell,neural,olfactory,otic,paraxial_mesoderm,pronephros,somites,spinal_cord,xanthophores
   3-4,10.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,3.7,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,8.22,0,0,0,0

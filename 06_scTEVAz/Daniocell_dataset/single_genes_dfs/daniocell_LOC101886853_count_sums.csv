@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,glial,gut,immune,ionocyte,iridophores,lateral.line,mesenchyme,mucous,neural,olfactory,paraxial.mesoderm,periderm,slow.muscle,xanthophores
+stage,epidermis,eye,fin_epithelia,glial,gut,immune,ionocyte,iridophores,lateral_line,mesenchyme,mucous,neural,olfactory,paraxial_mesoderm,periderm,slow_muscle,xanthophores
   7-9,0,4.33,0,0,0,0,0,0,0,0,0,0,0,4.14,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8.79,1.23,0
  24-34,0,0,0,0,0,0,0,0,0,0,0,7.82,0,0,19.06,0,0

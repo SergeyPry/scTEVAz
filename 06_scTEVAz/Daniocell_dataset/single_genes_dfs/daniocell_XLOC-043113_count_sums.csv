@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,eye,fin.epithelia,mesenchyme,mural.cell,neural,notochord,periderm,pgc,pronephros,spinal.cord,visceral.smooth.muscle
+stage,axial,blastomeres,epidermis,eye,fin_epithelia,mesenchyme,mural_cell,neural,notochord,periderm,pgc,pronephros,spinal_cord,visceral_smooth_muscle
   3-4,0,66.1,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,12.96,37.72,0,0,0,0,0,0,15.57,8.88,0,0,0,0
   7-9,0,0,0,0,0,0,0,34.64,0,0,0,0,0,0

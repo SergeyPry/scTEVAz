@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.mesenchyme,glial,iridophores,mesenchyme,mural.cell,muscle,neural,olfactory,otic,periderm,spinal.cord,visceral.smooth.muscle,xanthophores
+stage,epidermis,eye,fin_mesenchyme,glial,iridophores,mesenchyme,mural_cell,muscle,neural,olfactory,otic,periderm,spinal_cord,visceral_smooth_muscle,xanthophores
  14-21,0,1,0,0,0,0,0,0,4,0,0,0,2,0,0
  24-34,0,0.82,0,0,0,0,0,0.82,11.49,0,0,0,2.46,0,0
  36-46,0,2.42,0,0,0,0,0,0,31.42,0,0.81,0,8.06,0,0

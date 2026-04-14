@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,endoderm,epidermis,erythrocytes,eye,fin.mesenchyme,glial,gut,hatching.gland,lateral.line,liver,mesenchyme,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,periderm,pgc,presomitic.mesoderm,pronephros,somites,spinal.cord,vasculature
+stage,endocrine_pancreas,endoderm,epidermis,erythrocytes,eye,fin_mesenchyme,glial,gut,hatching_gland,lateral_line,liver,mesenchyme,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,periderm,pgc,presomitic_mesoderm,pronephros,somites,spinal_cord,vasculature
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,2.63,0,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,3.15,0,0,0,0,6.29,0,0,0,0,0,0,0,0,0,0,0
  14-21,1,0,11,5,1,0,23,0,0,0,0,3,1,34,2,4,6,1,1,1,2,33,1,79,0

@@ -1,5 +1,5 @@
-stage,Enterocyte,Epithelial.cell,Erythrocyte,Goblet.cell,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Ionocyte,Macrophage,Neural.cell,Pancreatic.cell,Primordial.germ.cell,Radial.glia,Smooth.muscle.cell,Spermatocyte
-72hpf,0,0,0.281848056003223,0,0,0,0,0,0,1.40924028001612,0,0,0,0,0
-21Day,0,0.369986860264282,0,0,0,0,0,0,0,0.739973720528564,0,0,0,0,0
-3Month,0.104017006644673,0.312051019934018,0,0,0.312051019934018,0.104017006644673,0.312051019934018,0.104017006644673,0.312051019934018,0.104017006644673,0.208034013289345,0.728119046512708,0.104017006644673,0.208034013289345,5.92896937874634
-22Month,0,0,0,0.136649431988133,0,0,0,0,0,0,0,0.136649431988133,0,0,0
+stage,Enterocyte,Epithelial_cell,Erythrocyte,Goblet_cell,Hepatocyte,Immune_cell,Intestinal_bulb_cell,Ionocyte,Macrophage,Neural_cell,Pancreatic_cell,Primordial_germ_cell,Radial_glia,Smooth_muscle_cell,Spermatocyte
+72hpf,0,0,0.28,0,0,0,0,0,0,1.41,0,0,0,0,0
+21Day,0,0.37,0,0,0,0,0,0,0,0.74,0,0,0,0,0
+3Month,0.1,0.31,0,0,0.31,0.1,0.31,0.1,0.31,0.1,0.21,0.73,0.1,0.21,5.93
+22Month,0,0,0,0.14,0,0,0,0,0,0,0,0.14,0,0,0

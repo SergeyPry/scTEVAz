@@ -1,4 +1,4 @@
-stage,blastomeres,erythrocytes,eye,fin.epithelia,muscle,neural,vasculature
+stage,blastomeres,erythrocytes,eye,fin_epithelia,muscle,neural,vasculature
   3-4,9.56,0,0,0,0,0,0
  10-12,0,0,0,0,0,3.35,0
  14-21,0,0.9,0.9,0,0.94,11.87,0

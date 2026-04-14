@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,heart,immune,melanocytes,mesenchyme,mural.cell,neural,paraxial.mesoderm,periderm,somites,spinal.cord
+stage,blastomeres,endocrine_pancreas,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,heart,immune,melanocytes,mesenchyme,mural_cell,neural,paraxial_mesoderm,periderm,somites,spinal_cord
   3-4,26.37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,19.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,3.92,4.23,0,0,0

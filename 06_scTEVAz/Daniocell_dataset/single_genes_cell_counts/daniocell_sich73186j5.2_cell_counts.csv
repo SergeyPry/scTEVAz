@@ -1,4 +1,4 @@
-stage,epidermis,fin.mesenchyme,glial,gut,immune,liver,mesenchyme,mucous,mural.cell,muscle,neural,olfactory,otic,periderm,spinal.cord,taste,vasculature
+stage,epidermis,fin_mesenchyme,glial,gut,immune,liver,mesenchyme,mucous,mural_cell,muscle,neural,olfactory,otic,periderm,spinal_cord,taste,vasculature
   3-4,0,0,0,0,0,0,0,0,0,0,0,0,0,13.18,0,0,0
   5-6,0,0,0,0,0,0,0,0,0,0,0,0,0,6.13,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,2.63,0,0,0

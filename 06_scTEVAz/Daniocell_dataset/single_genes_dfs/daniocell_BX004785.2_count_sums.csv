@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,epidermis,erythrocytes,eye,fin.epithelia,glial,gut,hatching.gland,immune,ionocyte,iridophores,lateral.line,mesenchyme,mucous,mural.cell,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,periderm,pronephros,slow.muscle,spinal.cord,taste,vasculature,visceral.smooth.muscle,xanthophores
+stage,blastomeres,endocrine_pancreas,epidermis,erythrocytes,eye,fin_epithelia,glial,gut,hatching_gland,immune,ionocyte,iridophores,lateral_line,mesenchyme,mucous,mural_cell,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,periderm,pronephros,slow_muscle,spinal_cord,taste,vasculature,visceral_smooth_muscle,xanthophores
   3-4,11.81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,24.52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,13.61,0,0,0,0,0,0,0,7.87,0,0,0,0,0,0,0,0,31.72,0,0,0,14.91,0,0,0,0,0,0,0,0

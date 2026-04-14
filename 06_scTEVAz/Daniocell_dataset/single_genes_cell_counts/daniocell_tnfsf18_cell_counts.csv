@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.epithelia,gut,immune,liver,mesenchyme,muscle,neural,otic,presomitic.mesoderm,somites,vasculature
+stage,epidermis,erythrocytes,eye,fin_epithelia,gut,immune,liver,mesenchyme,muscle,neural,otic,presomitic_mesoderm,somites,vasculature
   7-9,0,0,0,0,0,0,0,0,0,7.89,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,1,0,0,1,2,0
  24-34,0.82,0.82,0,0,0,0,0,0,0,0,0,0,0,0

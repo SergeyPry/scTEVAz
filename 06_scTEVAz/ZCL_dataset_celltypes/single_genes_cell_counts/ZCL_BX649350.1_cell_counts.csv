@@ -1,5 +1,5 @@
-stage,Epithelial.cell,Hatching.gland,Hepatocyte,Neural.progenitor.cell,Oocyte,Pancreatic.cell,Primordial.germ.cell
+stage,Epithelial_cell,Hatching_gland,Hepatocyte,Neural_progenitor_cell,Oocyte,Pancreatic_cell,Primordial_germ_cell
 24hpf,0,1,0,2,0,0,0
-72hpf,0,0,0,0,0,0.281848056003223,0
-21Day,1.10996058079285,0,0,0,0,0,0
-22Month,0.136649431988133,0,0.273298863976266,0,0.409948295964399,0,0.136649431988133
+72hpf,0,0,0,0,0,0.28,0
+21Day,1.11,0,0,0,0,0,0
+22Month,0.14,0,0.27,0,0.41,0,0.14

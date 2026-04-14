@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,erythrocytes,fin.epithelia,heart,lateral.line,mesenchyme,neural,paraxial.mesoderm,periderm,pgc,spinal.cord,vascular.smooth.muscle,vasculature
+stage,axial,blastomeres,endoderm,epidermis,erythrocytes,fin_epithelia,heart,lateral_line,mesenchyme,neural,paraxial_mesoderm,periderm,pgc,spinal_cord,vascular_smooth_muscle,vasculature
   3-4,13.35,348.13,0,0,0,0,0,0,0,0,0,20.13,0,0,0,0
   5-6,7.16,290.05,0,0,0,0,0,0,0,0,0,8.08,0,0,0,0
   7-9,7.69,0,6.05,0,0,0,0,0,0,78.18,19.17,0,0,0,0,0

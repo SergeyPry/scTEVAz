@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,hatching.gland,ionocyte,liver,mesenchyme,neural,pgc,somites,spinal.cord,xanthophores
+stage,blastomeres,endoderm,epidermis,eye,hatching_gland,ionocyte,liver,mesenchyme,neural,pgc,somites,spinal_cord,xanthophores
   5-6,10.52,0,0,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,3.58,0,0,0,0
  14-21,0,0,0,0,1.78,0,0,0,0.91,0,0,0,0

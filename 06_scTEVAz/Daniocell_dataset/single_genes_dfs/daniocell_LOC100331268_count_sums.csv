@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,erythrocytes,eye,fin.mesenchyme,glial,melanocytes,mesenchyme,muscle,neural,olfactory,paraxial.mesoderm,spinal.cord,vascular.smooth.muscle,xanthophores
+stage,blastomeres,endoderm,erythrocytes,eye,fin_mesenchyme,glial,melanocytes,mesenchyme,muscle,neural,olfactory,paraxial_mesoderm,spinal_cord,vascular_smooth_muscle,xanthophores
   3-4,20.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,15.81,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,3.56,0,0,0,0,0,0,0,0,0,0,0,0,0

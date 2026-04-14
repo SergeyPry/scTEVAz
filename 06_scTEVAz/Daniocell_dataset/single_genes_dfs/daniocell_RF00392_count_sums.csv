@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,heart,mesenchyme,muscle,neural,paraxial.mesoderm,periderm,spinal.cord
+stage,epidermis,erythrocytes,eye,heart,mesenchyme,muscle,neural,paraxial_mesoderm,periderm,spinal_cord
  14-21,0,0,0,0,0,0,0,1.03,0,0
  24-34,0.66,0,0.66,0,0,0.78,0.81,0,0.96,1.59
  36-46,0.61,0,0,0,0,0,3.93,0,0,1.7

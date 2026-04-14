@@ -1,4 +1,4 @@
-stage,axial,blastomeres,erythrocytes,eye,glial,lateral.line,mesenchyme,neural,otic,paraxial.mesoderm,periderm,presomitic.mesoderm,spinal.cord
+stage,axial,blastomeres,erythrocytes,eye,glial,lateral_line,mesenchyme,neural,otic,paraxial_mesoderm,periderm,presomitic_mesoderm,spinal_cord
   3-4,17.23,54.14,0,0,0,0,0,0,0,0,0,0,0
   5-6,0,26.03,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,7.37,0,0,0,3.89,0,5.84,0,0,0

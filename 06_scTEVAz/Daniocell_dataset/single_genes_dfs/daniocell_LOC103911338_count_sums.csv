@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,fin.epithelia,glial,iridophores,mesenchyme,neural,periderm,somites,spinal.cord,vasculature
+stage,endoderm,epidermis,fin_epithelia,glial,iridophores,mesenchyme,neural,periderm,somites,spinal_cord,vasculature
   7-9,4.01,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0.86,4.27,0,0,1.21,0
  24-34,0,0,0,0,0,1.98,5.78,0,0.67,2.19,1.19

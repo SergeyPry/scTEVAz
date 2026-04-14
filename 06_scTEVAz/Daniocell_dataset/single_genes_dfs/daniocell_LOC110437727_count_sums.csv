@@ -1,4 +1,4 @@
-stage,blastomeres,eye,fin.mesenchyme,glial,mesenchyme,muscle,neural,notochord,slow.muscle,spinal.cord
+stage,blastomeres,eye,fin_mesenchyme,glial,mesenchyme,muscle,neural,notochord,slow_muscle,spinal_cord
   5-6,10.72,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0.9,1.05,0,0,0,0
  24-34,0,0,0.71,0,0,0,0,0,0,0.6

@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,ionocyte,iridophores,mesenchyme,mucous,muscle,neural,olfactory,periderm,pgc,presomitic.mesoderm,slow.muscle,somites,taste,vascular.smooth.muscle,visceral.smooth.muscle,xanthophores
+stage,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,ionocyte,iridophores,mesenchyme,mucous,muscle,neural,olfactory,periderm,pgc,presomitic_mesoderm,slow_muscle,somites,taste,vascular_smooth_muscle,visceral_smooth_muscle,xanthophores
   5-6,0,0,0,0,0,0,0,0,0,0,0,0,10.29,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,0,8.7,0,0,0,0,0,0,0
  14-21,1.85,0,0,0,0,0,0,0,0,0,6.23,0,0,0,1.53,0,0.89,0,0,0,0

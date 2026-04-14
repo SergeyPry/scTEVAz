@@ -1,4 +1,4 @@
-stage,epidermis,exocrine.pancreas,eye,fin.epithelia,glial,gut,heart,iridophores,melanocytes,mesenchyme,mural.cell,neural,notochord,paraxial.mesoderm,pericytes,periderm,pronephros,spinal.cord,vascular.smooth.muscle,vasculature,visceral.smooth.muscle
+stage,epidermis,exocrine_pancreas,eye,fin_epithelia,glial,gut,heart,iridophores,melanocytes,mesenchyme,mural_cell,neural,notochord,paraxial_mesoderm,pericytes,periderm,pronephros,spinal_cord,vascular_smooth_muscle,vasculature,visceral_smooth_muscle
   7-9,0,0,0,0,0,0,0,0,0,0,0,2.63,0,2.63,0,0,0,0,0,0,0
  14-21,5,0,1,0,0,0,0,0,0,1,0,8,0,0,0,0,0,5,0,0,0
  24-34,0.82,0,0,1.64,1.64,0,0.82,0,0,0,0,0.82,0,0,0,0,0,0,0,2.46,0

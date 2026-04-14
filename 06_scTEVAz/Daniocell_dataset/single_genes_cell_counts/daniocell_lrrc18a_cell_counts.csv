@@ -1,4 +1,4 @@
-stage,erythrocytes,eye,glial,ionocyte,lateral.line,melanocytes,mesenchyme,neural,olfactory,otic,paraxial.mesoderm,presomitic.mesoderm,pronephros,spinal.cord,visceral.smooth.muscle
+stage,erythrocytes,eye,glial,ionocyte,lateral_line,melanocytes,mesenchyme,neural,olfactory,otic,paraxial_mesoderm,presomitic_mesoderm,pronephros,spinal_cord,visceral_smooth_muscle
  10-12,0,0,0,0,0,0,0,6.29,0,0,6.29,0,0,0,0
  14-21,0,0,9,0,0,0,0,4,0,0,0,1,4,22,0
  24-34,0,0,8.21,0,0,0,0,6.57,0,0,0,0,0,9.85,0

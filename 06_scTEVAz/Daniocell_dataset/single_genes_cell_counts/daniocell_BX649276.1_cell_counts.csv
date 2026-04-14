@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,glial,mural.cell,muscle,neural,periderm,presomitic.mesoderm,somites,spinal.cord
+stage,axial,blastomeres,epidermis,glial,mural_cell,muscle,neural,periderm,presomitic_mesoderm,somites,spinal_cord
   3-4,13.18,118.6,0,0,0,0,0,13.18,0,0,0
   5-6,0,91.94,0,0,0,0,6.13,6.13,0,0,0
   7-9,0,0,0,0,0,0,7.89,0,0,0,0

@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,eye,fast.muscle,fin.epithelia,glial,immune,iridophores,melanocytes,mesenchyme,mural.cell,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,periderm,presomitic.mesoderm,somites,spinal.cord,taste,vascular.smooth.muscle,xanthophores
+stage,axial,blastomeres,epidermis,eye,fast_muscle,fin_epithelia,glial,immune,iridophores,melanocytes,mesenchyme,mural_cell,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,periderm,presomitic_mesoderm,somites,spinal_cord,taste,vascular_smooth_muscle,xanthophores
   3-4,26.36,105.42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13.18,0,0,0,0,0,0
   5-6,0,30.65,0,0,0,0,0,0,0,0,0,0,0,6.13,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,7.89,2.63,0,0,0,0,0,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,fin.epithelia,glial,ionocyte,lateral.line,mesenchyme,mucous,muscle,neural,periderm
+stage,blastomeres,epidermis,erythrocytes,eye,fin_epithelia,glial,ionocyte,lateral_line,mesenchyme,mucous,muscle,neural,periderm
   5-6,21.1,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,3.47,0
  36-46,0,0,0,0,0,0,0,0,0,0,0,1.96,0

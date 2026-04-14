@@ -1,4 +1,4 @@
-stage,eye,fin.epithelia,fin.mesenchyme,glial,gut,melanocytes,mesenchyme,muscle,neural,notochord,spinal.cord
+stage,eye,fin_epithelia,fin_mesenchyme,glial,gut,melanocytes,mesenchyme,muscle,neural,notochord,spinal_cord
  14-21,0,0,0,0,0,0,0,0,0,1,1
  24-34,0,0,0,0.82,0,0,0,1.64,0.82,0,3.28
  36-46,0,0,0,0,0,0,0.81,0.81,0.81,0,1.61

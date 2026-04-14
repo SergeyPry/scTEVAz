@@ -1,3 +1,3 @@
-stage,Epithelial.cell,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Retinal.cell
-72hpf,0,1.06979114146608,20.3260316878555,2.13958228293216,0
-21Day,1.33853308820331,0,8.03119852921984,0,1.33853308820331
+stage,Epithelial_cell,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Retinal_cell
+72hpf,0,1.07,20.33,2.14,0
+21Day,1.34,0,8.03,0,1.34

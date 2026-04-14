@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Erythrocyte,Goblet.cell,Hepatocyte,Immune.progenitor.cell,Intestinal.bulb.cell,Keratinocyte,Mesenchymal.cell,Neural.cell,Osteoblast,Primordial.germ.cell,Retinal.pigment.epithelial.cell,Spermatocyte,T.cell
-21Day,0.739973720528564,1.10996058079285,0,0,0.369986860264282,0.369986860264282,1.10996058079285,0.369986860264282,0.369986860264282,0.369986860264282,0,13.3195269695142,0,0.369986860264282
-3Month,0,0,0,0.208034013289345,0,2.39239115282747,0,0.104017006644673,0,0,0,0.104017006644673,0.208034013289345,0
-22Month,0,0,0.136649431988133,0.819896591928799,0,4.09948295964399,0,0,0,0,0.136649431988133,0,0,0
+stage,Epithelial_cell,Erythrocyte,Goblet_cell,Hepatocyte,Immune_progenitor_cell,Intestinal_bulb_cell,Keratinocyte,Mesenchymal_cell,Neural_cell,Osteoblast,Primordial_germ_cell,Retinal_pigment_epithelial_cell,Spermatocyte,T_cell
+21Day,0.74,1.11,0,0,0.37,0.37,1.11,0.37,0.37,0.37,0,13.32,0,0.37
+3Month,0,0,0,0.21,0,2.39,0,0.1,0,0,0,0.1,0.21,0
+22Month,0,0,0.14,0.82,0,4.1,0,0,0,0,0.14,0,0,0

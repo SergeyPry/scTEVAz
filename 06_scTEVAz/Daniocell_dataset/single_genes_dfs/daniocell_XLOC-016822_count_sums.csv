@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,glial,gut,immune,mesenchyme,muscle,neural,presomitic.mesoderm,slow.muscle,somites,spinal.cord,taste,vascular.smooth.muscle,visceral.smooth.muscle
+stage,axial,blastomeres,endoderm,epidermis,eye,glial,gut,immune,mesenchyme,muscle,neural,presomitic_mesoderm,slow_muscle,somites,spinal_cord,taste,vascular_smooth_muscle,visceral_smooth_muscle
   3-4,0,27.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,14.5,30.58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,8.64,0,0,0,0,0,0,0

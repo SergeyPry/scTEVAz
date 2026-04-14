@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,erythrocytes,eye,glial,lateral.line,liver,mesenchyme,neural,otic,paraxial.mesoderm,pronephros,spinal.cord
+stage,blastomeres,endoderm,epidermis,erythrocytes,eye,glial,lateral_line,liver,mesenchyme,neural,otic,paraxial_mesoderm,pronephros,spinal_cord
   3-4,36.68,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,50.94,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,5.52,0,0,0,0

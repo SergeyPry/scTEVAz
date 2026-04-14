@@ -1,6 +1,6 @@
-stage,Epithelial.cell,Granulocyte,Hepatocyte,Macrophage,Muscle.cell,Neural.cell,Neural.progenitor.cell,Oocyte,Pancreatic.cell,Primordial.germ.cell,Radial.glia
-24hpf,0,0,0,4.08640457285017,0,0,4.08640457285017,0,0,0,0
-72hpf,0,0,0,0,0,5.34895570733039,1.06979114146608,0,0,0,1.06979114146608
-21Day,0,0,0,0,0,0,4.01559926460992,0,0,0,0
-3Month,0.959847898662586,0,0.319949299554195,0,0.319949299554195,0,0,0,0.319949299554195,1.91969579732517,0
-22Month,0,0.546654651197433,0.546654651197433,0,0,0,0,0.546654651197433,0,3.2799279071846,0
+stage,Epithelial_cell,Granulocyte,Hepatocyte,Macrophage,Muscle_cell,Neural_cell,Neural_progenitor_cell,Oocyte,Pancreatic_cell,Primordial_germ_cell,Radial_glia
+24hpf,0,0,0,4.09,0,0,4.09,0,0,0,0
+72hpf,0,0,0,0,0,5.35,1.07,0,0,0,1.07
+21Day,0,0,0,0,0,0,4.02,0,0,0,0
+3Month,0.96,0,0.32,0,0.32,0,0,0,0.32,1.92,0
+22Month,0,0.55,0.55,0,0,0,0,0.55,0,3.28,0

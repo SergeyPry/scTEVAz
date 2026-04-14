@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,glial,hatching.gland,lateral.line,mesenchyme,mucous,neural,olfactory,otic,pgc,spinal.cord,vasculature
+stage,blastomeres,epidermis,erythrocytes,eye,glial,hatching_gland,lateral_line,mesenchyme,mucous,neural,olfactory,otic,pgc,spinal_cord,vasculature
   3-4,10.65,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,0,0,0,0,0,0,0,0,0,8.55,0,0,0,0,0
   7-9,0,0,0,0,0,8.77,0,0,0,0,0,0,0,0,0

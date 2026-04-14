@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Erythrocyte,Erythroid.progenitor.cell,Granulocyte,Hepatocyte,Intestinal.bulb.cell,Macrophage,Neural.cell
-21Day,1.33853308820331,1.33853308820331,0,0,0,0,0,0
-3Month,0.639898599108391,0,0,0,0,0,0,0
-22Month,0,0,0.546654651197433,0.546654651197433,15.8529848847256,0.546654651197433,0.546654651197433,3.82658255838203
+stage,Epithelial_cell,Erythrocyte,Erythroid_progenitor_cell,Granulocyte,Hepatocyte,Intestinal_bulb_cell,Macrophage,Neural_cell
+21Day,1.34,1.34,0,0,0,0,0,0
+3Month,0.64,0,0,0,0,0,0,0
+22Month,0,0,0.55,0.55,15.85,0.55,0.55,3.83

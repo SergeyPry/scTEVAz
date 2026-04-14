@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,glial,gut,immune,iridophores,liver,mesenchyme,neural,olfactory,periderm,spinal.cord,xanthophores
+stage,endocrine_pancreas,epidermis,eye,glial,gut,immune,iridophores,liver,mesenchyme,neural,olfactory,periderm,spinal_cord,xanthophores
  14-21,1,0,0,0,0,0,0,0,0,5,0,0,3,0
  24-34,0,0.82,0.82,0,0,0,0,0,0,50.07,0.82,0,9.03,0
  36-46,0,0,0,0.81,0,0,0,0,0.81,84.6,0.81,0,9.67,0

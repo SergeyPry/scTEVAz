@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,erythrocytes,fast.muscle,glial,heart,iridophores,lateral.line,mesenchyme,neural,periderm,spinal.cord,vasculature
+stage,endocrine_pancreas,erythrocytes,fast_muscle,glial,heart,iridophores,lateral_line,mesenchyme,neural,periderm,spinal_cord,vasculature
  14-21,0,0,0,0,0,0,0,0,1.88,2.75,0,0
  24-34,0,0,0,0,0,0,0,0.9,3.16,2.7,0,0
  36-46,0,2.92,0,0,2.9,0,0,0,0,0.83,0,0

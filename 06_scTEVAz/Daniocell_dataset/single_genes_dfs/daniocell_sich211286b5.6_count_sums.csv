@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,eye,gut,hatching.gland,immune,muscle,neural,paraxial.mesoderm,periderm,pgc,spinal.cord
+stage,axial,blastomeres,endoderm,eye,gut,hatching_gland,immune,muscle,neural,paraxial_mesoderm,periderm,pgc,spinal_cord
   5-6,6.93,20.11,0,0,0,0,0,0,0,9.77,0,0,0
   7-9,0,0,3.53,0,0,7.77,0,0,12.65,8.64,0,0,0
  10-12,0,0,0,3.73,0,0,0,0,28.48,9.34,0,4.8,0

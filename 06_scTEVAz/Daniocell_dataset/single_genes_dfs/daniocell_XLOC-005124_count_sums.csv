@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,glial,melanocytes,mesenchyme,neural,otic,paraxial.mesoderm,periderm,spinal.cord
+stage,axial,blastomeres,endoderm,glial,melanocytes,mesenchyme,neural,otic,paraxial_mesoderm,periderm,spinal_cord
   3-4,9.36,72.7,0,0,0,0,0,0,0,11.57,0
   5-6,12.67,200.34,0,0,0,0,0,0,0,0,0
   7-9,0,0,4.17,0,0,0,107.6,0,9.95,0,0

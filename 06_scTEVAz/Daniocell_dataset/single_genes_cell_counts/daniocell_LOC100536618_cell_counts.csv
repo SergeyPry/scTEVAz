@@ -1,4 +1,4 @@
-stage,epidermis,exocrine.pancreas,eye,fin.mesenchyme,glial,gut,ionocyte,mesenchyme,neural,otic,spinal.cord,taste,xanthophores
+stage,epidermis,exocrine_pancreas,eye,fin_mesenchyme,glial,gut,ionocyte,mesenchyme,neural,otic,spinal_cord,taste,xanthophores
  14-21,0,0,1,0,0,0,0,0,1,1,0,0,0
  24-34,0,0,0,0,0.82,0,0,0,1.64,0,0,0,0
  36-46,0,0,0,0,0,0,0,0,3.22,0,0,0,0

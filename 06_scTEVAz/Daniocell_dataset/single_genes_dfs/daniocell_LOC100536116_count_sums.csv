@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,glial,gut,hatching.gland,immune,ionocyte,mesenchyme,mucous,muscle,neural,olfactory,paraxial.mesoderm,periderm,spinal.cord,taste,vasculature
+stage,epidermis,eye,fin_epithelia,glial,gut,hatching_gland,immune,ionocyte,mesenchyme,mucous,muscle,neural,olfactory,paraxial_mesoderm,periderm,spinal_cord,taste,vasculature
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,7.48,9.3,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,13.33,0,0,9.66,0,0,0
  14-21,0.81,0,0,0,0,0,0,0,0,0,0,0,0,0,19.91,0,0,0

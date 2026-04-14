@@ -1,4 +1,4 @@
-stage,epidermis,eye,ionocyte,mesenchyme,muscle,neural,olfactory,otic,pronephros,spinal.cord,xanthophores
+stage,epidermis,eye,ionocyte,mesenchyme,muscle,neural,olfactory,otic,pronephros,spinal_cord,xanthophores
  14-21,2.23,0,0,0,0,5.15,0,0.85,3.86,0,0
  24-34,0,0.78,0,0,0,0,0.69,0,0,0,0
  36-46,0,0,0,0,0,0.72,0.59,0,0,0,0

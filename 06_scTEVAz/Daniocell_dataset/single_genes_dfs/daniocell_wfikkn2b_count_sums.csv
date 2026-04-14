@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,glial,lateral.line,mesenchyme,mural.cell,muscle,neural,olfactory,periderm,somites,spinal.cord,xanthophores
+stage,blastomeres,epidermis,erythrocytes,eye,glial,lateral_line,mesenchyme,mural_cell,muscle,neural,olfactory,periderm,somites,spinal_cord,xanthophores
   5-6,15.67,0,0,0,0,0,0,0,0,7.48,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0.95,0,0,0.81,2.49,0
  24-34,0,0.71,0,0,0,0,0,0,0,1.1,0,0,0,0,0

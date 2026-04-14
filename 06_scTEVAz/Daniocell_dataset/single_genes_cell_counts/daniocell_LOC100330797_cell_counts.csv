@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.mesenchyme,glial,melanocytes,mesenchyme,neural,otic,periderm,somites,spinal.cord,vasculature
+stage,epidermis,eye,fin_mesenchyme,glial,melanocytes,mesenchyme,neural,otic,periderm,somites,spinal_cord,vasculature
  10-12,0,0,0,0,0,0,3.15,0,0,0,0,0
  14-21,0,0,0,0,0,0,1,0,0,2,0,0
  24-34,0,0.82,0,0,0,1.64,4.1,0,0,0,0.82,0

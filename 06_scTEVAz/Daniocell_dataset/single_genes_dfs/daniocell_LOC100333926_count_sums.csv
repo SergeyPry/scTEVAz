@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,gut,ionocyte,lateral.line,melanocytes,mesenchyme,neural,olfactory,periderm,taste
+stage,endocrine_pancreas,epidermis,gut,ionocyte,lateral_line,melanocytes,mesenchyme,neural,olfactory,periderm,taste
  24-34,0,0,0,0,0,0,0,0,0.76,1.29,0
  36-46,0,12.88,0,0,0,0,0,0.58,2.03,2.88,0
  48-58,0,0,0,0,0,1.85,0,0,0,2.75,0

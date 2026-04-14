@@ -1,4 +1,4 @@
-stage,epidermis,eye,heart,mesenchyme,neural,spinal.cord
+stage,epidermis,eye,heart,mesenchyme,neural,spinal_cord
  14-21,0,0,0,1,0,0
  24-34,0,0.82,0,0,2.46,0.82
  36-46,0,0,0,0,0.81,0

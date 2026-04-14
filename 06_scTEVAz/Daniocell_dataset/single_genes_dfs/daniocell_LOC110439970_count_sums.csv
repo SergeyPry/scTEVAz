@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,gut,hatching.gland,ionocyte,mesenchyme,mucous,neural,notochord,olfactory,periderm
+stage,endoderm,epidermis,gut,hatching_gland,ionocyte,mesenchyme,mucous,neural,notochord,olfactory,periderm
   7-9,0,0,0,0,0,0,0,0,4.06,0,0
  10-12,4.52,0,0,0,0,0,0,0,0,0,0
  24-34,0,0,0,1.14,0,0,3.09,0,0,0,0.62

@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,exocrine.pancreas,eye,fin.epithelia,glial,gut,mucous,muscle,neural,olfactory,periderm,presomitic.mesoderm,somites,taste,vasculature,visceral.smooth.muscle
+stage,epidermis,erythrocytes,exocrine_pancreas,eye,fin_epithelia,glial,gut,mucous,muscle,neural,olfactory,periderm,presomitic_mesoderm,somites,taste,vasculature,visceral_smooth_muscle
  14-21,0,0,0,0,0,0,0,0,1,0,0,0,1,5,0,0,0
  24-34,0.82,0,0,0,0,0,0,0,0,0,0,0,0,0.82,0,0,0
  36-46,0,0,0,0,0,0,0,0,0,0.81,0,0,0,0,0,0,0

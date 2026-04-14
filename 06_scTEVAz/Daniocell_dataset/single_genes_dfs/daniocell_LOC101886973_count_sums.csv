@@ -1,4 +1,4 @@
-stage,erythrocytes,eye,fin.mesenchyme,glial,hatching.gland,ionocyte,mesenchyme,mural.cell,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,slow.muscle,spinal.cord,taste,vasculature,visceral.smooth.muscle,xanthophores
+stage,erythrocytes,eye,fin_mesenchyme,glial,hatching_gland,ionocyte,mesenchyme,mural_cell,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,slow_muscle,spinal_cord,taste,vasculature,visceral_smooth_muscle,xanthophores
  14-21,0,0,0,0,0,0.8,0,0,0,1.62,0,0,0,1.06,0,2.48,0,0,0,0
  24-34,0,1.68,0,1.08,0,0,8.88,0,0.93,25.61,0,0.62,0,0,0.78,5.13,0,1.91,0,0
  36-46,0,1.7,0,0,0,0,0.89,0,0.73,22.68,0,0,0,0,0,3.91,0,0,0,0

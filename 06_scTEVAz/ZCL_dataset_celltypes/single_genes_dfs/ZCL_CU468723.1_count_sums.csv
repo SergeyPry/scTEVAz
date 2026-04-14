@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Keratinocyte,Macrophage,Mesenchymal.cell,Neural.cell,Retinal.cell
-24hpf,0,0,4.08640457285017,0,0,0
-72hpf,1.06979114146608,1.06979114146608,0,1.06979114146608,1.06979114146608,1.06979114146608
-21Day,0,0,0,0,1.33853308820331,0
+stage,Cardiomyocyte,Keratinocyte,Macrophage,Mesenchymal_cell,Neural_cell,Retinal_cell
+24hpf,0,0,4.09,0,0,0
+72hpf,1.07,1.07,0,1.07,1.07,1.07
+21Day,0,0,0,0,1.34,0

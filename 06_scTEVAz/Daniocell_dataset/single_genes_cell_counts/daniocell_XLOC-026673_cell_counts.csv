@@ -1,4 +1,4 @@
-stage,axial,endoderm,epidermis,erythrocytes,eye,fin.epithelia,glial,gut,immune,mesenchyme,neural,notochord,olfactory,paraxial.mesoderm,presomitic.mesoderm,spinal.cord
+stage,axial,endoderm,epidermis,erythrocytes,eye,fin_epithelia,glial,gut,immune,mesenchyme,neural,notochord,olfactory,paraxial_mesoderm,presomitic_mesoderm,spinal_cord
   7-9,0,2.63,0,0,0,0,0,0,0,0,2.63,0,0,2.63,0,0
  10-12,3.15,0,0,0,3.15,0,0,0,0,0,0,3.15,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0

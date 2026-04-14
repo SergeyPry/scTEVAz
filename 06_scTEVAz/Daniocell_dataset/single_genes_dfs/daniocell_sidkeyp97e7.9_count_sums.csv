@@ -1,4 +1,4 @@
-stage,epidermis,fast.muscle,ionocyte,liver,mesenchyme,mucous,muscle,neural,periderm,spinal.cord,vasculature
+stage,epidermis,fast_muscle,ionocyte,liver,mesenchyme,mucous,muscle,neural,periderm,spinal_cord,vasculature
  14-21,0,0,2.09,0,0,0,0,0,0,0.99,1.07
  24-34,0,0,67.17,1.74,0,1.98,3.13,2.29,0,0.82,0
  36-46,0.87,0,37.35,0,0,8.36,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,eye,fin.mesenchyme,glial,immune,mesenchyme,mural.cell,neural,otic,spinal.cord,vasculature,xanthophores
+stage,eye,fin_mesenchyme,glial,immune,mesenchyme,mural_cell,neural,otic,spinal_cord,vasculature,xanthophores
  10-12,0,0,0,0,0,0,5.9,0,0,0,0
  14-21,0,0,0,0,0,0,0.8,0,0,0,0
  24-34,0,0,0,0.64,0,0,0,0,0.67,0,0

@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,exocrine.pancreas,eye,glial,heart,ionocyte,mesenchyme,neural,notochord,otic,paraxial.mesoderm,periderm,pgc,spinal.cord
+stage,axial,blastomeres,endoderm,epidermis,exocrine_pancreas,eye,glial,heart,ionocyte,mesenchyme,neural,notochord,otic,paraxial_mesoderm,periderm,pgc,spinal_cord
   3-4,487.58,10529.17,0,0,0,0,0,0,0,0,0,0,0,0,289.91,0,0
   5-6,177.76,2758.34,0,0,0,0,0,0,0,0,91.94,6.13,0,0,42.91,0,0
   7-9,0,0,2.63,0,0,0,0,0,0,0,28.92,0,0,2.63,0,31.54,0

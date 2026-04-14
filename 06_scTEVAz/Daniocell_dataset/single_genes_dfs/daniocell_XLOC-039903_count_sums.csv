@@ -1,4 +1,4 @@
-stage,blastomeres,eye,fin.epithelia,fin.mesenchyme,glial,lateral.line,melanocytes,mesenchyme,neural,olfactory,paraxial.mesoderm,spinal.cord,vasculature
+stage,blastomeres,eye,fin_epithelia,fin_mesenchyme,glial,lateral_line,melanocytes,mesenchyme,neural,olfactory,paraxial_mesoderm,spinal_cord,vasculature
   3-4,9.75,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,3.23,0,0
  14-21,0,0,0,0,0,0,0,0,1.81,0,0,1.89,0

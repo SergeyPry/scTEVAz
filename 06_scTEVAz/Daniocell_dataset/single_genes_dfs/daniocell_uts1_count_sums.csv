@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endocrine.pancreas,epidermis,eye,fin.mesenchyme,glial,liver,mesenchyme,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,periderm,pronephros,somites,spinal.cord,vasculature,visceral.smooth.muscle,xanthophores
+stage,axial,blastomeres,endocrine_pancreas,epidermis,eye,fin_mesenchyme,glial,liver,mesenchyme,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,periderm,pronephros,somites,spinal_cord,vasculature,visceral_smooth_muscle,xanthophores
   3-4,23.02,30.09,0,0,0,0,0,0,0,0,0,0,0,0,0,47.07,0,0,0,0,0,0
   5-6,8.35,73.34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,3.58,8.24,0,0,0,0,0,0,0,0,29.5,19.05,0,0,36.21,0,0,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,epidermis,eye,fin.epithelia,glial,immune,ionocyte,mesenchyme,mural.cell,muscle,neural,olfactory,periderm,pronephros,spinal.cord,taste,vasculature,xanthophores
+stage,blastomeres,endocrine_pancreas,epidermis,eye,fin_epithelia,glial,immune,ionocyte,mesenchyme,mural_cell,muscle,neural,olfactory,periderm,pronephros,spinal_cord,taste,vasculature,xanthophores
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,6.29,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,17,0,0,0

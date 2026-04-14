@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,endoderm,epidermis,erythrocytes,eye,fin.mesenchyme,glial,gut,heart,ionocyte,lateral.line,liver,mesenchyme,mucous,neural,notochord,olfactory,otic,periderm,pronephros,spinal.cord,vascular.smooth.muscle,vasculature
+stage,blastomeres,endocrine_pancreas,endoderm,epidermis,erythrocytes,eye,fin_mesenchyme,glial,gut,heart,ionocyte,lateral_line,liver,mesenchyme,mucous,neural,notochord,olfactory,otic,periderm,pronephros,spinal_cord,vascular_smooth_muscle,vasculature
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0
  24-34,0,0,0,0,0,0,0,0,0,0,0,0.82,0,0,0,3.28,0,0.82,0,0,52.53,1.64,0,0

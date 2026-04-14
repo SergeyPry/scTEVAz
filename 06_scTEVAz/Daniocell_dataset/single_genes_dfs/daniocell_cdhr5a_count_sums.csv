@@ -1,4 +1,4 @@
-stage,epidermis,exocrine.pancreas,eye,fin.epithelia,glial,gut,heart,immune,iridophores,liver,mesenchyme,mural.cell,muscle,neural,olfactory,otic,pericytes,periderm,spinal.cord,taste,vascular.smooth.muscle,vasculature
+stage,epidermis,exocrine_pancreas,eye,fin_epithelia,glial,gut,heart,immune,iridophores,liver,mesenchyme,mural_cell,muscle,neural,olfactory,otic,pericytes,periderm,spinal_cord,taste,vascular_smooth_muscle,vasculature
  24-34,0,0,0,0,0,0,0.67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  36-46,0,0,0,0,0,0,0.63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  48-58,0.42,0,2.47,0,47.2,0,0,0,0,0,1.7,0,0,4.4,0,0,0,0,0,0,0,0.9

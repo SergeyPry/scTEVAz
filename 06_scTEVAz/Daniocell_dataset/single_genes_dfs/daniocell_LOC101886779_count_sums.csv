@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,glial,gut,hatching.gland,ionocyte,muscle,neural,olfactory,otic,periderm,spinal.cord,vasculature
+stage,blastomeres,endoderm,epidermis,glial,gut,hatching_gland,ionocyte,muscle,neural,olfactory,otic,periderm,spinal_cord,vasculature
   3-4,10.2,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,16.87,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,6.16,0,0,0,0,0,0,0,0

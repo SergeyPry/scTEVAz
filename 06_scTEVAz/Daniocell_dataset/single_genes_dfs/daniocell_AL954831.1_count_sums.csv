@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,erythrocytes,eye,fin.epithelia,fin.mesenchyme,glial,immune,iridophores,mesenchyme,muscle,neural,olfactory,periderm,pgc,pronephros,slow.muscle,somites,spinal.cord,vasculature,visceral.smooth.muscle,xanthophores
+stage,axial,blastomeres,epidermis,erythrocytes,eye,fin_epithelia,fin_mesenchyme,glial,immune,iridophores,mesenchyme,muscle,neural,olfactory,periderm,pgc,pronephros,slow_muscle,somites,spinal_cord,vasculature,visceral_smooth_muscle,xanthophores
   3-4,44.45,455.58,0,0,0,0,0,0,0,0,0,0,0,0,12.22,0,0,0,0,0,0,0,0
   5-6,37.29,205.42,0,0,0,0,0,0,0,0,0,0,0,0,25.89,0,0,0,0,0,0,0,0
   7-9,3.44,0,0,0,0,0,0,0,0,0,0,0,5.01,0,0,0,0,0,0,0,0,0,0

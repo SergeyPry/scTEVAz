@@ -1,4 +1,4 @@
-stage,eye,neural,spinal.cord,vasculature
+stage,eye,neural,spinal_cord,vasculature
  24-34,0,0.79,0.66,0
  36-46,0,0,0,0.61
  84-94,2.03,0,0,0

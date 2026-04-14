@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,fin.epithelia,glial,gut,heart,lateral.line,mesenchyme,neural,olfactory,otic,paraxial.mesoderm,periderm,somites,spinal.cord,visceral.smooth.muscle
+stage,blastomeres,epidermis,erythrocytes,eye,fin_epithelia,glial,gut,heart,lateral_line,mesenchyme,neural,olfactory,otic,paraxial_mesoderm,periderm,somites,spinal_cord,visceral_smooth_muscle
   3-4,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,7.49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,8.45,0,0,0,0,0,0,0

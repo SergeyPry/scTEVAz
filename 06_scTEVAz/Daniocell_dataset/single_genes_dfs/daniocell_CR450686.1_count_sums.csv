@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.mesenchyme,glial,gut,heart,immune,mesenchyme,muscle,neural,notochord,spinal.cord,vasculature,xanthophores
+stage,epidermis,eye,fin_mesenchyme,glial,gut,heart,immune,mesenchyme,muscle,neural,notochord,spinal_cord,vasculature,xanthophores
  14-21,1,0,0,0,0,0,0,0,0,2.41,0,0,0,0
  24-34,0,0,0,0,0,0,0,0,0,1.82,0,0,0,0
  36-46,0,0,0,0.98,0,0,0,0,0,0,0,1.72,0,0

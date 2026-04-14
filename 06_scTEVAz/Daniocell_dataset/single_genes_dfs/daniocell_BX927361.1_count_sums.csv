@@ -1,4 +1,4 @@
-stage,blastomeres,eye,glial,gut,hatching.gland,heart,immune,mesenchyme,mural.cell,neural,otic,periderm,pronephros,spinal.cord
+stage,blastomeres,eye,glial,gut,hatching_gland,heart,immune,mesenchyme,mural_cell,neural,otic,periderm,pronephros,spinal_cord
   5-6,8.54,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0.91,0,0,0,0,0,0,9,0,1.46,0,3.07
  24-34,0,0.64,1.96,0,0,0,0,0,0,53.08,0,0,1.25,14.16

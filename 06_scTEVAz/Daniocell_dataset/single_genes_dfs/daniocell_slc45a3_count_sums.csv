@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endocrine.pancreas,epidermis,eye,fin.mesenchyme,gut,hatching.gland,immune,ionocyte,mesenchyme,mucous,neural,notochord,olfactory,paraxial.mesoderm,periderm,pgc,pronephros,vasculature
+stage,axial,blastomeres,endocrine_pancreas,epidermis,eye,fin_mesenchyme,gut,hatching_gland,immune,ionocyte,mesenchyme,mucous,neural,notochord,olfactory,paraxial_mesoderm,periderm,pgc,pronephros,vasculature
   3-4,0,11.13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,13.07,6.43,0,0,0,0,0,0,0,0,0,0,0,0,0,5.94,0,4.77,0,0
  24-34,0,0,0,0,0,0,0,0,0,3.87,0,0,0,0,0,0,1.9,0,0,4.13

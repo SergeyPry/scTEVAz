@@ -1,5 +1,5 @@
-stage,Cardiomyocyte,Epithelial.cell,Erythrocyte,Intestinal.bulb.cell,Keratinocyte,Macrophage,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Oligodendrocyte,Osteoblast,Radial.glia,Retinal.cone.cell
+stage,Cardiomyocyte,Epithelial_cell,Erythrocyte,Intestinal_bulb_cell,Keratinocyte,Macrophage,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Oligodendrocyte,Osteoblast,Radial_glia,Retinal_cone_cell
 24hpf,0,0,0,0,0,0,0,1,5,0,1,0,0
-72hpf,0.281848056003223,0,0,0,0.563696112006446,0,0,34.3854628323932,2.25478444802579,0.281848056003223,0,0,0
-21Day,0.369986860264282,0.369986860264282,1.84993430132141,0.369986860264282,0.369986860264282,0,1.47994744105713,22.9391853363855,1.10996058079285,0,0,0.369986860264282,0.739973720528564
-3Month,0,0,0,0.104017006644673,0,0.104017006644673,0,0.104017006644673,0,0,0,0,0
+72hpf,0.28,0,0,0,0.56,0,0,34.39,2.25,0.28,0,0,0
+21Day,0.37,0.37,1.85,0.37,0.37,0,1.48,22.94,1.11,0,0,0.37,0.74
+3Month,0,0,0,0.1,0,0.1,0,0.1,0,0,0,0,0

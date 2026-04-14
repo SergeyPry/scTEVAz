@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,glial,gut,liver,mesenchyme,muscle,neural,notochord,olfactory,periderm,somites,spinal.cord,vasculature
+stage,blastomeres,endoderm,epidermis,eye,glial,gut,liver,mesenchyme,muscle,neural,notochord,olfactory,periderm,somites,spinal_cord,vasculature
   5-6,17.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,14.84,0,0,0,0,0,5.24,11.5,0,0,0,0,0
  10-12,0,9.59,0,0,0,0,0,0,0,45.67,0,0,0,0,0,0

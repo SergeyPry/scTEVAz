@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.mesenchyme,glial,heart,lateral.line,melanocytes,mesenchyme,mural.cell,muscle,neural,olfactory,paraxial.mesoderm,periderm,somites,spinal.cord,vasculature
+stage,epidermis,eye,fin_mesenchyme,glial,heart,lateral_line,melanocytes,mesenchyme,mural_cell,muscle,neural,olfactory,paraxial_mesoderm,periderm,somites,spinal_cord,vasculature
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,3.21,0,0,0,0
  14-21,2.98,1.23,0,1.64,0,0,1.08,1.02,0,0,0,0,0,3.28,5.53,0.82,0
  24-34,1.07,0.98,0,0,0,1.89,0,2.56,0,1.49,4.43,0,0,1.34,0,2.15,1.25

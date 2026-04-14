@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,ionocyte,mesenchyme,neural,olfactory,somites,spinal.cord
+stage,epidermis,eye,glial,ionocyte,mesenchyme,neural,olfactory,somites,spinal_cord
  14-21,1,0,0,0,0,1,0,1,0
  24-34,0.82,0.82,0,0,0,2.46,0.82,0,0.82
  36-46,0,0,0,0,0,2.42,0,0,0

@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,immune,ionocyte,mesenchyme,mucous,muscle,neural,notochord,paraxial.mesoderm,periderm,pronephros,spinal.cord
+stage,blastomeres,epidermis,erythrocytes,eye,immune,ionocyte,mesenchyme,mucous,muscle,neural,notochord,paraxial_mesoderm,periderm,pronephros,spinal_cord
   3-4,24.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,4.63,0,0,0
  10-12,9.56,0,0,0,0,0,0,0,0,22.45,8.54,4.3,6.67,4.63,0

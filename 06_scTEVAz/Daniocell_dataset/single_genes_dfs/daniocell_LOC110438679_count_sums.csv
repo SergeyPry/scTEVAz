@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,erythrocytes,eye,glial,ionocyte,mesenchyme,muscle,neural,paraxial.mesoderm,periderm,presomitic.mesoderm,spinal.cord,vasculature
+stage,blastomeres,endoderm,epidermis,erythrocytes,eye,glial,ionocyte,mesenchyme,muscle,neural,paraxial_mesoderm,periderm,presomitic_mesoderm,spinal_cord,vasculature
   3-4,9.96,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,0,12.33,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,4.63,4.77,0,0,0,0

@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,epidermis,exocrine.pancreas,eye,glial,gut,ionocyte,liver,mesenchyme,mucous,neural,olfactory,otic,pericytes,periderm,presomitic.mesoderm,pronephros,spinal.cord
+stage,blastomeres,endocrine_pancreas,epidermis,exocrine_pancreas,eye,glial,gut,ionocyte,liver,mesenchyme,mucous,neural,olfactory,otic,pericytes,periderm,presomitic_mesoderm,pronephros,spinal_cord
   3-4,13.82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,3.79,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,11.91,0,0,0,0,0,0,0

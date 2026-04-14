@@ -1,4 +1,4 @@
-stage,Goblet.cell,Ionocyte,Keratinocyte,Neural.cell,Neurosecretory.cell
-72hpf,0,0,0.281848056003223,0,0
-3Month,0,0,0,0.416068026578691,0
-22Month,0.136649431988133,0.273298863976266,0,0.273298863976266,0.136649431988133
+stage,Goblet_cell,Ionocyte,Keratinocyte,Neural_cell,Neurosecretory_cell
+72hpf,0,0,0.28,0,0
+3Month,0,0,0,0.42,0
+22Month,0.14,0.27,0,0.27,0.14

@@ -1,4 +1,4 @@
-stage,epidermis,eye,mesenchyme,muscle,neural,paraxial.mesoderm,pronephros,somites,spinal.cord,vasculature
+stage,epidermis,eye,mesenchyme,muscle,neural,paraxial_mesoderm,pronephros,somites,spinal_cord,vasculature
   7-9,0,0,0,0,4.77,0,0,0,0,0
  10-12,0,0,0,0,10.96,7.54,0,0,0,0
  14-21,1.05,0,0.92,1.18,0,0,0,0,0,0

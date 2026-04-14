@@ -1,4 +1,4 @@
-stage,Endothelial.cell,Granulocyte,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Mesenchymal.cell,Muscle.cell,Neural.cell,Neural.progenitor.cell,Osteoblast,Primordial.germ.cell,T.cell
-72hpf,0,0,0,0,0,0,0,7.48853799026255,1.06979114146608,1.06979114146608,0,0
-3Month,0,0.319949299554195,0,0.319949299554195,0,0.319949299554195,0,30.3951834576486,0,0.319949299554195,1.27979719821678,0.319949299554195
-22Month,0.546654651197433,0.546654651197433,9.8397837215538,0.546654651197433,0.546654651197433,0,0.546654651197433,0,0,0,0,0
+stage,Endothelial_cell,Granulocyte,Hepatocyte,Immune_cell,Intestinal_bulb_cell,Mesenchymal_cell,Muscle_cell,Neural_cell,Neural_progenitor_cell,Osteoblast,Primordial_germ_cell,T_cell
+72hpf,0,0,0,0,0,0,0,7.49,1.07,1.07,0,0
+3Month,0,0.32,0,0.32,0,0.32,0,30.4,0,0.32,1.28,0.32
+22Month,0.55,0.55,9.84,0.55,0.55,0,0.55,0,0,0,0,0

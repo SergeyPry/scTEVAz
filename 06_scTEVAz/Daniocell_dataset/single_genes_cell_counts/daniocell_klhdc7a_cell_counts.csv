@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,glial,gut,hatching.gland,ionocyte,lateral.line,mesenchyme,mucous,neural,olfactory,otic,periderm,somites,spinal.cord,taste
+stage,endocrine_pancreas,epidermis,eye,glial,gut,hatching_gland,ionocyte,lateral_line,mesenchyme,mucous,neural,olfactory,otic,periderm,somites,spinal_cord,taste
   7-9,0,0,2.63,0,0,2.63,0,0,0,0,2.63,0,0,0,0,0,0
  14-21,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
  24-34,0,0,0,0.82,0,0,0.82,0,0,0,2.46,0.82,0.82,0,0,0,0

@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fast.muscle,glial,gut,liver,mesenchyme,muscle,neural,olfactory,otic,periderm,slow.muscle,somites,spinal.cord,vasculature,xanthophores
+stage,epidermis,erythrocytes,eye,fast_muscle,glial,gut,liver,mesenchyme,muscle,neural,olfactory,otic,periderm,slow_muscle,somites,spinal_cord,vasculature,xanthophores
  14-21,0,0,0,0,0,0,0,0,0.85,3.61,0,0,0,55.74,14.65,3.37,0,0
  24-34,1.16,0,0.75,4.95,1.56,0,0,0,11.08,48.84,0,0.6,2.83,33.95,5.19,6.56,1.24,0
  36-46,0,0,3.42,14.13,0,0,0,0,2.69,62.49,1.27,0,0,10.72,0,5.37,1.59,0

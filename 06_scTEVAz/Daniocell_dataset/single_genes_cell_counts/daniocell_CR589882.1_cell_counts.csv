@@ -1,4 +1,4 @@
-stage,erythrocytes,eye,glial,mesenchyme,muscle,neural,pronephros,somites,spinal.cord,vasculature
+stage,erythrocytes,eye,glial,mesenchyme,muscle,neural,pronephros,somites,spinal_cord,vasculature
  10-12,0,0,0,0,0,3.15,3.15,3.15,0,0
  14-21,1,1,0,0,0,2,0,2,0,0
  24-34,0,0,0,0,0,7.39,0,0,1.64,0

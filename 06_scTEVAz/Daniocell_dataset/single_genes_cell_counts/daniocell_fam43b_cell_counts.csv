@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,erythrocytes,exocrine.pancreas,eye,fin.mesenchyme,glial,gut,heart,ionocyte,iridophores,melanocytes,mesenchyme,mucous,mural.cell,muscle,neural,olfactory,pericytes,periderm,pgc,spinal.cord,taste,vascular.smooth.muscle,vasculature,visceral.smooth.muscle,xanthophores
+stage,endocrine_pancreas,epidermis,erythrocytes,exocrine_pancreas,eye,fin_mesenchyme,glial,gut,heart,ionocyte,iridophores,melanocytes,mesenchyme,mucous,mural_cell,muscle,neural,olfactory,pericytes,periderm,pgc,spinal_cord,taste,vascular_smooth_muscle,vasculature,visceral_smooth_muscle,xanthophores
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.63,0,0,0,2.63,0,0,0,0,0,0
  14-21,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,13,0,0,0,0,0
  24-34,0,0,0,0,0.82,0,0,0,0,0,0,0,0.82,0.82,0,0,13.13,0,0,0,0,45.97,0,0,0.82,0,0

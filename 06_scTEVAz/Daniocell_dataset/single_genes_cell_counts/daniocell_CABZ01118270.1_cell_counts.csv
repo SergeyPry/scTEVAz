@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,erythrocytes,eye,fin.mesenchyme,glial,hatching.gland,heart,immune,ionocyte,iridophores,mesenchyme,mural.cell,muscle,neural,periderm,presomitic.mesoderm,pronephros,spinal.cord,taste,vascular.smooth.muscle,vasculature,visceral.smooth.muscle
+stage,endoderm,epidermis,erythrocytes,eye,fin_mesenchyme,glial,hatching_gland,heart,immune,ionocyte,iridophores,mesenchyme,mural_cell,muscle,neural,periderm,presomitic_mesoderm,pronephros,spinal_cord,taste,vascular_smooth_muscle,vasculature,visceral_smooth_muscle
  14-21,0,2,2,0,0,0,0,0,6,0,0,7,0,0,0,0,0,0,1,0,0,0,0
  24-34,0,1.64,0.82,0.82,0,0.82,0,0.82,8.21,0,0.82,4.93,0,3.28,1.64,0,0,0,0.82,0,0,0,0
  36-46,0,0,0,0,0,0,0,0.81,16.11,0,0,33.03,0.81,7.25,1.61,0,0.81,0,0.81,0,0,0.81,0

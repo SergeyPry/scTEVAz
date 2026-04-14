@@ -1,4 +1,4 @@
-stage,endoderm,eye,fin.epithelia,fin.mesenchyme,glial,liver,mesenchyme,neural,periderm,somites,spinal.cord
+stage,endoderm,eye,fin_epithelia,fin_mesenchyme,glial,liver,mesenchyme,neural,periderm,somites,spinal_cord
  14-21,1,0,0,0,0,0,2,1,0,1,1
  24-34,0,0,0,0,0,0,0,0.82,0,0,0
  36-46,0,0,0,0,0,0,0,3.22,0.81,0,0

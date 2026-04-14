@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,endoderm,epidermis,eye,glial,melanocytes,mesenchyme,mural.cell,muscle,neural,olfactory,otic,pronephros,somites,spinal.cord
+stage,endocrine_pancreas,endoderm,epidermis,eye,glial,melanocytes,mesenchyme,mural_cell,muscle,neural,olfactory,otic,pronephros,somites,spinal_cord
  14-21,0,1,0,0,0,0,0,0,0,3,0,0,0,1,1
  24-34,0.82,0,0,0,0,0,0,0,0,8.21,0,0,0.82,0,1.64
  36-46,0,0,0,0,0,0,0.81,0,0,14.5,0,0,0,0,5.64

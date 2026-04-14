@@ -1,4 +1,4 @@
-stage,epidermis,gut,mesenchyme,muscle,neural,periderm,somites,spinal.cord
+stage,epidermis,gut,mesenchyme,muscle,neural,periderm,somites,spinal_cord
  14-21,0,0,0,0,1.08,0,0.84,0
  24-34,0,0,0,0,8.44,0,0,0.68
  36-46,0,0,0,1.22,0.77,1.63,0,0.56

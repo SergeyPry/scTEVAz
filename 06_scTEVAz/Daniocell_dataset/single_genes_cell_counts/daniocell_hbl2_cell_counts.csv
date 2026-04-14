@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,exocrine.pancreas,eye,fin.epithelia,fin.mesenchyme,glial,gut,heart,ionocyte,lateral.line,liver,mesenchyme,mucous,mural.cell,muscle,neural,notochord,olfactory,otic,periderm,pronephros,spinal.cord,vasculature,visceral.smooth.muscle,xanthophores
+stage,blastomeres,epidermis,exocrine_pancreas,eye,fin_epithelia,fin_mesenchyme,glial,gut,heart,ionocyte,lateral_line,liver,mesenchyme,mucous,mural_cell,muscle,neural,notochord,olfactory,otic,periderm,pronephros,spinal_cord,vasculature,visceral_smooth_muscle,xanthophores
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,3,0,0,0,0,0,0,0,0,0,0,2,0,0,3,2,0,0,0,0,0,3,10,0,0
  24-34,0,14.78,0,0,0,0,0,0,0.82,0,0,0.82,8.21,0.82,0,5.75,4.1,1.64,0,0,0.82,0,0.82,59.1,0,0

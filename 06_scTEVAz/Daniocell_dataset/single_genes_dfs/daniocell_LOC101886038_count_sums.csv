@@ -1,4 +1,4 @@
-stage,erythrocytes,eye,fast.muscle,gut,ionocyte,lateral.line,mesenchyme,muscle,neural,otic,presomitic.mesoderm,somites
+stage,erythrocytes,eye,fast_muscle,gut,ionocyte,lateral_line,mesenchyme,muscle,neural,otic,presomitic_mesoderm,somites
  14-21,0,0,0,0,1.08,0,0,0,0,0,0.93,1.78
  24-34,0,0,0,0,1.18,0,2.25,0,0,0,0,0.62
  36-46,0,1.63,0,0,0,0,0,0,0,4.65,0,0

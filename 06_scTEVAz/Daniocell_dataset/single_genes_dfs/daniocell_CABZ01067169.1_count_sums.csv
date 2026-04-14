@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,gut,immune,ionocyte,liver,mesenchyme,neural,notochord,olfactory,otic,paraxial.mesoderm,periderm,spinal.cord,taste,xanthophores
+stage,blastomeres,epidermis,eye,glial,gut,immune,ionocyte,liver,mesenchyme,neural,notochord,olfactory,otic,paraxial_mesoderm,periderm,spinal_cord,taste,xanthophores
   3-4,15.33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,15.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,4.92,0,0,0,0,0,0,0,0

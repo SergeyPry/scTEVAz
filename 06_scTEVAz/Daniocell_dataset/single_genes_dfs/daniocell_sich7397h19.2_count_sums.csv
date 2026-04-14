@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,epidermis,erythrocytes,exocrine.pancreas,eye,fin.epithelia,glial,gut,hatching.gland,ionocyte,mesenchyme,mucous,muscle,neural,paraxial.mesoderm,periderm,pgc,somites,spinal.cord,taste,visceral.smooth.muscle
+stage,blastomeres,endocrine_pancreas,epidermis,erythrocytes,exocrine_pancreas,eye,fin_epithelia,glial,gut,hatching_gland,ionocyte,mesenchyme,mucous,muscle,neural,paraxial_mesoderm,periderm,pgc,somites,spinal_cord,taste,visceral_smooth_muscle
   3-4,22.67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,29.17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13.66,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,34.38,0,0,0,0,13.04,0,0,0,0,0,0,0

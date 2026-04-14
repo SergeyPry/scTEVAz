@@ -1,4 +1,4 @@
-stage,Neural.progenitor.cell,Neurosecretory.cell,Spermatocyte
+stage,Neural_progenitor_cell,Neurosecretory_cell,Spermatocyte
 24hpf,1,0,0
-72hpf,0.281848056003223,0,0
-3Month,0,0.104017006644673,0.104017006644673
+72hpf,0.28,0,0
+3Month,0,0.1,0.1

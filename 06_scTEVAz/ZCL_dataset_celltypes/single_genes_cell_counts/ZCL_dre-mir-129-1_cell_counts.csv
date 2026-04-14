@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Neural.cell,Oligodendrocyte,Osteoblast,Radial.glia
+stage,Epithelial_cell,Neural_cell,Oligodendrocyte,Osteoblast,Radial_glia
 24hpf,1,0,0,0,0
-72hpf,0,5.35511306406124,0,0.281848056003223,0
-21Day,0.739973720528564,1.84993430132141,0.369986860264282,0,0.369986860264282
+72hpf,0,5.36,0,0.28,0
+21Day,0.74,1.85,0.37,0,0.37

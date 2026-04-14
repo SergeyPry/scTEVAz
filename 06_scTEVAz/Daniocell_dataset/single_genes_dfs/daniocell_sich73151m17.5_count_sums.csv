@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,glial,gut,hatching.gland,iridophores,mesenchyme,mucous,mural.cell,muscle,neural,paraxial.mesoderm,periderm,somites,spinal.cord,vascular.smooth.muscle,vasculature,visceral.smooth.muscle
+stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,glial,gut,hatching_gland,iridophores,mesenchyme,mucous,mural_cell,muscle,neural,paraxial_mesoderm,periderm,somites,spinal_cord,vascular_smooth_muscle,vasculature,visceral_smooth_muscle
   3-4,0,20.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,0,6.89,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,4.24,0,0,0,0,3.56,0,0,0,0,0,0,0,0,13.63,3.52,0,0,0,0,0,0

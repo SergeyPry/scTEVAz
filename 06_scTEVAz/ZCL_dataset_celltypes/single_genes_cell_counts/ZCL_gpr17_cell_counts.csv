@@ -1,5 +1,5 @@
-stage,Granulosa.cell,Hepatocyte,Mesenchymal.cell..caudal.fin.,Neural.cell,Neural.progenitor.cell,Oligodendrocyte,Osteoblast
+stage,Granulosa_cell,Hepatocyte,Mesenchymal_cell__caudal_fin_,Neural_cell,Neural_progenitor_cell,Oligodendrocyte,Osteoblast
 24hpf,0,0,0,1,1,0,0
-72hpf,0,0,0,0,0,0,0.281848056003223
-21Day,0,0,0,0,0,0.369986860264282,0
-22Month,0.136649431988133,0.136649431988133,0.136649431988133,0,0,0,0
+72hpf,0,0,0,0,0,0,0.28
+21Day,0,0,0,0,0,0.37,0
+22Month,0.14,0.14,0.14,0,0,0,0

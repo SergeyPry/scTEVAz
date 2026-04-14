@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.mesenchyme,glial,hatching.gland,ionocyte,iridophores,mesenchyme,muscle,neural,notochord,otic,periderm,presomitic.mesoderm,somites,spinal.cord,vasculature,visceral.smooth.muscle
+stage,epidermis,erythrocytes,eye,fin_mesenchyme,glial,hatching_gland,ionocyte,iridophores,mesenchyme,muscle,neural,notochord,otic,periderm,presomitic_mesoderm,somites,spinal_cord,vasculature,visceral_smooth_muscle
   7-9,0,0,0,0,0,9.43,0,0,0,0,16.43,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,22.36,0,0,0,0,0,0,0,0
  14-21,1,2.91,0,0,0,0,0,0,0,0,0.87,0,0,3.18,1.46,0.88,0.82,0,0

@@ -1,5 +1,5 @@
-stage,Enterocyte,Epithelial.cell,Granulocyte,Hepatocyte,Ionocyte,Macrophage,Mesenchymal.cell,Nephron.cell,Neural.cell,Pancreatic.cell,Primordial.germ.cell
-72hpf,0,0,0,0,0,1.06979114146608,0,0,1.06979114146608,0,0
-21Day,0,1.33853308820331,0,0,0,0,1.33853308820331,0,4.01559926460992,1.33853308820331,0
-3Month,0.319949299554195,0.959847898662586,0,0.319949299554195,0,0.319949299554195,0,0.319949299554195,7.3588338897465,0,0.639898599108391
-22Month,0,0,0.546654651197433,0.546654651197433,0.546654651197433,0,0,0,0,0,0
+stage,Enterocyte,Epithelial_cell,Granulocyte,Hepatocyte,Ionocyte,Macrophage,Mesenchymal_cell,Nephron_cell,Neural_cell,Pancreatic_cell,Primordial_germ_cell
+72hpf,0,0,0,0,0,1.07,0,0,1.07,0,0
+21Day,0,1.34,0,0,0,0,1.34,0,4.02,1.34,0
+3Month,0.32,0.96,0,0.32,0,0.32,0,0.32,7.36,0,0.64
+22Month,0,0,0.55,0.55,0.55,0,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,glial,gut,immune,iridophores,liver,mesenchyme,muscle,neural,paraxial.mesoderm,periderm,slow.muscle,spinal.cord,taste
+stage,epidermis,eye,fast_muscle,glial,gut,immune,iridophores,liver,mesenchyme,muscle,neural,paraxial_mesoderm,periderm,slow_muscle,spinal_cord,taste
   7-9,0,0,0,0,0,0,0,0,0,0,3.89,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,13.28,0,0,0,0
  24-34,0,0,0,0,0,0,0,0,0.74,0,9.24,0,0,0,0.94,0

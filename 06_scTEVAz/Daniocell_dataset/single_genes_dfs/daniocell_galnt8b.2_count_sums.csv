@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,glial,gut,heart,ionocyte,mesenchyme,mucous,muscle,neural,notochord,paraxial.mesoderm,periderm,pronephros,spinal.cord,taste
+stage,blastomeres,endoderm,epidermis,eye,glial,gut,heart,ionocyte,mesenchyme,mucous,muscle,neural,notochord,paraxial_mesoderm,periderm,pronephros,spinal_cord,taste
   3-4,27.39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,66.33,0,0,0,0,0,0,0,0,0,0,0,0,11.61,0,0,0,0
   7-9,0,0,0,10.74,0,0,0,0,0,0,0,47.27,6.09,13.46,0,0,0,0

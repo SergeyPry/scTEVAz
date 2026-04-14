@@ -1,5 +1,5 @@
-stage,Endothelial.cell,Enterocyte,Epithelial.cell,Goblet.cell,Granulocyte,Hepatocyte,Immune.progenitor.cell,Intestinal.bulb.cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal.cell,Mt.rich.cell,Muscle.cell,Neural.cell,Primordial.germ.cell,Retinal.cell,Retinal.cone.cell,Spermatocyte,T.cell
-72hpf,0,0,1.12739222401289,0,0,0,0,0,0,8.73728973609992,0,0,0,0,0,0,0,0,0,0
-21Day,0,0,6.65976348475708,0,0,0,0.369986860264282,0,0,9.24967150660706,0.369986860264282,1.84993430132141,0,0,0,0,0,0.369986860264282,0,0
-3Month,0,0,0,0,0,0.312051019934018,0,0,0.104017006644673,0,0,0.104017006644673,0,0,0.104017006644673,0,0,0,0.208034013289345,0.104017006644673
-22Month,0.273298863976266,0.136649431988133,14.2115409267658,0.409948295964399,0.273298863976266,2.4596897757864,0,0.136649431988133,0,0.409948295964399,0.819896591928799,0.273298863976266,0.136649431988133,0.136649431988133,0,0.273298863976266,0.136649431988133,0,0,0.273298863976266
+stage,Endothelial_cell,Enterocyte,Epithelial_cell,Goblet_cell,Granulocyte,Hepatocyte,Immune_progenitor_cell,Intestinal_bulb_cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal_cell,Mt_rich_cell,Muscle_cell,Neural_cell,Primordial_germ_cell,Retinal_cell,Retinal_cone_cell,Spermatocyte,T_cell
+72hpf,0,0,1.13,0,0,0,0,0,0,8.74,0,0,0,0,0,0,0,0,0,0
+21Day,0,0,6.66,0,0,0,0.37,0,0,9.25,0.37,1.85,0,0,0,0,0,0.37,0,0
+3Month,0,0,0,0,0,0.31,0,0,0.1,0,0,0.1,0,0,0.1,0,0,0,0.21,0.1
+22Month,0.27,0.14,14.21,0.41,0.27,2.46,0,0.14,0,0.41,0.82,0.27,0.14,0.14,0,0.27,0.14,0,0,0.27

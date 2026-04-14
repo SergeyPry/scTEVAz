@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.epithelia,fin.mesenchyme,glial,lateral.line,mesenchyme,mural.cell,muscle,neural,olfactory,paraxial.mesoderm,periderm,somites,spinal.cord,vascular.smooth.muscle,xanthophores
+stage,epidermis,erythrocytes,eye,fin_epithelia,fin_mesenchyme,glial,lateral_line,mesenchyme,mural_cell,muscle,neural,olfactory,paraxial_mesoderm,periderm,somites,spinal_cord,vascular_smooth_muscle,xanthophores
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,2.63,0,0,0,0,0
  14-21,0,0,34,0,0,0,0,0,0,0,23,0,0,0,0,2,0,0
  24-34,0,0,158.43,0,0.82,0,0,0,0,0.82,82.91,0,0,0,0.82,4.1,0,0

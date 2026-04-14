@@ -1,6 +1,6 @@
-stage,Cardiomyocyte,Endothelial.cell,Epithelial.cell,Epithelial.cell..Brain.,Erythrocyte..Liver.,Fibroblast,Goblet.cell,Hepatocyte,Immune.cell,Immune.progenitor.cell,Intestinal.bulb.cell,Keratinocyte,Macrophage,Mesenchymal.cell,Muscle.cell,Neural.cell,Neural.progenitor.cell,Oligodendrocyte,Primordial.germ.cell,Radial.glia,Spermatocyte
-24hpf,4.08640457285017,4.08640457285017,4.08640457285017,0,0,0,0,0,0,0,0,4.08640457285017,0,4.08640457285017,0,0,12.2592137185505,0,0,0,0
-72hpf,1.06979114146608,0,1.06979114146608,0,0,0,0,0,0,0,0,4.27916456586431,0,0,0,19.2562405463894,9.6281202731947,0,0,1.06979114146608,0
-21Day,0,0,0,0,0,0,0,0,0,0,0,1.33853308820331,0,0,0,0,5.35413235281323,0,0,1.33853308820331,0
-3Month,0,0,1.59974649777098,0.319949299554195,0.319949299554195,0.319949299554195,0.319949299554195,1.91969579732517,0.639898599108391,0.639898599108391,0.639898599108391,0,0.319949299554195,0,0.319949299554195,0,0,0.319949299554195,10.8782761848426,0,9.59847898662586
-22Month,0,0,0,0,0,0,0,0.546654651197433,0,0,0,0,0,0.546654651197433,0,0,0,0,0.546654651197433,0,0
+stage,Cardiomyocyte,Endothelial_cell,Epithelial_cell,Epithelial_cell__Brain_,Erythrocyte__Liver_,Fibroblast,Goblet_cell,Hepatocyte,Immune_cell,Immune_progenitor_cell,Intestinal_bulb_cell,Keratinocyte,Macrophage,Mesenchymal_cell,Muscle_cell,Neural_cell,Neural_progenitor_cell,Oligodendrocyte,Primordial_germ_cell,Radial_glia,Spermatocyte
+24hpf,4.09,4.09,4.09,0,0,0,0,0,0,0,0,4.09,0,4.09,0,0,12.26,0,0,0,0
+72hpf,1.07,0,1.07,0,0,0,0,0,0,0,0,4.28,0,0,0,19.26,9.63,0,0,1.07,0
+21Day,0,0,0,0,0,0,0,0,0,0,0,1.34,0,0,0,0,5.35,0,0,1.34,0
+3Month,0,0,1.6,0.32,0.32,0.32,0.32,1.92,0.64,0.64,0.64,0,0.32,0,0.32,0,0,0.32,10.88,0,9.6
+22Month,0,0,0,0,0,0,0,0.55,0,0,0,0,0,0.55,0,0,0,0,0.55,0,0

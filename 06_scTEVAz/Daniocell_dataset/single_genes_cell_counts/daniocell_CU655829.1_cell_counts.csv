@@ -1,4 +1,4 @@
-stage,eye,fast.muscle,glial,immune,lateral.line,mesenchyme,mural.cell,muscle,neural,periderm,spinal.cord,vasculature
+stage,eye,fast_muscle,glial,immune,lateral_line,mesenchyme,mural_cell,muscle,neural,periderm,spinal_cord,vasculature
  14-21,0,0,0,0,0,0,0,0,1,0,0,0
  24-34,0,0,0,0,0,0,0,0,1.64,0,0.82,0
  36-46,0,0,0,0,0,0,0.81,0,0.81,1.61,0,0

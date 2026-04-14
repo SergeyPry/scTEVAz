@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,eye,fin.epithelia,glial,mesenchyme,mural.cell,muscle,neural,notochord,otic,paraxial.mesoderm,pgc,spinal.cord,vasculature
+stage,blastomeres,endoderm,eye,fin_epithelia,glial,mesenchyme,mural_cell,muscle,neural,notochord,otic,paraxial_mesoderm,pgc,spinal_cord,vasculature
   3-4,28.31,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,79.86,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,10.58,0,18.97,0,0,0,0,0,68.39,0,0,3.8,0,0,0

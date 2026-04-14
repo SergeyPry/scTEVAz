@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,erythrocytes,eye,fin.mesenchyme,glial,gut,heart,immune,ionocyte,lateral.line,mesenchyme,mucous,mural.cell,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,periderm,presomitic.mesoderm,pronephros,somites,spinal.cord,vasculature,xanthophores
+stage,endoderm,epidermis,erythrocytes,eye,fin_mesenchyme,glial,gut,heart,immune,ionocyte,lateral_line,mesenchyme,mucous,mural_cell,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,periderm,presomitic_mesoderm,pronephros,somites,spinal_cord,vasculature,xanthophores
  14-21,2,5,2,4,0,2,0,0,0,0,0,9,0,0,6,61,5,0,1,1,1,12,0,4,20,2,0
  24-34,0,0,0,27.09,0,6.57,0,0,0,0,0.82,16.42,0.82,0,3.28,165.81,0,0,0,0,1.64,0,0,1.64,29.55,1.64,0
  36-46,0,1.61,1.61,88.62,0.81,4.03,0,0,0,0,0,12.09,0,0,1.61,160.33,0,0.81,0,0,0,0,1.61,0,37.06,1.61,0

@@ -1,4 +1,4 @@
-stage,axial,blastomeres,erythrocytes,eye,fin.mesenchyme,glial,hatching.gland,heart,immune,mesenchyme,mucous,muscle,neural,notochord,paraxial.mesoderm,periderm,spinal.cord,xanthophores
+stage,axial,blastomeres,erythrocytes,eye,fin_mesenchyme,glial,hatching_gland,heart,immune,mesenchyme,mucous,muscle,neural,notochord,paraxial_mesoderm,periderm,spinal_cord,xanthophores
   3-4,76.78,792.14,0,0,0,0,0,0,0,0,0,0,0,0,0,72.5,0,0
   5-6,8.66,388.61,0,0,0,0,0,0,0,0,0,0,15.92,0,0,18.85,0,0
   7-9,0,0,0,4.97,0,0,4.06,0,0,0,0,0,14.94,0,9.39,0,0,0

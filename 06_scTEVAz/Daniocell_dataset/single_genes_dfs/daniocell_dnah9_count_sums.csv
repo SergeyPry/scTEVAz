@@ -1,4 +1,4 @@
-stage,erythrocytes,eye,fin.mesenchyme,glial,mesenchyme,muscle,neural,notochord,olfactory,otic,pgc,presomitic.mesoderm,pronephros,spinal.cord,vascular.smooth.muscle
+stage,erythrocytes,eye,fin_mesenchyme,glial,mesenchyme,muscle,neural,notochord,olfactory,otic,pgc,presomitic_mesoderm,pronephros,spinal_cord,vascular_smooth_muscle
   7-9,0,0,0,0,0,0,6.25,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,9.24,4.42,0,0,0,0,0,0,0
  14-21,0,0,0,3.31,3.3,0,11.12,0,0,0,1.4,4.28,1.95,16.56,0

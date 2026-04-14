@@ -1,4 +1,4 @@
-stage,epidermis,fin.epithelia,gut,lateral.line,liver,mesenchyme,mucous,neural,olfactory,otic,periderm,pronephros,spinal.cord,taste
+stage,epidermis,fin_epithelia,gut,lateral_line,liver,mesenchyme,mucous,neural,olfactory,otic,periderm,pronephros,spinal_cord,taste
  14-21,0.86,0,0,0,0,0,0,0,0,0,2,0,0,0
  24-34,0.76,1.04,0,0.64,0,0,0,0.71,1.41,2.37,10.04,1.33,0,0
  36-46,0,0,0,0,0,0,0,2.47,0,0,15.69,0.59,0,0

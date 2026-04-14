@@ -1,5 +1,5 @@
-stage,Epithelial.cell..Brain.,Keratinocyte,Macrophage,Mesenchymal.cell,Neural.progenitor.cell,Radial.glia
-24hpf,0,0,4.08640457285017,8.17280914570035,12.2592137185505,0
-72hpf,6.41874684879647,1.06979114146608,0,0,0,1.06979114146608
-21Day,10.7082647056265,2.67706617640661,0,0,0,0
-22Month,0.546654651197433,0,0,0,0,0
+stage,Epithelial_cell__Brain_,Keratinocyte,Macrophage,Mesenchymal_cell,Neural_progenitor_cell,Radial_glia
+24hpf,0,0,4.09,8.17,12.26,0
+72hpf,6.42,1.07,0,0,0,1.07
+21Day,10.71,2.68,0,0,0,0
+22Month,0.55,0,0,0,0,0

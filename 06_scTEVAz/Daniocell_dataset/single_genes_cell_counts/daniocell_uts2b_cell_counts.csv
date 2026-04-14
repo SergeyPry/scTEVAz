@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endocrine.pancreas,eye,fast.muscle,glial,mesenchyme,neural,periderm,spinal.cord,vasculature,visceral.smooth.muscle
+stage,axial,blastomeres,endocrine_pancreas,eye,fast_muscle,glial,mesenchyme,neural,periderm,spinal_cord,vasculature,visceral_smooth_muscle
   5-6,0,6.13,0,0,0,0,0,0,0,0,0,0
   7-9,2.63,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,1,0,0

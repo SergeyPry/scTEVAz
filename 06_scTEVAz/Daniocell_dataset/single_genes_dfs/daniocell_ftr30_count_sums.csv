@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,glial,mesenchyme,neural,paraxial.mesoderm,periderm,visceral.smooth.muscle
+stage,endoderm,epidermis,eye,glial,mesenchyme,neural,paraxial_mesoderm,periderm,visceral_smooth_muscle
   7-9,0,0,0,0,0,3.48,0,0,0
  10-12,0,0,0,0,0,14.07,3.27,0,0
  14-21,1.1,1.8,0,0,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,gut,immune,mural.cell,neural,vasculature,visceral.smooth.muscle
+stage,endocrine_pancreas,gut,immune,mural_cell,neural,vasculature,visceral_smooth_muscle
   7-9,0,0,0,0,5.26,0,0
  60-70,0,0.98,0.98,0,0,0,0
  72-82,0.98,2.94,0,0.98,0,0.98,0.98

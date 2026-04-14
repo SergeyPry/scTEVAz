@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,gut,mesenchyme,neural,paraxial.mesoderm,periderm,pronephros,slow.muscle
+stage,blastomeres,epidermis,eye,glial,gut,mesenchyme,neural,paraxial_mesoderm,periderm,pronephros,slow_muscle
   3-4,26.36,0,0,0,0,0,0,0,13.18,0,0
   7-9,0,0,0,0,0,0,0,2.63,0,0,0
  14-21,0,1,1,0,0,0,0,0,0,0,0

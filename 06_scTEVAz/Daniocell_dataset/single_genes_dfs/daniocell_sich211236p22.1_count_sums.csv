@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,erythrocytes,eye,fin.mesenchyme,glial,immune,ionocyte,iridophores,mesenchyme,muscle,neural,notochord,olfactory,otic,pericytes,periderm,spinal.cord,taste,vasculature
+stage,endocrine_pancreas,epidermis,erythrocytes,eye,fin_mesenchyme,glial,immune,ionocyte,iridophores,mesenchyme,muscle,neural,notochord,olfactory,otic,pericytes,periderm,spinal_cord,taste,vasculature
  14-21,0,0,0,0,0,0,0,0,0,0,0,1.78,0,0,0,0,0,2.25,0,0
  24-34,0,0,0,0,0,0,0,0,0,0,0,88.1,0,0,0,0,0,26.15,0,0
  36-46,0,1.07,0,7.41,0,1.91,0,0,0,0,1.17,287.86,0,0.56,0,0,0,68.78,0,0

@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,erythrocytes,eye,glial,gut,immune,mesenchyme,mucous,muscle,neural,notochord,slow.muscle,spinal.cord,vasculature
+stage,blastomeres,endoderm,epidermis,erythrocytes,eye,glial,gut,immune,mesenchyme,mucous,muscle,neural,notochord,slow_muscle,spinal_cord,vasculature
   5-6,16.52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  10-12,0,3.73,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,1.04,0,0,0,1.25,0,0,0

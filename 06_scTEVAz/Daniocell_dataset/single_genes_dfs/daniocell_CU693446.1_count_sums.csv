@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,exocrine.pancreas,eye,fin.mesenchyme,glial,gut,hatching.gland,immune,iridophores,liver,melanocytes,mesenchyme,mural.cell,muscle,neural,olfactory,paraxial.mesoderm,periderm,spinal.cord,vasculature,xanthophores
+stage,blastomeres,epidermis,exocrine_pancreas,eye,fin_mesenchyme,glial,gut,hatching_gland,immune,iridophores,liver,melanocytes,mesenchyme,mural_cell,muscle,neural,olfactory,paraxial_mesoderm,periderm,spinal_cord,vasculature,xanthophores
   3-4,22.81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,6.04,0,0,0,0,0,0,0,3.74,0,0,0,0,0,0
  10-12,6.14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29.3,0,17.06,0,0,0,0

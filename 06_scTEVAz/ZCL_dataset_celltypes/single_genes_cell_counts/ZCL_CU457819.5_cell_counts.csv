@@ -1,4 +1,4 @@
-stage,Hepatocyte,Mesenchymal.cell,Neural.progenitor.cell,Osteoblast
+stage,Hepatocyte,Mesenchymal_cell,Neural_progenitor_cell,Osteoblast
 24hpf,0,0,1,1
-72hpf,0,0.281848056003223,0,0
-3Month,0.208034013289345,0,0,0
+72hpf,0,0.28,0,0
+3Month,0.21,0,0,0

@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Hepatocyte,Muscle.cell
-21Day,1.33853308820331,0,0
-3Month,0.319949299554195,0.319949299554195,6.07903669152971
-22Month,0,1.6399639535923,8.74647441915893
+stage,Epithelial_cell,Hepatocyte,Muscle_cell
+21Day,1.34,0,0
+3Month,0.32,0.32,6.08
+22Month,0,1.64,8.75

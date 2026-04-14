@@ -1,3 +1,3 @@
-stage,Epithelial.cell,Goblet.cell,Granulocyte,Hepatocyte,Intestinal.bulb.cell,Keratinocyte,Macrophage,Mesenchymal.cell,Mt.rich.cell,Pancreatic.cell,Primordial.germ.cell
-21Day,0,0,0,0,0,0,0,1.33853308820331,0,0,0
-22Month,0.546654651197433,0.546654651197433,0.546654651197433,61.2253209341125,1.09330930239487,0.546654651197433,1.09330930239487,0.546654651197433,1.09330930239487,0.546654651197433,1.6399639535923
+stage,Epithelial_cell,Goblet_cell,Granulocyte,Hepatocyte,Intestinal_bulb_cell,Keratinocyte,Macrophage,Mesenchymal_cell,Mt_rich_cell,Pancreatic_cell,Primordial_germ_cell
+21Day,0,0,0,0,0,0,0,1.34,0,0,0
+22Month,0.55,0.55,0.55,61.23,1.09,0.55,1.09,0.55,1.09,0.55,1.64

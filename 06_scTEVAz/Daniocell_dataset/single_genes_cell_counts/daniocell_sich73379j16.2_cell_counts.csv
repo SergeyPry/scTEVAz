@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,glial,heart,iridophores,mesenchyme,muscle,neural,olfactory,otic,spinal.cord,vasculature,visceral.smooth.muscle
+stage,epidermis,erythrocytes,eye,glial,heart,iridophores,mesenchyme,muscle,neural,olfactory,otic,spinal_cord,vasculature,visceral_smooth_muscle
  14-21,0,1,0,0,0,0,0,0,15,0,0,4,0,0
  24-34,0,0,0.82,0,0,0,1.64,0,63.21,1.64,0,19.7,0,0
  36-46,0,0,6.45,0,0,0,1.61,0,128.91,0.81,0,20.14,0,0

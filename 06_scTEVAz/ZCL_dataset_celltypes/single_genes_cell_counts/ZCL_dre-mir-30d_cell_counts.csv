@@ -1,4 +1,4 @@
-stage,Ionocyte,Mesenchymal.cell,Neural.progenitor.cell
+stage,Ionocyte,Mesenchymal_cell,Neural_progenitor_cell
 24hpf,0,0,1
-72hpf,0,0.281848056003223,1.12739222401289
-21Day,0.369986860264282,0,0.369986860264282
+72hpf,0,0.28,1.13
+21Day,0.37,0,0.37

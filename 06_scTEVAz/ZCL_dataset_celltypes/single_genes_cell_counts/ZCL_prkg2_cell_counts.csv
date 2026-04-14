@@ -1,5 +1,5 @@
-stage,Cardiomyocyte,Erythrocyte..Liver.,Granulocyte,Hepatocyte,Intestinal.bulb.cell,Macrophage,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Oligodendrocyte,Radial.glia,Retinal.cone.cell
+stage,Cardiomyocyte,Erythrocyte__Liver_,Granulocyte,Hepatocyte,Intestinal_bulb_cell,Macrophage,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Oligodendrocyte,Radial_glia,Retinal_cone_cell
 24hpf,0,0,0,0,0,0,0,0,4,0,0,0
-72hpf,0,0,0,0,0,0,0,0.563696112006446,0,0,0,0
-21Day,0.369986860264282,0,0,0,0,0,0,1.10996058079285,0,0.369986860264282,0,0.369986860264282
-22Month,0,0.136649431988133,0.273298863976266,0.956546023916932,0.136649431988133,0.136649431988133,0.136649431988133,0,0,0,0.136649431988133,0
+72hpf,0,0,0,0,0,0,0,0.56,0,0,0,0
+21Day,0.37,0,0,0,0,0,0,1.11,0,0.37,0,0.37
+22Month,0,0.14,0.27,0.96,0.14,0.14,0.14,0,0,0,0.14,0

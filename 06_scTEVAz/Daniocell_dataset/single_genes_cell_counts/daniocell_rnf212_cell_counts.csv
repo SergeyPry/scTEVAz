@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,exocrine.pancreas,eye,glial,hatching.gland,heart,iridophores,liver,mesenchyme,muscle,neural,notochord,paraxial.mesoderm,pgc,presomitic.mesoderm,somites,spinal.cord,taste
+stage,axial,blastomeres,endoderm,epidermis,exocrine_pancreas,eye,glial,hatching_gland,heart,iridophores,liver,mesenchyme,muscle,neural,notochord,paraxial_mesoderm,pgc,presomitic_mesoderm,somites,spinal_cord,taste
   3-4,0,39.53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.13,36.78,0,0,0,0,0,0,0,0,0,0,0,12.26,0,0,0,0,0,0,0
   7-9,0,0,2.63,0,0,5.26,0,2.63,0,0,0,0,0,26.29,0,13.14,0,0,0,0,0

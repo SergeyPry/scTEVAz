@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,erythrocytes,fin.epithelia,glial,gut,immune,ionocyte,mucous,neural,paraxial.mesoderm,periderm,somites,vasculature
+stage,axial,blastomeres,epidermis,erythrocytes,fin_epithelia,glial,gut,immune,ionocyte,mucous,neural,paraxial_mesoderm,periderm,somites,vasculature
   3-4,26.36,13.18,0,0,0,0,0,0,0,0,0,0,13.18,0,0
   5-6,12.26,30.65,0,0,0,0,0,0,0,0,24.52,6.13,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,5.26,0,0,0

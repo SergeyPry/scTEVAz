@@ -1,4 +1,4 @@
-stage,axial,endoderm,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,heart,lateral.line,melanocytes,mesenchyme,mucous,mural.cell,muscle,neural,olfactory,pericytes,periderm,pgc,presomitic.mesoderm,somites,spinal.cord,vascular.smooth.muscle,vasculature,visceral.smooth.muscle
+stage,axial,endoderm,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,heart,lateral_line,melanocytes,mesenchyme,mucous,mural_cell,muscle,neural,olfactory,pericytes,periderm,pgc,presomitic_mesoderm,somites,spinal_cord,vascular_smooth_muscle,vasculature,visceral_smooth_muscle
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.15,0,0,0,3.15,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,11,0,0,54,3,0,0,0,0,1,19,1,0,1,0
  24-34,0,0.82,0.82,1.64,0,1.64,0,4.1,0,0,68.13,0,0.82,104.25,5.75,0.82,0.82,0,0,0,0.82,2.46,0,0,0

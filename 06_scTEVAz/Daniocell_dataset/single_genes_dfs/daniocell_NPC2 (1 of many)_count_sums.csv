@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,gut,heart,immune,lateral.line,liver,mesenchyme,mural.cell,neural,periderm,vasculature
+stage,epidermis,eye,glial,gut,heart,immune,lateral_line,liver,mesenchyme,mural_cell,neural,periderm,vasculature
  24-34,0,0,0,0,0,0,0,12.6,0,0,3.43,0,0
  36-46,0,0,0,0,0,25.93,0,0.93,0,0,0,0,0
  48-58,0,0.72,0,0,0,31.15,0,1.04,0,0.46,0,0.37,0

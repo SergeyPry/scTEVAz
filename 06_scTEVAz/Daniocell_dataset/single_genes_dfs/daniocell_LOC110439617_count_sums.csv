@@ -1,4 +1,4 @@
-stage,endoderm,eye,fin.epithelia,glial,gut,iridophores,mesenchyme,mucous,muscle,neural,notochord,periderm,spinal.cord,vasculature,xanthophores
+stage,endoderm,eye,fin_epithelia,glial,gut,iridophores,mesenchyme,mucous,muscle,neural,notochord,periderm,spinal_cord,vasculature,xanthophores
   7-9,0,0,0,0,0,0,0,0,0,6.12,0,0,0,0,0
  10-12,5.98,0,0,0,0,0,0,0,0,6.44,0,0,0,0,0
  14-21,0.9,0,0,0,0.87,0,4.2,0,0,1.54,0,0,0,0,0

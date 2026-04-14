@@ -1,4 +1,4 @@
-stage,epidermis,glial,heart,mesenchyme,neural,olfactory,otic,periderm,presomitic.mesoderm,pronephros,somites
+stage,epidermis,glial,heart,mesenchyme,neural,olfactory,otic,periderm,presomitic_mesoderm,pronephros,somites
   7-9,0,0,0,0,4.57,0,0,0,0,0,0
  14-21,5.6,0.89,0,0,3.26,0,0,0,1.22,0,1.38
  24-34,0.61,0,0,0,3.36,0,0,0,0,0,0

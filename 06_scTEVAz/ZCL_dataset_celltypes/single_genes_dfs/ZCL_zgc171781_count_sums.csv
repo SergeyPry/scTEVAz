@@ -1,6 +1,6 @@
-stage,Cardiomyocyte,Endothelial.cell,Enterocyte,Epithelial.cell,Goblet.cell,Granulocyte,Granulosa.cell,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal.cell,Mt.rich.cell,Neural.cell,Neural.progenitor.cell,Oocyte,Osteoblast,Pancreatic.cell,Primordial.germ.cell,T.cell
-24hpf,4.08640457285017,0,0,8.17280914570035,0,0,0,0,0,0,4.08640457285017,0,4.08640457285017,8.17280914570035,0,0,8.17280914570035,0,0,0,0,0
-72hpf,0,0,0,1.06979114146608,0,0,0,0,0,0,0,18.1864494049233,0,0,0,2.13958228293216,0,0,1.06979114146608,0,0,0
-21Day,0,0,0,1.33853308820331,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-3Month,0,0,0,0.959847898662586,0,0,0,0,0,1.59974649777098,0.639898599108391,0,0,0,0,0,0,0,0,0.319949299554195,1.59974649777098,0.319949299554195
-22Month,0,1.6399639535923,2.18661860478973,3.82658255838203,1.6399639535923,12.573056977541,4.9198918607769,33.8925883742409,2.73327325598717,3.82658255838203,0,0.546654651197433,3.2799279071846,6.5598558143692,3.2799279071846,0,0,651.612344227341,0,0,0,2.73327325598717
+stage,Cardiomyocyte,Endothelial_cell,Enterocyte,Epithelial_cell,Goblet_cell,Granulocyte,Granulosa_cell,Hepatocyte,Immune_cell,Intestinal_bulb_cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal_cell,Mt_rich_cell,Neural_cell,Neural_progenitor_cell,Oocyte,Osteoblast,Pancreatic_cell,Primordial_germ_cell,T_cell
+24hpf,4.09,0,0,8.17,0,0,0,0,0,0,4.09,0,4.09,8.17,0,0,8.17,0,0,0,0,0
+72hpf,0,0,0,1.07,0,0,0,0,0,0,0,18.19,0,0,0,2.14,0,0,1.07,0,0,0
+21Day,0,0,0,1.34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3Month,0,0,0,0.96,0,0,0,0,0,1.6,0.64,0,0,0,0,0,0,0,0,0.32,1.6,0.32
+22Month,0,1.64,2.19,3.83,1.64,12.57,4.92,33.89,2.73,3.83,0,0.55,3.28,6.56,3.28,0,0,651.61,0,0,0,2.73

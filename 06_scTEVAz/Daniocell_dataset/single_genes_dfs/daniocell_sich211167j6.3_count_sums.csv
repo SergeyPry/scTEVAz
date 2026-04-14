@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endocrine.pancreas,eye,fin.epithelia,hatching.gland,immune,mesenchyme,neural,notochord,paraxial.mesoderm,periderm,pgc,somites,spinal.cord,vasculature,xanthophores
+stage,axial,blastomeres,endocrine_pancreas,eye,fin_epithelia,hatching_gland,immune,mesenchyme,neural,notochord,paraxial_mesoderm,periderm,pgc,somites,spinal_cord,vasculature,xanthophores
   3-4,16.36,716.27,0,0,0,0,0,0,0,0,0,11.29,0,0,0,0,0
   5-6,0,339.57,0,0,0,8.74,0,0,18.17,15.57,0,0,0,0,0,0,0
   7-9,0,7.46,0,23.69,0,11.68,0,0,104.68,4.99,11.81,0,12.12,0,0,0,0

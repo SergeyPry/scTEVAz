@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,fin.epithelia,gut,immune,ionocyte,lateral.line,mesenchyme,mucous,muscle,neural,periderm,taste,visceral.smooth.muscle
+stage,blastomeres,endoderm,epidermis,eye,fin_epithelia,gut,immune,ionocyte,lateral_line,mesenchyme,mucous,muscle,neural,periderm,taste,visceral_smooth_muscle
   5-6,12.26,0,0,0,0,0,0,0,0,0,0,0,0,6.13,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,3.15,0,0,0
  14-21,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0

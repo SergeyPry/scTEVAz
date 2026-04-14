@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,exocrine.pancreas,eye,fin.epithelia,glial,heart,lateral.line,melanocytes,mesenchyme,mucous,mural.cell,muscle,neural,otic,paraxial.mesoderm,pericytes,periderm,spinal.cord,taste,vascular.smooth.muscle,vasculature
+stage,blastomeres,epidermis,exocrine_pancreas,eye,fin_epithelia,glial,heart,lateral_line,melanocytes,mesenchyme,mucous,mural_cell,muscle,neural,otic,paraxial_mesoderm,pericytes,periderm,spinal_cord,taste,vascular_smooth_muscle,vasculature
   5-6,7.07,0,0,0,0,0,0,0,0,0,0,0,0,9.79,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,5.31,0,5.95,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,0,16.64,0,4.9,0,0,0,0,0,0

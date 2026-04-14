@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,epidermis,eye,fin.mesenchyme,glial,mesenchyme,muscle,neural,notochord,olfactory,otic,presomitic.mesoderm,spinal.cord,vasculature,xanthophores
+stage,blastomeres,endocrine_pancreas,epidermis,eye,fin_mesenchyme,glial,mesenchyme,muscle,neural,notochord,olfactory,otic,presomitic_mesoderm,spinal_cord,vasculature,xanthophores
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,5.26,2.63,0,0,0,0,0,0
  14-21,0,0,1,0,0,0,0,0,2,0,0,0,1,0,0,0

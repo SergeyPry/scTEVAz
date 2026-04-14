@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Hepatocyte,Ionocyte,Keratinocyte,Neural.cell,Neural.progenitor.cell,Primordial.germ.cell,Smooth.muscle.cell
+stage,Epithelial_cell,Hepatocyte,Ionocyte,Keratinocyte,Neural_cell,Neural_progenitor_cell,Primordial_germ_cell,Smooth_muscle_cell
 24hpf,0,0,0,0,1,1,0,0
-21Day,0.369986860264282,0,0,0.739973720528564,0,0,0,0
-3Month,2.08034013289345,0.520085033223363,0.104017006644673,0.104017006644673,0,0,0.104017006644673,0.104017006644673
+21Day,0.37,0,0,0.74,0,0,0,0
+3Month,2.08,0.52,0.1,0.1,0,0,0.1,0.1

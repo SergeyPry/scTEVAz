@@ -1,3 +1,3 @@
-stage,Epithelial.cell,Immune.progenitor.cell,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Osteoblast,T.cell
+stage,Epithelial_cell,Immune_progenitor_cell,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Osteoblast,T_cell
 24hpf,0,0,1,0,1,0,0
-21Day,0.369986860264282,0.369986860264282,0.739973720528564,0.739973720528564,0,0.369986860264282,0.369986860264282
+21Day,0.37,0.37,0.74,0.74,0,0.37,0.37

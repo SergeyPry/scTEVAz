@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,glial,immune,iridophores,mesenchyme,muscle,neural,notochord,otic,paraxial.mesoderm,periderm,presomitic.mesoderm,somites,spinal.cord,vasculature
+stage,epidermis,erythrocytes,eye,glial,immune,iridophores,mesenchyme,muscle,neural,notochord,otic,paraxial_mesoderm,periderm,presomitic_mesoderm,somites,spinal_cord,vasculature
   7-9,0,0,0,0,0,0,0,0,4.74,0,0,9.18,0,0,0,0,0
  14-21,0.93,0.8,0.8,0.91,0,0,0.83,1.06,15.25,0,0,0,0,2.01,0,1.03,0
  24-34,0,0,1.43,1.07,0,0,2.7,0.63,26.29,0.63,0.73,0,1.7,0,1.09,3.38,1.32

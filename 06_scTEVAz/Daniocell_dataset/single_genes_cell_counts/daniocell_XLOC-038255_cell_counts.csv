@@ -1,4 +1,4 @@
-stage,erythrocytes,fin.mesenchyme,gut,immune,mesenchyme,muscle,neural,notochord,paraxial.mesoderm,vasculature
+stage,erythrocytes,fin_mesenchyme,gut,immune,mesenchyme,muscle,neural,notochord,paraxial_mesoderm,vasculature
   7-9,0,0,0,0,0,0,0,0,10.51,0
  14-21,2,0,0,0,0,1,1,0,0,5
  24-34,0,0,0,0,0,0,0,0,0,2.46

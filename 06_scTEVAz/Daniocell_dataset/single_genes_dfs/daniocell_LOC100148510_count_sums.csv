@@ -1,4 +1,4 @@
-stage,epidermis,eye,immune,mesenchyme,neural,periderm,spinal.cord
+stage,epidermis,eye,immune,mesenchyme,neural,periderm,spinal_cord
  14-21,0,0.81,0,0,0.84,0,1.01
  24-34,0.62,0,0,2.67,4.31,0.88,0
  36-46,0,0,0,5.31,0.68,7.31,0

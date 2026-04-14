@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,gut,immune,lateral.line,mesenchyme,mucous,neural,notochord,olfactory,otic,periderm,spinal.cord,vasculature
+stage,epidermis,eye,glial,gut,immune,lateral_line,mesenchyme,mucous,neural,notochord,olfactory,otic,periderm,spinal_cord,vasculature
  14-21,0,0,0,0,0,0,0,0,13.46,0,0,0.88,0,280.85,0
  24-34,0.69,0,3.46,0,0,0,0,0,84.33,0,0,0,0,936,0
  36-46,0,1.22,0,0,0,0,0,0,126.21,0,0,0,0.83,1139.01,0

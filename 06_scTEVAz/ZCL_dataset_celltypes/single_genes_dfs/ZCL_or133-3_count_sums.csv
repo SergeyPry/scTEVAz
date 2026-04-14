@@ -1,4 +1,4 @@
-stage,Granulocyte,Hepatocyte,Mesenchymal.cell..caudal.fin.,Neural.progenitor.cell,Osteoblast
-24hpf,0,0,0,4.08640457285017,0
-3Month,0.319949299554195,0,0.319949299554195,0,0.319949299554195
-22Month,0.546654651197433,1.09330930239487,0,0,0
+stage,Granulocyte,Hepatocyte,Mesenchymal_cell__caudal_fin_,Neural_progenitor_cell,Osteoblast
+24hpf,0,0,0,4.09,0
+3Month,0.32,0,0.32,0,0.32
+22Month,0.55,1.09,0,0,0

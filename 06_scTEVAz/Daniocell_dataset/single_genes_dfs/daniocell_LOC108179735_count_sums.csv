@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,exocrine.pancreas,eye,glial,immune,mesenchyme,muscle,neural,notochord,olfactory,paraxial.mesoderm,somites,spinal.cord,vascular.smooth.muscle,vasculature
+stage,blastomeres,epidermis,exocrine_pancreas,eye,glial,immune,mesenchyme,muscle,neural,notochord,olfactory,paraxial_mesoderm,somites,spinal_cord,vascular_smooth_muscle,vasculature
   3-4,48.79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,5.29,0,0,5.87,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,4.15,0.89,0,0,0.84,0.84,0,1.45

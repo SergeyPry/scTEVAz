@@ -1,4 +1,4 @@
-stage,eye,fin.mesenchyme,immune,ionocyte,lateral.line,mesenchyme,neural,somites,spinal.cord
+stage,eye,fin_mesenchyme,immune,ionocyte,lateral_line,mesenchyme,neural,somites,spinal_cord
  14-21,0,0,0,0,0,0,0,0.9,0
  24-34,0,0,0,0,0,0,7.35,0,1.2
  36-46,0,0,0,0,0,0,9.82,0,1.18

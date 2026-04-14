@@ -1,5 +1,5 @@
-stage,Hepatocyte,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Osteoblast,Primordial.germ.cell,Radial.glia,Spermatocyte
+stage,Hepatocyte,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Osteoblast,Primordial_germ_cell,Radial_glia,Spermatocyte
 24hpf,0,1,0,2,0,0,0,0
-72hpf,0,0,0,1.40924028001612,0,0,0.281848056003223,0
-21Day,0,0,0.369986860264282,0,0.369986860264282,0.369986860264282,0,0
-3Month,0.104017006644673,0,0,0,0,0.208034013289345,0,1.35222108638074
+72hpf,0,0,0,1.41,0,0,0.28,0
+21Day,0,0,0.37,0,0.37,0.37,0,0
+3Month,0.1,0,0,0,0,0.21,0,1.35

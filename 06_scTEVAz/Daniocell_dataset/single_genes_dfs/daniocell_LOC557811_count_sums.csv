@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,endoderm,epidermis,erythrocytes,eye,glial,hatching.gland,liver,mesenchyme,neural,otic,periderm,pgc,slow.muscle,somites,spinal.cord,xanthophores
+stage,endocrine_pancreas,endoderm,epidermis,erythrocytes,eye,glial,hatching_gland,liver,mesenchyme,neural,otic,periderm,pgc,slow_muscle,somites,spinal_cord,xanthophores
  14-21,0,0.96,0.92,0,0,0,3.29,0,0,0,1.65,0,0,1.15,7.92,0.88,0
  24-34,0,0,1.63,0,0,0,0,0,0,9.17,0.61,0,0,0,2.6,2.67,0
  36-46,0,0,0,0,0,0,0,0,0,22.24,0,0,0,0,0,2.73,0

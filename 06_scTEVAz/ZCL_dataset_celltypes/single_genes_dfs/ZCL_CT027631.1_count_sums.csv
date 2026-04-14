@@ -1,2 +1,2 @@
-stage,Epithelial.cell,Granulocyte,Hepatocyte,Keratinocyte,Primordial.germ.cell,Spermatocyte
-3Month,0.639898599108391,0.319949299554195,0.959847898662586,0.639898599108391,8.63863108796328,15.3575663786014
+stage,Epithelial_cell,Granulocyte,Hepatocyte,Keratinocyte,Primordial_germ_cell,Spermatocyte
+3Month,0.64,0.32,0.96,0.64,8.64,15.36

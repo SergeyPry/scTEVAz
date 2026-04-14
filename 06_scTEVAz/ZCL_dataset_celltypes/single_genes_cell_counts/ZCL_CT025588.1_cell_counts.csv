@@ -1,3 +1,3 @@
-stage,Neural.progenitor.cell,Retinal.cell,Retinal.cone.cell
-72hpf,0.281848056003223,0,0
-21Day,0,0.739973720528564,0.369986860264282
+stage,Neural_progenitor_cell,Retinal_cell,Retinal_cone_cell
+72hpf,0.28,0,0
+21Day,0,0.74,0.37

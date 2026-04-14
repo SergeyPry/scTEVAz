@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.mesenchyme,glial,iridophores,mesenchyme,neural,olfactory,periderm,spinal.cord,vascular.smooth.muscle,vasculature,visceral.smooth.muscle,xanthophores
+stage,epidermis,erythrocytes,eye,fin_mesenchyme,glial,iridophores,mesenchyme,neural,olfactory,periderm,spinal_cord,vascular_smooth_muscle,vasculature,visceral_smooth_muscle,xanthophores
  14-21,0,0,0,0,0,0,0,8.85,0,0,88.8,0,0,0,0
  24-34,0,0,0.73,0,0,0,0.96,34.52,0,0,202.94,0,0.8,0,0
  36-46,0,0,0,0,1.27,0,0,88.53,0.92,5.34,391.02,0,0.86,0,0

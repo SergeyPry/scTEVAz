@@ -1,4 +1,4 @@
-stage,Endothelial.cell,Epithelial.cell,Erythrocyte..Liver.,Goblet.cell,Granulocyte,Granulosa.cell,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal.cell,Mt.rich.cell,Muscle.cell,Neural.progenitor.cell,Neurosecretory.cell,Oligodendrocyte,Primordial.germ.cell,Retinal.pigment.epithelial.cell,Smooth.muscle.cell,T.cell
+stage,Endothelial_cell,Epithelial_cell,Erythrocyte__Liver_,Goblet_cell,Granulocyte,Granulosa_cell,Hepatocyte,Immune_cell,Intestinal_bulb_cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal_cell,Mt_rich_cell,Muscle_cell,Neural_progenitor_cell,Neurosecretory_cell,Oligodendrocyte,Primordial_germ_cell,Retinal_pigment_epithelial_cell,Smooth_muscle_cell,T_cell
 24hpf,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
-3Month,0,0,0,0,0,0,0.208034013289345,0,0.104017006644673,0,0,0,0,0,0,0,0,0,0,0,0,0
-22Month,0.683247159940666,1.91309204783386,0.136649431988133,0.273298863976266,0.136649431988133,1.09319545590506,4.09948295964399,0.136649431988133,4.64608068759653,0,0.273298863976266,1.09319545590506,2.59633920777453,0.546597727952532,0.409948295964399,0,0.546597727952532,0.136649431988133,0.409948295964399,0.136649431988133,0.409948295964399,0.273298863976266
+3Month,0,0,0,0,0,0,0.21,0,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0
+22Month,0.68,1.91,0.14,0.27,0.14,1.09,4.1,0.14,4.65,0,0.27,1.09,2.6,0.55,0.41,0,0.55,0.14,0.41,0.14,0.41,0.27

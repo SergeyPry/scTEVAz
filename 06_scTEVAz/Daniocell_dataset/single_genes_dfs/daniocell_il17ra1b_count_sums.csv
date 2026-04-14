@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,lateral.line,periderm,pronephros
+stage,endoderm,epidermis,eye,lateral_line,periderm,pronephros
  14-21,0.95,0.93,0,0,0,0.9
  24-34,0,0,0,0.68,0,0
  84-94,0,0.64,3.82,0,0,0

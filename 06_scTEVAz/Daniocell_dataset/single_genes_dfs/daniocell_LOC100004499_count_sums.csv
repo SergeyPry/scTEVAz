@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,fin.mesenchyme,glial,gut,immune,lateral.line,liver,melanocytes,mesenchyme,mucous,muscle,neural,notochord,otic,visceral.smooth.muscle,xanthophores
+stage,epidermis,eye,fast_muscle,fin_mesenchyme,glial,gut,immune,lateral_line,liver,melanocytes,mesenchyme,mucous,muscle,neural,notochord,otic,visceral_smooth_muscle,xanthophores
  14-21,0.81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  24-34,0,0.74,0.75,0,0,0,0,0,0,0,0,4.16,0,0,0,11.56,0,0
  36-46,0,0,0,0.56,0,0,0,0,0,0,0,0,0.8,0,0.82,8.99,0,0

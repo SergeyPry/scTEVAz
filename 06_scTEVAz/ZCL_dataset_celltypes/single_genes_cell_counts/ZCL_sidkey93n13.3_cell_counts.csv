@@ -1,3 +1,3 @@
-stage,Hepatocyte,Keratinocyte,Macrophage,Mesenchymal.cell,Primordial.germ.cell,Spermatocyte
+stage,Hepatocyte,Keratinocyte,Macrophage,Mesenchymal_cell,Primordial_germ_cell,Spermatocyte
 24hpf,0,1,0,0,0,0
-3Month,0.312051019934018,0,0.104017006644673,0.208034013289345,0.208034013289345,0.208034013289345
+3Month,0.31,0,0.1,0.21,0.21,0.21

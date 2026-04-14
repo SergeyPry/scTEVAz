@@ -1,4 +1,4 @@
-stage,Immune.progenitor.cell,Neural.cell,Spermatocyte
-72hpf,0,3.10032861603546,0
-21Day,0.369986860264282,1.84993430132141,0
-3Month,0,0,0.208034013289345
+stage,Immune_progenitor_cell,Neural_cell,Spermatocyte
+72hpf,0,3.1,0
+21Day,0.37,1.85,0
+3Month,0,0,0.21

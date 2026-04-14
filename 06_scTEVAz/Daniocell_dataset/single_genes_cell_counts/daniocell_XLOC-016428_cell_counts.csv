@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,gut,iridophores,lateral.line,melanocytes,mesenchyme,neural,notochord,paraxial.mesoderm,pronephros,somites,spinal.cord
+stage,blastomeres,epidermis,eye,glial,gut,iridophores,lateral_line,melanocytes,mesenchyme,neural,notochord,paraxial_mesoderm,pronephros,somites,spinal_cord
   5-6,12.26,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,2.63,0,0,0,0,0,0,5.26,0,0,0,0,0
  10-12,6.29,0,0,0,0,0,0,0,0,28.32,0,6.29,3.15,0,0

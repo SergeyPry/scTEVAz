@@ -1,4 +1,4 @@
-stage,blastomeres,eye,glial,melanocytes,mesenchyme,muscle,neural,paraxial.mesoderm,spinal.cord,xanthophores
+stage,blastomeres,eye,glial,melanocytes,mesenchyme,muscle,neural,paraxial_mesoderm,spinal_cord,xanthophores
   3-4,29.82,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,8.11,0,0
  10-12,0,0,0,0,0,0,12,0,0,0

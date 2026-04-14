@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,fin.epithelia,fin.mesenchyme,glial,mesenchyme,muscle,neural,olfactory,otic,periderm,spinal.cord
+stage,blastomeres,epidermis,erythrocytes,eye,fin_epithelia,fin_mesenchyme,glial,mesenchyme,muscle,neural,olfactory,otic,periderm,spinal_cord
   5-6,6.13,0,0,0,0,0,0,0,0,0,0,0,0,0
  24-34,0,0,0,0,0,0,0,0,0,2.46,0.82,0,0,1.64
  36-46,0,0,0,1.61,0.81,0,0,0,0,9.67,1.61,0,0,3.22

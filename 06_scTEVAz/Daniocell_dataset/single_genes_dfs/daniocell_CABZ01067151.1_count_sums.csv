@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,glial,gut,heart,immune,lateral.line,mesenchyme,mucous,neural,otic,pronephros,spinal.cord,vasculature
+stage,epidermis,erythrocytes,eye,glial,gut,heart,immune,lateral_line,mesenchyme,mucous,neural,otic,pronephros,spinal_cord,vasculature
  14-21,0.99,2.01,0,1.13,0,0,0,0,0,0,0,0,2.37,0,0
  24-34,0.88,0,0,0,0,0,0,0,0,0,0,1.68,0,0,5.71
  36-46,0,0,0,0,0,0,0,0,0,0,2.34,0,0,2.6,2.43

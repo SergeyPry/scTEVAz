@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Erythrocyte,Goblet.cell,Hepatocyte,Keratinocyte,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Osteoblast
-72hpf,0,0,0,0,0.281848056003223,0,1.40924028001612,0.281848056003223,0.281848056003223
-21Day,0.369986860264282,0.369986860264282,0,0,0,0.369986860264282,1.47994744105713,0,0
-3Month,0,0,0.832136053157381,0.104017006644673,0,0,0,0,0
+stage,Epithelial_cell,Erythrocyte,Goblet_cell,Hepatocyte,Keratinocyte,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Osteoblast
+72hpf,0,0,0,0,0.28,0,1.41,0.28,0.28
+21Day,0.37,0.37,0,0,0,0.37,1.48,0,0
+3Month,0,0,0.83,0.1,0,0,0,0,0

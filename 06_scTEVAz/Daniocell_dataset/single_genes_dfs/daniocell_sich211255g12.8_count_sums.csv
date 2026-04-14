@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endocrine.pancreas,epidermis,erythrocytes,exocrine.pancreas,eye,fin.epithelia,fin.mesenchyme,glial,hatching.gland,heart,immune,ionocyte,mesenchyme,mural.cell,muscle,neural,notochord,olfactory,paraxial.mesoderm,pericytes,periderm,somites,spinal.cord,vascular.smooth.muscle,vasculature
+stage,axial,blastomeres,endocrine_pancreas,epidermis,erythrocytes,exocrine_pancreas,eye,fin_epithelia,fin_mesenchyme,glial,hatching_gland,heart,immune,ionocyte,mesenchyme,mural_cell,muscle,neural,notochord,olfactory,paraxial_mesoderm,pericytes,periderm,somites,spinal_cord,vascular_smooth_muscle,vasculature
   3-4,0,34.27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,9.47,22.33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.74,0,0,0,0,0,0,0,0,0

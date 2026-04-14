@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,gut,melanocytes,mesenchyme,neural,notochord,paraxial.mesoderm,pronephros
+stage,axial,blastomeres,endoderm,epidermis,eye,gut,melanocytes,mesenchyme,neural,notochord,paraxial_mesoderm,pronephros
   3-4,0,82.24,0,0,0,0,0,0,0,0,0,0
   5-6,16.54,85.98,0,0,0,0,0,0,0,0,0,0
   7-9,0,3.7,4.74,0,33.9,0,0,0,137.79,4.32,24.98,0

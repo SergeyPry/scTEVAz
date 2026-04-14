@@ -1,4 +1,4 @@
-stage,eye,glial,mesenchyme,mural.cell,neural,notochord,periderm,spinal.cord
+stage,eye,glial,mesenchyme,mural_cell,neural,notochord,periderm,spinal_cord
  36-46,0,0,0,0,2.1,0,0,0
  48-58,0,0,0,0,0.86,0,0,0.56
  60-70,3.83,0,0,0,0.98,0,0,0

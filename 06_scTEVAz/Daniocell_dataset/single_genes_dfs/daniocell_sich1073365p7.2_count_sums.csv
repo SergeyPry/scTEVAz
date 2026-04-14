@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,epidermis,gut,ionocyte,mucous,neural,olfactory,periderm,taste
+stage,blastomeres,endocrine_pancreas,epidermis,gut,ionocyte,mucous,neural,olfactory,periderm,taste
   3-4,22.98,0,0,0,0,0,0,0,0,0
  24-34,0,0,0,0,4.44,0,2.46,6.26,2.65,0
  36-46,0,0,0,0,2.34,0,0,0,0.61,0

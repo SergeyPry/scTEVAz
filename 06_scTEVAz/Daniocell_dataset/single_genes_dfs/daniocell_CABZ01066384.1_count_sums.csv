@@ -1,4 +1,4 @@
-stage,eye,glial,mesenchyme,mural.cell,neural,otic,presomitic.mesoderm,somites,spinal.cord
+stage,eye,glial,mesenchyme,mural_cell,neural,otic,presomitic_mesoderm,somites,spinal_cord
  14-21,0,0,0,0,3.94,0,0.87,0.85,0
  24-34,0,0,1.33,0,2.96,0,0,0,0
  36-46,0,1.11,0,0,13.44,0,0,0,0

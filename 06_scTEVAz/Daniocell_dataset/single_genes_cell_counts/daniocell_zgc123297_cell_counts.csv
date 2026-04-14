@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,gut,immune,lateral.line,mesenchyme,neural,notochord,olfactory,otic,paraxial.mesoderm,periderm,presomitic.mesoderm,somites,spinal.cord
+stage,blastomeres,endoderm,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,gut,immune,lateral_line,mesenchyme,neural,notochord,olfactory,otic,paraxial_mesoderm,periderm,presomitic_mesoderm,somites,spinal_cord
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,12.26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,2.63,0,0,0,0,0,0,0,10.51,0,0,0,7.89,0,0,0,0

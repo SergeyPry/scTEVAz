@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,fast.muscle,fin.mesenchyme,glial,immune,ionocyte,melanocytes,mesenchyme,mural.cell,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,periderm,pronephros,slow.muscle,somites,spinal.cord,vasculature
+stage,axial,blastomeres,endoderm,epidermis,eye,fast_muscle,fin_mesenchyme,glial,immune,ionocyte,melanocytes,mesenchyme,mural_cell,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,periderm,pronephros,slow_muscle,somites,spinal_cord,vasculature
   3-4,16.36,185.03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,0,321.26,0,0,0,0,0,0,0,0,0,0,0,0,8.36,0,0,0,0,0,0,0,0,0,0
   7-9,0,10.97,0,0,117.08,0,0,0,0,0,0,0,0,0,683.42,12.06,0,0,28.11,8.38,0,0,0,0,0

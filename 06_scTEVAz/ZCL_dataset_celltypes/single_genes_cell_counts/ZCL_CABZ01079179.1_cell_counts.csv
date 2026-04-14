@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Mesenchymal.cell,Muscle.cell,Neural.cell,Neural.progenitor.cell
+stage,Cardiomyocyte,Mesenchymal_cell,Muscle_cell,Neural_cell,Neural_progenitor_cell
 24hpf,0,0,0,1,3
-72hpf,1.40924028001612,0.281848056003223,0,0,0.563696112006446
-21Day,4.80982918343567,0.739973720528564,0.369986860264282,0,0.739973720528564
+72hpf,1.41,0.28,0,0,0.56
+21Day,4.81,0.74,0.37,0,0.74

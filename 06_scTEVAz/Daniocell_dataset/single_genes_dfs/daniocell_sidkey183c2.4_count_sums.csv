@@ -1,4 +1,4 @@
-stage,blastomeres,eye,glial,immune,ionocyte,liver,mesenchyme,mural.cell,muscle,neural,paraxial.mesoderm,pericytes,spinal.cord,vasculature
+stage,blastomeres,eye,glial,immune,ionocyte,liver,mesenchyme,mural_cell,muscle,neural,paraxial_mesoderm,pericytes,spinal_cord,vasculature
   3-4,61.33,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,7,9.5,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,3.27,0,0,0

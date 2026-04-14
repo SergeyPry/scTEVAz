@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.epithelia,glial,immune,ionocyte,liver,mesenchyme,muscle,neural,pronephros,slow.muscle,somites,vasculature
+stage,blastomeres,epidermis,eye,fin_epithelia,glial,immune,ionocyte,liver,mesenchyme,muscle,neural,pronephros,slow_muscle,somites,vasculature
   3-4,24.09,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,65.11,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,9.11,0,0,0,0

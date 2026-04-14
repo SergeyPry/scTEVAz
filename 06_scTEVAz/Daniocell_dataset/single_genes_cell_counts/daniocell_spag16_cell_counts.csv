@@ -1,4 +1,4 @@
-stage,blastomeres,eye,glial,gut,lateral.line,mesenchyme,muscle,neural,olfactory,otic,pronephros,spinal.cord
+stage,blastomeres,eye,glial,gut,lateral_line,mesenchyme,muscle,neural,olfactory,otic,pronephros,spinal_cord
   7-9,0,0,0,0,0,0,0,5.26,0,0,0,0
  10-12,3.15,3.15,0,0,0,0,0,34.62,0,0,0,0
  14-21,0,0,7,0,0,0,0,3,0,1,0,10

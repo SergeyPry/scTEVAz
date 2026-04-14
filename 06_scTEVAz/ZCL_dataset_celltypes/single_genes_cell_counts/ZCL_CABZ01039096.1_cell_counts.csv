@@ -1,5 +1,5 @@
-stage,Cardiomyocyte,Mesenchymal.cell,Mesenchymal.cell..caudal.fin.,Muscle.cell,Nephron.cell,Neural.cell,Osteoblast,Retinal.cell
+stage,Cardiomyocyte,Mesenchymal_cell,Mesenchymal_cell__caudal_fin_,Muscle_cell,Nephron_cell,Neural_cell,Osteoblast,Retinal_cell
 24hpf,0,1,0,0,0,0,0,0
-72hpf,0,0.281848056003223,0,0,0,0,0.563696112006446,0
-21Day,0.369986860264282,0.369986860264282,0,0.369986860264282,0,0.369986860264282,0,0.369986860264282
-3Month,0,0.728119046512708,0.104017006644673,0,0.104017006644673,0,0,0
+72hpf,0,0.28,0,0,0,0,0.56,0
+21Day,0.37,0.37,0,0.37,0,0.37,0,0.37
+3Month,0,0.73,0.1,0,0.1,0,0,0

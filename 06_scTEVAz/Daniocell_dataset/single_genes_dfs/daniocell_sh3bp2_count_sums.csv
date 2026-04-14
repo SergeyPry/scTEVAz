@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fast.muscle,fin.mesenchyme,glial,gut,heart,immune,melanocytes,mesenchyme,mural.cell,muscle,neural,notochord,otic,periderm,pronephros,spinal.cord,vasculature
+stage,epidermis,erythrocytes,eye,fast_muscle,fin_mesenchyme,glial,gut,heart,immune,melanocytes,mesenchyme,mural_cell,muscle,neural,notochord,otic,periderm,pronephros,spinal_cord,vasculature
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,6.84,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,0,14.55,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0.84,0,0,0,0,0,0.85,0,0,0,0,0,10.24

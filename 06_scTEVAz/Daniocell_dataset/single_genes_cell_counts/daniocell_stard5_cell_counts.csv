@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,eye,fin.mesenchyme,glial,gut,iridophores,lateral.line,liver,melanocytes,mesenchyme,muscle,neural,notochord,otic,paraxial.mesoderm,periderm,somites,spinal.cord
+stage,axial,blastomeres,epidermis,eye,fin_mesenchyme,glial,gut,iridophores,lateral_line,liver,melanocytes,mesenchyme,muscle,neural,notochord,otic,paraxial_mesoderm,periderm,somites,spinal_cord
   3-4,13.18,289.91,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,0,134.85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,2.63,0,0,0,0,0,0,0,0,0,0,0,13.14,0,0,7.89,0,0,0

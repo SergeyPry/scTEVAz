@@ -1,4 +1,4 @@
-stage,fast.muscle,glial,liver,mesenchyme,muscle,neural,slow.muscle,spinal.cord
+stage,fast_muscle,glial,liver,mesenchyme,muscle,neural,slow_muscle,spinal_cord
  14-21,0,0,0,0,1,1,0,0
  24-34,0.82,0,0,0,0,6.57,0,0.82
  36-46,0.81,0,0,0,0,5.64,0,0

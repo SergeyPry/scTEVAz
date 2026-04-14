@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,glial,iridophores,lateral.line,mesenchyme,muscle,neural,otic,pericytes,periderm,somites,spinal.cord,taste,vasculature,xanthophores
+stage,epidermis,eye,fin_epithelia,glial,iridophores,lateral_line,mesenchyme,muscle,neural,otic,pericytes,periderm,somites,spinal_cord,taste,vasculature,xanthophores
  14-21,0,0,0,0,0,0,0,0,12.01,0,0,0,1.75,0,0,0,0
  24-34,0,0,0,0,0,0,0,0,32.5,0,0,0,0,2.58,0,0,0
  36-46,0.61,0,0,0,0,0,0,0,83.85,0,0,0,0,0,0,0,0

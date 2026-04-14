@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endocrine.pancreas,epidermis,eye,fin.mesenchyme,glial,gut,neural,pgc,pronephros
+stage,axial,blastomeres,endocrine_pancreas,epidermis,eye,fin_mesenchyme,glial,gut,neural,pgc,pronephros
   3-4,13.18,79.07,0,0,0,0,0,0,0,0,0
   5-6,12.26,18.39,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,2.63,0,0

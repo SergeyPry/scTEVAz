@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,glial,heart,ionocyte,lateral.line,liver,mesenchyme,muscle,neural,olfactory,pericytes,periderm,spinal.cord
+stage,blastomeres,epidermis,erythrocytes,eye,glial,heart,ionocyte,lateral_line,liver,mesenchyme,muscle,neural,olfactory,pericytes,periderm,spinal_cord
   3-4,74.15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,8.81,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,108.02,0,0,0,0

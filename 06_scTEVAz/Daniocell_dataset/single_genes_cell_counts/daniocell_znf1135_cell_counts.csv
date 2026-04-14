@@ -1,4 +1,4 @@
-stage,epidermis,eye,iridophores,mesenchyme,muscle,neural,paraxial.mesoderm,somites,spinal.cord
+stage,epidermis,eye,iridophores,mesenchyme,muscle,neural,paraxial_mesoderm,somites,spinal_cord
   7-9,0,0,0,0,0,2.63,0,0,0
  10-12,0,0,0,0,0,0,3.15,0,0
  14-21,1,0,0,0,0,1,0,1,1

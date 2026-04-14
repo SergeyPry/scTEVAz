@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,epidermis,eye,fin.mesenchyme,glial,immune,ionocyte,iridophores,liver,mesenchyme,mucous,muscle,neural,olfactory,otic,paraxial.mesoderm,periderm,pgc,pronephros,slow.muscle,somites,spinal.cord,vasculature,visceral.smooth.muscle
+stage,blastomeres,endocrine_pancreas,epidermis,eye,fin_mesenchyme,glial,immune,ionocyte,iridophores,liver,mesenchyme,mucous,muscle,neural,olfactory,otic,paraxial_mesoderm,periderm,pgc,pronephros,slow_muscle,somites,spinal_cord,vasculature,visceral_smooth_muscle
   3-4,105.42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,30.65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.13,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,5.26,0,0,2.63,0,0,0,0,0,0,0,0

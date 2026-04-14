@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,fin.epithelia,glial,ionocyte,mesenchyme,neural,periderm
+stage,blastomeres,epidermis,fin_epithelia,glial,ionocyte,mesenchyme,neural,periderm
   5-6,7.07,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,4.31,0
  14-21,0,1.09,0,0,0.9,0,0,0

@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,fin.epithelia,fin.mesenchyme,ionocyte,lateral.line,mesenchyme,mucous,neural,notochord,periderm,presomitic.mesoderm,spinal.cord,taste
+stage,endoderm,epidermis,eye,fin_epithelia,fin_mesenchyme,ionocyte,lateral_line,mesenchyme,mucous,neural,notochord,periderm,presomitic_mesoderm,spinal_cord,taste
   7-9,2.63,0,0,0,0,0,0,0,0,2.63,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,9.44,0,0,0,0,0
  14-21,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0

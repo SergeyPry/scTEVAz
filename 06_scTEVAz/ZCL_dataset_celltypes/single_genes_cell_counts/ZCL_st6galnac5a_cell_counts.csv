@@ -1,5 +1,5 @@
-stage,Hepatocyte,Intestinal.bulb.cell,Keratinocyte,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Primordial.germ.cell
+stage,Hepatocyte,Intestinal_bulb_cell,Keratinocyte,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Primordial_germ_cell
 24hpf,0,0,0,3,0,6,0
-72hpf,0,0,0,0,3.94587278404512,0,0
-21Day,0,0,0,0.369986860264282,1.84993430132141,0,0
-3Month,0.104017006644673,0.104017006644673,0.104017006644673,0.104017006644673,0,0,0.104017006644673
+72hpf,0,0,0,0,3.95,0,0
+21Day,0,0,0,0.37,1.85,0,0
+3Month,0.1,0.1,0.1,0.1,0,0,0.1

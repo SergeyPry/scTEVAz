@@ -1,4 +1,4 @@
-stage,blastomeres,exocrine.pancreas,eye,fin.epithelia,heart,lateral.line,mesenchyme,neural,otic,periderm,vascular.smooth.muscle,visceral.smooth.muscle
+stage,blastomeres,exocrine_pancreas,eye,fin_epithelia,heart,lateral_line,mesenchyme,neural,otic,periderm,vascular_smooth_muscle,visceral_smooth_muscle
   5-6,6.13,0,0,0,0,0,0,0,0,0,0,0
  24-34,0,0,0,0,1.64,0,0.82,0,0,1.64,0,0
  36-46,0,0,0,0,2.42,0,0,1.61,0,3.22,0,0

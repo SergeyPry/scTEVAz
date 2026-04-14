@@ -1,4 +1,4 @@
-stage,epidermis,gut,ionocyte,iridophores,lateral.line,mesenchyme,muscle,neural,notochord,olfactory,periderm,somites,vasculature
+stage,epidermis,gut,ionocyte,iridophores,lateral_line,mesenchyme,muscle,neural,notochord,olfactory,periderm,somites,vasculature
  10-12,0,0,0,0,0,0,0,6.66,8.54,0,0,0,0
  14-21,0,0,0,0,0,0,0,1.66,0,0,0,1.07,0
  24-34,1.68,0,0,0,0,0,0,0,0,0,6.14,0,0

@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,glial,immune,liver,mesenchyme,neural,otic,paraxial.mesoderm,periderm,spinal.cord
+stage,blastomeres,epidermis,erythrocytes,eye,glial,immune,liver,mesenchyme,neural,otic,paraxial_mesoderm,periderm,spinal_cord
   3-4,39.53,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,12.26,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,5.26,0,2.63,0,0

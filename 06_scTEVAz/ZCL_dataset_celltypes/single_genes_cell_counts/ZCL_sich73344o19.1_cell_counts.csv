@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Hepatocyte,Immune.cell,Neural.cell,Neural.progenitor.cell,Primordial.germ.cell,Spermatocyte
-72hpf,0,0,0,0.281848056003223,0.281848056003223,0,0
-21Day,0,0,0,1.10996058079285,0,0,0
-3Month,0.104017006644673,0.208034013289345,0.104017006644673,0,0,0.104017006644673,0.728119046512708
+stage,Epithelial_cell,Hepatocyte,Immune_cell,Neural_cell,Neural_progenitor_cell,Primordial_germ_cell,Spermatocyte
+72hpf,0,0,0,0.28,0.28,0,0
+21Day,0,0,0,1.11,0,0,0
+3Month,0.1,0.21,0.1,0,0,0.1,0.73

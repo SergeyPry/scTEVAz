@@ -1,4 +1,4 @@
-stage,endoderm,eye,fast.muscle,glial,mesenchyme,mural.cell,muscle,neural,somites,spinal.cord,vasculature
+stage,endoderm,eye,fast_muscle,glial,mesenchyme,mural_cell,muscle,neural,somites,spinal_cord,vasculature
  14-21,1,0,0,0,0,0,0,2,1,1,0
  24-34,0,0,0,0,0,0,0,4.93,0,0,0
  36-46,0,0,0,0,0,0.81,0.81,2.42,0,0,0

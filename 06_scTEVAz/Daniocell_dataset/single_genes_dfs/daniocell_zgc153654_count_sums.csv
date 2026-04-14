@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.epithelia,glial,gut,immune,lateral.line,mesenchyme,neural,olfactory,spinal.cord,vasculature
+stage,blastomeres,epidermis,eye,fin_epithelia,glial,gut,immune,lateral_line,mesenchyme,neural,olfactory,spinal_cord,vasculature
   3-4,90.74,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,52.29,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,12.78,0,0,0

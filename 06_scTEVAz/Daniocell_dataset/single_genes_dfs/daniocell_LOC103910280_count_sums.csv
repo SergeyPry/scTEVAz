@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,hatching.gland,ionocyte,mesenchyme,neural,notochord,olfactory,otic,paraxial.mesoderm,periderm,presomitic.mesoderm,pronephros,somites,spinal.cord,vasculature
+stage,blastomeres,endoderm,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,hatching_gland,ionocyte,mesenchyme,neural,notochord,olfactory,otic,paraxial_mesoderm,periderm,presomitic_mesoderm,pronephros,somites,spinal_cord,vasculature
   3-4,48.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33.92,0,0,0,0,0
   5-6,58.54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,8.95,24.06,0,0,0,0,0,0,0,0,69.22,0,0,0,11.37,0,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,fin.epithelia,glial,gut,lateral.line,liver,neural,olfactory,paraxial.mesoderm,periderm,taste,visceral.smooth.muscle,xanthophores
+stage,axial,blastomeres,endoderm,epidermis,eye,fin_epithelia,glial,gut,lateral_line,liver,neural,olfactory,paraxial_mesoderm,periderm,taste,visceral_smooth_muscle,xanthophores
   3-4,26.36,289.91,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,18.39,140.98,0,0,0,0,0,0,0,0,6.13,0,0,0,0,0,0
   7-9,2.63,0,0,0,5.26,0,0,0,0,0,44.69,0,7.89,2.63,0,0,0

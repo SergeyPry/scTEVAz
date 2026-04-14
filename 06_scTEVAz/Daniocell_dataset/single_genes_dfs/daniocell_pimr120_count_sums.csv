@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,erythrocytes,eye,glial,mesenchyme,muscle,neural,otic,periderm,presomitic.mesoderm,somites,spinal.cord,xanthophores
+stage,endocrine_pancreas,epidermis,erythrocytes,eye,glial,mesenchyme,muscle,neural,otic,periderm,presomitic_mesoderm,somites,spinal_cord,xanthophores
  14-21,0,2.85,0,0.84,0,0,0.85,6.46,0,0,1.1,1.85,0,0
  24-34,0,1.32,0,0,0,0,0,7.68,0,0,0,0,0,0
  36-46,0,0,0,3.4,0,0,0,1.74,0,2.75,0,0,0.84,0

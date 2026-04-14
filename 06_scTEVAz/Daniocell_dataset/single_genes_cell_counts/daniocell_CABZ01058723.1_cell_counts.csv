@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,erythrocytes,eye,glial,immune,iridophores,mesenchyme,mural.cell,muscle,neural,olfactory,otic,pericytes,pronephros,spinal.cord,vascular.smooth.muscle,vasculature,xanthophores
+stage,endocrine_pancreas,erythrocytes,eye,glial,immune,iridophores,mesenchyme,mural_cell,muscle,neural,olfactory,otic,pericytes,pronephros,spinal_cord,vascular_smooth_muscle,vasculature,xanthophores
   7-9,0,0,0,0,0,0,0,0,0,2.63,0,0,0,0,0,0,0,0
  14-21,0,7,0,0,0,0,2,0,3,4,0,1,0,0,0,0,1,0
  24-34,0.82,0.82,0.82,0,0,0,9.03,0,7.39,7.39,4.1,0,0,0.82,2.46,0,5.75,0

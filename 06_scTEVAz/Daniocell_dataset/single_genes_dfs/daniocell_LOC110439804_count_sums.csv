@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,glial,muscle,neural,paraxial.mesoderm,spinal.cord,taste
+stage,endoderm,epidermis,eye,glial,muscle,neural,paraxial_mesoderm,spinal_cord,taste
   7-9,0,0,0,0,0,17.08,4.27,0,0
  10-12,0,0,5.39,0,0,7.57,0,0,0
  14-21,0,0,0,0,0.84,0,0,0,0

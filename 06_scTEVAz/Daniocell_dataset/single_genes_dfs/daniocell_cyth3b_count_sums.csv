@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,gut,ionocyte,mesenchyme,mural.cell,muscle,neural,periderm,spinal.cord,taste,vasculature
+stage,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,gut,ionocyte,mesenchyme,mural_cell,muscle,neural,periderm,spinal_cord,taste,vasculature
  10-12,0,0,0,0,0,0,0,0,0,0,7.84,0,0,0,0
  24-34,0,0,0,0,0,0,3.38,0.74,0,0,5.21,10.92,0,0,0
  36-46,0,2.21,0,0,0,0,0,0.74,0,1.5,7.05,22.82,0,0,0.81

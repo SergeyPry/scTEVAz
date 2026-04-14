@@ -1,4 +1,4 @@
-stage,epidermis,exocrine.pancreas,eye,fin.epithelia,gut,ionocyte,mesenchyme,mucous,mural.cell,muscle,neural,periderm,somites,spinal.cord,vasculature
+stage,epidermis,exocrine_pancreas,eye,fin_epithelia,gut,ionocyte,mesenchyme,mucous,mural_cell,muscle,neural,periderm,somites,spinal_cord,vasculature
  14-21,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0
  24-34,0.82,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  36-46,0,0,0,0,0,0,0,0,0,0,7.25,0,0,0.81,0

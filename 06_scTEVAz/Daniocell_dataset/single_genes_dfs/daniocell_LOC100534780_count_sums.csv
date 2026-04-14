@@ -1,4 +1,4 @@
-stage,epidermis,exocrine.pancreas,fin.epithelia,gut,ionocyte,liver,mural.cell,neural,otic,vascular.smooth.muscle
+stage,epidermis,exocrine_pancreas,fin_epithelia,gut,ionocyte,liver,mural_cell,neural,otic,vascular_smooth_muscle
  14-21,0.96,0,0,0,0,0,0,0,0,0
  24-34,7.57,0,0,0,0,0,0,0,0,0
  36-46,4.93,0,1.39,0,0,0,0,1.4,0,0

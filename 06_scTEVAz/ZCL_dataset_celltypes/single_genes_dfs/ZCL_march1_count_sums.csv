@@ -1,4 +1,4 @@
-stage,Epithelial.cell..Brain.,Erythrocyte,Hepatocyte,Immune.cell,Neural.cell,Osteoblast,Retinal.cell,Retinal.cone.cell
-72hpf,0,0,0,0,3.20937342439823,0,1.06979114146608,0
-21Day,1.33853308820331,1.33853308820331,0,0,0,1.33853308820331,8.03119852921984,18.7394632348463
-22Month,0,0,6.01320116317177,0.546654651197433,0,0,0,0
+stage,Epithelial_cell__Brain_,Erythrocyte,Hepatocyte,Immune_cell,Neural_cell,Osteoblast,Retinal_cell,Retinal_cone_cell
+72hpf,0,0,0,0,3.21,0,1.07,0
+21Day,1.34,1.34,0,0,0,1.34,8.03,18.74
+22Month,0,0,6.01,0.55,0,0,0,0

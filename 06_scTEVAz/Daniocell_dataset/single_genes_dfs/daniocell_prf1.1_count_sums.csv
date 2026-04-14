@@ -1,4 +1,4 @@
-stage,eye,glial,hatching.gland,immune,mesenchyme,muscle,neural,notochord,olfactory,paraxial.mesoderm,spinal.cord,vasculature
+stage,eye,glial,hatching_gland,immune,mesenchyme,muscle,neural,notochord,olfactory,paraxial_mesoderm,spinal_cord,vasculature
   7-9,0,0,3.59,0,0,0,5.5,0,0,5.76,0,0
  14-21,0,0,0,0,0,0,0.92,0,0,0,0,0
  24-34,0,0,0,0,0,1.93,4.42,0,3.82,0,3.94,0

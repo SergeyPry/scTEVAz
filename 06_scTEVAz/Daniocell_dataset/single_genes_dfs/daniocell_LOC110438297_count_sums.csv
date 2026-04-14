@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,ionocyte,mesenchyme,mural.cell,muscle,neural,olfactory,paraxial.mesoderm,periderm,somites,taste
+stage,blastomeres,epidermis,ionocyte,mesenchyme,mural_cell,muscle,neural,olfactory,paraxial_mesoderm,periderm,somites,taste
   3-4,34.46,0,0,0,0,0,0,0,0,0,0,0
   5-6,26.06,0,0,0,0,0,0,0,0,14.25,0,0
   7-9,0,0,0,0,0,0,22.7,0,5.65,0,0,0

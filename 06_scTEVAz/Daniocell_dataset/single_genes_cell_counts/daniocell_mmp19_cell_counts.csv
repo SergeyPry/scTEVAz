@@ -1,4 +1,4 @@
-stage,epidermis,eye,gut,iridophores,melanocytes,mesenchyme,neural,notochord,paraxial.mesoderm,spinal.cord
+stage,epidermis,eye,gut,iridophores,melanocytes,mesenchyme,neural,notochord,paraxial_mesoderm,spinal_cord
   7-9,0,0,0,0,0,0,2.63,0,0,0
  10-12,0,0,0,0,0,0,0,0,3.15,0
  24-34,0,0,0,0,0,0,2.46,0,0,0.82

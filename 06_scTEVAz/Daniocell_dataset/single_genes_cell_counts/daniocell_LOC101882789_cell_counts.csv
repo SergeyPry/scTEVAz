@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,eye,fin.epithelia,glial,gut,iridophores,mesenchyme,neural,olfactory,otic,spinal.cord
+stage,endocrine_pancreas,eye,fin_epithelia,glial,gut,iridophores,mesenchyme,neural,olfactory,otic,spinal_cord
  14-21,0,0,0,0,0,0,0,5,0,0,2
  24-34,0,0.82,0,0,0,0,0,31.19,0.82,0,14.78
  36-46,0,0.81,0,0.81,0,0,0,78.15,1.61,0,13.7

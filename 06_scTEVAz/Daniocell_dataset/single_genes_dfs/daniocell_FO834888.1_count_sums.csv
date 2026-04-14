@@ -1,4 +1,4 @@
-stage,blastomeres,immune,liver,mesenchyme,mural.cell,neural,paraxial.mesoderm,periderm,taste,vascular.smooth.muscle,visceral.smooth.muscle,xanthophores
+stage,blastomeres,immune,liver,mesenchyme,mural_cell,neural,paraxial_mesoderm,periderm,taste,vascular_smooth_muscle,visceral_smooth_muscle,xanthophores
   3-4,0,0,0,0,0,0,0,17.06,0,0,0,0
   5-6,12.81,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,10.21,0,0,0,0,0,0

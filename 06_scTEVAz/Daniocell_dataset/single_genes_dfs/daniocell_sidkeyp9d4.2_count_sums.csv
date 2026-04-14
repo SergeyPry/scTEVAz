@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,endoderm,epidermis,erythrocytes,eye,fin.mesenchyme,glial,immune,liver,mesenchyme,mucous,muscle,neural,olfactory,periderm,spinal.cord,vascular.smooth.muscle,vasculature
+stage,endocrine_pancreas,endoderm,epidermis,erythrocytes,eye,fin_mesenchyme,glial,immune,liver,mesenchyme,mucous,muscle,neural,olfactory,periderm,spinal_cord,vascular_smooth_muscle,vasculature
  14-21,2.18,0,0,0,0,0,0,0,0,0,0,0,2.7,0,0,2.19,0,0
  24-34,1.41,0,0,0,0,0,0,0,0,0,0,0,23.37,0,0,3.94,0,0
  36-46,0,0,0,0,3.24,0,0,0,0,0.66,0,0,50.81,0,0,10.3,0,0

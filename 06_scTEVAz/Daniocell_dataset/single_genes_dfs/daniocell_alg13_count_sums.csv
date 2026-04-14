@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,lateral.line,liver,mesenchyme,mucous,muscle,neural,paraxial.mesoderm,periderm,pgc,pronephros,somites
+stage,axial,blastomeres,endoderm,epidermis,eye,lateral_line,liver,mesenchyme,mucous,muscle,neural,paraxial_mesoderm,periderm,pgc,pronephros,somites
   3-4,0,149.31,0,0,0,0,0,0,0,0,0,0,14.6,0,0,0
   5-6,12.46,197.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,15.53,0,7.91,0,13.7,0,0,0,0,0,23.41,24.97,0,20.7,0,0

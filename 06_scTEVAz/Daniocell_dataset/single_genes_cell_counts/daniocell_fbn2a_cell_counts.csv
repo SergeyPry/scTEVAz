@@ -1,4 +1,4 @@
-stage,epidermis,fin.epithelia,mesenchyme,muscle,neural,otic
+stage,epidermis,fin_epithelia,mesenchyme,muscle,neural,otic
  36-46,0,0,0,0,0.81,0
  48-58,0,0.57,0,0,0,0
  72-82,0.98,0,0,0.98,0,0.98

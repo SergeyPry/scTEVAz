@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.epithelia,fin.mesenchyme,glial,gut,hatching.gland,iridophores,melanocytes,mesenchyme,mucous,muscle,neural,notochord,olfactory,periderm,slow.muscle,spinal.cord,xanthophores
+stage,epidermis,erythrocytes,eye,fin_epithelia,fin_mesenchyme,glial,gut,hatching_gland,iridophores,melanocytes,mesenchyme,mucous,muscle,neural,notochord,olfactory,periderm,slow_muscle,spinal_cord,xanthophores
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0
  14-21,0.81,0,0,0,0,0,0,0,0,1.26,0,0,0,1.01,0,0,0,0,0.85,0
  24-34,6.54,0,0,1.63,0,0,1.35,0,0,0.62,0,0,0,2.46,0,0.69,10,0.62,0,2.9

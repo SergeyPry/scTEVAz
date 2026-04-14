@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,gut,immune,liver,neural,periderm,vasculature,visceral.smooth.muscle
+stage,endocrine_pancreas,epidermis,eye,gut,immune,liver,neural,periderm,vasculature,visceral_smooth_muscle
   7-9,0,0,0,0,0,0,2.63,0,0,0
  14-21,0,0,0,0,0,0,2,0,0,0
  24-34,0,0,0,0,0,0,0,4.93,0,0

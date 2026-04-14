@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,heart,ionocyte,iridophores,lateral.line,mesenchyme,mural.cell,neural,notochord,otic,somites,spinal.cord,vasculature,visceral.smooth.muscle
+stage,epidermis,eye,glial,heart,ionocyte,iridophores,lateral_line,mesenchyme,mural_cell,neural,notochord,otic,somites,spinal_cord,vasculature,visceral_smooth_muscle
   7-9,0,0,0,0,0,0,0,0,0,0,6.09,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,1.84,0,0,0
  24-34,0,0,0,0,0,0,0,0,0,0.64,0,0,0,3.81,0,0

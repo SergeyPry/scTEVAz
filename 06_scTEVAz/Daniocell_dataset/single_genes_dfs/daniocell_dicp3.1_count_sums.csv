@@ -1,4 +1,4 @@
-stage,eye,glial,gut,heart,immune,liver,mesenchyme,neural,notochord,pericytes,periderm,presomitic.mesoderm,pronephros,spinal.cord,vascular.smooth.muscle,vasculature
+stage,eye,glial,gut,heart,immune,liver,mesenchyme,neural,notochord,pericytes,periderm,presomitic_mesoderm,pronephros,spinal_cord,vascular_smooth_muscle,vasculature
   3-4,0,0,0,0,0,0,0,0,0,0,11.98,0,0,0,0,0
  14-21,0,0,0,0,4.87,0,0,1.25,0,0,0,0.81,0,1.95,0,0
  24-34,0,0,0,0,10.35,5.13,0,5.64,0,0,0,0,0,1.64,0,0

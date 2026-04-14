@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,glial,hatching.gland,immune,ionocyte,iridophores,melanocytes,mesenchyme,neural,notochord,paraxial.mesoderm,periderm,somites,spinal.cord,xanthophores
+stage,axial,blastomeres,endoderm,epidermis,eye,glial,hatching_gland,immune,ionocyte,iridophores,melanocytes,mesenchyme,neural,notochord,paraxial_mesoderm,periderm,somites,spinal_cord,xanthophores
   3-4,17.84,874.05,0,0,0,0,0,0,0,0,0,0,0,0,0,11.94,0,0,0
   5-6,30.5,561.95,0,0,0,0,0,0,0,0,0,0,14.78,0,0,33.97,0,0,0
   7-9,7.8,6.93,4.01,0,0,0,52.1,0,0,0,0,0,49.04,0,19.74,0,0,0,0

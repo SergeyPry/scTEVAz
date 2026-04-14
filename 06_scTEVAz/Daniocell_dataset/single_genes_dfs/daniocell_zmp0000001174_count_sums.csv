@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,erythrocytes,eye,fin.epithelia,fin.mesenchyme,glial,immune,iridophores,liver,mesenchyme,mucous,muscle,neural,notochord,olfactory,paraxial.mesoderm,periderm,pgc,spinal.cord,vasculature,visceral.smooth.muscle,xanthophores
+stage,axial,blastomeres,epidermis,erythrocytes,eye,fin_epithelia,fin_mesenchyme,glial,immune,iridophores,liver,mesenchyme,mucous,muscle,neural,notochord,olfactory,paraxial_mesoderm,periderm,pgc,spinal_cord,vasculature,visceral_smooth_muscle,xanthophores
   3-4,10.67,46.68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,9.23,25.97,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.24,0,0,0,0,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,immune,mesenchyme,muscle,neural,olfactory,somites,spinal.cord
+stage,blastomeres,epidermis,eye,glial,immune,mesenchyme,muscle,neural,olfactory,somites,spinal_cord
   3-4,38.37,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0.96,0,0.84,0.84
  24-34,0,0,0,0,0,0,0,2.33,0,0,0

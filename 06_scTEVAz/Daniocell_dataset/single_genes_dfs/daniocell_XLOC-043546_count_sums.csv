@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fast.muscle,fin.epithelia,glial,gut,ionocyte,melanocytes,mesenchyme,muscle,neural,periderm,somites,spinal.cord,vascular.smooth.muscle,vasculature,visceral.smooth.muscle,xanthophores
+stage,blastomeres,epidermis,eye,fast_muscle,fin_epithelia,glial,gut,ionocyte,melanocytes,mesenchyme,muscle,neural,periderm,somites,spinal_cord,vascular_smooth_muscle,vasculature,visceral_smooth_muscle,xanthophores
   3-4,9.73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,1.99,0,0,0,0,0,0,0,0,0,1.26,0,0,0,0,0,0,0
  24-34,0,0,0,0,0,0,0,0,0,0,0,4.15,0,0,0,0,0,0,0

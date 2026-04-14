@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,epidermis,erythrocytes,eye,fin.epithelia,fin.mesenchyme,ionocyte,liver,mesenchyme,muscle,neural,otic,periderm,somites,spinal.cord,xanthophores
+stage,blastomeres,endocrine_pancreas,epidermis,erythrocytes,eye,fin_epithelia,fin_mesenchyme,ionocyte,liver,mesenchyme,muscle,neural,otic,periderm,somites,spinal_cord,xanthophores
   5-6,8.53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.28,0,0
  24-34,0,0,0,0,0,0,0,0,0,1.06,0,0,0,0.72,0,0,0

@@ -1,4 +1,4 @@
-stage,eye,glial,ionocyte,mesenchyme,neural,periderm,presomitic.mesoderm,spinal.cord
+stage,eye,glial,ionocyte,mesenchyme,neural,periderm,presomitic_mesoderm,spinal_cord
  14-21,0,0,0,0,1,0,1,1
  24-34,0,0,0.82,0,7.39,0,0,1.64
  36-46,0,0,0,0,4.83,0.81,0,0

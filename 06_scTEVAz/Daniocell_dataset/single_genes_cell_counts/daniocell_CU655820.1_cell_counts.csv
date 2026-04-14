@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,glial,hatching.gland,ionocyte,mesenchyme,muscle,neural,periderm,pronephros,somites,spinal.cord,vasculature,xanthophores
+stage,epidermis,eye,fast_muscle,glial,hatching_gland,ionocyte,mesenchyme,muscle,neural,periderm,pronephros,somites,spinal_cord,vasculature,xanthophores
  14-21,0,0,0,0,0,0,1,0,0,0,0,2,1,1,0
  24-34,0.82,0,0,0,0,0.82,0,0,4.93,0,0.82,0,0.82,0,0
  36-46,0,2.42,0,0.81,0,0,1.61,0,3.22,0,0,0,0.81,0,0

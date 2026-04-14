@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,erythrocytes,eye,fin.epithelia,fin.mesenchyme,glial,ionocyte,lateral.line,mesenchyme,mucous,muscle,neural,pericytes,periderm,presomitic.mesoderm,spinal.cord,taste,vascular.smooth.muscle
+stage,endoderm,epidermis,erythrocytes,eye,fin_epithelia,fin_mesenchyme,glial,ionocyte,lateral_line,mesenchyme,mucous,muscle,neural,pericytes,periderm,presomitic_mesoderm,spinal_cord,taste,vascular_smooth_muscle
  10-12,12.59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,34,0,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,0
  24-34,0,23.8,0,0,0,0.82,0,0,0,2.46,0,27.91,0.82,0,0,0.82,0,0,0

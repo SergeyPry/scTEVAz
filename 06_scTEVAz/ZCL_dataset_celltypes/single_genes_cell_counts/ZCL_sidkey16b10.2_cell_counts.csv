@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Neural.cell,Neural.progenitor.cell,Osteoblast
+stage,Epithelial_cell,Neural_cell,Neural_progenitor_cell,Osteoblast
 24hpf,0,0,5,0
-72hpf,0,0.281848056003223,0.563696112006446,0
-21Day,0.739973720528564,0,0,0.739973720528564
+72hpf,0,0.28,0.56,0
+21Day,0.74,0,0,0.74

@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,erythrocytes,eye,fast.muscle,fin.epithelia,fin.mesenchyme,glial,hatching.gland,immune,lateral.line,mesenchyme,mural.cell,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,presomitic.mesoderm,slow.muscle,somites,spinal.cord,taste,visceral.smooth.muscle
+stage,blastomeres,endoderm,epidermis,erythrocytes,eye,fast_muscle,fin_epithelia,fin_mesenchyme,glial,hatching_gland,immune,lateral_line,mesenchyme,mural_cell,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,presomitic_mesoderm,slow_muscle,somites,spinal_cord,taste,visceral_smooth_muscle
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,2.63,0,0,5.26,0,0,0,0,0,0,0,0,0,0,13.14,2.63,0,0,2.63,0,0,0,0,0,0
  10-12,0,0,0,0,6.29,0,0,0,0,0,0,0,0,0,0,3.15,0,0,0,6.29,0,0,0,0,0,0

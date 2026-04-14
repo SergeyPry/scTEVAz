@@ -1,4 +1,4 @@
-stage,axial,blastomeres,eye,fin.epithelia,gut,mesenchyme,mural.cell,neural,periderm,presomitic.mesoderm,spinal.cord,xanthophores
+stage,axial,blastomeres,eye,fin_epithelia,gut,mesenchyme,mural_cell,neural,periderm,presomitic_mesoderm,spinal_cord,xanthophores
   3-4,17.23,26.15,0,0,0,0,0,0,0,0,0,0
   5-6,0,29.66,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,11.26,0,0,0,0

@@ -1,5 +1,5 @@
-stage,Endothelial.cell,Epithelial.cell,Erythrocyte..Liver.,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Keratinocyte,Macrophage,Mesenchymal.cell,Mt.rich.cell,Neural.progenitor.cell,Primordial.germ.cell,Spermatocyte
-24hpf,0,0,0,0,0,0,0,0,0,0,4.08640457285017,0,0
-21Day,0,0,0,0,0,0,0,0,2.67706617640661,0,0,0,0
-3Month,0.319949299554195,10.2383775857343,0.319949299554195,0.959847898662586,0.319949299554195,0.319949299554195,6.07903669152971,0,0.959847898662586,0,0,0.319949299554195,0.319949299554195
-22Month,0,0,0,0.546654651197433,0.546654651197433,0,0,0.546654651197433,0,0.546654651197433,0,0,0
+stage,Endothelial_cell,Epithelial_cell,Erythrocyte__Liver_,Hepatocyte,Immune_cell,Intestinal_bulb_cell,Keratinocyte,Macrophage,Mesenchymal_cell,Mt_rich_cell,Neural_progenitor_cell,Primordial_germ_cell,Spermatocyte
+24hpf,0,0,0,0,0,0,0,0,0,0,4.09,0,0
+21Day,0,0,0,0,0,0,0,0,2.68,0,0,0,0
+3Month,0.32,10.24,0.32,0.96,0.32,0.32,6.08,0,0.96,0,0,0.32,0.32
+22Month,0,0,0,0.55,0.55,0,0,0.55,0,0.55,0,0,0

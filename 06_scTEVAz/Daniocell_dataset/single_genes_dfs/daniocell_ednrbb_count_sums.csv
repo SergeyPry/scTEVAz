@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,fin.epithelia,mesenchyme,neural,paraxial.mesoderm,periderm,pronephros,somites
+stage,axial,blastomeres,endoderm,epidermis,eye,fin_epithelia,mesenchyme,neural,paraxial_mesoderm,periderm,pronephros,somites
   3-4,0,9.62,0,0,0,0,0,0,0,0,0,0
   5-6,7.01,157.5,0,0,0,0,0,0,0,0,0,0
   7-9,0,5.34,7.28,0,9.94,0,0,75.22,63.44,3.26,0,0

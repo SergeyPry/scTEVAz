@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Erythrocyte..Liver.,Goblet.cell,Granulocyte,Granulosa.cell,Hepatocyte,Immune.progenitor.cell,Intestinal.bulb.cell,Mesenchymal.cell,Mt.rich.cell,Muscle.cell,Neural.cell,Primordial.germ.cell,Smooth.muscle.cell,T.cell
-21Day,0,0,0,0,0,0,0,0,0,0,0,0.739973720528564,0,0,0
-3Month,0.208034013289345,0.104017006644673,0.104017006644673,0,0,7.17717345848241,0,0.416068026578691,0.104017006644673,0,0.104017006644673,0,0.208034013289345,0.104017006644673,0
-22Month,0,0,0,0.136649431988133,0.136649431988133,2.32304034379826,0.136649431988133,0.136649431988133,0,0.136649431988133,0,0,0.136649431988133,0,0.136649431988133
+stage,Epithelial_cell,Erythrocyte__Liver_,Goblet_cell,Granulocyte,Granulosa_cell,Hepatocyte,Immune_progenitor_cell,Intestinal_bulb_cell,Mesenchymal_cell,Mt_rich_cell,Muscle_cell,Neural_cell,Primordial_germ_cell,Smooth_muscle_cell,T_cell
+21Day,0,0,0,0,0,0,0,0,0,0,0,0.74,0,0,0
+3Month,0.21,0.1,0.1,0,0,7.18,0,0.42,0.1,0,0.1,0,0.21,0.1,0
+22Month,0,0,0,0.14,0.14,2.32,0.14,0.14,0,0.14,0,0,0.14,0,0.14

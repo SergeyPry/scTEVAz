@@ -1,6 +1,6 @@
-stage,Cardiomyocyte,Endothelial.cell,Enterocyte,Epithelial.cell,Epithelial.cell..Brain.,Erythrocyte,Erythroid.progenitor.cell,Goblet.cell,Granulocyte,Hepatocyte,Immune.progenitor.cell,Intestinal.bulb.cell,Keratinocyte,Macrophage,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Neurosecretory.cell,Oligodendrocyte,Osteoblast,Pancreatic.cell,Primordial.germ.cell,Radial.glia,Retinal.cone.cell,Smooth.muscle.cell,Spermatocyte
+stage,Cardiomyocyte,Endothelial_cell,Enterocyte,Epithelial_cell,Epithelial_cell__Brain_,Erythrocyte,Erythroid_progenitor_cell,Goblet_cell,Granulocyte,Hepatocyte,Immune_progenitor_cell,Intestinal_bulb_cell,Keratinocyte,Macrophage,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Neurosecretory_cell,Oligodendrocyte,Osteoblast,Pancreatic_cell,Primordial_germ_cell,Radial_glia,Retinal_cone_cell,Smooth_muscle_cell,Spermatocyte
 24hpf,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0
-72hpf,0.281848056003223,0,0,0.281848056003223,0.281848056003223,0,0,0,0,0,0,0,1.12739222401289,0,0.84554416800967,34.6673108883965,1.69108833601934,0,0,1.12739222401289,0,0,0,0,0,0
-21Day,0.739973720528564,0,0.369986860264282,1.10996058079285,0,11.4695926681927,0.369986860264282,0,0,0,0.739973720528564,0,1.84993430132141,0.739973720528564,4.06985546290711,29.5989488211426,1.47994744105713,0.369986860264282,0,1.47994744105713,1.47994744105713,0.369986860264282,0,0.369986860264282,0,0
-3Month,0,0,0,0.624102039868036,0,0,0,0.104017006644673,0.104017006644673,0.312051019934018,0,0,0.104017006644673,0,0,0.208034013289345,0,0,0.104017006644673,0.104017006644673,0,0.624102039868036,0,0,0.104017006644673,0.312051019934018
-22Month,0,0.136649431988133,0,0.136649431988133,0,0,0,0,0.136649431988133,1.6397931838576,0,0.683247159940666,0,0,0.273298863976266,0.273298863976266,0,0.136649431988133,0,0,0,0.683247159940666,0.273298863976266,0,0,0
+72hpf,0.28,0,0,0.28,0.28,0,0,0,0,0,0,0,1.13,0,0.85,34.67,1.69,0,0,1.13,0,0,0,0,0,0
+21Day,0.74,0,0.37,1.11,0,11.47,0.37,0,0,0,0.74,0,1.85,0.74,4.07,29.6,1.48,0.37,0,1.48,1.48,0.37,0,0.37,0,0
+3Month,0,0,0,0.62,0,0,0,0.1,0.1,0.31,0,0,0.1,0,0,0.21,0,0,0.1,0.1,0,0.62,0,0,0.1,0.31
+22Month,0,0.14,0,0.14,0,0,0,0,0.14,1.64,0,0.68,0,0,0.27,0.27,0,0.14,0,0,0,0.68,0.27,0,0,0

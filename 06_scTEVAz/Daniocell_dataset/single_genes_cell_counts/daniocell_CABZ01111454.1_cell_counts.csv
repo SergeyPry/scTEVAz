@@ -1,4 +1,4 @@
-stage,blastomeres,eye,fin.mesenchyme,glial,immune,iridophores,mesenchyme,mucous,muscle,neural,olfactory,periderm,spinal.cord,xanthophores
+stage,blastomeres,eye,fin_mesenchyme,glial,immune,iridophores,mesenchyme,mucous,muscle,neural,olfactory,periderm,spinal_cord,xanthophores
   3-4,52.71,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,1,0,0,1,0,0,0,0
  24-34,0,0,0,0,0,0,0,0,0,2.46,0.82,0.82,0.82,0

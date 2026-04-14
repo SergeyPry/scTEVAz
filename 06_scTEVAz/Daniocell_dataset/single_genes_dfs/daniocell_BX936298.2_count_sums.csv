@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,epidermis,eye,fin.mesenchyme,glial,ionocyte,mesenchyme,mural.cell,neural,notochord,otic,paraxial.mesoderm,somites,spinal.cord
+stage,blastomeres,endocrine_pancreas,epidermis,eye,fin_mesenchyme,glial,ionocyte,mesenchyme,mural_cell,neural,notochord,otic,paraxial_mesoderm,somites,spinal_cord
   5-6,15.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,17.36,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,17.66,11.22,0,5.03,0,0

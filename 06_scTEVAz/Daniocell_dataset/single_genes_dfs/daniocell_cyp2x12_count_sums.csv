@@ -1,4 +1,4 @@
-stage,blastomeres,erythrocytes,eye,fin.epithelia,glial,gut,liver,melanocytes,mucous,neural,paraxial.mesoderm,periderm,vasculature
+stage,blastomeres,erythrocytes,eye,fin_epithelia,glial,gut,liver,melanocytes,mucous,neural,paraxial_mesoderm,periderm,vasculature
   5-6,6.21,0,0,0,0,0,0,0,0,21.04,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,15.02,4.33,0,0
  10-12,5.51,0,0,0,0,0,0,0,0,5.9,0,0,0

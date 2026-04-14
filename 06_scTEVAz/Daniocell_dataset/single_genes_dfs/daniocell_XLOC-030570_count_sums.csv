@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,erythrocytes,eye,fast.muscle,glial,mesenchyme,neural,paraxial.mesoderm,spinal.cord,taste,vasculature
+stage,endoderm,epidermis,erythrocytes,eye,fast_muscle,glial,mesenchyme,neural,paraxial_mesoderm,spinal_cord,taste,vasculature
  10-12,6.23,0,0,0,0,0,0,0,10.9,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,2.22,0,0
  24-34,0,0.94,0,0,0,0,0.78,2.97,0,1.86,0,0

@@ -1,4 +1,4 @@
-stage,axial,erythrocytes,eye,fin.epithelia,glial,mesenchyme,neural,notochord,otic,paraxial.mesoderm,presomitic.mesoderm,somites,spinal.cord,vasculature,xanthophores
+stage,axial,erythrocytes,eye,fin_epithelia,glial,mesenchyme,neural,notochord,otic,paraxial_mesoderm,presomitic_mesoderm,somites,spinal_cord,vasculature,xanthophores
   7-9,0,0,0,0,0,0,0,11.68,0,14.9,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,36.24,0,0,0,0,0
  14-21,0,0,0,0,0,2.78,1.74,39.29,0,3.05,12.02,0.97,0.87,0,0

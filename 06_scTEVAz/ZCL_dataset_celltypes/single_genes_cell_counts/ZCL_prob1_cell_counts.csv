@@ -1,6 +1,6 @@
-stage,Cardiomyocyte,Epithelial.cell,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Mesenchymal.cell,Mt.rich.cell,Nephron.cell,Neural.cell,Neural.progenitor.cell,Osteoblast,Primordial.germ.cell
+stage,Cardiomyocyte,Epithelial_cell,Hepatocyte,Immune_cell,Intestinal_bulb_cell,Mesenchymal_cell,Mt_rich_cell,Nephron_cell,Neural_cell,Neural_progenitor_cell,Osteoblast,Primordial_germ_cell
 24hpf,1,0,0,0,0,0,0,0,0,0,0,0
-72hpf,0,0,0,0,0,0,0,0,1.40924028001612,0.281848056003223,0.563696112006446,0
-21Day,0,0,0,0,0,0,0,0.369986860264282,0,0,0,0
-3Month,0,0.208034013289345,0.520085033223363,0.104017006644673,0,0,0,0.104017006644673,0,0,0,0.104017006644673
-22Month,0,0.136649431988133,0.956546023916932,0,0.409948295964399,0.136649431988133,0.273298863976266,0,0,0,0,0
+72hpf,0,0,0,0,0,0,0,0,1.41,0.28,0.56,0
+21Day,0,0,0,0,0,0,0,0.37,0,0,0,0
+3Month,0,0.21,0.52,0.1,0,0,0,0.1,0,0,0,0.1
+22Month,0,0.14,0.96,0,0.41,0.14,0.27,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Enterocyte,Epithelial.cell,Erythrocyte,Intestinal.bulb.cell,Ionocyte,Keratinocyte
-72hpf,0,0,0,0.281848056003223,0,0.563696112006446,0.281848056003223
-21Day,0.369986860264282,0.739973720528564,0.369986860264282,0,0.369986860264282,0,0.369986860264282
-22Month,0,0.136649431988133,0,0,0.136649431988133,0,0
+stage,Cardiomyocyte,Enterocyte,Epithelial_cell,Erythrocyte,Intestinal_bulb_cell,Ionocyte,Keratinocyte
+72hpf,0,0,0,0.28,0,0.56,0.28
+21Day,0.37,0.74,0.37,0,0.37,0,0.37
+22Month,0,0.14,0,0,0.14,0,0

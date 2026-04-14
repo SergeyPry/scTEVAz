@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,fin.mesenchyme,glial,gut,lateral.line,liver,mesenchyme,muscle,neural,olfactory,otic,periderm,pronephros,somites,spinal.cord
+stage,blastomeres,epidermis,erythrocytes,eye,fin_mesenchyme,glial,gut,lateral_line,liver,mesenchyme,muscle,neural,olfactory,otic,periderm,pronephros,somites,spinal_cord
   3-4,26.36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,36.78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,10.51,0,0,0,0,0,0

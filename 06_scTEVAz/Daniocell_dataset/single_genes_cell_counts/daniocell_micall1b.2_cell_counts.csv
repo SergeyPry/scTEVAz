@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,glial,gut,hatching.gland,ionocyte,mesenchyme,mucous,neural,notochord,paraxial.mesoderm,periderm,somites,spinal.cord,taste,xanthophores
+stage,axial,blastomeres,endoderm,epidermis,eye,glial,gut,hatching_gland,ionocyte,mesenchyme,mucous,neural,notochord,paraxial_mesoderm,periderm,somites,spinal_cord,taste,xanthophores
   3-4,0,26.36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,0,12.26,0,0,0,0,0,0,0,0,0,6.13,0,0,6.13,0,0,0,0
   7-9,2.63,0,0,0,5.26,0,0,0,0,0,0,18.4,0,2.63,2.63,0,0,0,0

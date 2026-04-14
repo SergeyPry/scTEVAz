@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endocrine.pancreas,endoderm,eye,fin.mesenchyme,glial,mesenchyme,muscle,neural,olfactory,paraxial.mesoderm,periderm,presomitic.mesoderm,spinal.cord,visceral.smooth.muscle
+stage,axial,blastomeres,endocrine_pancreas,endoderm,eye,fin_mesenchyme,glial,mesenchyme,muscle,neural,olfactory,paraxial_mesoderm,periderm,presomitic_mesoderm,spinal_cord,visceral_smooth_muscle
   3-4,0,72.94,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,9.18,40.44,0,0,0,0,0,0,0,0,0,0,9.92,0,0,0
   7-9,0,0,0,4.02,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,glial,hatching.gland,muscle,neural,paraxial.mesoderm,taste,vasculature
+stage,blastomeres,endoderm,epidermis,glial,hatching_gland,muscle,neural,paraxial_mesoderm,taste,vasculature
   3-4,39.53,0,0,0,0,0,0,0,0,0
   5-6,55.17,0,0,0,0,0,6.13,0,0,0
   7-9,0,10.51,0,0,5.26,0,2.63,0,0,0

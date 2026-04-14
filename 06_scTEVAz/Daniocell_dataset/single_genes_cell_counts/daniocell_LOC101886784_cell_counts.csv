@@ -1,4 +1,4 @@
-stage,blastomeres,eye,glial,mesenchyme,muscle,neural,periderm,spinal.cord,vasculature
+stage,blastomeres,eye,glial,mesenchyme,muscle,neural,periderm,spinal_cord,vasculature
   7-9,2.63,0,0,0,0,7.89,0,0,0
  10-12,0,0,0,0,0,9.44,0,0,0
  14-21,0,0,0,0,0,1,0,0,0

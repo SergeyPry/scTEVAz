@@ -1,4 +1,4 @@
-stage,blastomeres,erythrocytes,fin.mesenchyme,glial,mesenchyme,mural.cell,muscle,neural,notochord,paraxial.mesoderm,pericytes,somites,spinal.cord,vasculature
+stage,blastomeres,erythrocytes,fin_mesenchyme,glial,mesenchyme,mural_cell,muscle,neural,notochord,paraxial_mesoderm,pericytes,somites,spinal_cord,vasculature
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,2.63,0,0,0,0,0,0,5.26,0,2.63,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,3.15,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,epidermis,erythrocytes,eye,fin.mesenchyme,glial,gut,heart,immune,mesenchyme,mural.cell,muscle,neural,olfactory,periderm,slow.muscle,spinal.cord
+stage,blastomeres,endocrine_pancreas,epidermis,erythrocytes,eye,fin_mesenchyme,glial,gut,heart,immune,mesenchyme,mural_cell,muscle,neural,olfactory,periderm,slow_muscle,spinal_cord
   5-6,8.97,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,1.07,0,1.36,0,0,0,0,0,0,1.85,0,0,1.02,0,0,0,0
  24-34,0,0,2.23,0,0,0.83,0,0,0,0,0,0,0,7.8,0,1.43,0,0

@@ -1,4 +1,4 @@
-stage,eye,fin.epithelia,glial,mesenchyme,mural.cell,muscle,neural,paraxial.mesoderm,spinal.cord,vasculature
+stage,eye,fin_epithelia,glial,mesenchyme,mural_cell,muscle,neural,paraxial_mesoderm,spinal_cord,vasculature
   7-9,0,0,0,0,0,0,0,3.96,0,0
  14-21,0,0,0,0,0,0.85,0,0,1.55,0
  24-34,0,0,0,0,0,0,1.43,0,0,0

@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fast.muscle,glial,gut,heart,immune,melanocytes,mesenchyme,mural.cell,muscle,neural,pericytes,periderm,spinal.cord,taste,vasculature,visceral.smooth.muscle
+stage,blastomeres,epidermis,eye,fast_muscle,glial,gut,heart,immune,melanocytes,mesenchyme,mural_cell,muscle,neural,pericytes,periderm,spinal_cord,taste,vasculature,visceral_smooth_muscle
   3-4,15.66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,3.49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,7.28,0,0,0,0,0,0,0,0,0,0,1.81,0,0,0.8,0,0,0

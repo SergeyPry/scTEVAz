@@ -1,4 +1,4 @@
-stage,blastomeres,erythrocytes,exocrine.pancreas,eye,fin.epithelia,glial,immune,mesenchyme,mural.cell,muscle,neural,paraxial.mesoderm,periderm,pronephros,spinal.cord,vasculature
+stage,blastomeres,erythrocytes,exocrine_pancreas,eye,fin_epithelia,glial,immune,mesenchyme,mural_cell,muscle,neural,paraxial_mesoderm,periderm,pronephros,spinal_cord,vasculature
   5-6,12.26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,2.63,0,0,0,0,0,0,2.63,2.63,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,9.44,0,0,0,0,0

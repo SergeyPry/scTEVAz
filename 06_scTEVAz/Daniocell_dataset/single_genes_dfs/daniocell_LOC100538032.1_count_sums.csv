@@ -1,4 +1,4 @@
-stage,endoderm,erythrocytes,eye,fast.muscle,fin.epithelia,glial,gut,immune,ionocyte,lateral.line,mesenchyme,neural,olfactory,otic,periderm,slow.muscle,spinal.cord,vasculature,xanthophores
+stage,endoderm,erythrocytes,eye,fast_muscle,fin_epithelia,glial,gut,immune,ionocyte,lateral_line,mesenchyme,neural,olfactory,otic,periderm,slow_muscle,spinal_cord,vasculature,xanthophores
  14-21,0,0,3.31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  24-34,1.03,0,0,0,0,0,0,0,0,7.55,0,3.05,1.49,0.89,0,0,0,0,0
  36-46,0,0,0,0,0,1.44,0,0,0,1.17,0,0,0,7.4,0,0,0.84,0,0

@@ -1,4 +1,4 @@
-stage,erythrocytes,eye,fast.muscle,glial,gut,liver,mesenchyme,muscle,neural,periderm,pgc,presomitic.mesoderm,slow.muscle,somites,spinal.cord,xanthophores
+stage,erythrocytes,eye,fast_muscle,glial,gut,liver,mesenchyme,muscle,neural,periderm,pgc,presomitic_mesoderm,slow_muscle,somites,spinal_cord,xanthophores
  14-21,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
  24-34,0,0,0,0,0,0,0,0,0,0,0,0,0,0.82,0,0
  36-46,0,0,0,0,0,0,0,0.81,2.42,0,0,0,0,0,0,0.81

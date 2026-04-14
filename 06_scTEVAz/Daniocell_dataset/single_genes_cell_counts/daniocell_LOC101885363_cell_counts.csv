@@ -1,4 +1,4 @@
-stage,eye,fin.epithelia,glial,liver,mesenchyme,mural.cell,muscle,neural,spinal.cord,vascular.smooth.muscle
+stage,eye,fin_epithelia,glial,liver,mesenchyme,mural_cell,muscle,neural,spinal_cord,vascular_smooth_muscle
  14-21,0,0,0,0,0,0,1,2,0,0
  24-34,1.64,0,0,0,2.46,0,0.82,8.21,0,0
  36-46,1.61,0.81,0,0,0,0,0,2.42,0.81,0

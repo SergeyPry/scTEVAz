@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.epithelia,fin.mesenchyme,gut,heart,mesenchyme,mural.cell,muscle,neural,notochord,otic,pronephros,somites,spinal.cord
+stage,blastomeres,epidermis,eye,fin_epithelia,fin_mesenchyme,gut,heart,mesenchyme,mural_cell,muscle,neural,notochord,otic,pronephros,somites,spinal_cord
   3-4,26.36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,12.26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,5.26,0,0,0,0,0

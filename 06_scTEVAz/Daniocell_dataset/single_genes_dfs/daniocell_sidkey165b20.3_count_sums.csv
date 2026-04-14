@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,glial,gut,hatching.gland,ionocyte,mesenchyme,mural.cell,muscle,neural,olfactory,paraxial.mesoderm,periderm,somites,spinal.cord
+stage,blastomeres,endoderm,epidermis,eye,glial,gut,hatching_gland,ionocyte,mesenchyme,mural_cell,muscle,neural,olfactory,paraxial_mesoderm,periderm,somites,spinal_cord
   3-4,98.53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,206.4,8.02,0,0,0,0,0,0,0,0,0,10.51,0,12.15,0,0,0
   7-9,0,7.64,0,4.87,0,0,3.49,0,0,0,0,121.09,0,21.22,0,0,0

@@ -1,4 +1,4 @@
-stage,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Osteoblast,Radial.glia
-24hpf,0,0,4.08640457285017,0,0
-72hpf,2.13958228293216,1.06979114146608,0,4.27916456586431,1.06979114146608
-21Day,2.67706617640661,0,0,0,0
+stage,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Osteoblast,Radial_glia
+24hpf,0,0,4.09,0,0
+72hpf,2.14,1.07,0,4.28,1.07
+21Day,2.68,0,0,0,0

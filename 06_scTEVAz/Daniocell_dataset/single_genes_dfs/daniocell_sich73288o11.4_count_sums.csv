@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.epithelia,glial,heart,immune,mesenchyme,mucous,mural.cell,neural,notochord,paraxial.mesoderm,periderm,somites,spinal.cord
+stage,epidermis,erythrocytes,eye,fin_epithelia,glial,heart,immune,mesenchyme,mucous,mural_cell,neural,notochord,paraxial_mesoderm,periderm,somites,spinal_cord
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,13.05,0,0,5.09
  14-21,1,0,0,0,0,0,0,0,0,0,0,0,0,1.35,1.03,0.85
  24-34,0,0,0,0,0,0,0,0,0,0,0.66,0,0,0,0,0.75

@@ -1,4 +1,4 @@
-stage,Hepatocyte,Immune.cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Osteoblast,Pancreatic.cell,Primordial.germ.cell,Spermatocyte
-24hpf,0,0,0,0,0,0,0,20.4320228642509,0,0,0,0
-72hpf,0,0,1.06979114146608,1.06979114146608,0,1.06979114146608,1.06979114146608,0,1.06979114146608,0,0,0
-3Month,0.319949299554195,0.319949299554195,0,0,0.319949299554195,0,0.319949299554195,0,0,0.319949299554195,6.07903669152971,2.87954369598776
+stage,Hepatocyte,Immune_cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Osteoblast,Pancreatic_cell,Primordial_germ_cell,Spermatocyte
+24hpf,0,0,0,0,0,0,0,20.43,0,0,0,0
+72hpf,0,0,1.07,1.07,0,1.07,1.07,0,1.07,0,0,0
+3Month,0.32,0.32,0,0,0.32,0,0.32,0,0,0.32,6.08,2.88

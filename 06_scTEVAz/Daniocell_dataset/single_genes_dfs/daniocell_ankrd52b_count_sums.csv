@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,ionocyte,mesenchyme,mural.cell,muscle,neural,pericytes,periderm,presomitic.mesoderm,slow.muscle,somites,spinal.cord
+stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,ionocyte,mesenchyme,mural_cell,muscle,neural,pericytes,periderm,presomitic_mesoderm,slow_muscle,somites,spinal_cord
   3-4,0,60.55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.98,50.16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,6.67,0,0,0,0,0,0,0,0,0,3.87,0,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,ionocyte,mesenchyme,neural,olfactory,presomitic.mesoderm,slow.muscle,somites,spinal.cord
+stage,epidermis,erythrocytes,eye,ionocyte,mesenchyme,neural,olfactory,presomitic_mesoderm,slow_muscle,somites,spinal_cord
  14-21,0,0,0,0,0,2.85,0,0.93,0,1.11,0
  24-34,0.84,0,1.23,0,0,2.87,0,0,0.6,0,0.83
  36-46,0.92,0,2.45,0,0,6.93,0,0,0,0,1.18

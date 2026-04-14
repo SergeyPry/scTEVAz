@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.mesenchyme,glial,ionocyte,lateral.line,mesenchyme,neural,olfactory,otic,pronephros,spinal.cord,vasculature
+stage,epidermis,eye,fin_mesenchyme,glial,ionocyte,lateral_line,mesenchyme,neural,olfactory,otic,pronephros,spinal_cord,vasculature
  14-21,0.97,0,0,0,0,0,0,1.91,0,0,0,5.31,0
  24-34,0,0,0,0,0,0,0,10.01,1.55,0,6.71,3.3,0
  36-46,0,5.06,0,0.71,0,0,3.96,6.31,1.79,0,1.39,5.54,0

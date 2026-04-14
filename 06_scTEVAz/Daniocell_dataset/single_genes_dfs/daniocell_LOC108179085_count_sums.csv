@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,lateral.line,mesenchyme,neural,olfactory,otic,presomitic.mesoderm,pronephros,somites,spinal.cord
+stage,epidermis,eye,glial,lateral_line,mesenchyme,neural,olfactory,otic,presomitic_mesoderm,pronephros,somites,spinal_cord
  14-21,1.86,0,0.87,0,0,0.86,0,0,0.95,1.74,0,4.57
  24-34,0,0,0,0,0,3.75,0,0,0,0,1.08,1.39
  36-46,0,0.74,0.71,0.8,0.77,2.14,0,0,0,0,0,5.99

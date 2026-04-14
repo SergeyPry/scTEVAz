@@ -1,4 +1,4 @@
-stage,axial,blastomeres,eye,heart,immune,mesenchyme,neural,otic,paraxial.mesoderm,periderm,presomitic.mesoderm
+stage,axial,blastomeres,eye,heart,immune,mesenchyme,neural,otic,paraxial_mesoderm,periderm,presomitic_mesoderm
   3-4,0,73.8,0,0,0,0,0,0,0,0,0
   5-6,6.34,72.15,0,0,0,0,0,0,0,0,0
   7-9,0,0,14.23,0,0,0,23.19,0,3.54,0,0

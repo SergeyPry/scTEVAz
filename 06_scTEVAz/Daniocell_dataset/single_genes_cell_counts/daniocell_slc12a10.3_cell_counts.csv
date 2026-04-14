@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.mesenchyme,glial,gut,hatching.gland,ionocyte,liver,mesenchyme,mural.cell,muscle,neural,notochord,otic,paraxial.mesoderm,periderm,pronephros,spinal.cord,vasculature
+stage,epidermis,eye,fin_mesenchyme,glial,gut,hatching_gland,ionocyte,liver,mesenchyme,mural_cell,muscle,neural,notochord,otic,paraxial_mesoderm,periderm,pronephros,spinal_cord,vasculature
  14-21,0,1,0,0,0,1,0,0,1,0,0,11,1,0,2,0,0,5,0
  24-34,1.64,0.82,0,0.82,0,0,0,0,3.28,0,1.64,4.93,0.82,0,0,4.1,0,4.93,0.82
  36-46,0,0.81,0,0,0,0,0.81,0,2.42,0,0,8.86,0.81,0,0,0,2.42,3.22,0

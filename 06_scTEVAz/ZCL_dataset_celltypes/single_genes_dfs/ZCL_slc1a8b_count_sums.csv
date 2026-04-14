@@ -1,3 +1,3 @@
-stage,Hepatocyte,Intestinal.bulb.cell,Retinal.cell,Retinal.cone.cell
-21Day,0,0,5.35413235281323,22.7550624994562
-22Month,1.09330930239487,0.546654651197433,0,0
+stage,Hepatocyte,Intestinal_bulb_cell,Retinal_cell,Retinal_cone_cell
+21Day,0,0,5.35,22.76
+22Month,1.09,0.55,0,0

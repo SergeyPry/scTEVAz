@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,eye,glial,iridophores,melanocytes,mesenchyme,mural.cell,neural,periderm,spinal.cord,vasculature
+stage,blastomeres,endoderm,eye,glial,iridophores,melanocytes,mesenchyme,mural_cell,neural,periderm,spinal_cord,vasculature
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0
   5-6,12.26,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,2.63,0,0,0,0,0,0,7.89,0,0,0

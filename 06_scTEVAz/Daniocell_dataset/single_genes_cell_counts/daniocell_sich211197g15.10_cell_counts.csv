@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,erythrocytes,eye,fin.epithelia,mesenchyme,neural,paraxial.mesoderm,periderm
+stage,blastomeres,endocrine_pancreas,erythrocytes,eye,fin_epithelia,mesenchyme,neural,paraxial_mesoderm,periderm
   3-4,13.18,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,2.63,5.26,0
  14-21,0,0,0,0,0,0,0,0,1

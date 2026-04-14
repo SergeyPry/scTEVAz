@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,erythrocytes,eye,fin.epithelia,glial,immune,lateral.line,mesenchyme,mucous,neural,notochord,olfactory,periderm,somites,spinal.cord,taste,vasculature,xanthophores
+stage,axial,blastomeres,epidermis,erythrocytes,eye,fin_epithelia,glial,immune,lateral_line,mesenchyme,mucous,neural,notochord,olfactory,periderm,somites,spinal_cord,taste,vasculature,xanthophores
   3-4,17.74,109.03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,0,84.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,3.95,0,0,0,0,0,0,3.6,0,0,0,0,0,0,0,0

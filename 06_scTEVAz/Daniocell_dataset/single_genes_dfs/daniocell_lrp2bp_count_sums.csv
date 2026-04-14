@@ -1,4 +1,4 @@
-stage,axial,endocrine.pancreas,endoderm,epidermis,eye,glial,gut,hatching.gland,heart,lateral.line,liver,melanocytes,mesenchyme,neural,notochord,olfactory,otic,periderm,pronephros,somites,spinal.cord,vasculature,xanthophores
+stage,axial,endocrine_pancreas,endoderm,epidermis,eye,glial,gut,hatching_gland,heart,lateral_line,liver,melanocytes,mesenchyme,neural,notochord,olfactory,otic,periderm,pronephros,somites,spinal_cord,vasculature,xanthophores
   7-9,4.22,0,5.35,0,0,0,0,3.6,0,0,0,0,0,29.8,3.27,0,0,0,0,0,0,0,0
  10-12,0,0,3.04,0,0,0,0,0,0,0,0,0,0,97.64,0,0,0,0,0,0,0,0,0
  14-21,0,1.13,0,0.85,1.27,27.46,0,0,0,0,1.59,0,3.75,25.86,2.9,5.27,0,0,29.3,0.81,98.44,0,0

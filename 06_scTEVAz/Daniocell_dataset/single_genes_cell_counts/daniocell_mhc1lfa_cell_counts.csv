@@ -1,4 +1,4 @@
-stage,epidermis,fin.epithelia,glial,gut,immune,ionocyte,liver,mucous,neural,olfactory,periderm,taste
+stage,epidermis,fin_epithelia,glial,gut,immune,ionocyte,liver,mucous,neural,olfactory,periderm,taste
  24-34,0,0,0,0,0,0,0,0.82,0.82,0,1.64,0
  36-46,0,0,0,0,0,0,0,0,0,0,8.06,0
  48-58,0,0,0.57,0,0,0,0,5.74,0.57,0,14.92,0

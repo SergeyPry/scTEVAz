@@ -1,4 +1,4 @@
-stage,eye,glial,heart,mesenchyme,mural.cell,muscle,neural,olfactory,paraxial.mesoderm,pericytes,spinal.cord,vasculature,visceral.smooth.muscle
+stage,eye,glial,heart,mesenchyme,mural_cell,muscle,neural,olfactory,paraxial_mesoderm,pericytes,spinal_cord,vasculature,visceral_smooth_muscle
   7-9,0,0,0,0,0,0,0,0,3.89,0,0,0,0
  24-34,0.72,2.28,0,1.7,0,0,9.52,0,0,0,0,0,0
  36-46,0,0,0,0.83,0,2.66,0,0.87,0,0,0,0,0

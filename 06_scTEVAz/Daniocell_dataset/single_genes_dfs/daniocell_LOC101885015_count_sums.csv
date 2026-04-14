@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,eye,fin.mesenchyme,glial,mesenchyme,muscle,neural,paraxial.mesoderm,presomitic.mesoderm,spinal.cord
+stage,blastomeres,endoderm,eye,fin_mesenchyme,glial,mesenchyme,muscle,neural,paraxial_mesoderm,presomitic_mesoderm,spinal_cord
   3-4,20.26,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,16.92,0,0,0
  10-12,3.15,0,0,0,0,0,0,36.58,20.51,0,0

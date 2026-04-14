@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,erythrocytes,exocrine.pancreas,eye,glial,gut,iridophores,mesenchyme,muscle,neural,notochord,otic,paraxial.mesoderm,presomitic.mesoderm,spinal.cord,vasculature,visceral.smooth.muscle,xanthophores
+stage,axial,blastomeres,epidermis,erythrocytes,exocrine_pancreas,eye,glial,gut,iridophores,mesenchyme,muscle,neural,notochord,otic,paraxial_mesoderm,presomitic_mesoderm,spinal_cord,vasculature,visceral_smooth_muscle,xanthophores
   3-4,10.19,19.55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,0,15.78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,24.35,0,0,4.29,0,0,0,0,0

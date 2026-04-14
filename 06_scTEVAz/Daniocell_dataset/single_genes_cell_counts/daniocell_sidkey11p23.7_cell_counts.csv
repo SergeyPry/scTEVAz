@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,glial,gut,mesenchyme,muscle,neural,otic,pronephros,spinal.cord,taste,xanthophores
+stage,endocrine_pancreas,epidermis,eye,glial,gut,mesenchyme,muscle,neural,otic,pronephros,spinal_cord,taste,xanthophores
  14-21,0,1,0,1,0,1,1,0,0,0,1,0,0
  24-34,0,0,0,0,0,0,0,4.1,0,0,0,0,0
  36-46,0,0,0,0,0,0,0,1.61,0.81,0,0.81,0,0.81

@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,fin.mesenchyme,glial,gut,iridophores,liver,melanocytes,mesenchyme,neural,notochord,paraxial.mesoderm,periderm,pronephros,spinal.cord,visceral.smooth.muscle
+stage,blastomeres,epidermis,erythrocytes,eye,fin_mesenchyme,glial,gut,iridophores,liver,melanocytes,mesenchyme,neural,notochord,paraxial_mesoderm,periderm,pronephros,spinal_cord,visceral_smooth_muscle
   3-4,48.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,34.47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,10.26,0,6.7,0,0,0,0

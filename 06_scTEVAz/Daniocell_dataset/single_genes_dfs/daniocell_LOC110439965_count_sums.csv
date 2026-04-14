@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,endoderm,epidermis,erythrocytes,eye,glial,immune,lateral.line,mesenchyme,muscle,neural,otic,periderm,somites,spinal.cord
+stage,endocrine_pancreas,endoderm,epidermis,erythrocytes,eye,glial,immune,lateral_line,mesenchyme,muscle,neural,otic,periderm,somites,spinal_cord
  14-21,0,0.96,0,0,0.9,0,0,0,0,0,7.36,0,0,0,0.98
  24-34,0.61,0,1.29,0,0,0,0,0,0,0,12.92,0.61,0,1.37,1.66
  36-46,0,0,0,0,0,0.8,0,0,2.8,0.85,11.19,0,0.83,0,3.43

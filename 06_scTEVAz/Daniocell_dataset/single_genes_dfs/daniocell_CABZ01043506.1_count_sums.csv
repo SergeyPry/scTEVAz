@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fast.muscle,glial,heart,melanocytes,mesenchyme,mucous,neural,otic,periderm,presomitic.mesoderm,spinal.cord,vasculature
+stage,epidermis,erythrocytes,eye,fast_muscle,glial,heart,melanocytes,mesenchyme,mucous,neural,otic,periderm,presomitic_mesoderm,spinal_cord,vasculature
  10-12,0,0,0,0,0,0,0,0,0,5.21,0,0,0,0,0
  14-21,0,0.95,0,0,0,0,0,0,0,0,0,0,0.82,0,0
  24-34,0,0,1.04,0,0.98,0,0,0,0,4.15,0,0,0,5.72,0

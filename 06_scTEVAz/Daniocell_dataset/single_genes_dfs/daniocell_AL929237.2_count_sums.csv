@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.mesenchyme,glial,gut,ionocyte,iridophores,lateral.line,mesenchyme,muscle,neural,notochord,olfactory,otic,periderm,spinal.cord,vasculature,xanthophores
+stage,epidermis,eye,fin_mesenchyme,glial,gut,ionocyte,iridophores,lateral_line,mesenchyme,muscle,neural,notochord,olfactory,otic,periderm,spinal_cord,vasculature,xanthophores
  14-21,1.03,0,0,0,0,0,0,0,0,0.93,19.27,0,0,0,0,3.16,0,0
  24-34,0.62,7.57,0,2.79,0,0.7,0,0,6.29,0,32.67,0,0,0.99,0,9.28,0,0
  36-46,0.63,10.9,0,0.84,0,0.63,1.49,0,2.82,0,47.05,0,2,0,0,8.74,0,0

@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,glial,melanocytes,mesenchyme,muscle,neural,periderm,spinal.cord,vascular.smooth.muscle
+stage,epidermis,eye,fin_epithelia,glial,melanocytes,mesenchyme,muscle,neural,periderm,spinal_cord,vascular_smooth_muscle
  14-21,0,0,0,0,0,0,0,1,0,1,0
  24-34,0.82,0,0,0,0,0,0,0.82,0,0,0
  36-46,0,0,0,0,0,0,0,2.42,0,0,0

@@ -1,5 +1,5 @@
-stage,Cardiomyocyte,Hepatocyte,Ionocyte,Keratinocyte,Macrophage,Neural.cell,Neural.progenitor.cell,Radial.glia
+stage,Cardiomyocyte,Hepatocyte,Ionocyte,Keratinocyte,Macrophage,Neural_cell,Neural_progenitor_cell,Radial_glia
 24hpf,0,0,0,0,0,9,0,0
-72hpf,0.281848056003223,0,0.281848056003223,0.281848056003223,0.281848056003223,5.63696112006446,0.281848056003223,0.281848056003223
-21Day,0,0,0,0.739973720528564,0,1.84993430132141,0,0
-22Month,0,0.136649431988133,0,0,0,0,0,0
+72hpf,0.28,0,0.28,0.28,0.28,5.64,0.28,0.28
+21Day,0,0,0,0.74,0,1.85,0,0
+22Month,0,0.14,0,0,0,0,0,0

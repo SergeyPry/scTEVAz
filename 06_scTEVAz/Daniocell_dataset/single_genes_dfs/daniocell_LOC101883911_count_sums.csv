@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,mesenchyme,neural,olfactory,otic,slow.muscle,spinal.cord,taste,vasculature
+stage,blastomeres,epidermis,eye,glial,mesenchyme,neural,olfactory,otic,slow_muscle,spinal_cord,taste,vasculature
   5-6,16.49,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,5.41,0,0,0,0,0,0
  14-21,0,0,0,0,0,19.46,0,0,0,0,0,0

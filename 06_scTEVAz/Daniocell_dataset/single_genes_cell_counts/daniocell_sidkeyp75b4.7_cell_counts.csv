@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,immune,mesenchyme,neural,periderm
+stage,epidermis,eye,fin_epithelia,immune,mesenchyme,neural,periderm
  14-21,0,0,0,0,1,2,0
  24-34,0,0,0,0,1.64,0.82,1.64
  36-46,0,0.81,0,0,0,1.61,0

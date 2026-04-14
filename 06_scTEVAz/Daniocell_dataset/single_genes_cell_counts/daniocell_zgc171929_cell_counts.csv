@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.epithelia,fin.mesenchyme,glial,gut,immune,ionocyte,iridophores,liver,mesenchyme,mucous,mural.cell,muscle,neural,notochord,olfactory,periderm,spinal.cord,taste,vasculature
+stage,epidermis,erythrocytes,eye,fin_epithelia,fin_mesenchyme,glial,gut,immune,ionocyte,iridophores,liver,mesenchyme,mucous,mural_cell,muscle,neural,notochord,olfactory,periderm,spinal_cord,taste,vasculature
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
  36-46,0.81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  48-58,1.72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

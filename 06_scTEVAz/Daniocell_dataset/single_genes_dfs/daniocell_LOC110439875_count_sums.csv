@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,exocrine.pancreas,eye,glial,heart,mesenchyme,neural,notochord,otic,pericytes,periderm,pgc,presomitic.mesoderm,spinal.cord,vascular.smooth.muscle,vasculature
+stage,blastomeres,epidermis,exocrine_pancreas,eye,glial,heart,mesenchyme,neural,notochord,otic,pericytes,periderm,pgc,presomitic_mesoderm,spinal_cord,vascular_smooth_muscle,vasculature
   7-9,6.96,0,0,0,0,0,0,8.79,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,3.78,0,0,0,0
  14-21,0,0,0,0.83,0,0,0,2.16,0,0,0,0,0,1.02,0,0,0

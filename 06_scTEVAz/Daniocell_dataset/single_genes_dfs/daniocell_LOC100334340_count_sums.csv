@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fast.muscle,glial,gut,mesenchyme,mural.cell,muscle,neural,olfactory,paraxial.mesoderm,periderm,slow.muscle,somites,spinal.cord,xanthophores
+stage,blastomeres,epidermis,eye,fast_muscle,glial,gut,mesenchyme,mural_cell,muscle,neural,olfactory,paraxial_mesoderm,periderm,slow_muscle,somites,spinal_cord,xanthophores
   3-4,41.98,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,10.43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,17.77,0,15.09,0,0,0,0,0

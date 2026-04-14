@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,fin.mesenchyme,immune,ionocyte,lateral.line,mesenchyme,muscle,neural,otic,periderm,presomitic.mesoderm,somites,spinal.cord,taste
+stage,epidermis,eye,fin_epithelia,fin_mesenchyme,immune,ionocyte,lateral_line,mesenchyme,muscle,neural,otic,periderm,presomitic_mesoderm,somites,spinal_cord,taste
  14-21,0,0,0,0,0,0,0,0,0,3,0,0,1,1,1,0
  24-34,0,0.82,0.82,0,0,0,0,0,0,4.1,0,0,0,0.82,2.46,0
  36-46,0,0,0,0.81,0,0,0,1.61,0.81,8.06,0,1.61,0,0,1.61,0

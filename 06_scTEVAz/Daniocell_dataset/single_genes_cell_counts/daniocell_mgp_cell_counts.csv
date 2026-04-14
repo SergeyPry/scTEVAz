@@ -1,4 +1,4 @@
-stage,axial,epidermis,erythrocytes,eye,fin.epithelia,glial,gut,hatching.gland,heart,ionocyte,iridophores,mesenchyme,mucous,mural.cell,muscle,neural,notochord,olfactory,otic,periderm,presomitic.mesoderm,slow.muscle,somites,spinal.cord,vasculature,visceral.smooth.muscle,xanthophores
+stage,axial,epidermis,erythrocytes,eye,fin_epithelia,glial,gut,hatching_gland,heart,ionocyte,iridophores,mesenchyme,mucous,mural_cell,muscle,neural,notochord,olfactory,otic,periderm,presomitic_mesoderm,slow_muscle,somites,spinal_cord,vasculature,visceral_smooth_muscle,xanthophores
  14-21,0,7,5,0,0,1,0,172,0,0,0,0,0,0,0,17,0,1,0,12,4,7,16,7,0,0,0
  24-34,0,0.82,0,0,1.64,0,0,29.55,0,0,0,0,0.82,0,0.82,9.03,3.28,0,0,36.12,0,0.82,5.75,0.82,0.82,0,0
  36-46,0,0,0,0,0,0,0,0.81,0,0,0.81,2.42,1.61,0,0,4.03,8.86,0,0,13.7,0,0,0,4.83,0.81,0,0

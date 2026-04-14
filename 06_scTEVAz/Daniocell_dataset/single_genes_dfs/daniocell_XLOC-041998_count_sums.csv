@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,epidermis,eye,glial,hatching.gland,ionocyte,lateral.line,mesenchyme,neural,otic,paraxial.mesoderm,periderm,pronephros,spinal.cord,xanthophores
+stage,blastomeres,endocrine_pancreas,epidermis,eye,glial,hatching_gland,ionocyte,lateral_line,mesenchyme,neural,otic,paraxial_mesoderm,periderm,pronephros,spinal_cord,xanthophores
   3-4,132.68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,66.22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,7.08,0,0,13.34,0,0,0,0,0,32.35,0,4.72,0,0,0,0

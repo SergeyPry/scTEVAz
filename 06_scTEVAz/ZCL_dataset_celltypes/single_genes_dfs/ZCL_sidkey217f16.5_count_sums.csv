@@ -1,5 +1,5 @@
-stage,Cardiomyocyte,Epithelial.cell,Granulocyte,Macrophage,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Neurosecretory.cell,Retinal.pigment.epithelial.cell
-24hpf,0,0,0,0,0,0,4.08640457285017,0,0
-72hpf,2.13958228293216,0,0,0,1.06979114146608,39.5822722342449,9.6281202731947,2.13958228293216,0
-21Day,0,1.33853308820331,0,1.33853308820331,0,14.7238639702364,4.01559926460992,0,1.33853308820331
-22Month,0,0,0.546654651197433,0,0,0,0,0,0
+stage,Cardiomyocyte,Epithelial_cell,Granulocyte,Macrophage,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Neurosecretory_cell,Retinal_pigment_epithelial_cell
+24hpf,0,0,0,0,0,0,4.09,0,0
+72hpf,2.14,0,0,0,1.07,39.58,9.63,2.14,0
+21Day,0,1.34,0,1.34,0,14.72,4.02,0,1.34
+22Month,0,0,0.55,0,0,0,0,0,0

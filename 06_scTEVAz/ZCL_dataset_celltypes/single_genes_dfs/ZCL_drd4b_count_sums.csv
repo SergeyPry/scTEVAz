@@ -1,6 +1,6 @@
-stage,Erythrocyte,Hepatocyte,Immune.cell,Keratinocyte,Mesenchymal.cell,Muscle.cell,Neural.cell,Neural.progenitor.cell,Osteoblast,Primordial.germ.cell,Retinal.cell,Retinal.cone.cell,Retinal.pigment.epithelial.cell
-24hpf,0,0,0,0,0,0,0,4.08640457285017,0,0,0,0,0
-72hpf,0,0,0,0,0,0,1.06979114146608,1.06979114146608,4.27916456586431,0,0,0,1.06979114146608
-21Day,5.35413235281323,0,0,0,4.01559926460992,1.33853308820331,0,0,1.33853308820331,0,8.03119852921984,54.8798566163356,0
-3Month,0,0.639898599108391,0.319949299554195,0.319949299554195,4.47929019375874,0,0,0,0,0.639898599108391,0,0,0.319949299554195
-22Month,0,0.546654651197433,0,0,1.09330930239487,0,0,0,0,0,0,0,0
+stage,Erythrocyte,Hepatocyte,Immune_cell,Keratinocyte,Mesenchymal_cell,Muscle_cell,Neural_cell,Neural_progenitor_cell,Osteoblast,Primordial_germ_cell,Retinal_cell,Retinal_cone_cell,Retinal_pigment_epithelial_cell
+24hpf,0,0,0,0,0,0,0,4.09,0,0,0,0,0
+72hpf,0,0,0,0,0,0,1.07,1.07,4.28,0,0,0,1.07
+21Day,5.35,0,0,0,4.02,1.34,0,0,1.34,0,8.03,54.88,0
+3Month,0,0.64,0.32,0.32,4.48,0,0,0,0,0.64,0,0,0.32
+22Month,0,0.55,0,0,1.09,0,0,0,0,0,0,0,0

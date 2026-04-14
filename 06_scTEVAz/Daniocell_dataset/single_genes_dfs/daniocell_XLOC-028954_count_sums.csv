@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,mesenchyme,neural,notochord,olfactory,otic,paraxial.mesoderm,periderm,presomitic.mesoderm,spinal.cord
+stage,blastomeres,epidermis,eye,glial,mesenchyme,neural,notochord,olfactory,otic,paraxial_mesoderm,periderm,presomitic_mesoderm,spinal_cord
   3-4,19.49,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,8.67,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,4.22,0,0,0,4.78,0,0,0

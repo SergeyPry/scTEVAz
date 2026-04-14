@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,gut,liver,mesenchyme,muscle,neural,paraxial.mesoderm,pgc
+stage,blastomeres,epidermis,eye,glial,gut,liver,mesenchyme,muscle,neural,paraxial_mesoderm,pgc
   3-4,26.36,0,0,0,0,0,0,0,0,0,0
   5-6,18.39,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,2.63,0,0,0,0,0,5.26,5.26,0

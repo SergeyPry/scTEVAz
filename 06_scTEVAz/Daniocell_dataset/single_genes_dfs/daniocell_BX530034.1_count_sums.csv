@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,gut,iridophores,lateral.line,melanocytes,mesenchyme,mural.cell,muscle,neural,otic,pronephros,spinal.cord,vasculature,visceral.smooth.muscle,xanthophores
+stage,epidermis,eye,glial,gut,iridophores,lateral_line,melanocytes,mesenchyme,mural_cell,muscle,neural,otic,pronephros,spinal_cord,vasculature,visceral_smooth_muscle,xanthophores
  14-21,0,0,0,0,0,0,0,0,0,1.23,3.39,0,0.9,4.46,1.82,0,0
  24-34,0,0.78,0,0,0,0,0,1.59,0,2.35,2.99,0,0,3.02,0,0,0
  36-46,0,0.8,0.64,0,0,0,0,0,0,0,2.66,0,0,2.29,0.68,0,0

@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.epithelia,immune,ionocyte,lateral.line,melanocytes,mesenchyme,mural.cell,muscle,neural,paraxial.mesoderm,pericytes,periderm,spinal.cord,vasculature,xanthophores
+stage,blastomeres,epidermis,eye,fin_epithelia,immune,ionocyte,lateral_line,melanocytes,mesenchyme,mural_cell,muscle,neural,paraxial_mesoderm,pericytes,periderm,spinal_cord,vasculature,xanthophores
   5-6,41.4,0,0,0,0,0,0,0,0,0,0,0,0,0,6.15,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,3.37,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,7.31,11.62,0,0,0,0,0

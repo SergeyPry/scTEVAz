@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,fin.mesenchyme,glial,liver,mesenchyme,muscle,neural,olfactory,otic,periderm,spinal.cord,visceral.smooth.muscle
+stage,endocrine_pancreas,epidermis,eye,fin_mesenchyme,glial,liver,mesenchyme,muscle,neural,olfactory,otic,periderm,spinal_cord,visceral_smooth_muscle
  14-21,0,0,0,0,0,0,0,0,1.23,0,0,0,0,0
  24-34,0,0,0,0,0,0,0,0,19.62,3.13,0,0,13.57,0
  36-46,0,0,4.57,0,0,0,0.8,0,134.77,2.22,0,0,17.17,0

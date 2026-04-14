@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,eye,fast.muscle,glial,mesenchyme,mural.cell,neural,paraxial.mesoderm,pericytes,slow.muscle
+stage,axial,blastomeres,endoderm,eye,fast_muscle,glial,mesenchyme,mural_cell,neural,paraxial_mesoderm,pericytes,slow_muscle
   3-4,0,16.08,0,0,0,0,0,0,0,0,0,0
   5-6,0,16.05,0,0,0,0,0,0,0,0,0,0
   7-9,5.33,0,4.22,0,0,0,0,0,12.18,12.77,0,0

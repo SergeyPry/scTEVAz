@@ -1,4 +1,4 @@
-stage,eye,neural,notochord,olfactory,pronephros,spinal.cord,taste
+stage,eye,neural,notochord,olfactory,pronephros,spinal_cord,taste
  10-12,4.78,0,0,0,0,0,0
  14-21,0,0,0,0,0,0.94,0
  24-34,0,0,0,1.25,0,0,0

@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,hatching.gland,mucous,neural,olfactory,periderm,pronephros,spinal.cord
+stage,epidermis,eye,fin_epithelia,hatching_gland,mucous,neural,olfactory,periderm,pronephros,spinal_cord
  10-12,0,10.94,0,0,0,4.21,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0.94,0
  24-34,0,0,0,0,0,4.6,0.72,0,0,0.65

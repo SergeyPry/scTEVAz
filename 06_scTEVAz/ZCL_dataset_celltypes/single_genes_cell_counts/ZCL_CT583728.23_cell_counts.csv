@@ -1,4 +1,4 @@
-stage,Endothelial.cell,Enterocyte,Epithelial.cell,Erythrocyte..Liver.,Goblet.cell,Granulosa.cell,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Keratinocyte,Macrophage,Mt.rich.cell,Neural.progenitor.cell,Oocyte,Radial.glia,Retinal.cell
+stage,Endothelial_cell,Enterocyte,Epithelial_cell,Erythrocyte__Liver_,Goblet_cell,Granulosa_cell,Hepatocyte,Immune_cell,Intestinal_bulb_cell,Keratinocyte,Macrophage,Mt_rich_cell,Neural_progenitor_cell,Oocyte,Radial_glia,Retinal_cell
 24hpf,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
-72hpf,0,0,0,0,0,0,0,0,0,0.84554416800967,0,0,0,0,0,0
-22Month,0,0.136649431988133,0.546597727952532,0.136649431988133,0.409948295964399,0.136649431988133,18.447673318398,0.136649431988133,0.683247159940666,0.136649431988133,0.136649431988133,1.77644261584573,0,0.136649431988133,0.136649431988133,0.136649431988133
+72hpf,0,0,0,0,0,0,0,0,0,0.85,0,0,0,0,0,0
+22Month,0,0.14,0.55,0.14,0.41,0.14,18.45,0.14,0.68,0.14,0.14,1.78,0,0.14,0.14,0.14

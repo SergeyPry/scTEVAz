@@ -1,4 +1,4 @@
-stage,epidermis,fin.mesenchyme,immune,ionocyte,mesenchyme,neural,periderm
+stage,epidermis,fin_mesenchyme,immune,ionocyte,mesenchyme,neural,periderm
  60-70,0,0,0,0,0.98,0,0
  72-82,0,0.98,0,0,0,0.98,0
  96-106,2.19,0,0,0,0,0,1.09

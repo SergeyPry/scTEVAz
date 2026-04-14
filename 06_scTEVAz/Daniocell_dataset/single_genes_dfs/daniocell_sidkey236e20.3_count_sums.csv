@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,erythrocytes,glial,gut,iridophores,lateral.line,liver,mesenchyme,muscle,neural,olfactory,pronephros,somites
+stage,endocrine_pancreas,epidermis,erythrocytes,glial,gut,iridophores,lateral_line,liver,mesenchyme,muscle,neural,olfactory,pronephros,somites
  14-21,0,0,1.17,0,0,0,0,0,0,0,0,0,0,0.87
  24-34,0,0,0,0,0,0,0,0,0,0,1.15,0,0,0
  36-46,0,0,0,0,0,0,0,0,0,0,10.42,0,0,0

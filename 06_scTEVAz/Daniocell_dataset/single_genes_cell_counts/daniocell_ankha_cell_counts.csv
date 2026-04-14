@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,eye,fast.muscle,fin.epithelia,fin.mesenchyme,glial,heart,immune,iridophores,liver,mesenchyme,mucous,muscle,neural,olfactory,otic,paraxial.mesoderm,pericytes,periderm,pgc,presomitic.mesoderm,pronephros,slow.muscle,somites,spinal.cord,taste,vascular.smooth.muscle,vasculature,visceral.smooth.muscle
+stage,axial,blastomeres,epidermis,eye,fast_muscle,fin_epithelia,fin_mesenchyme,glial,heart,immune,iridophores,liver,mesenchyme,mucous,muscle,neural,olfactory,otic,paraxial_mesoderm,pericytes,periderm,pgc,presomitic_mesoderm,pronephros,slow_muscle,somites,spinal_cord,taste,vascular_smooth_muscle,vasculature,visceral_smooth_muscle
   3-4,144.96,1844.91,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,144.96,0,0,0,0,0,0,0,0,0,0
   5-6,12.26,159.37,0,0,0,0,0,0,0,0,0,0,0,0,0,30.65,0,0,0,0,6.13,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10.51,0,0,5.26,0,0,2.63,0,0,0,0,0,0,0,0,0

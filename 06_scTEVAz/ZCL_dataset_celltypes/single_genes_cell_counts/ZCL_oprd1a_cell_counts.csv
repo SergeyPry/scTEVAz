@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Epithelial.cell..Brain.,Keratinocyte,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell
+stage,Epithelial_cell,Epithelial_cell__Brain_,Keratinocyte,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell
 24hpf,1,1,0,0,0,1
-72hpf,0,0,0.281848056003223,0.281848056003223,2.53663250402901,0.281848056003223
-21Day,0,0,0,0.369986860264282,6.2897766244928,0.369986860264282
+72hpf,0,0,0.28,0.28,2.54,0.28
+21Day,0,0,0,0.37,6.29,0.37

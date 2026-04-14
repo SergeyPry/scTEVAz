@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,fin.epithelia,glial,gut,heart,lateral.line,melanocytes,mesenchyme,neural,otic,periderm,presomitic.mesoderm,slow.muscle,spinal.cord,vasculature
+stage,axial,blastomeres,endoderm,epidermis,eye,fin_epithelia,glial,gut,heart,lateral_line,melanocytes,mesenchyme,neural,otic,periderm,presomitic_mesoderm,slow_muscle,spinal_cord,vasculature
   3-4,0,34.65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,9.58,13.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,3.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

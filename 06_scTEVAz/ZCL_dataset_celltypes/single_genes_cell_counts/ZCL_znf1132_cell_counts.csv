@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Erythroid.progenitor.cell,Ionocyte,Mesenchymal.cell,Neural.progenitor.cell
+stage,Epithelial_cell,Erythroid_progenitor_cell,Ionocyte,Mesenchymal_cell,Neural_progenitor_cell
 24hpf,2,0,1,2,1
-72hpf,0.281848056003223,0,0,0,0
-21Day,0,0.369986860264282,0,0.739973720528564,0
+72hpf,0.28,0,0,0,0
+21Day,0,0.37,0,0.74,0

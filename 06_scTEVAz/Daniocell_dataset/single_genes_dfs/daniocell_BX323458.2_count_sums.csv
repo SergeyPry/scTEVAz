@@ -1,4 +1,4 @@
-stage,fast.muscle,heart,mesenchyme,muscle,neural,otic,slow.muscle,somites,spinal.cord
+stage,fast_muscle,heart,mesenchyme,muscle,neural,otic,slow_muscle,somites,spinal_cord
  14-21,0,0,0,1.73,1.03,0,0,18.13,1.16
  24-34,0,0.6,0,0.6,2.57,0,0.67,4.44,0
  36-46,0.68,0,0.89,0,12.76,0,0,0,0

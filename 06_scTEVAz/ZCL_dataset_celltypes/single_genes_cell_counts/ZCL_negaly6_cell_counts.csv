@@ -1,5 +1,5 @@
-stage,Endothelial.cell,Epithelial.cell,Erythrocyte,Immune.cell,Immune.progenitor.cell,Keratinocyte,Neural.cell,Neural.progenitor.cell,Pancreatic.cell
+stage,Endothelial_cell,Epithelial_cell,Erythrocyte,Immune_cell,Immune_progenitor_cell,Keratinocyte,Neural_cell,Neural_progenitor_cell,Pancreatic_cell
 24hpf,0,0,0,0,0,1,0,0,0
-72hpf,0,0,0,0,0,14.3742508561644,0.563696112006446,0,0
-21Day,0,0.369986860264282,0.739973720528564,0,0,16.2794218516284,0.369986860264282,0.369986860264282,0.369986860264282
-3Month,0.416068026578691,0.208034013289345,0,0.104017006644673,0.104017006644673,2.2883741461828,0,0,0
+72hpf,0,0,0,0,0,14.37,0.56,0,0
+21Day,0,0.37,0.74,0,0,16.28,0.37,0.37,0.37
+3Month,0.42,0.21,0,0.1,0.1,2.29,0,0,0

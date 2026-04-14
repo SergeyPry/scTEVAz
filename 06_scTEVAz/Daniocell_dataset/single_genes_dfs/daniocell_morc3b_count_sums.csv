@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,fast.muscle,glial,hatching.gland,heart,iridophores,lateral.line,mesenchyme,muscle,neural,notochord,otic,paraxial.mesoderm,periderm,pgc,presomitic.mesoderm,pronephros,slow.muscle,somites,spinal.cord,vascular.smooth.muscle,vasculature
+stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,fast_muscle,glial,hatching_gland,heart,iridophores,lateral_line,mesenchyme,muscle,neural,notochord,otic,paraxial_mesoderm,periderm,pgc,presomitic_mesoderm,pronephros,slow_muscle,somites,spinal_cord,vascular_smooth_muscle,vasculature
   3-4,1077.67,13145.48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,194.06,0,0,0,0,0,0,0,0
   5-6,2866.55,19385.17,0,0,0,0,0,0,16.25,0,0,0,0,0,401.77,68.74,0,168.33,207.84,0,0,0,0,0,0,0,0
   7-9,104.42,27.01,23.42,0,0,0,0,0,36.1,0,0,0,0,0,651.18,45.78,0,430.24,0,9.83,0,0,0,0,0,0,0

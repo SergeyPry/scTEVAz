@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,fin.epithelia,glial,gut,immune,ionocyte,iridophores,mesenchyme,mucous,muscle,neural,periderm,pronephros,spinal.cord,vasculature
+stage,epidermis,eye,fast_muscle,fin_epithelia,glial,gut,immune,ionocyte,iridophores,mesenchyme,mucous,muscle,neural,periderm,pronephros,spinal_cord,vasculature
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,13.19,0,8.82,0,0
  24-34,0,0,0,0,0,0,0,0,0,0.86,0,0.6,0,0,0,1.11,1.04
  48-58,0.47,0,0,0,2.21,0,0,0,1.02,0,0,0,0,0,0,0,0

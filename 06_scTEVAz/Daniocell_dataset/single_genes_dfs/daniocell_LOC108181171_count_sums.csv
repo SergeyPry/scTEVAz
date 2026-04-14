@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,fin.mesenchyme,glial,immune,ionocyte,iridophores,melanocytes,mesenchyme,mural.cell,muscle,neural,olfactory,pericytes,pgc,presomitic.mesoderm,somites,spinal.cord,vasculature,visceral.smooth.muscle
+stage,endocrine_pancreas,epidermis,eye,fin_mesenchyme,glial,immune,ionocyte,iridophores,melanocytes,mesenchyme,mural_cell,muscle,neural,olfactory,pericytes,pgc,presomitic_mesoderm,somites,spinal_cord,vasculature,visceral_smooth_muscle
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,9.79,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,12.23,0,0,0,0,0,0,0,0
  14-21,0,1.05,0,0,0,2.26,0.9,0,0,3.91,0,2,11.11,0,0,0,4.69,1.01,4.54,0,0

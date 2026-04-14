@@ -1,4 +1,4 @@
-stage,eye,glial,gut,mesenchyme,neural,olfactory,periderm,spinal.cord,vasculature
+stage,eye,glial,gut,mesenchyme,neural,olfactory,periderm,spinal_cord,vasculature
  14-21,0,0,0,0,6.2,0,4.94,4.04,1.77
  24-34,0,0,0,0,8.36,2.17,1.71,0,0
  36-46,0.93,1.25,0,0,5.85,0,0,0,0

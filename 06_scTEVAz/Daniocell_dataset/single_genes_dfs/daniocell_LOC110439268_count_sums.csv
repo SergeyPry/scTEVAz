@@ -1,4 +1,4 @@
-stage,eye,glial,mural.cell,neural,olfactory,spinal.cord
+stage,eye,glial,mural_cell,neural,olfactory,spinal_cord
  14-21,0,0,0,0.91,0,0.98
  36-46,1.28,1.47,0,0.88,1.25,0
  48-58,0,0,0.54,0,0,4.4

@@ -1,4 +1,4 @@
-stage,axial,blastomeres,eye,liver,mesenchyme,neural,olfactory,paraxial.mesoderm,periderm,slow.muscle,spinal.cord
+stage,axial,blastomeres,eye,liver,mesenchyme,neural,olfactory,paraxial_mesoderm,periderm,slow_muscle,spinal_cord
   3-4,12.95,150.9,0,0,0,0,0,0,0,0,0
   5-6,15.05,58.35,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,10.67,0,10.86,0,0,0

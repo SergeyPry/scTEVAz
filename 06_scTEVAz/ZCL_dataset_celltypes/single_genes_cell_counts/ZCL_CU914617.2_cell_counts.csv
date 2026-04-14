@@ -1,4 +1,4 @@
-stage,Enterocyte,Epithelial.cell,Erythrocyte..Liver.,Granulocyte,Hepatocyte,Immune.progenitor.cell,Intestinal.bulb.cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal.cell,Mesenchymal.cell..caudal.fin.,Mt.rich.cell,Muscle.cell,Neural.cell,Neural.progenitor.cell,Pancreatic.cell,Primordial.germ.cell,Smooth.muscle.cell,Spermatocyte,T.cell
-21Day,0,0.369986860264282,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.369986860264282
-3Month,0,0.208034013289345,0.104017006644673,0,0.520085033223363,0.208034013289345,0.104017006644673,0.104017006644673,0,0.104017006644673,0.312051019934018,0.104017006644673,0.104017006644673,0.104017006644673,0.208034013289345,0.104017006644673,0.104017006644673,0.104017006644673,0.208034013289345,0.104017006644673,9.77759862459923
-22Month,0.136649431988133,0.136649431988133,0,0.136649431988133,0.819896591928799,0,0,0,0.136649431988133,0.409948295964399,0.136649431988133,0,0,0,0,0,0,0,0,0,1.09319545590506
+stage,Enterocyte,Epithelial_cell,Erythrocyte__Liver_,Granulocyte,Hepatocyte,Immune_progenitor_cell,Intestinal_bulb_cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal_cell,Mesenchymal_cell__caudal_fin_,Mt_rich_cell,Muscle_cell,Neural_cell,Neural_progenitor_cell,Pancreatic_cell,Primordial_germ_cell,Smooth_muscle_cell,Spermatocyte,T_cell
+21Day,0,0.37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.37
+3Month,0,0.21,0.1,0,0.52,0.21,0.1,0.1,0,0.1,0.31,0.1,0.1,0.1,0.21,0.1,0.1,0.1,0.21,0.1,9.78
+22Month,0.14,0.14,0,0.14,0.82,0,0,0,0.14,0.41,0.14,0,0,0,0,0,0,0,0,0,1.09

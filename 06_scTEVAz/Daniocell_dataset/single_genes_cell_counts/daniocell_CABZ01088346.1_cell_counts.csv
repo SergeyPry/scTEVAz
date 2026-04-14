@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,exocrine.pancreas,eye,fin.epithelia,glial,immune,liver,mesenchyme,muscle,neural,periderm,pronephros,somites,spinal.cord
+stage,epidermis,erythrocytes,exocrine_pancreas,eye,fin_epithelia,glial,immune,liver,mesenchyme,muscle,neural,periderm,pronephros,somites,spinal_cord
  14-21,0,0,0,1,0,0,0,0,1,0,2,0,0,2,0
  24-34,0.82,0,0,0,0,0,0,0.82,0,0,4.1,0,0.82,0,0
  36-46,0,0,0,0,0,0,0,0,0,0.81,8.06,0,0,0,0.81

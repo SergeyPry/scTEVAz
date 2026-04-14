@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,gut,hatching.gland,mesenchyme,neural,olfactory,otic,periderm,presomitic.mesoderm,somites,spinal.cord
+stage,endocrine_pancreas,epidermis,eye,gut,hatching_gland,mesenchyme,neural,olfactory,otic,periderm,presomitic_mesoderm,somites,spinal_cord
  14-21,0,0,0,0,1,0,0,0,0,0,4,1,2
  24-34,0,0,0,0,0,0,0.82,0,0,0,0,0,0.82
  36-46,0,0,0,0,0,0.81,1.61,0,0,0,0,0,1.61

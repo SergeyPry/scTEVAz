@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,heart,melanocytes,mesenchyme,neural,periderm,presomitic.mesoderm,vasculature
+stage,epidermis,eye,fin_epithelia,heart,melanocytes,mesenchyme,neural,periderm,presomitic_mesoderm,vasculature
  10-12,0,0,0,0,0,0,18.43,0,0,0
  14-21,0,0,0,0,0.86,0,0,0,0.99,0
  36-46,2.29,1.1,0,0,0,0.78,4.07,0,0,0

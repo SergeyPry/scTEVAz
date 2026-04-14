@@ -1,4 +1,4 @@
-stage,erythrocytes,eye,fin.epithelia,fin.mesenchyme,glial,heart,lateral.line,mesenchyme,muscle,neural,otic,spinal.cord,vascular.smooth.muscle,vasculature
+stage,erythrocytes,eye,fin_epithelia,fin_mesenchyme,glial,heart,lateral_line,mesenchyme,muscle,neural,otic,spinal_cord,vascular_smooth_muscle,vasculature
  24-34,0,0,0,0,0,0,0,0,0,5.02,0,0,0,0
  36-46,0,0.68,0.58,0,2.55,0,0,1.02,0,41.51,0,25.94,0,0
  48-58,0,1.82,0,0,11.44,0,0,1.51,0,19.07,0,7.48,0,0

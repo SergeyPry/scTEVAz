@@ -1,4 +1,4 @@
-stage,Enterocyte,Epithelial.cell,Erythrocyte..Liver.,Granulocyte,Hepatocyte,Intestinal.bulb.cell,Mesenchymal.cell,Muscle.cell,Neurosecretory.cell,Radial.glia
-72hpf,0,0,0,0,0,0,0,0,0,0.281848056003223
-3Month,0.104017006644673,0.312051019934018,0.104017006644673,0,0.208034013289345,0.832136053157381,0.104017006644673,0.208034013289345,0.104017006644673,0
-22Month,0,0.136649431988133,0,0.136649431988133,0.273298863976266,0.546597727952532,0,0,0,0
+stage,Enterocyte,Epithelial_cell,Erythrocyte__Liver_,Granulocyte,Hepatocyte,Intestinal_bulb_cell,Mesenchymal_cell,Muscle_cell,Neurosecretory_cell,Radial_glia
+72hpf,0,0,0,0,0,0,0,0,0,0.28
+3Month,0.1,0.31,0.1,0,0.21,0.83,0.1,0.21,0.1,0
+22Month,0,0.14,0,0.14,0.27,0.55,0,0,0,0

@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,exocrine.pancreas,eye,gut,melanocytes,mesenchyme,neural,otic,paraxial.mesoderm,periderm,spinal.cord
+stage,blastomeres,epidermis,exocrine_pancreas,eye,gut,melanocytes,mesenchyme,neural,otic,paraxial_mesoderm,periderm,spinal_cord
   3-4,0,0,0,0,0,0,0,0,0,0,12.68,0
   5-6,34.22,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,10.44,0,0,0,13.03,0,4.09,0,0

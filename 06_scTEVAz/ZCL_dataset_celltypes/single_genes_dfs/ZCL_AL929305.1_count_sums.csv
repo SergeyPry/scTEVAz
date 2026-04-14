@@ -1,4 +1,4 @@
-stage,Erythrocyte,Mesenchymal.cell,Neural.cell,Retinal.pigment.epithelial.cell
-24hpf,0,8.17280914570035,0,0
-72hpf,0,0,1.06979114146608,0
-21Day,1.33853308820331,0,0,1.33853308820331
+stage,Erythrocyte,Mesenchymal_cell,Neural_cell,Retinal_pigment_epithelial_cell
+24hpf,0,8.17,0,0
+72hpf,0,0,1.07,0
+21Day,1.34,0,0,1.34

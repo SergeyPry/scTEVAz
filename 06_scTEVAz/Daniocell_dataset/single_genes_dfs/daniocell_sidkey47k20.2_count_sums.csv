@@ -1,4 +1,4 @@
-stage,eye,liver,muscle,neural,olfactory,periderm,spinal.cord,vasculature
+stage,eye,liver,muscle,neural,olfactory,periderm,spinal_cord,vasculature
  24-34,0,0,1.29,0,0,0,0,4.24
  36-46,0,0,0,2.15,1.34,0,0,0
  48-58,0,0,0,0.99,8.62,0,0.63,0

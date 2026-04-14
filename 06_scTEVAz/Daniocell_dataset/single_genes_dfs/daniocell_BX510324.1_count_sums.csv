@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,fin.mesenchyme,mesenchyme,neural,periderm,somites
+stage,epidermis,eye,fin_epithelia,fin_mesenchyme,mesenchyme,neural,periderm,somites
  14-21,0,0,0,0,0,0,3.9,0.99
  24-34,0,0,0,0,0,1.36,0.77,0
  36-46,0,0,0,0,0,0,1.71,0

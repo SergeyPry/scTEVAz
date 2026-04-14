@@ -1,4 +1,4 @@
-stage,Endothelial.cell,Erythrocyte,Ionocyte,Mesenchymal.cell,Mt.rich.cell,Neural.cell,Neural.progenitor.cell,Radial.glia
+stage,Endothelial_cell,Erythrocyte,Ionocyte,Mesenchymal_cell,Mt_rich_cell,Neural_cell,Neural_progenitor_cell,Radial_glia
 24hpf,0,0,1,2,0,1,7,0
-72hpf,0.281848056003223,0,0,0,0.281848056003223,0.563696112006446,0.563696112006446,0.281848056003223
-21Day,0,0.369986860264282,0,0,0,0.369986860264282,0,0
+72hpf,0.28,0,0,0,0.28,0.56,0.56,0.28
+21Day,0,0.37,0,0,0,0.37,0,0

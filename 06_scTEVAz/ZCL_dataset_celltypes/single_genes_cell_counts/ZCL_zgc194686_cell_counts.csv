@@ -1,5 +1,5 @@
-stage,Cardiomyocyte,Enterocyte,Epithelial.cell,Erythrocyte..Liver.,Hatching.gland,Hepatocyte,Immune.cell,Immune.progenitor.cell,Intestinal.bulb.cell,Keratinocyte,Mesenchymal.cell,Muscle.cell,Nephron.cell,Neural.cell,Pancreatic.cell,Primordial.germ.cell,Smooth.muscle.cell,Spermatocyte,T.cell
+stage,Cardiomyocyte,Enterocyte,Epithelial_cell,Erythrocyte__Liver_,Hatching_gland,Hepatocyte,Immune_cell,Immune_progenitor_cell,Intestinal_bulb_cell,Keratinocyte,Mesenchymal_cell,Muscle_cell,Nephron_cell,Neural_cell,Pancreatic_cell,Primordial_germ_cell,Smooth_muscle_cell,Spermatocyte,T_cell
 24hpf,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-21Day,0.739973720528564,0,3.69986860264282,0,0,0,0,0,0,28.858975100614,0.739973720528564,0,0,0,0.739973720528564,0,0,0,0
-3Month,0,0.104017006644673,4.5767482923656,0.104017006644673,0,0.208034013289345,0.208034013289345,0.104017006644673,0,0.208034013289345,0.104017006644673,0.104017006644673,0.104017006644673,0,0,0.104017006644673,0.104017006644673,0.104017006644673,0.104017006644673
-22Month,0,0,0,0,0,0.409948295964399,0,0,0.409948295964399,0.136649431988133,0,0.136649431988133,0,0,0,0,0,0,0
+21Day,0.74,0,3.7,0,0,0,0,0,0,28.86,0.74,0,0,0,0.74,0,0,0,0
+3Month,0,0.1,4.58,0.1,0,0.21,0.21,0.1,0,0.21,0.1,0.1,0.1,0,0,0.1,0.1,0.1,0.1
+22Month,0,0,0,0,0,0.41,0,0,0.41,0.14,0,0.14,0,0,0,0,0,0,0

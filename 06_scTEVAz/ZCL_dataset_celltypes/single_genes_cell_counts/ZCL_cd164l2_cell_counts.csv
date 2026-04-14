@@ -1,4 +1,4 @@
-stage,Enterocyte,Epithelial.cell,Epithelial.cell..Brain.,Erythrocyte,Granulocyte,Immune.progenitor.cell,Intestinal.bulb.cell,Keratinocyte,Mesenchymal.cell..caudal.fin.,Mt.rich.cell,Muscle.cell,Nephron.cell,Neural.cell,Neural.progenitor.cell,Neurosecretory.cell,Pancreatic.cell,Primordial.germ.cell,Retinal.cone.cell,Spermatocyte
-72hpf,0,0,4.79141695205479,0,0,0,0,0.281848056003223,0,0,0,0,0.563696112006446,0,0,0,0,0,0
-21Day,0,0.369986860264282,7.76972406554993,0.369986860264282,0,0.369986860264282,0.369986860264282,0.369986860264282,0,0.369986860264282,0,0,0.369986860264282,0.369986860264282,0,0.739973720528564,0,0.369986860264282,0
-3Month,0.104017006644673,0.416068026578691,3.12051019934018,0,0.208034013289345,0,0.208034013289345,0.520085033223363,0.208034013289345,0,0.104017006644673,0.104017006644673,0.104017006644673,0,0.208034013289345,0,1.56025509967009,0,2.91247618605083
+stage,Enterocyte,Epithelial_cell,Epithelial_cell__Brain_,Erythrocyte,Granulocyte,Immune_progenitor_cell,Intestinal_bulb_cell,Keratinocyte,Mesenchymal_cell__caudal_fin_,Mt_rich_cell,Muscle_cell,Nephron_cell,Neural_cell,Neural_progenitor_cell,Neurosecretory_cell,Pancreatic_cell,Primordial_germ_cell,Retinal_cone_cell,Spermatocyte
+72hpf,0,0,4.79,0,0,0,0,0.28,0,0,0,0,0.56,0,0,0,0,0,0
+21Day,0,0.37,7.77,0.37,0,0.37,0.37,0.37,0,0.37,0,0,0.37,0.37,0,0.74,0,0.37,0
+3Month,0.1,0.42,3.12,0,0.21,0,0.21,0.52,0.21,0,0.1,0.1,0.1,0,0.21,0,1.56,0,2.91

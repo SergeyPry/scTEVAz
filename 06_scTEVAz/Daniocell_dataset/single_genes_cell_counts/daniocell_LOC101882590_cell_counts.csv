@@ -1,4 +1,4 @@
-stage,eye,fin.mesenchyme,glial,ionocyte,iridophores,melanocytes,mesenchyme,neural,pericytes,spinal.cord,xanthophores
+stage,eye,fin_mesenchyme,glial,ionocyte,iridophores,melanocytes,mesenchyme,neural,pericytes,spinal_cord,xanthophores
  14-21,1,0,0,0,0,2,0,0,0,0,1
  24-34,0,0,0,0.82,0,1.64,0,0.82,0,0,3.28
  36-46,0,0,0,0,0.81,0.81,0.81,6.45,0,0.81,0

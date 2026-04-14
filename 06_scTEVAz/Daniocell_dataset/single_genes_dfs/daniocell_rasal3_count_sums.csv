@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,exocrine.pancreas,eye,fin.epithelia,glial,gut,immune,lateral.line,liver,mesenchyme,muscle,neural,otic,pericytes,periderm,pronephros,vascular.smooth.muscle,vasculature,visceral.smooth.muscle
+stage,blastomeres,epidermis,erythrocytes,exocrine_pancreas,eye,fin_epithelia,glial,gut,immune,lateral_line,liver,mesenchyme,muscle,neural,otic,pericytes,periderm,pronephros,vascular_smooth_muscle,vasculature,visceral_smooth_muscle
   3-4,16.68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,11.32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,12.19,0,0,0,0,0,0,0

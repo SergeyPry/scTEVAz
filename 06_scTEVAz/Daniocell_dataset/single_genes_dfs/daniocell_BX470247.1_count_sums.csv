@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,mesenchyme,neural,notochord,paraxial.mesoderm,somites
+stage,blastomeres,epidermis,eye,glial,mesenchyme,neural,notochord,paraxial_mesoderm,somites
   5-6,21.93,0,0,0,0,0,0,0,0
   7-9,0,0,3.52,0,0,5.52,0,3.91,0
  10-12,0,0,0,0,0,19.96,7.81,0,0

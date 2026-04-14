@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Goblet.cell,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Keratinocyte,Macrophage,Neural.cell,Neural.progenitor.cell,Osteoblast,Primordial.germ.cell,Spermatocyte,T.cell
-24hpf,0,0,0,0,0,0,0,0,12.2592137185505,0,0,0,0
-72hpf,0,0,0,0,0,0,0,3.20937342439823,0,1.06979114146608,0,0,0
-3Month,0.959847898662586,0.319949299554195,0.319949299554195,0.319949299554195,0.319949299554195,0.639898599108391,0.639898599108391,0,0,0.319949299554195,4.47929019375874,13.4378705812762,0.319949299554195
+stage,Epithelial_cell,Goblet_cell,Hepatocyte,Immune_cell,Intestinal_bulb_cell,Keratinocyte,Macrophage,Neural_cell,Neural_progenitor_cell,Osteoblast,Primordial_germ_cell,Spermatocyte,T_cell
+24hpf,0,0,0,0,0,0,0,0,12.26,0,0,0,0
+72hpf,0,0,0,0,0,0,0,3.21,0,1.07,0,0,0
+3Month,0.96,0.32,0.32,0.32,0.32,0.64,0.64,0,0,0.32,4.48,13.44,0.32

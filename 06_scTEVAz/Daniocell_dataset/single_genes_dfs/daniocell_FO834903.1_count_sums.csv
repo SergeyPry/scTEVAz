@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,erythrocytes,eye,glial,gut,hatching.gland,ionocyte,liver,melanocytes,mesenchyme,muscle,neural,periderm,pronephros,somites,spinal.cord,visceral.smooth.muscle
+stage,endoderm,epidermis,erythrocytes,eye,glial,gut,hatching_gland,ionocyte,liver,melanocytes,mesenchyme,muscle,neural,periderm,pronephros,somites,spinal_cord,visceral_smooth_muscle
   5-6,0,0,0,0,0,0,36.8,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,9.14,0,0,0,0,0
  14-21,0,2.51,0,0,0,0,0,0,3.13,0,0.98,2.12,0,0,0,1.86,0,0

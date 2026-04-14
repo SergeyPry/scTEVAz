@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.mesenchyme,glial,mesenchyme,mural.cell,neural,olfactory,otic,spinal.cord
+stage,epidermis,erythrocytes,eye,fin_mesenchyme,glial,mesenchyme,mural_cell,neural,olfactory,otic,spinal_cord
  14-21,0,0,0,0,0,0,0,10.13,0,0,0
  24-34,0,0,2.15,0,0.99,0,0,189.14,0.77,0,28.39
  36-46,0.62,0,29.11,0,69.05,0.57,0,547.98,0,0,109.64

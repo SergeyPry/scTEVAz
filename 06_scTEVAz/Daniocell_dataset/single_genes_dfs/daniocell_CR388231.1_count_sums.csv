@@ -1,4 +1,4 @@
-stage,endoderm,erythrocytes,eye,glial,iridophores,mesenchyme,muscle,neural,paraxial.mesoderm,pericytes,periderm,spinal.cord
+stage,endoderm,erythrocytes,eye,glial,iridophores,mesenchyme,muscle,neural,paraxial_mesoderm,pericytes,periderm,spinal_cord
   7-9,0,0,0,0,0,0,0,8.38,0,0,0,0
  10-12,6.76,0,0,0,0,0,0,8.24,4.3,0,0,0
  14-21,0,0,0,0.9,0,0,0,3.12,0,0,0,1.95

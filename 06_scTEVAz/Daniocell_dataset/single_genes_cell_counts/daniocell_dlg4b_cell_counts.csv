@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.mesenchyme,glial,mesenchyme,mucous,neural,olfactory,paraxial.mesoderm,periderm,pgc,spinal.cord,visceral.smooth.muscle
+stage,blastomeres,epidermis,eye,fin_mesenchyme,glial,mesenchyme,mucous,neural,olfactory,paraxial_mesoderm,periderm,pgc,spinal_cord,visceral_smooth_muscle
   5-6,6.13,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,5.26,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,3.15,0,3.15,0,0

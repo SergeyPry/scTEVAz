@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,fin.epithelia,glial,gut,immune,lateral.line,liver,mesenchyme,mucous,muscle,neural,notochord,periderm,presomitic.mesoderm,vascular.smooth.muscle,vasculature,visceral.smooth.muscle
+stage,blastomeres,endoderm,epidermis,eye,fin_epithelia,glial,gut,immune,lateral_line,liver,mesenchyme,mucous,muscle,neural,notochord,periderm,presomitic_mesoderm,vascular_smooth_muscle,vasculature,visceral_smooth_muscle
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,2.63,0,2.63,0,0,0,0

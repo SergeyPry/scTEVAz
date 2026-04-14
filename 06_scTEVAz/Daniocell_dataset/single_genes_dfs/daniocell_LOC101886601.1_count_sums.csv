@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,exocrine.pancreas,eye,glial,gut,iridophores,mesenchyme,muscle,neural,periderm,presomitic.mesoderm,slow.muscle,spinal.cord
+stage,endoderm,epidermis,exocrine_pancreas,eye,glial,gut,iridophores,mesenchyme,muscle,neural,periderm,presomitic_mesoderm,slow_muscle,spinal_cord
  14-21,0,0,0,0,1.11,0,0,0,0,4.71,0,0.84,0,2.24
  24-34,0,0.72,0,0,0,0,0,0.73,0.6,5.74,1.38,0,0,3.33
  36-46,0.56,0,0,0,0,0,0,0,0,5.57,2.26,0,0,5.41

@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,glial,immune,muscle,neural,periderm,spinal.cord
+stage,blastomeres,epidermis,erythrocytes,eye,glial,immune,muscle,neural,periderm,spinal_cord
   5-6,9.17,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,7.59,0,0
  14-21,0,0,0,0,0,0,0,0.95,0,1.04

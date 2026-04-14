@@ -1,3 +1,3 @@
-stage,Granulocyte,Hepatocyte,Intestinal.bulb.cell,Macrophage,Mesenchymal.cell,Mt.rich.cell,Muscle.cell,Neural.cell
-21Day,0,0,0,0,0,0,0,1.33853308820331
-22Month,0.546654651197433,24.5994593038845,0.546654651197433,0.546654651197433,0.546654651197433,0.546654651197433,0.546654651197433,0
+stage,Granulocyte,Hepatocyte,Intestinal_bulb_cell,Macrophage,Mesenchymal_cell,Mt_rich_cell,Muscle_cell,Neural_cell
+21Day,0,0,0,0,0,0,0,1.34
+22Month,0.55,24.6,0.55,0.55,0.55,0.55,0.55,0

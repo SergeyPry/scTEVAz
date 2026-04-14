@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,erythrocytes,exocrine.pancreas,eye,fin.epithelia,gut,hatching.gland,immune,ionocyte,mesenchyme,mucous,mural.cell,neural,olfactory,otic,paraxial.mesoderm,periderm,pgc,pronephros,spinal.cord
+stage,axial,blastomeres,endoderm,epidermis,erythrocytes,exocrine_pancreas,eye,fin_epithelia,gut,hatching_gland,immune,ionocyte,mesenchyme,mucous,mural_cell,neural,olfactory,otic,paraxial_mesoderm,periderm,pgc,pronephros,spinal_cord
   3-4,0,27.97,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,0,33.49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,4.68,0,20.16,0,0,0,4.92,0,0,6.13,0,0,0,0,0,34.47,0,0,33.71,0,0,0,0

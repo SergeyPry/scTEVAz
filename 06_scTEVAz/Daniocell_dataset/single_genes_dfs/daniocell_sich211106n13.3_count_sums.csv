@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,epidermis,eye,fast.muscle,fin.epithelia,fin.mesenchyme,glial,gut,immune,ionocyte,mesenchyme,mural.cell,muscle,neural,notochord,olfactory,otic,pericytes,somites,spinal.cord,vascular.smooth.muscle,vasculature
+stage,blastomeres,endocrine_pancreas,epidermis,eye,fast_muscle,fin_epithelia,fin_mesenchyme,glial,gut,immune,ionocyte,mesenchyme,mural_cell,muscle,neural,notochord,olfactory,otic,pericytes,somites,spinal_cord,vascular_smooth_muscle,vasculature
   3-4,16.31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,21.72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.83,3.43,0,0,0,0,0,0,0

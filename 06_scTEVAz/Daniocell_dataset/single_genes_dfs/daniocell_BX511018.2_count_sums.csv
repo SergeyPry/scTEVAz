@@ -1,4 +1,4 @@
-stage,eye,fin.epithelia,immune,mesenchyme,mural.cell,neural,pronephros,spinal.cord,vasculature
+stage,eye,fin_epithelia,immune,mesenchyme,mural_cell,neural,pronephros,spinal_cord,vasculature
  14-21,0,0,0,0,0,1.92,0.86,0,0
  24-34,0,0,0,0,0,3.25,0,0,0
  36-46,0,0,0,1.29,14.4,12.17,0,2.42,0

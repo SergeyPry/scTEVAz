@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,gut,immune,mesenchyme,muscle,neural,spinal.cord,taste,vascular.smooth.muscle
+stage,blastomeres,epidermis,erythrocytes,eye,gut,immune,mesenchyme,muscle,neural,spinal_cord,taste,vascular_smooth_muscle
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,1,1,0,0,0,3,1,0,0,0,0
  24-34,0,0,0,0,0,0,0,0,0,0.82,0,0

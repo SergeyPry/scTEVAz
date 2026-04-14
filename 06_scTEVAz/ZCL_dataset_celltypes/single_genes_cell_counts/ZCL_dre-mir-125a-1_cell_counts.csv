@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Ionocyte,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Osteoblast,Retinal.pigment.epithelial.cell
+stage,Epithelial_cell,Ionocyte,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Osteoblast,Retinal_pigment_epithelial_cell
 24hpf,1,0,0,0,1,0,0
-72hpf,0,0,0.281848056003223,1.97293639202256,0.281848056003223,0.281848056003223,0
-21Day,0,0.369986860264282,0.739973720528564,1.10996058079285,0,0,0.369986860264282
+72hpf,0,0,0.28,1.97,0.28,0.28,0
+21Day,0,0.37,0.74,1.11,0,0,0.37

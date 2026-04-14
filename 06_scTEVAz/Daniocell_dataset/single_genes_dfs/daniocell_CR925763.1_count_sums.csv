@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,mesenchyme,mucous,neural,presomitic.mesoderm,somites,spinal.cord
+stage,epidermis,eye,glial,mesenchyme,mucous,neural,presomitic_mesoderm,somites,spinal_cord
  14-21,0,0,0,0,0,1.94,1.7,0.97,0.97
  24-34,0.82,0,0,0.71,0,6.96,0,0,1.43
  36-46,0,1.28,0,1.39,0,17.26,0,0,1.22

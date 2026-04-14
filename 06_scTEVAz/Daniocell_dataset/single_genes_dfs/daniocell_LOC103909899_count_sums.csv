@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.mesenchyme,glial,ionocyte,mesenchyme,muscle,neural,pericytes,periderm,presomitic.mesoderm,spinal.cord
+stage,epidermis,erythrocytes,eye,fin_mesenchyme,glial,ionocyte,mesenchyme,muscle,neural,pericytes,periderm,presomitic_mesoderm,spinal_cord
  14-21,0,0,0,0,0,0,0,0,2.35,0,0,0.84,0
  24-34,0,0,0,0,0,0,0,0,2.7,0,0,0,0
  36-46,0,0,0,0,0.75,0,0.57,0,1.99,0,0,0,0

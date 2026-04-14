@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.mesenchyme,glial,gut,hatching.gland,heart,immune,ionocyte,lateral.line,mesenchyme,muscle,neural,olfactory,paraxial.mesoderm,presomitic.mesoderm,pronephros,somites,spinal.cord,visceral.smooth.muscle
+stage,epidermis,erythrocytes,eye,fin_mesenchyme,glial,gut,hatching_gland,heart,immune,ionocyte,lateral_line,mesenchyme,muscle,neural,olfactory,paraxial_mesoderm,presomitic_mesoderm,pronephros,somites,spinal_cord,visceral_smooth_muscle
  14-21,1,1,0,0,0,0,0,0,0,0,0,0,1,7,0,1,1,0,2,1,0
  24-34,1.64,0,0.82,0,0,0.82,0,0,0,0,0,0,0,3.28,0.82,0,0,0,0,0,0
  36-46,0,0,0,0,0,0,0,0,0,0,0,0.81,0,3.22,0,0,0,0,0,0,0

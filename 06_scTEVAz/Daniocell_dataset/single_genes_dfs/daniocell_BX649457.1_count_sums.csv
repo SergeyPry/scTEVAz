@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,endoderm,epidermis,eye,glial,mesenchyme,muscle,neural,olfactory,paraxial.mesoderm,presomitic.mesoderm,spinal.cord,visceral.smooth.muscle
+stage,blastomeres,endocrine_pancreas,endoderm,epidermis,eye,glial,mesenchyme,muscle,neural,olfactory,paraxial_mesoderm,presomitic_mesoderm,spinal_cord,visceral_smooth_muscle
   7-9,0,0,3.77,0,0,0,0,0,9.94,0,12.46,0,0,0
  10-12,3.64,0,0,0,0,0,0,0,3.2,0,4.84,0,0,0
  14-21,0,0,0,0,0,0,2.35,0,2.42,0,0,0.83,0,0

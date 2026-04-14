@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,fin.epithelia,glial,gut,immune,ionocyte,liver,mesenchyme,mucous,neural,olfactory,periderm,taste,vasculature
+stage,endoderm,epidermis,eye,fin_epithelia,glial,gut,immune,ionocyte,liver,mesenchyme,mucous,neural,olfactory,periderm,taste,vasculature
   7-9,0,0,2.63,0,0,0,0,0,0,0,0,2.63,0,5.26,0,0
  10-12,0,0,6.29,0,0,0,0,0,0,0,0,6.29,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0

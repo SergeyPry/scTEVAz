@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,fast.muscle,fin.epithelia,mesenchyme,muscle,neural,paraxial.mesoderm,periderm,presomitic.mesoderm,pronephros,somites,spinal.cord
+stage,axial,blastomeres,epidermis,fast_muscle,fin_epithelia,mesenchyme,muscle,neural,paraxial_mesoderm,periderm,presomitic_mesoderm,pronephros,somites,spinal_cord
   3-4,0,26.36,0,0,0,0,0,0,0,13.18,0,0,0,0
   5-6,6.13,36.78,0,0,0,0,0,6.13,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,15.77,13.14,0,0,0,0,0

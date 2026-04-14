@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,glial,gut,immune,lateral.line,mesenchyme,muscle,neural,olfactory,periderm,spinal.cord,xanthophores
+stage,epidermis,eye,fin_epithelia,glial,gut,immune,lateral_line,mesenchyme,muscle,neural,olfactory,periderm,spinal_cord,xanthophores
  14-21,0.94,0.86,0,0,0,0,0,0,0,1.88,0,0,0,0
  24-34,0,0,0,0,0,0,0,0,0,2.53,0,0,1.21,3.2
  36-46,0,1.02,0,0.67,0,0,0,0,0.63,2.39,0,0,0,0

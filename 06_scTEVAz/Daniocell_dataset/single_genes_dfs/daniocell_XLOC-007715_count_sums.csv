@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,endoderm,epidermis,eye,fin.epithelia,glial,gut,immune,iridophores,lateral.line,liver,melanocytes,mesenchyme,mural.cell,neural,paraxial.mesoderm,periderm,visceral.smooth.muscle,xanthophores
+stage,endocrine_pancreas,endoderm,epidermis,eye,fin_epithelia,glial,gut,immune,iridophores,lateral_line,liver,melanocytes,mesenchyme,mural_cell,neural,paraxial_mesoderm,periderm,visceral_smooth_muscle,xanthophores
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.58,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.72,0,0,0,0
  24-34,0,0,0.71,0,0,0,0,0,0,0,15.7,0,0,0,4.6,0,0,0,0

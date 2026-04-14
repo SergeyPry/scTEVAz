@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,fin.mesenchyme,glial,heart,ionocyte,iridophores,liver,melanocytes,mesenchyme,mural.cell,muscle,neural,olfactory,otic,pericytes,slow.muscle,spinal.cord,vascular.smooth.muscle,vasculature,visceral.smooth.muscle,xanthophores
+stage,epidermis,eye,fast_muscle,fin_mesenchyme,glial,heart,ionocyte,iridophores,liver,melanocytes,mesenchyme,mural_cell,muscle,neural,olfactory,otic,pericytes,slow_muscle,spinal_cord,vascular_smooth_muscle,vasculature,visceral_smooth_muscle,xanthophores
  14-21,0,1,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,12,0,0,0,0
  24-34,0,0.82,0,0,0.82,0,0,0.82,0,0.82,1.64,0.82,0,50.89,0.82,0.82,0,0,19.7,0,2.46,0,0
  36-46,0,6.45,0,0,0,0,0,0,0,0,4.03,0,0.81,137.77,0.81,0,0,0.81,26.59,0,0,0,0

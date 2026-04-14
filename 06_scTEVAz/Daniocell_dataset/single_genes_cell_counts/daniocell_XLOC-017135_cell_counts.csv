@@ -1,4 +1,4 @@
-stage,notochord,paraxial.mesoderm,periderm,somites,vasculature
+stage,notochord,paraxial_mesoderm,periderm,somites,vasculature
  10-12,3.15,3.15,0,0,0
  14-21,0,0,0,1,0
  24-34,0,0,0,0,0.82

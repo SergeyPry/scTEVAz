@@ -1,4 +1,4 @@
-stage,epidermis,eye,heart,immune,mesenchyme,mural.cell,muscle,neural,otic,spinal.cord,vascular.smooth.muscle,vasculature
+stage,epidermis,eye,heart,immune,mesenchyme,mural_cell,muscle,neural,otic,spinal_cord,vascular_smooth_muscle,vasculature
  14-21,0,0,0.84,0,0,0,0,0,0,0,0,0
  24-34,0,0,0,0,1.73,0,0,0,0,0.98,0,0.77
  36-46,0,0,1.77,2.23,2.18,0,0,0,0,1.06,0,0

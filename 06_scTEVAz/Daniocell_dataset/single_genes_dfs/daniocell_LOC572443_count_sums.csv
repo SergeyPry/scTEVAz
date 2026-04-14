@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.epithelia,gut,immune,ionocyte,lateral.line,liver,mucous,neural,periderm,xanthophores
+stage,blastomeres,epidermis,eye,fin_epithelia,gut,immune,ionocyte,lateral_line,liver,mucous,neural,periderm,xanthophores
   5-6,6.24,0,0,0,0,0,0,0,0,0,0,0,0
  24-34,0,1,0,0,0,0,0,0,0,3.07,0,2.82,0
  36-46,0,0,0,0,0,0,0,0,0,2.98,0,7.83,0

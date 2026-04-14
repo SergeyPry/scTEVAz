@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Granulocyte,Immune.cell,Immune.progenitor.cell,Keratinocyte,Osteoblast,T.cell
-72hpf,0,0,0,0,0.563696112006446,0.281848056003223,0
-21Day,0.739973720528564,0.369986860264282,0,0.739973720528564,0.369986860264282,0,0.369986860264282
-3Month,0,0,0.104017006644673,0,0,0,0.208034013289345
+stage,Epithelial_cell,Granulocyte,Immune_cell,Immune_progenitor_cell,Keratinocyte,Osteoblast,T_cell
+72hpf,0,0,0,0,0.56,0.28,0
+21Day,0.74,0.37,0,0.74,0.37,0,0.37
+3Month,0,0,0.1,0,0,0,0.21

@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fast.muscle,fin.epithelia,fin.mesenchyme,gut,ionocyte,melanocytes,mesenchyme,muscle,neural,otic,paraxial.mesoderm,periderm,somites,spinal.cord,taste,xanthophores
+stage,blastomeres,epidermis,eye,fast_muscle,fin_epithelia,fin_mesenchyme,gut,ionocyte,melanocytes,mesenchyme,muscle,neural,otic,paraxial_mesoderm,periderm,somites,spinal_cord,taste,xanthophores
   3-4,64.61,0,0,0,0,0,0,0,0,0,0,0,0,0,18.8,0,0,0,0
   5-6,49.51,0,0,0,0,0,0,0,0,0,0,0,0,0,40.04,0,0,0,0
   7-9,0,0,15.06,0,0,0,0,0,0,0,0,34.17,0,26.7,76.6,0,0,0,0

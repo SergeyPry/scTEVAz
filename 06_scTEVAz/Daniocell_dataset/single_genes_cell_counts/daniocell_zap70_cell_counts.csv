@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,fin.epithelia,glial,immune,lateral.line,mesenchyme,mural.cell,muscle,neural,notochord,pericytes,periderm,presomitic.mesoderm,slow.muscle,somites,spinal.cord,vascular.smooth.muscle,vasculature
+stage,endoderm,epidermis,eye,fin_epithelia,glial,immune,lateral_line,mesenchyme,mural_cell,muscle,neural,notochord,pericytes,periderm,presomitic_mesoderm,slow_muscle,somites,spinal_cord,vascular_smooth_muscle,vasculature
  14-21,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,12,13,0,0,0
  24-34,0,0,0,0,0,0,0,0,0,0,0.82,0.82,0,0,0,1.64,0.82,0,0,0.82
  36-46,0,0,0.81,0,0,0,0,0.81,0,2.42,4.03,0,0,0,0,0,0,0,0,0

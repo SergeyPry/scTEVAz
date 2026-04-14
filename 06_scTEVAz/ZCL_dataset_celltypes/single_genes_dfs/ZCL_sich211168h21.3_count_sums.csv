@@ -1,5 +1,5 @@
-stage,Cardiomyocyte,Endothelial.cell,Epithelial.cell,Erythrocyte,Erythroid.progenitor.cell,Goblet.cell,Granulocyte,Granulosa.cell,Hatching.gland,Hepatocyte,Immune.progenitor.cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Osteoblast,Radial.glia,Retinal.cone.cell,Retinal.pigment.epithelial.cell
-24hpf,102.160114321254,0,8.17280914570035,0,0,0,0,0,4.08640457285017,0,0,0,4.08640457285017,4.08640457285017,126.678541758355,4.08640457285017,265.616297235261,0,0,0,4.08640457285017
-72hpf,0,0,0,1.06979114146608,0,0,0,0,0,0,0,1.06979114146608,4.27916456586431,1.06979114146608,2.13958228293216,7.48853799026255,5.34895570733039,1.06979114146608,0,0,0
-21Day,4.01559926460992,0,14.7238639702364,1.33853308820331,1.33853308820331,1.33853308820331,0,0,0,0,1.33853308820331,0,2.67706617640661,0,6.69266544101654,10.7082647056265,2.67706617640661,5.35413235281323,1.33853308820331,1.33853308820331,0
-22Month,0,1.09330930239487,1.09330930239487,0,0,0,0.546654651197433,0.546654651197433,0,0.546654651197433,0.546654651197433,0,0,0,0,0,0,0,0,0,0
+stage,Cardiomyocyte,Endothelial_cell,Epithelial_cell,Erythrocyte,Erythroid_progenitor_cell,Goblet_cell,Granulocyte,Granulosa_cell,Hatching_gland,Hepatocyte,Immune_progenitor_cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Osteoblast,Radial_glia,Retinal_cone_cell,Retinal_pigment_epithelial_cell
+24hpf,102.16,0,8.17,0,0,0,0,0,4.09,0,0,0,4.09,4.09,126.68,4.09,265.62,0,0,0,4.09
+72hpf,0,0,0,1.07,0,0,0,0,0,0,0,1.07,4.28,1.07,2.14,7.49,5.35,1.07,0,0,0
+21Day,4.02,0,14.72,1.34,1.34,1.34,0,0,0,0,1.34,0,2.68,0,6.69,10.71,2.68,5.35,1.34,1.34,0
+22Month,0,1.09,1.09,0,0,0,0.55,0.55,0,0.55,0.55,0,0,0,0,0,0,0,0,0,0

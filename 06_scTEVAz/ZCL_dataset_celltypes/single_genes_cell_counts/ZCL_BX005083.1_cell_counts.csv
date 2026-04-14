@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Hepatocyte,Immune.cell,Keratinocyte,Macrophage,Mesenchymal.cell,Muscle.cell,Neural.cell,Pancreatic.macrophage,Primordial.germ.cell,Spermatocyte,T.cell
-72hpf,0,0,0,0,0,0,0,0.563696112006446,0,0,0,0
-21Day,0,0.369986860264282,0,0,0,0,0,0,0,0,0,0
-3Month,0.520085033223363,0.312051019934018,0.312051019934018,0.208034013289345,0.416068026578691,0.104017006644673,0.208034013289345,0.104017006644673,0.104017006644673,2.18435713953813,0.520085033223363,0.416068026578691
+stage,Epithelial_cell,Hepatocyte,Immune_cell,Keratinocyte,Macrophage,Mesenchymal_cell,Muscle_cell,Neural_cell,Pancreatic_macrophage,Primordial_germ_cell,Spermatocyte,T_cell
+72hpf,0,0,0,0,0,0,0,0.56,0,0,0,0
+21Day,0,0.37,0,0,0,0,0,0,0,0,0,0
+3Month,0.52,0.31,0.31,0.21,0.42,0.1,0.21,0.1,0.1,2.18,0.52,0.42

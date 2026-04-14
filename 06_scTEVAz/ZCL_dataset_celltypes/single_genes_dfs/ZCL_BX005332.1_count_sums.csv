@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Hepatocyte,Keratinocyte,Macrophage
-72hpf,0,0,1.06979114146608,1.06979114146608
-3Month,0,0.959847898662586,0,0
-22Month,0.546654651197433,1.6399639535923,0,0.546654651197433
+stage,Epithelial_cell,Hepatocyte,Keratinocyte,Macrophage
+72hpf,0,0,1.07,1.07
+3Month,0,0.96,0,0
+22Month,0.55,1.64,0,0.55

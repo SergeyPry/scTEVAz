@@ -1,4 +1,4 @@
-stage,endoderm,eye,glial,mesenchyme,mural.cell,neural,paraxial.mesoderm,periderm,slow.muscle
+stage,endoderm,eye,glial,mesenchyme,mural_cell,neural,paraxial_mesoderm,periderm,slow_muscle
   7-9,0,8.7,0,0,0,10.06,4.93,5.76,0
  10-12,4.92,0,0,0,0,23.21,11.03,0,0
  14-21,0,0,0,0.95,0,1.03,0,0,0

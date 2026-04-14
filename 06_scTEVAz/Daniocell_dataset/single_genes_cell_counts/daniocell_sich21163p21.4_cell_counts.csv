@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,glial,gut,immune,iridophores,mesenchyme,neural,periderm,vasculature,visceral.smooth.muscle
+stage,blastomeres,epidermis,erythrocytes,eye,glial,gut,immune,iridophores,mesenchyme,neural,periderm,vasculature,visceral_smooth_muscle
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0,0
  24-34,0,0,0,0,0.82,0,0,0,0,0,0.82,0,0
  48-58,0,0,0,0,0,0,0,0,0.57,1.15,0,0,0

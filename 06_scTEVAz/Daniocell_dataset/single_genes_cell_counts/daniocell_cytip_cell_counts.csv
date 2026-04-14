@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,erythrocytes,eye,glial,immune,lateral.line,mesenchyme,mucous,muscle,neural,otic,periderm,presomitic.mesoderm,spinal.cord,vasculature,xanthophores
+stage,endocrine_pancreas,epidermis,erythrocytes,eye,glial,immune,lateral_line,mesenchyme,mucous,muscle,neural,otic,periderm,presomitic_mesoderm,spinal_cord,vasculature,xanthophores
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0
  24-34,0.82,0,0,0,0,0,0,0,0.82,0.82,3.28,0,0,0,0,0,0
  36-46,0,0,0,0,0,0,0,0,0,0,2.42,0,0,0,0,0,0

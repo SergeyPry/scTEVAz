@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,lateral.line,mesenchyme,mucous,muscle,neural,olfactory,periderm,spinal.cord,vasculature
+stage,epidermis,eye,glial,lateral_line,mesenchyme,mucous,muscle,neural,olfactory,periderm,spinal_cord,vasculature
  14-21,0.85,0.9,2.62,0,0,0,5.36,3.18,0,0,3.48,0
  24-34,0,0,0,0,0.64,0.81,0,15.86,0.79,3.84,4.01,1.63
  36-46,1.17,0.79,0,0,1.17,0,0,20.57,3.12,0,8.28,0

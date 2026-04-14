@@ -1,6 +1,6 @@
-stage,Cardiomyocyte,Epithelial.cell,Erythrocyte,Keratinocyte,Neural.cell,Neural.progenitor.cell,Pancreatic.cell,Retinal.cell,Retinal.cone.cell
+stage,Cardiomyocyte,Epithelial_cell,Erythrocyte,Keratinocyte,Neural_cell,Neural_progenitor_cell,Pancreatic_cell,Retinal_cell,Retinal_cone_cell
 24hpf,0,1,0,0,0,1,0,0,0
-72hpf,0.563696112006446,0,0.563696112006446,0.281848056003223,1.40924028001612,0.281848056003223,1.12739222401289,2.25478444802579,1.69108833601934
-21Day,0.369986860264282,0.369986860264282,0,0,0.369986860264282,0,0.369986860264282,3.32988174237854,1.84993430132141
-3Month,0,0.312051019934018,0,0,0,0,0,0,0
-22Month,0,0,0,0,0,0,0,0.409948295964399,0
+72hpf,0.56,0,0.56,0.28,1.41,0.28,1.13,2.25,1.69
+21Day,0.37,0.37,0,0,0.37,0,0.37,3.33,1.85
+3Month,0,0.31,0,0,0,0,0,0,0
+22Month,0,0,0,0,0,0,0,0.41,0

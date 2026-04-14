@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,erythrocytes,eye,glial,heart,iridophores,mesenchyme,muscle,neural,notochord,olfactory,paraxial.mesoderm,pronephros,somites,spinal.cord
+stage,blastomeres,endoderm,epidermis,erythrocytes,eye,glial,heart,iridophores,mesenchyme,muscle,neural,notochord,olfactory,paraxial_mesoderm,pronephros,somites,spinal_cord
   3-4,137.84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,193.7,0,0,0,0,0,0,0,0,0,7.06,0,0,6.24,0,0,0
   7-9,8.61,3.29,0,0,25.68,0,0,0,0,0,230.56,5.25,0,59.68,0,0,0

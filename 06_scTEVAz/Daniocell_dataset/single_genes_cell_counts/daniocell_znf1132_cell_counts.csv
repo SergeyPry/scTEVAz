@@ -1,4 +1,4 @@
-stage,eye,glial,liver,mesenchyme,mural.cell,muscle,neural,vasculature
+stage,eye,glial,liver,mesenchyme,mural_cell,muscle,neural,vasculature
   7-9,0,0,0,0,0,0,5.26,0
  14-21,1,0,0,0,0,1,0,0
  24-34,0,0,0,0,0,0,7.39,0.82

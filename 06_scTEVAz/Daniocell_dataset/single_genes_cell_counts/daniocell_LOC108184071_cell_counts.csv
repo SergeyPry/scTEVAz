@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,mesenchyme,neural,pericytes,spinal.cord,xanthophores
+stage,epidermis,eye,glial,mesenchyme,neural,pericytes,spinal_cord,xanthophores
  24-34,0.82,0,0,0,0,0,0,0
  36-46,0,0,0,0,1.61,0,0,0.81
  48-58,0,0,0,1.15,0,0,0,0

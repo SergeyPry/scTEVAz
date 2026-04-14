@@ -1,4 +1,4 @@
-stage,endoderm,eye,ionocyte,melanocytes,mesenchyme,muscle,neural,periderm,presomitic.mesoderm,somites,spinal.cord,vasculature
+stage,endoderm,eye,ionocyte,melanocytes,mesenchyme,muscle,neural,periderm,presomitic_mesoderm,somites,spinal_cord,vasculature
  14-21,0,0,0,0,0,2,1,0,3,14,0,0
  24-34,0.82,0.82,0,0,0,0,1.64,0,0,1.64,0.82,0
  36-46,0,0,0,0,0,0,0.81,0,0,0,0,0.81

@@ -1,5 +1,5 @@
-stage,Epithelial.cell,Erythrocyte,Hepatocyte,Immune.progenitor.cell,Mesenchymal.cell,Neural.cell,Osteoblast,Pancreatic.cell,Retinal.pigment.epithelial.cell
+stage,Epithelial_cell,Erythrocyte,Hepatocyte,Immune_progenitor_cell,Mesenchymal_cell,Neural_cell,Osteoblast,Pancreatic_cell,Retinal_pigment_epithelial_cell
 24hpf,0,0,0,0,1,0,0,0,0
-72hpf,0,0,0,0,0,3.6640247280419,0,0,0
-21Day,0.369986860264282,0.739973720528564,0,0.369986860264282,0.369986860264282,1.84993430132141,0.369986860264282,0.739973720528564,0.369986860264282
-22Month,0,0,0.683247159940666,0,0,0,0,0,0
+72hpf,0,0,0,0,0,3.66,0,0,0
+21Day,0.37,0.74,0,0.37,0.37,1.85,0.37,0.74,0.37
+22Month,0,0,0.68,0,0,0,0,0,0

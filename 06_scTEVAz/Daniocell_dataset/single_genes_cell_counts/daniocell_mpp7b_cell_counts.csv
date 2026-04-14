@@ -1,4 +1,4 @@
-stage,epidermis,eye,immune,mesenchyme,neural,otic,somites,spinal.cord
+stage,epidermis,eye,immune,mesenchyme,neural,otic,somites,spinal_cord
  14-21,0,0,0,0,0,0,1,1
  48-58,0,0.57,0,1.15,1.15,0.57,0,0
  60-70,0,0.98,0,0.98,0,0,0,0.98

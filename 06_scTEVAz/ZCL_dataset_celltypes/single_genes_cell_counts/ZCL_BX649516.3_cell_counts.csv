@@ -1,5 +1,5 @@
-stage,Cardiomyocyte,Epithelial.cell,Granulosa.cell,Hepatocyte,Intestinal.bulb.cell,Ionocyte,Keratinocyte,Macrophage,Mt.rich.cell,Neural.progenitor.cell,Primordial.germ.cell,Spermatocyte
+stage,Cardiomyocyte,Epithelial_cell,Granulosa_cell,Hepatocyte,Intestinal_bulb_cell,Ionocyte,Keratinocyte,Macrophage,Mt_rich_cell,Neural_progenitor_cell,Primordial_germ_cell,Spermatocyte
 24hpf,2,1,0,0,0,0,0,0,0,1,0,0
-21Day,0,0,0,0,0,0,0.369986860264282,0,0,0,0,0
-3Month,0,0,0,0.832136053157381,0.312051019934018,0,0,0.104017006644673,0,0,0.208034013289345,0.104017006644673
-22Month,0,0.273298863976266,0.273298863976266,6.83247159940665,1.2298448878932,0.136649431988133,0,0,0.273298863976266,0,0,0
+21Day,0,0,0,0,0,0,0.37,0,0,0,0,0
+3Month,0,0,0,0.83,0.31,0,0,0.1,0,0,0.21,0.1
+22Month,0,0.27,0.27,6.83,1.23,0.14,0,0,0.27,0,0,0

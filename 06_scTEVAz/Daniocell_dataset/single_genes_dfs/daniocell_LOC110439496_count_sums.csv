@@ -1,4 +1,4 @@
-stage,blastomeres,erythrocytes,eye,glial,hatching.gland,ionocyte,iridophores,mesenchyme,muscle,neural,paraxial.mesoderm,pgc,somites,spinal.cord
+stage,blastomeres,erythrocytes,eye,glial,hatching_gland,ionocyte,iridophores,mesenchyme,muscle,neural,paraxial_mesoderm,pgc,somites,spinal_cord
   3-4,68.68,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,97.41,0,0,0,11.6,0,0,0,0,43.07,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,46.67,17.67,7.8,0,0

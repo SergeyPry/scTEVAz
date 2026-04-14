@@ -1,4 +1,4 @@
-stage,epidermis,fast.muscle,fin.epithelia,gut,muscle,neural,otic,periderm
+stage,epidermis,fast_muscle,fin_epithelia,gut,muscle,neural,otic,periderm
  14-21,1,0,0,1,0,0,0,0
  24-34,0,0,0,0,0,1.64,0,0
  36-46,0,0,0,0,0,2.42,0,0

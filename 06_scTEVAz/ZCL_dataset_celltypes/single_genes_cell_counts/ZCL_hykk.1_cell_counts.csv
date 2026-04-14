@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Epithelial.cell,Hepatocyte,Intestinal.bulb.cell,Neural.cell,Neural.progenitor.cell,Primordial.germ.cell
-21Day,0,0.369986860264282,0,0,0,0,0
-3Month,0,0.416068026578691,0,0,0,0,0.208034013289345
-22Month,0.136649431988133,0.136649431988133,0.136649431988133,0.136649431988133,0.136649431988133,0.136649431988133,0
+stage,Cardiomyocyte,Epithelial_cell,Hepatocyte,Intestinal_bulb_cell,Neural_cell,Neural_progenitor_cell,Primordial_germ_cell
+21Day,0,0.37,0,0,0,0,0
+3Month,0,0.42,0,0,0,0,0.21
+22Month,0.14,0.14,0.14,0.14,0.14,0.14,0

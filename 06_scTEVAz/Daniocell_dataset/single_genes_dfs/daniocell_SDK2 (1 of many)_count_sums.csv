@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,fast.muscle,fin.epithelia,fin.mesenchyme,glial,liver,mesenchyme,mucous,neural,olfactory,periderm,somites,spinal.cord,vasculature
+stage,endocrine_pancreas,epidermis,eye,fast_muscle,fin_epithelia,fin_mesenchyme,glial,liver,mesenchyme,mucous,neural,olfactory,periderm,somites,spinal_cord,vasculature
  14-21,0,3.03,0,0,0,0,0,0,3.06,0,0.84,0,0,0,0,0
  24-34,0,0.74,0,0,0,0,0,0,1.9,0,28.39,0,0,0,2.82,0
  36-46,0,0,4.23,0,0,0,0.63,0,2.77,0,32.7,0,0,0,4.29,0

@@ -1,6 +1,6 @@
-stage,Enterocyte,Epithelial.cell,Goblet.cell,Granulocyte,Hatching.gland,Hepatocyte,Intestinal.bulb.cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal.cell,Muscle.cell,Neurosecretory.cell,Primordial.germ.cell,Radial.glia,Smooth.muscle.cell
-24hpf,0,4.08640457285017,0,0,8.17280914570035,0,0,0,4.08640457285017,0,0,0,0,0,0,0
-72hpf,0,0,0,0,0,0,0,0,1.06979114146608,0,0,0,0,0,0,0
-21Day,0,6.69266544101654,0,0,0,0,0,0,6.69266544101654,0,0,0,0,0,0,0
-3Month,0,0,0,0,0,0.639898599108391,0,0,0.319949299554195,0,0,0,0.319949299554195,0,0,0
-22Month,0.546654651197433,8.1998197679615,1.09330930239487,0.546654651197433,0,6.5598558143692,3.2799279071846,0.546654651197433,0,1.09330930239487,0.546654651197433,3.2799279071846,2.18661860478973,1.09330930239487,0.546654651197433,0.546654651197433
+stage,Enterocyte,Epithelial_cell,Goblet_cell,Granulocyte,Hatching_gland,Hepatocyte,Intestinal_bulb_cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal_cell,Muscle_cell,Neurosecretory_cell,Primordial_germ_cell,Radial_glia,Smooth_muscle_cell
+24hpf,0,4.09,0,0,8.17,0,0,0,4.09,0,0,0,0,0,0,0
+72hpf,0,0,0,0,0,0,0,0,1.07,0,0,0,0,0,0,0
+21Day,0,6.69,0,0,0,0,0,0,6.69,0,0,0,0,0,0,0
+3Month,0,0,0,0,0,0.64,0,0,0.32,0,0,0,0.32,0,0,0
+22Month,0.55,8.2,1.09,0.55,0,6.56,3.28,0.55,0,1.09,0.55,3.28,2.19,1.09,0.55,0.55

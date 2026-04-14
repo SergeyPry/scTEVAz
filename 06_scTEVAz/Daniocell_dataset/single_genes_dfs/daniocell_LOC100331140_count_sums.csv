@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,exocrine.pancreas,eye,fin.epithelia,gut,liver,mesenchyme,neural,periderm,pronephros,taste,visceral.smooth.muscle
+stage,blastomeres,epidermis,exocrine_pancreas,eye,fin_epithelia,gut,liver,mesenchyme,neural,periderm,pronephros,taste,visceral_smooth_muscle
   5-6,11.39,0,0,0,0,0,0,0,0,14.17,0,0,0
  48-58,0,0,0,0,0,0,0,0,2.57,0,0,0,0
  60-70,0,0,0,0,0,0,0,1.06,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,fin.epithelia,fin.mesenchyme,heart,immune,lateral.line,mesenchyme,mucous,mural.cell,muscle,neural,notochord,pericytes,spinal.cord,taste,vascular.smooth.muscle,vasculature,visceral.smooth.muscle
+stage,blastomeres,endoderm,epidermis,eye,fin_epithelia,fin_mesenchyme,heart,immune,lateral_line,mesenchyme,mucous,mural_cell,muscle,neural,notochord,pericytes,spinal_cord,taste,vascular_smooth_muscle,vasculature,visceral_smooth_muscle
   3-4,19.94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,12.77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,20.69,0,0,0,0,0,0,0

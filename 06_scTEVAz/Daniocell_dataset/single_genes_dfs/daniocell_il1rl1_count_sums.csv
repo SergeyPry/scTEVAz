@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,eye,fin.mesenchyme,glial,immune,mesenchyme,mural.cell,neural,notochord,paraxial.mesoderm,periderm,presomitic.mesoderm,somites,spinal.cord,vasculature
+stage,axial,blastomeres,epidermis,eye,fin_mesenchyme,glial,immune,mesenchyme,mural_cell,neural,notochord,paraxial_mesoderm,periderm,presomitic_mesoderm,somites,spinal_cord,vasculature
   3-4,10.12,127.55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,0,213.35,0,0,0,0,0,0,0,28.59,0,0,0,0,0,0,0
   7-9,0,5.3,0,10.88,0,0,0,0,0,136.35,4.69,56.55,0,0,0,0,0

@@ -1,6 +1,6 @@
-stage,Cardiomyocyte,Epithelial.cell,Hatching.gland,Hepatocyte,Intestinal.bulb.cell,Ionocyte,Mesenchymal.cell,Muscle.cell,Nephron.cell,Neural.cell,Neural.progenitor.cell,Pancreatic.cell,Radial.glia,T.cell
+stage,Cardiomyocyte,Epithelial_cell,Hatching_gland,Hepatocyte,Intestinal_bulb_cell,Ionocyte,Mesenchymal_cell,Muscle_cell,Nephron_cell,Neural_cell,Neural_progenitor_cell,Pancreatic_cell,Radial_glia,T_cell
 24hpf,0,1,1,0,0,1,0,0,0,0,2,0,0,0
-72hpf,0.563696112006446,0,0,0,0,0.281848056003223,0.563696112006446,0,0,18.6019716962127,1.69108833601934,0,0.281848056003223,0
-21Day,0.369986860264282,0.369986860264282,0,0,0,0,1.47994744105713,0.369986860264282,0,5.54980290396423,0.739973720528564,0.369986860264282,0.369986860264282,0
-3Month,0,0,0,0.104017006644673,0.104017006644673,0,0.416068026578691,0,0.104017006644673,0,0,0,0,0.104017006644673
-22Month,0,0,0,3.96283352765586,0,0,0,0,0,0,0,0,0,0
+72hpf,0.56,0,0,0,0,0.28,0.56,0,0,18.6,1.69,0,0.28,0
+21Day,0.37,0.37,0,0,0,0,1.48,0.37,0,5.55,0.74,0.37,0.37,0
+3Month,0,0,0,0.1,0.1,0,0.42,0,0.1,0,0,0,0,0.1
+22Month,0,0,0,3.96,0,0,0,0,0,0,0,0,0,0

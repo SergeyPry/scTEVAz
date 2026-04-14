@@ -1,4 +1,4 @@
-stage,endoderm,eye,glial,lateral.line,mesenchyme,neural,olfactory,otic,pronephros,spinal.cord,taste
+stage,endoderm,eye,glial,lateral_line,mesenchyme,neural,olfactory,otic,pronephros,spinal_cord,taste
  14-21,0,0,1,0,0,0,0,0,1,1,0
  24-34,0,0,0,0,0,0,0,0,3.28,1.64,0
  36-46,0,0,0.81,0,0,0,1.61,0,1.61,1.61,0

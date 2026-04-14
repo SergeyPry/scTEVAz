@@ -1,4 +1,4 @@
-stage,epidermis,eye,gut,melanocytes,mesenchyme,mucous,muscle,neural,olfactory,otic,paraxial.mesoderm,periderm,spinal.cord,xanthophores
+stage,epidermis,eye,gut,melanocytes,mesenchyme,mucous,muscle,neural,olfactory,otic,paraxial_mesoderm,periderm,spinal_cord,xanthophores
  14-21,0,0,0,0,0,0,0,1,0,0,1,0,0,1
  24-34,0,0.82,0,0.82,0.82,0,0,0.82,0,0,0,0,0,0.82
  36-46,0,0,0,0,0,0,0,0.81,0,0,0,0,0,0

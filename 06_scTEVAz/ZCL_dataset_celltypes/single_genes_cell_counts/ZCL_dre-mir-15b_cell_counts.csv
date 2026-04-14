@@ -1,4 +1,4 @@
-stage,Immune.progenitor.cell,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Osteoblast
+stage,Immune_progenitor_cell,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Osteoblast
 24hpf,0,0,0,2,0
-72hpf,0,0,0,0.84554416800967,0.281848056003223
-21Day,0.369986860264282,0.369986860264282,0.369986860264282,0.369986860264282,0
+72hpf,0,0,0,0.85,0.28
+21Day,0.37,0.37,0.37,0.37,0

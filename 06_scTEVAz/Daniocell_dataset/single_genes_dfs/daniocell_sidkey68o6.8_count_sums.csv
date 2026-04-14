@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,erythrocytes,eye,glial,mesenchyme,muscle,neural,notochord,otic,paraxial.mesoderm,periderm,presomitic.mesoderm,slow.muscle,somites,spinal.cord
+stage,axial,blastomeres,epidermis,erythrocytes,eye,glial,mesenchyme,muscle,neural,notochord,otic,paraxial_mesoderm,periderm,presomitic_mesoderm,slow_muscle,somites,spinal_cord
   3-4,9.59,28.79,0,0,0,0,0,0,0,0,0,0,14.43,0,0,0,0
   5-6,0,27.51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,20.68,0,0,8.49,0,0,0,0,0

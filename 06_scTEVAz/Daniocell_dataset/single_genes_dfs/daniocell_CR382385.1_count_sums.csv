@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.mesenchyme,glial,heart,immune,mesenchyme,muscle,neural,olfactory,otic,periderm,slow.muscle,spinal.cord,vasculature,xanthophores
+stage,epidermis,eye,fin_mesenchyme,glial,heart,immune,mesenchyme,muscle,neural,olfactory,otic,periderm,slow_muscle,spinal_cord,vasculature,xanthophores
  14-21,0.94,0,0,0,0,0,1.14,0,7.4,0,0,0,0,0,0,0
  24-34,0,0,0,0,0,0,0,0,21.81,0,0,0,0,0.94,0,0
  36-46,0,4.46,0,0,0,0,0,0,32.22,1.29,0,0,0,6.19,0,0

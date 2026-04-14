@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,glial,immune,ionocyte,mesenchyme,muscle,neural,paraxial.mesoderm,periderm,vasculature
+stage,epidermis,erythrocytes,eye,glial,immune,ionocyte,mesenchyme,muscle,neural,paraxial_mesoderm,periderm,vasculature
  10-12,0,0,0,0,0,0,0,0,0,3.15,0,0
  36-46,0,0,0,0,0.81,0,0,0,0.81,0,0,0
  48-58,0,1.15,0,0,2.87,0,0,0,0,0,0,0

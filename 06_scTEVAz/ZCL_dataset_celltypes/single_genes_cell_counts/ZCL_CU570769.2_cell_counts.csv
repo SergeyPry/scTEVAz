@@ -1,4 +1,4 @@
-stage,Endothelial.cell,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell
+stage,Endothelial_cell,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell
 24hpf,2,1,2,4
-72hpf,0.281848056003223,0,0.563696112006446,0.563696112006446
-21Day,0,0.369986860264282,0.369986860264282,0
+72hpf,0.28,0,0.56,0.56
+21Day,0,0.37,0.37,0

@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,endoderm,epidermis,eye,fin.epithelia,glial,gut,iridophores,liver,mesenchyme,neural,olfactory,periderm,pronephros,spinal.cord
+stage,endocrine_pancreas,endoderm,epidermis,eye,fin_epithelia,glial,gut,iridophores,liver,mesenchyme,neural,olfactory,periderm,pronephros,spinal_cord
  14-21,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
  24-34,0,0,0,0,0,0,1.64,0,0,0,0,0,0,0,0
  36-46,0,0,0,0,0,0,0.81,0,0,0,0,0.81,0,0,0

@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,fast.muscle,glial,gut,mesenchyme,muscle,neural,otic,paraxial.mesoderm,slow.muscle,spinal.cord
+stage,blastomeres,epidermis,erythrocytes,eye,fast_muscle,glial,gut,mesenchyme,muscle,neural,otic,paraxial_mesoderm,slow_muscle,spinal_cord
   5-6,6.91,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,3.7,0,0
  14-21,0,1.34,0,0,0,0,0,0,0,0,0,0,0,0

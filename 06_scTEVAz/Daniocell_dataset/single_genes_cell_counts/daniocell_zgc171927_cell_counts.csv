@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endocrine.pancreas,erythrocytes,eye,fin.mesenchyme,glial,gut,lateral.line,mesenchyme,neural,notochord,olfactory,otic,pronephros,spinal.cord,vasculature
+stage,axial,blastomeres,endocrine_pancreas,erythrocytes,eye,fin_mesenchyme,glial,gut,lateral_line,mesenchyme,neural,notochord,olfactory,otic,pronephros,spinal_cord,vasculature
   3-4,13.18,39.53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,0,24.52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,2.63,0,0,0,0,0,0,0,0,0,0,0,0

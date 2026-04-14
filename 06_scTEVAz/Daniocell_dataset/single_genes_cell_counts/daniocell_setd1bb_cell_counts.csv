@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,fin.mesenchyme,glial,gut,immune,mesenchyme,muscle,neural,olfactory,periderm,spinal.cord,taste,vasculature
+stage,endocrine_pancreas,epidermis,eye,fin_mesenchyme,glial,gut,immune,mesenchyme,muscle,neural,olfactory,periderm,spinal_cord,taste,vasculature
   7-9,0,0,0,0,0,0,0,0,0,5.26,0,0,0,0,0
  14-21,2,0,0,0,0,0,0,0,0,3,1,0,3,0,0
  24-34,0,0.82,0,0,0,0,0,0,0,1.64,18.88,0,1.64,0,0

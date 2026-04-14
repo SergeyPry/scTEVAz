@@ -1,4 +1,4 @@
-stage,erythrocytes,eye,fin.epithelia,glial,ionocyte,mesenchyme,mucous,neural,periderm,visceral.smooth.muscle
+stage,erythrocytes,eye,fin_epithelia,glial,ionocyte,mesenchyme,mucous,neural,periderm,visceral_smooth_muscle
  14-21,0,0,0,0,0,0,0,0.84,17.91,0
  24-34,0,0,0,0,0,3.36,0,2.42,38.3,0
  36-46,0,0,1.15,0,0,0,0,4.51,99.1,0

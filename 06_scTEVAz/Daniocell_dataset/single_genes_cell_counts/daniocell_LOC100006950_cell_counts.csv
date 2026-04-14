@@ -1,4 +1,4 @@
-stage,eye,liver,neural,periderm,visceral.smooth.muscle
+stage,eye,liver,neural,periderm,visceral_smooth_muscle
  14-21,1,0,0,0,0
  24-34,0,0,0,0.82,0
  84-94,0,0,0,0,2.12

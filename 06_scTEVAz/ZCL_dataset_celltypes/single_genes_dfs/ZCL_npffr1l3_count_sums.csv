@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Hepatocyte,Ionocyte,Neural.cell,Neurosecretory.cell,Primordial.germ.cell
-72hpf,1.06979114146608,0,0,0,0,0
-3Month,0.319949299554195,2.23964509687937,0.319949299554195,0.319949299554195,0.639898599108391,0.639898599108391
-22Month,0.546654651197433,2.18661860478973,0,0,0,0
+stage,Epithelial_cell,Hepatocyte,Ionocyte,Neural_cell,Neurosecretory_cell,Primordial_germ_cell
+72hpf,1.07,0,0,0,0,0
+3Month,0.32,2.24,0.32,0.32,0.64,0.64
+22Month,0.55,2.19,0,0,0,0

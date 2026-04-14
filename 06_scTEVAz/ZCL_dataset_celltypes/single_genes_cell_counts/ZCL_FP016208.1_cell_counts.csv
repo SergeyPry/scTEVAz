@@ -1,5 +1,5 @@
-stage,Hepatocyte,Intestinal.bulb.cell,Macrophage,Neural.cell,Oocyte,Primordial.germ.cell,Spermatocyte
+stage,Hepatocyte,Intestinal_bulb_cell,Macrophage,Neural_cell,Oocyte,Primordial_germ_cell,Spermatocyte
 24hpf,0,0,2,0,0,0,0
-21Day,0,0,0.369986860264282,0,0,0.739973720528564,0
-3Month,0.208034013289345,0,0.312051019934018,0.104017006644673,0,1.1441870730914,0.832136053157381
-22Month,0.136649431988133,0.136649431988133,0.136649431988133,0,0.273298863976266,4.91937955157279,0
+21Day,0,0,0.37,0,0,0.74,0
+3Month,0.21,0,0.31,0.1,0,1.14,0.83
+22Month,0.14,0.14,0.14,0,0.27,4.92,0

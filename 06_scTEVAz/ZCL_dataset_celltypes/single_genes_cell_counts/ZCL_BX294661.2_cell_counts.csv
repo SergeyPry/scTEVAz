@@ -1,6 +1,6 @@
-stage,Cardiomyocyte,Epithelial.cell,Goblet.cell,Hepatocyte,Keratinocyte,Mesenchymal.cell,Mesenchymal.cell..caudal.fin.,Neural.cell,Neural.progenitor.cell,Radial.glia
+stage,Cardiomyocyte,Epithelial_cell,Goblet_cell,Hepatocyte,Keratinocyte,Mesenchymal_cell,Mesenchymal_cell__caudal_fin_,Neural_cell,Neural_progenitor_cell,Radial_glia
 24hpf,1,0,0,0,0,1,0,0,4,0
-72hpf,0,0.281848056003223,0,0,0,0.281848056003223,0,0.281848056003223,0,0.281848056003223
-21Day,0,0.369986860264282,0,0,0,0,0,0.369986860264282,0,0
-3Month,0,0.104017006644673,0.104017006644673,0.104017006644673,0.104017006644673,0,0.104017006644673,0,0,0
-22Month,0,0,0,0.136649431988133,0,0,0,0,0,0.136649431988133
+72hpf,0,0.28,0,0,0,0.28,0,0.28,0,0.28
+21Day,0,0.37,0,0,0,0,0,0.37,0,0
+3Month,0,0.1,0.1,0.1,0.1,0,0.1,0,0,0
+22Month,0,0,0,0.14,0,0,0,0,0,0.14

@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fast.muscle,glial,heart,immune,mesenchyme,muscle,neural,periderm,presomitic.mesoderm,spinal.cord,vasculature,xanthophores
+stage,epidermis,erythrocytes,eye,fast_muscle,glial,heart,immune,mesenchyme,muscle,neural,periderm,presomitic_mesoderm,spinal_cord,vasculature,xanthophores
  14-21,0,0,0,0,0,0,0,0,1.18,1.91,0,0.83,1.15,0,0
  24-34,0,0,2.51,0,0,1.92,0,0.68,0,3.84,0,0,0.82,0,0.86
  36-46,0,0,7.87,0,0,0,0,0.89,0,6.39,0,0,1.63,0,0

@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,immune,mesenchyme,neural,olfactory,paraxial.mesoderm,periderm,spinal.cord
+stage,blastomeres,epidermis,eye,glial,immune,mesenchyme,neural,olfactory,paraxial_mesoderm,periderm,spinal_cord
   7-9,5.26,0,5.26,0,0,0,0,0,2.63,0,0
  10-12,0,0,0,0,0,0,9.44,0,0,0,0
  14-21,0,0,1,2,0,0,9,0,0,0,2

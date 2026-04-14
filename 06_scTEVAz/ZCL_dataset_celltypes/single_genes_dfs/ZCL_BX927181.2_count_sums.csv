@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Erythrocyte..Liver.,Granulocyte,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Keratinocyte,Macrophage,Mesenchymal.cell,Muscle.cell,Nephron.cell,Neural.cell,Pancreatic.cell,Primordial.germ.cell,Spermatocyte,T.cell
-72hpf,0,0,0,0,0,0,0,0,0,0,0,9.6281202731947,0,0,0,0
-3Month,1.27979719821678,0.319949299554195,0.319949299554195,40.3136117438286,0.639898599108391,0.959847898662586,0.319949299554195,0.959847898662586,1.27979719821678,0.319949299554195,0.639898599108391,0.319949299554195,0.639898599108391,3.83939159465034,0.959847898662586,0.639898599108391
-22Month,0,0,0,4.9198918607769,0,0,0,0,0,1.09330930239487,0,0,0,0,0,0
+stage,Epithelial_cell,Erythrocyte__Liver_,Granulocyte,Hepatocyte,Immune_cell,Intestinal_bulb_cell,Keratinocyte,Macrophage,Mesenchymal_cell,Muscle_cell,Nephron_cell,Neural_cell,Pancreatic_cell,Primordial_germ_cell,Spermatocyte,T_cell
+72hpf,0,0,0,0,0,0,0,0,0,0,0,9.63,0,0,0,0
+3Month,1.28,0.32,0.32,40.31,0.64,0.96,0.32,0.96,1.28,0.32,0.64,0.32,0.64,3.84,0.96,0.64
+22Month,0,0,0,4.92,0,0,0,0,0,1.09,0,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,immune,mesenchyme,muscle,neural,notochord,olfactory,pericytes,periderm,somites,spinal.cord,vascular.smooth.muscle,visceral.smooth.muscle
+stage,epidermis,eye,glial,immune,mesenchyme,muscle,neural,notochord,olfactory,pericytes,periderm,somites,spinal_cord,vascular_smooth_muscle,visceral_smooth_muscle
  14-21,1.39,0,0,0,1.89,0,0,0,0,0,0,4.35,0.9,0,0
  24-34,0.9,0.68,0,0,0.8,0,1.56,1.09,0,0,1.11,0,0.78,0,0
  36-46,0,0.69,0,0,2.4,0,4.22,0,2.29,0,0,0,0,0,0

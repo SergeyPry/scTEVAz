@@ -1,4 +1,4 @@
-stage,Endothelial.cell,Ionocyte,Keratinocyte,Mesenchymal.cell,Neural.cell
-72hpf,0,0.281848056003223,0.563696112006446,0.281848056003223,0.563696112006446
-21Day,0,0.739973720528564,0.369986860264282,0.369986860264282,0
-3Month,0.104017006644673,0.624102039868036,0,0,0
+stage,Endothelial_cell,Ionocyte,Keratinocyte,Mesenchymal_cell,Neural_cell
+72hpf,0,0.28,0.56,0.28,0.56
+21Day,0,0.74,0.37,0.37,0
+3Month,0.1,0.62,0,0,0

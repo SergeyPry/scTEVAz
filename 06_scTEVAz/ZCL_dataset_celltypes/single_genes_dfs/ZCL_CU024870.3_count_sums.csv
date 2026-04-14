@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Hepatocyte,Neural.progenitor.cell,Neurosecretory.cell
-24hpf,0,0,4.08640457285017,0
-21Day,1.33853308820331,0,0,0
-22Month,0,0.546654651197433,0,0.546654651197433
+stage,Epithelial_cell,Hepatocyte,Neural_progenitor_cell,Neurosecretory_cell
+24hpf,0,0,4.09,0
+21Day,1.34,0,0,0
+22Month,0,0.55,0,0.55

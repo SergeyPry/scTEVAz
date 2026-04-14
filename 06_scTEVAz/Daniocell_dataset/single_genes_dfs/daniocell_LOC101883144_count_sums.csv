@@ -1,4 +1,4 @@
-stage,glial,mesenchyme,neural,pericytes,periderm,presomitic.mesoderm,somites,spinal.cord,vascular.smooth.muscle,vasculature
+stage,glial,mesenchyme,neural,pericytes,periderm,presomitic_mesoderm,somites,spinal_cord,vascular_smooth_muscle,vasculature
  14-21,0,0,0,0,0,1.18,0.85,0.81,0,0
  24-34,0,0,1.02,0,0,0,0,0,0,1.19
  36-46,0,0,5.17,0,0,0,0,0,0,0

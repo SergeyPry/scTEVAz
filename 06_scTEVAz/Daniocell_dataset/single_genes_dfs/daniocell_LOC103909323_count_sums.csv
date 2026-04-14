@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,erythrocytes,exocrine.pancreas,eye,glial,gut,hatching.gland,heart,lateral.line,liver,mesenchyme,mucous,muscle,neural,notochord,olfactory,paraxial.mesoderm,periderm,presomitic.mesoderm,somites,spinal.cord
+stage,blastomeres,endoderm,epidermis,erythrocytes,exocrine_pancreas,eye,glial,gut,hatching_gland,heart,lateral_line,liver,mesenchyme,mucous,muscle,neural,notochord,olfactory,paraxial_mesoderm,periderm,presomitic_mesoderm,somites,spinal_cord
   3-4,47.49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14.16,0,0,0
   5-6,55.15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,4.59,0,0,0,0,0,0,28.38,4.97,0,18.35,0,0,0,0

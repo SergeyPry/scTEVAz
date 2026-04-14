@@ -1,4 +1,4 @@
-stage,axial,endoderm,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,heart,ionocyte,iridophores,liver,mesenchyme,muscle,neural,olfactory,otic,paraxial.mesoderm,pericytes,periderm,pronephros,spinal.cord,taste,visceral.smooth.muscle,xanthophores
+stage,axial,endoderm,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,heart,ionocyte,iridophores,liver,mesenchyme,muscle,neural,olfactory,otic,paraxial_mesoderm,pericytes,periderm,pronephros,spinal_cord,taste,visceral_smooth_muscle,xanthophores
   7-9,4.2,0,0,0,0,0,0,0,0,0,0,0,0,10.58,0,0,0,0,0,0,0,0,0,0
  10-12,0,5.75,0,0,0,0,0,0,0,0,0,0,0,4.23,0,0,6.68,0,0,0,0,0,0,0
  14-21,0,0,0,8.48,0,0,0,0,0,0,0,1.02,0,16.12,0,0,0,0,0,0,2.37,0,0,1.88

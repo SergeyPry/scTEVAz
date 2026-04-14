@@ -1,4 +1,4 @@
-stage,eye,fast.muscle,fin.epithelia,glial,ionocyte,mesenchyme,muscle,neural,olfactory,otic,periderm,pronephros,taste,vascular.smooth.muscle
+stage,eye,fast_muscle,fin_epithelia,glial,ionocyte,mesenchyme,muscle,neural,olfactory,otic,periderm,pronephros,taste,vascular_smooth_muscle
  10-12,0,0,0,0,0,0,0,3.15,0,0,0,3.15,0,0
  14-21,1,0,0,0,0,0,1,2,0,0,0,0,0,0
  24-34,1.64,0,0,0,0.82,0.82,0,1.64,0,0,0,0,0,0

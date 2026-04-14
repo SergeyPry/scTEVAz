@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,glial,gut,heart,lateral.line,liver,mesenchyme,muscle,neural,notochord,otic,periderm,pronephros,slow.muscle,somites,spinal.cord
+stage,blastomeres,epidermis,erythrocytes,eye,glial,gut,heart,lateral_line,liver,mesenchyme,muscle,neural,notochord,otic,periderm,pronephros,slow_muscle,somites,spinal_cord
   7-9,0,0,0,0,0,0,0,0,0,0,0,19.31,0,0,0,0,0,0,0
  10-12,4.38,0,0,0,0,0,0,0,0,0,0,16.73,0,0,0,7.07,0,0,0
  14-21,0,2.07,0,2.68,0,0,0,0,0,1.83,2.29,53.19,0,0.88,4.43,0.87,1.07,3.07,7.12

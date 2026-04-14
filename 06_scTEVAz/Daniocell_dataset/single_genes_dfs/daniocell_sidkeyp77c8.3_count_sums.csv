@@ -1,4 +1,4 @@
-stage,fast.muscle,glial,mesenchyme,muscle,neural,olfactory,periderm,slow.muscle,somites
+stage,fast_muscle,glial,mesenchyme,muscle,neural,olfactory,periderm,slow_muscle,somites
  14-21,0,0,0,0,1,0,0,0,0
  24-34,0,0,0,2.48,2.78,0,0,1.28,0.63
  36-46,0,0,0,2.9,0,1.41,0,0,0

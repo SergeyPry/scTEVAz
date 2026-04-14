@@ -1,4 +1,4 @@
-stage,axial,endocrine.pancreas,epidermis,eye,fast.muscle,glial,gut,immune,ionocyte,lateral.line,mesenchyme,mucous,muscle,neural,otic,periderm,somites,spinal.cord
+stage,axial,endocrine_pancreas,epidermis,eye,fast_muscle,glial,gut,immune,ionocyte,lateral_line,mesenchyme,mucous,muscle,neural,otic,periderm,somites,spinal_cord
  14-21,0,0,0.85,0,0,0,0,0,0,0,0,0,0,1.91,0,1.11,0.9,2.83
  24-34,0,0,0,0.8,0,0,0,0,0,0,0,0,0,17.96,0,5.78,0,2.17
  36-46,0,0,0,3.77,0,2.1,0,0,0,0,0,0,0,8.31,0,12.83,0,16.94

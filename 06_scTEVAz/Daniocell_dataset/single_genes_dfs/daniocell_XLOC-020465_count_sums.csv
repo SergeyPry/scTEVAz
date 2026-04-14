@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,eye,fin.epithelia,glial,gut,ionocyte,lateral.line,mesenchyme,mural.cell,muscle,neural,olfactory,otic,paraxial.mesoderm,pericytes,periderm,spinal.cord,vascular.smooth.muscle,vasculature
+stage,axial,blastomeres,epidermis,eye,fin_epithelia,glial,gut,ionocyte,lateral_line,mesenchyme,mural_cell,muscle,neural,olfactory,otic,paraxial_mesoderm,pericytes,periderm,spinal_cord,vascular_smooth_muscle,vasculature
   3-4,0,22.62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,23.27,169.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,6.21,0,3.4,0,0,0,0,0,0,0,0,34.82,0,0,19.61,0,0,0,0,0

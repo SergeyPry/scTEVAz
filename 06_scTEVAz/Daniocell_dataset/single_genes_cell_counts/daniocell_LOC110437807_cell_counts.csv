@@ -1,4 +1,4 @@
-stage,epidermis,eye,gut,hatching.gland,ionocyte,mesenchyme,neural,olfactory,periderm
+stage,epidermis,eye,gut,hatching_gland,ionocyte,mesenchyme,neural,olfactory,periderm
   7-9,0,2.63,0,2.63,0,0,0,0,0
  14-21,0,0,0,0,0,0,1,0,0
  24-34,0,0,0,0,0,0,0.82,0,0

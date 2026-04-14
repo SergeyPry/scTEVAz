@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endocrine.pancreas,endoderm,epidermis,exocrine.pancreas,eye,fin.epithelia,glial,hatching.gland,lateral.line,mesenchyme,muscle,neural,otic,paraxial.mesoderm,pericytes,somites,spinal.cord,vasculature
+stage,axial,blastomeres,endocrine_pancreas,endoderm,epidermis,exocrine_pancreas,eye,fin_epithelia,glial,hatching_gland,lateral_line,mesenchyme,muscle,neural,otic,paraxial_mesoderm,pericytes,somites,spinal_cord,vasculature
   3-4,0,30.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,13.23,39.44,0,0,0,0,0,0,0,0,0,0,0,0,0,9.89,0,0,0,0
   7-9,0,0,0,4.06,0,0,0,0,0,3.55,0,0,0,7,0,3.32,0,0,0,0

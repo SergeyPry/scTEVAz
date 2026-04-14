@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,lateral.line,mesenchyme,muscle,neural,paraxial.mesoderm,spinal.cord,vascular.smooth.muscle
+stage,epidermis,eye,glial,lateral_line,mesenchyme,muscle,neural,paraxial_mesoderm,spinal_cord,vascular_smooth_muscle
   7-9,0,0,0,0,0,0,6.82,4.7,0,0
  14-21,0,0,0,0,0,0,0,0,0.91,0
  24-34,0,0,0,0,0.77,0,7.07,0,0.71,0

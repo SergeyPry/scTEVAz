@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,endoderm,epidermis,eye,fin.mesenchyme,glial,gut,heart,ionocyte,liver,mesenchyme,muscle,neural,notochord,presomitic.mesoderm,spinal.cord,xanthophores
+stage,blastomeres,endocrine_pancreas,endoderm,epidermis,eye,fin_mesenchyme,glial,gut,heart,ionocyte,liver,mesenchyme,muscle,neural,notochord,presomitic_mesoderm,spinal_cord,xanthophores
   5-6,11.35,0,0,0,0,0,0,0,0,0,0,0,0,9.92,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,27.64,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,0,30.54,3.17,0,0,0

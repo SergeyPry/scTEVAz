@@ -1,4 +1,4 @@
-stage,blastomeres,exocrine.pancreas,glial,lateral.line,mesenchyme,neural,otic,periderm,pronephros
+stage,blastomeres,exocrine_pancreas,glial,lateral_line,mesenchyme,neural,otic,periderm,pronephros
   3-4,13.18,0,0,0,0,0,0,0,0
   5-6,12.26,0,0,0,0,0,0,0,0
  24-34,0,0,0,0,0.82,0.82,0.82,0.82,0

@@ -1,4 +1,4 @@
-stage,eye,immune,mesenchyme,mucous,mural.cell,neural,olfactory,pronephros,somites,spinal.cord,vasculature
+stage,eye,immune,mesenchyme,mucous,mural_cell,neural,olfactory,pronephros,somites,spinal_cord,vasculature
  14-21,0,0,0,0,0,1.04,0,0.85,1.07,0,0
  24-34,0,0,0,0,0,0.91,1.63,0,0,0.63,4.1
  36-46,0,0,0,0,0,6.04,0.79,0,0,1.37,10.42

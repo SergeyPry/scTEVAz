@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,exocrine.pancreas,eye,fin.epithelia,mesenchyme,mural.cell,neural,notochord,periderm,pronephros,vasculature
+stage,blastomeres,epidermis,exocrine_pancreas,eye,fin_epithelia,mesenchyme,mural_cell,neural,notochord,periderm,pronephros,vasculature
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,1,0,0,0,0,0,0,0,0,0,0
  24-34,0,0,0,0,0.82,0,0,0,0,2.46,0,0

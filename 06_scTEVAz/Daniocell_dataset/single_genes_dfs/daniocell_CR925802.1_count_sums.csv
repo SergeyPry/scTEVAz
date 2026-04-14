@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,erythrocytes,eye,fin.epithelia,glial,gut,muscle,neural,periderm,presomitic.mesoderm,spinal.cord,vasculature
+stage,endoderm,epidermis,erythrocytes,eye,fin_epithelia,glial,gut,muscle,neural,periderm,presomitic_mesoderm,spinal_cord,vasculature
  14-21,0,0,0.82,0,0,0,0,0,0.96,3.22,1.11,0.87,0.83
  24-34,0,0,0,0,0,0,0.61,0,2.57,2.03,0,0,0
  36-46,0.56,0.86,0,0,0,0,0,1.66,0,0,0,0,0

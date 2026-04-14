@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Goblet.cell,Granulocyte,Granulosa.cell,Hepatocyte,Immune.cell,Immune.progenitor.cell,Ionocyte,Keratinocyte,Macrophage,Primordial.germ.cell,T.cell
-72hpf,0.563696112006446,0,0,0,0,0,0,0,1.69108833601934,0,0,0
-21Day,4.80982918343567,0,0,0,0,0,0.369986860264282,0.739973720528564,0.739973720528564,0.369986860264282,0,0
-3Month,0.624102039868036,0.104017006644673,0.104017006644673,0.104017006644673,0.104017006644673,0.104017006644673,0,0,0.208034013289345,0,0.832136053157381,0.208034013289345
+stage,Epithelial_cell,Goblet_cell,Granulocyte,Granulosa_cell,Hepatocyte,Immune_cell,Immune_progenitor_cell,Ionocyte,Keratinocyte,Macrophage,Primordial_germ_cell,T_cell
+72hpf,0.56,0,0,0,0,0,0,0,1.69,0,0,0
+21Day,4.81,0,0,0,0,0,0.37,0.74,0.74,0.37,0,0
+3Month,0.62,0.1,0.1,0.1,0.1,0.1,0,0,0.21,0,0.83,0.21

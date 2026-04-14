@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,liver,mesenchyme,mucous,mural.cell,neural,periderm
+stage,epidermis,eye,glial,liver,mesenchyme,mucous,mural_cell,neural,periderm
  24-34,0,0,0,2,1.94,0,0,15.42,2.59
  36-46,0,0,0,0,5.6,0,0,7.84,22.98
  48-58,0,0,0.79,0,9.88,0,0,3.95,6.16

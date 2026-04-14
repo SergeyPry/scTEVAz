@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Erythrocyte,Nephron.cell,Neural.progenitor.cell,Neurosecretory.cell,Primordial.germ.cell
+stage,Epithelial_cell,Erythrocyte,Nephron_cell,Neural_progenitor_cell,Neurosecretory_cell,Primordial_germ_cell
 24hpf,0,0,0,1,0,0
-21Day,0,0.369986860264282,0,0,0.739973720528564,0
-3Month,0.208034013289345,0,0.312051019934018,0,0,0.104017006644673
+21Day,0,0.37,0,0,0.74,0
+3Month,0.21,0,0.31,0,0,0.1

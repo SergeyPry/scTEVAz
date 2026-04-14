@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,exocrine.pancreas,eye,glial,gut,immune,liver,mesenchyme,mural.cell,muscle,neural,notochord,otic,periderm,pgc,spinal.cord,taste,visceral.smooth.muscle,xanthophores
+stage,endocrine_pancreas,epidermis,exocrine_pancreas,eye,glial,gut,immune,liver,mesenchyme,mural_cell,muscle,neural,notochord,otic,periderm,pgc,spinal_cord,taste,visceral_smooth_muscle,xanthophores
   7-9,0,0,0,0,0,0,0,0,0,0,0,2.63,2.63,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
  24-34,0,0,0,0,0,0,0,0,0,0,0,4.93,0,0,0,0,0,0,0,0

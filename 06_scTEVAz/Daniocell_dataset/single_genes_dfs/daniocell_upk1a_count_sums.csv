@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,fin.mesenchyme,glial,gut,hatching.gland,heart,immune,ionocyte,liver,mesenchyme,mucous,muscle,neural,olfactory,otic,periderm,pronephros,somites,spinal.cord,taste,visceral.smooth.muscle
+stage,endocrine_pancreas,epidermis,eye,fin_mesenchyme,glial,gut,hatching_gland,heart,immune,ionocyte,liver,mesenchyme,mucous,muscle,neural,olfactory,otic,periderm,pronephros,somites,spinal_cord,taste,visceral_smooth_muscle
  14-21,0,0.87,1.37,0,1.08,0,0,0,0,0,0,1.1,0,0,42.72,0,0,0,0,1.23,20.52,0,0
  24-34,0,0.94,15.52,0,0,0,0.65,0,0,0.89,0,2.5,0,0,95.47,0.76,0.75,0,0,0,17.79,0,0
  36-46,0.78,0,63.63,0.58,18.65,0,0,0,0,0,0,3.24,1.18,0,211.16,1.38,0.56,6.1,0,0,45.2,0,0

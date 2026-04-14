@@ -1,4 +1,4 @@
-stage,endoderm,fin.mesenchyme,immune,mesenchyme,neural,periderm,pronephros,spinal.cord
+stage,endoderm,fin_mesenchyme,immune,mesenchyme,neural,periderm,pronephros,spinal_cord
  14-21,3.19,0,0,0,0,0,0,0
  24-34,0,0,0,0,2.38,0,1.59,0
  36-46,0,0,0,0,2.52,0,0,0.83

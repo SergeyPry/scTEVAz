@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,exocrine.pancreas,eye,fin.epithelia,fin.mesenchyme,glial,gut,immune,liver,mesenchyme,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,pericytes,pgc,pronephros,slow.muscle,somites,spinal.cord,vascular.smooth.muscle,vasculature
+stage,endocrine_pancreas,epidermis,exocrine_pancreas,eye,fin_epithelia,fin_mesenchyme,glial,gut,immune,liver,mesenchyme,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,pericytes,pgc,pronephros,slow_muscle,somites,spinal_cord,vascular_smooth_muscle,vasculature
   5-6,0,0,0,0,0,0,0,0,0,0,0,0,7.38,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,25.66,0,0,0,7.13,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,28.74,0,0,0,0,0,0,0,0,0,0,0,0

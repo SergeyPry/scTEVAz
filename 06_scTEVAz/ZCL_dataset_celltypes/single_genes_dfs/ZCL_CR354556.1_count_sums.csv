@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Endothelial.cell,Hepatocyte,Neural.cell
-72hpf,2.13958228293216,0,0,13.907284839059
-21Day,0,0,0,10.7082647056265
-22Month,0,0.546654651197433,0.546654651197433,0
+stage,Cardiomyocyte,Endothelial_cell,Hepatocyte,Neural_cell
+72hpf,2.14,0,0,13.91
+21Day,0,0,0,10.71
+22Month,0,0.55,0.55,0

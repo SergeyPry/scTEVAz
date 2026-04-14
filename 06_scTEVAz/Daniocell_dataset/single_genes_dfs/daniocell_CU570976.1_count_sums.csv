@@ -1,4 +1,4 @@
-stage,eye,glial,mesenchyme,mural.cell,muscle,neural,olfactory,otic,spinal.cord,vascular.smooth.muscle,vasculature
+stage,eye,glial,mesenchyme,mural_cell,muscle,neural,olfactory,otic,spinal_cord,vascular_smooth_muscle,vasculature
  14-21,0,0,0,0,0,0,0,0,1.1,0,0
  24-34,0,0,0,0,0,5.69,0,0,0.62,0,0
  36-46,0,0,0,0,0,4.04,0.56,0,1.87,0,0

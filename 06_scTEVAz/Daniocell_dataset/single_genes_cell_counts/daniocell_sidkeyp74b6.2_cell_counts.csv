@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endocrine.pancreas,exocrine.pancreas,eye,glial,ionocyte,mesenchyme,muscle,neural,notochord,paraxial.mesoderm,periderm,presomitic.mesoderm,pronephros,somites,spinal.cord
+stage,axial,blastomeres,endocrine_pancreas,exocrine_pancreas,eye,glial,ionocyte,mesenchyme,muscle,neural,notochord,paraxial_mesoderm,periderm,presomitic_mesoderm,pronephros,somites,spinal_cord
   3-4,13.18,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,0,12.26,0,0,0,0,0,0,0,0,0,0,6.13,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,15.77,2.63,7.89,0,0,0,0,0

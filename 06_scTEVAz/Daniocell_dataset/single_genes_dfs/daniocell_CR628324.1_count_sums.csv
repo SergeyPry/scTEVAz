@@ -1,4 +1,4 @@
-stage,blastomeres,exocrine.pancreas,eye,glial,gut,hatching.gland,mesenchyme,neural,paraxial.mesoderm,spinal.cord,vasculature
+stage,blastomeres,exocrine_pancreas,eye,glial,gut,hatching_gland,mesenchyme,neural,paraxial_mesoderm,spinal_cord,vasculature
   3-4,35.21,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,3.33,0,10.48,3.19,0,0
  14-21,0,0,0,0,0,0,0.99,0,0,0,0

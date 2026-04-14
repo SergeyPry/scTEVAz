@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,glial,mesenchyme,muscle,neural,olfactory,paraxial.mesoderm,pronephros,spinal.cord,vasculature
+stage,epidermis,erythrocytes,eye,glial,mesenchyme,muscle,neural,olfactory,paraxial_mesoderm,pronephros,spinal_cord,vasculature
  10-12,0,0,0,0,0,0,0,0,7.32,0,0,0
  14-21,0,0,0,0,0,1.02,5,0,0,0,0,0
  24-34,0,0,0.81,1.48,1.79,0,6.49,1.88,0,2.17,1.66,8

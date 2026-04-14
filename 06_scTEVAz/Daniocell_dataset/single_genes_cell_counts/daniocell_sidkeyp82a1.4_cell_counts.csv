@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,gut,immune,liver,neural,otic,periderm,pronephros,spinal.cord
+stage,endoderm,epidermis,eye,gut,immune,liver,neural,otic,periderm,pronephros,spinal_cord
  10-12,3.15,0,0,0,0,0,0,0,0,3.15,0
  24-34,0,0,0,0,0,0,0.82,0,2.46,0,1.64
  36-46,0,0,0,0,0,0,0.81,0,0.81,0,0

@@ -1,4 +1,4 @@
-stage,eye,glial,iridophores,liver,mesenchyme,muscle,neural,otic,paraxial.mesoderm,pericytes,spinal.cord,vasculature,visceral.smooth.muscle
+stage,eye,glial,iridophores,liver,mesenchyme,muscle,neural,otic,paraxial_mesoderm,pericytes,spinal_cord,vasculature,visceral_smooth_muscle
  10-12,3.15,0,0,0,0,0,0,0,3.15,0,0,0,0
  14-21,0,0,0,0,0,0,1,0,0,0,1,0,0
  24-34,0.82,0,0,0,0,1.64,6.57,0,0,0,0.82,0.82,0

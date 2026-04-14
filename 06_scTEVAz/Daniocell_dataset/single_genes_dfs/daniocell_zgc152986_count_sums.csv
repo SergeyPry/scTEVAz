@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,gut,neural,notochord,paraxial.mesoderm,periderm,presomitic.mesoderm,taste,vasculature
+stage,axial,blastomeres,endoderm,epidermis,gut,neural,notochord,paraxial_mesoderm,periderm,presomitic_mesoderm,taste,vasculature
   3-4,227.33,5689.11,0,0,0,0,0,0,309.86,0,0,0
   5-6,103.76,1393.77,10.26,0,0,58.36,7.03,9.89,23.3,0,0,0
   7-9,20.48,0,0,0,0,101.56,11.33,30.32,0,0,0,0

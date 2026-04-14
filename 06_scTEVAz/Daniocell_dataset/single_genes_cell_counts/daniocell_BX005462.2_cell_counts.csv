@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,fin.epithelia,fin.mesenchyme,iridophores,liver,mesenchyme,neural,otic,pronephros
+stage,endocrine_pancreas,epidermis,eye,fin_epithelia,fin_mesenchyme,iridophores,liver,mesenchyme,neural,otic,pronephros
  10-12,0,0,0,0,0,0,0,0,6.29,0,0
  14-21,1,1,0,0,0,0,0,0,1,0,0
  24-34,0,0.82,0,0,0,0,0,0,0.82,0,3.28

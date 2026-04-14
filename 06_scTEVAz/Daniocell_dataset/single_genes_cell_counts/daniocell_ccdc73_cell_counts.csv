@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,erythrocytes,eye,fin.epithelia,gut,heart,lateral.line,mesenchyme,mural.cell,muscle,neural,notochord,olfactory,periderm,pgc,spinal.cord,vasculature
+stage,axial,blastomeres,epidermis,erythrocytes,eye,fin_epithelia,gut,heart,lateral_line,mesenchyme,mural_cell,muscle,neural,notochord,olfactory,periderm,pgc,spinal_cord,vasculature
   3-4,0,79.07,0,0,0,0,0,0,0,0,0,0,0,0,0,13.18,0,0,0
   5-6,6.13,104.2,0,0,0,0,0,0,0,0,0,0,6.13,0,0,0,0,0,0
   7-9,2.63,0,0,0,0,0,0,0,0,0,0,0,5.26,2.63,0,0,0,0,0

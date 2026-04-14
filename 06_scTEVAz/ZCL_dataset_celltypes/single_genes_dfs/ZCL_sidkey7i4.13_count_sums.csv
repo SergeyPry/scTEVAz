@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Erythroid.progenitor.cell,Ionocyte,Mesenchymal.cell,Muscle.cell,Neural.cell,Neural.progenitor.cell,Oligodendrocyte,Osteoblast,Radial.glia,Retinal.cell,T.cell
-24hpf,0,0,0,4.08640457285017,0,0,4.08640457285017,0,0,0,0,0
-72hpf,1.06979114146608,1.06979114146608,1.06979114146608,0,0,13.907284839059,5.34895570733039,0,1.06979114146608,1.06979114146608,0,0
-21Day,1.33853308820331,0,0,1.33853308820331,1.33853308820331,9.36973161742315,8.03119852921984,1.33853308820331,1.33853308820331,1.33853308820331,1.33853308820331,1.33853308820331
+stage,Cardiomyocyte,Erythroid_progenitor_cell,Ionocyte,Mesenchymal_cell,Muscle_cell,Neural_cell,Neural_progenitor_cell,Oligodendrocyte,Osteoblast,Radial_glia,Retinal_cell,T_cell
+24hpf,0,0,0,4.09,0,0,4.09,0,0,0,0,0
+72hpf,1.07,1.07,1.07,0,0,13.91,5.35,0,1.07,1.07,0,0
+21Day,1.34,0,0,1.34,1.34,9.37,8.03,1.34,1.34,1.34,1.34,1.34

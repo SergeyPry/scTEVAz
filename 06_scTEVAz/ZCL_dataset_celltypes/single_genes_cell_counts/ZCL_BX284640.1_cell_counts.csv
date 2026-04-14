@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Neural.progenitor.cell,Radial.glia
-72hpf,0,0,0.563696112006446
-21Day,0,0.369986860264282,0
-3Month,0.104017006644673,0,0
+stage,Epithelial_cell,Neural_progenitor_cell,Radial_glia
+72hpf,0,0,0.56
+21Day,0,0.37,0
+3Month,0.1,0,0

@@ -1,4 +1,4 @@
-stage,eye,fin.mesenchyme,glial,gut,mesenchyme,muscle,neural,periderm,spinal.cord
+stage,eye,fin_mesenchyme,glial,gut,mesenchyme,muscle,neural,periderm,spinal_cord
  24-34,4.93,0,0,0,0,0.82,0.82,0,0
  36-46,14.5,0,0,0,0,0,4.03,0,0
  48-58,15.49,0,0,0,0.57,0,3.44,0.57,1.72

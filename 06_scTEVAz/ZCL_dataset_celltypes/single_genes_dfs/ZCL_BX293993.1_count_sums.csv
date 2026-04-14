@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Epithelial.cell,Macrophage,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Osteoblast
-24hpf,4.08640457285017,4.08640457285017,12.2592137185505,16.3456182914007,16.3456182914007,118.505732612655,8.17280914570035
-72hpf,0,0,0,0,1.06979114146608,0,0
-22Month,0,0,0.546654651197433,0.546654651197433,0,0,0
+stage,Cardiomyocyte,Epithelial_cell,Macrophage,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Osteoblast
+24hpf,4.09,4.09,12.26,16.35,16.35,118.51,8.17
+72hpf,0,0,0,0,1.07,0,0
+22Month,0,0,0.55,0.55,0,0,0

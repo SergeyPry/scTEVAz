@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,glial,heart,immune,iridophores,mesenchyme,mural.cell,neural,olfactory,otic,periderm,spinal.cord,vasculature
+stage,epidermis,eye,fin_epithelia,glial,heart,immune,iridophores,mesenchyme,mural_cell,neural,olfactory,otic,periderm,spinal_cord,vasculature
  14-21,0,0,0,0,0,0,0,0,0,0.81,0,0,0,0.82,0
  24-34,1.97,0,0,0,0,0,0,0,0,13.3,1.13,0,0,4.02,0
  36-46,0,0.68,0,0,0,0,0,0,0,88.54,0,0,0,17.2,0

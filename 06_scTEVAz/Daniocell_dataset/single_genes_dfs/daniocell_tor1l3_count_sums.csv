@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.mesenchyme,glial,gut,hatching.gland,immune,liver,mesenchyme,mural.cell,muscle,neural,paraxial.mesoderm,periderm,somites,spinal.cord,vasculature,visceral.smooth.muscle
+stage,blastomeres,epidermis,eye,fin_mesenchyme,glial,gut,hatching_gland,immune,liver,mesenchyme,mural_cell,muscle,neural,paraxial_mesoderm,periderm,somites,spinal_cord,vasculature,visceral_smooth_muscle
   3-4,101.19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,46.8,0,0,0,0,0,0,0,0,0,0,0,7.43,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,5.61,0,0,0,0,0,4.54,14.11,0,0,0,0,0

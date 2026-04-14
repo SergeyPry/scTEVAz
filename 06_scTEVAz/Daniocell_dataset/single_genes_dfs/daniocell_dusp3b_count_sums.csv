@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fast.muscle,fin.epithelia,hatching.gland,immune,lateral.line,liver,mesenchyme,neural,pericytes,periderm,slow.muscle,spinal.cord
+stage,epidermis,erythrocytes,eye,fast_muscle,fin_epithelia,hatching_gland,immune,lateral_line,liver,mesenchyme,neural,pericytes,periderm,slow_muscle,spinal_cord
  36-46,0,0,0,0,0,0,0,0,0,0,0,0,0,5.66,0
  48-58,0,0,0,0,0,0.48,0,0,0,0,1.47,0,0,0,0.92
  60-70,0,0.6,5.64,3.39,0,0,0.98,0,0,0.75,0,0,0,1.39,0

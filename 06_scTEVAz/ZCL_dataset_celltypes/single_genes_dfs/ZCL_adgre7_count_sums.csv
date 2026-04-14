@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Immune.cell,Keratinocyte,Primordial.germ.cell,Smooth.muscle.cell,Spermatocyte
-21Day,1.33853308820331,0,0,0,0,0
-3Month,0.639898599108391,0.319949299554195,0.639898599108391,15.3575663786014,0.639898599108391,2.55959439643356
-22Month,0,0,0,3.82658255838203,0,0
+stage,Epithelial_cell,Immune_cell,Keratinocyte,Primordial_germ_cell,Smooth_muscle_cell,Spermatocyte
+21Day,1.34,0,0,0,0,0
+3Month,0.64,0.32,0.64,15.36,0.64,2.56
+22Month,0,0,0,3.83,0,0

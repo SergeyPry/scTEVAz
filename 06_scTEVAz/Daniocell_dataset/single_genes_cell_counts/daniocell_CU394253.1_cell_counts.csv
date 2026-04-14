@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,gut,hatching.gland,heart,lateral.line,mesenchyme,mucous,muscle,neural,notochord,olfactory,periderm,slow.muscle,spinal.cord,taste,vasculature
+stage,epidermis,erythrocytes,eye,gut,hatching_gland,heart,lateral_line,mesenchyme,mucous,muscle,neural,notochord,olfactory,periderm,slow_muscle,spinal_cord,taste,vasculature
  14-21,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
  24-34,0,0,0.82,0,0,0.82,0,0,0,0,0.82,0,0,0,0.82,0,0,0
  36-46,0,0,0.81,0,0,0,0,0,0,0.81,3.22,0,0,0,0,0,0,0

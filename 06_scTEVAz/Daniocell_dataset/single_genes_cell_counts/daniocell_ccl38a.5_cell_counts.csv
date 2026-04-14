@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,fin.mesenchyme,glial,immune,mesenchyme,neural,olfactory,otic,vasculature,xanthophores
+stage,blastomeres,epidermis,erythrocytes,eye,fin_mesenchyme,glial,immune,mesenchyme,neural,olfactory,otic,vasculature,xanthophores
   7-9,2.63,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,1,0,0,0,0
  36-46,0,0,0,0,0,0,0.81,0,0,0,0,0,0

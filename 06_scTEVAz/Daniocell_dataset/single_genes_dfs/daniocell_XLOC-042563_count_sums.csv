@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,exocrine.pancreas,eye,fin.epithelia,glial,hatching.gland,mesenchyme,neural,paraxial.mesoderm,periderm,presomitic.mesoderm,spinal.cord,vasculature
+stage,axial,blastomeres,epidermis,exocrine_pancreas,eye,fin_epithelia,glial,hatching_gland,mesenchyme,neural,paraxial_mesoderm,periderm,presomitic_mesoderm,spinal_cord,vasculature
   3-4,0,15.34,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,27.16,50.14,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,11.63,0,0,3.27,0,72.91,27.22,0,0,0,0

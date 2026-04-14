@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fast.muscle,glial,lateral.line,mesenchyme,muscle,neural,paraxial.mesoderm,periderm,spinal.cord
+stage,blastomeres,epidermis,eye,fast_muscle,glial,lateral_line,mesenchyme,muscle,neural,paraxial_mesoderm,periderm,spinal_cord
   3-4,263.56,0,0,0,0,0,0,0,0,0,0,0
   5-6,91.94,0,0,0,0,0,0,0,6.13,0,6.13,0
   7-9,0,0,0,0,0,0,0,0,13.14,0,0,0

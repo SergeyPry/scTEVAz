@@ -1,4 +1,4 @@
-stage,Endothelial.cell,Enterocyte,Epithelial.cell,Erythrocyte..Liver.,Goblet.cell,Granulocyte,Granulosa.cell,Hepatocyte,Immune.cell,Immune.progenitor.cell,Intestinal.bulb.cell,Keratinocyte,Macrophage,Mesenchymal.cell,Muscle.cell,Nephron.cell,Neurosecretory.cell,Oligodendrocyte,Osteoblast,Retinal.cell,Retinal.cone.cell,Smooth.muscle.cell,Spermatocyte,T.cell
-21Day,0,0,1.10996058079285,0,0,0,0,0,0,0,0,0.369986860264282,0,0,0,0,0,0,0,0.369986860264282,0.369986860264282,0,0,0
-3Month,0.104017006644673,0.208034013289345,2.08034013289345,0,2.49640815947214,0.104017006644673,0,0.832136053157381,0.208034013289345,0.104017006644673,7.38520747177176,0.312051019934018,0.312051019934018,0.208034013289345,0.104017006644673,0.208034013289345,0,0.104017006644673,0.104017006644673,0,0,0.208034013289345,0.208034013289345,0.312051019934018
-22Month,0.273298863976266,0.683247159940666,2.8696380717508,0.136649431988133,0.956546023916932,0,1.36649431988133,4.50943125560839,0.409948295964399,0,9.56546023916932,0.273298863976266,0.273298863976266,0.136649431988133,0.409948295964399,0,0.136649431988133,0,0,0.136649431988133,0,0,0,0.136649431988133
+stage,Endothelial_cell,Enterocyte,Epithelial_cell,Erythrocyte__Liver_,Goblet_cell,Granulocyte,Granulosa_cell,Hepatocyte,Immune_cell,Immune_progenitor_cell,Intestinal_bulb_cell,Keratinocyte,Macrophage,Mesenchymal_cell,Muscle_cell,Nephron_cell,Neurosecretory_cell,Oligodendrocyte,Osteoblast,Retinal_cell,Retinal_cone_cell,Smooth_muscle_cell,Spermatocyte,T_cell
+21Day,0,0,1.11,0,0,0,0,0,0,0,0,0.37,0,0,0,0,0,0,0,0.37,0.37,0,0,0
+3Month,0.1,0.21,2.08,0,2.5,0.1,0,0.83,0.21,0.1,7.39,0.31,0.31,0.21,0.1,0.21,0,0.1,0.1,0,0,0.21,0.21,0.31
+22Month,0.27,0.68,2.87,0.14,0.96,0,1.37,4.51,0.41,0,9.57,0.27,0.27,0.14,0.41,0,0.14,0,0,0.14,0,0,0,0.14

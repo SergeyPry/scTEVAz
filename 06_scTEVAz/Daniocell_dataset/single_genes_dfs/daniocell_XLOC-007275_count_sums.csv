@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,eye,glial,lateral.line,mesenchyme,neural,paraxial.mesoderm,periderm,spinal.cord
+stage,axial,blastomeres,endoderm,eye,glial,lateral_line,mesenchyme,neural,paraxial_mesoderm,periderm,spinal_cord
   3-4,11.99,20.04,0,0,0,0,0,0,0,0,0
   5-6,0,64.14,0,0,0,0,0,0,0,0,0
   7-9,3.82,0,0,9.96,0,0,0,11.17,0,0,0

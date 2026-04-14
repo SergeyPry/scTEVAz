@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Intestinal.bulb.cell,Keratinocyte,Macrophage,Neural.cell,Neural.progenitor.cell,Primordial.germ.cell,T.cell
+stage,Epithelial_cell,Intestinal_bulb_cell,Keratinocyte,Macrophage,Neural_cell,Neural_progenitor_cell,Primordial_germ_cell,T_cell
 24hpf,0,0,0,0,0,1,0,0
-21Day,0,0,0,0,0.369986860264282,0.369986860264282,0,0
-3Month,0.416068026578691,0.104017006644673,0.208034013289345,0.104017006644673,0,0,0.312051019934018,0.104017006644673
+21Day,0,0,0,0,0.37,0.37,0,0
+3Month,0.42,0.1,0.21,0.1,0,0,0.31,0.1

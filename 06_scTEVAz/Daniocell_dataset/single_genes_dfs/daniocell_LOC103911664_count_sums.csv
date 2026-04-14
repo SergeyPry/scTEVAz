@@ -1,4 +1,4 @@
-stage,epidermis,exocrine.pancreas,eye,fin.mesenchyme,glial,hatching.gland,mesenchyme,neural,paraxial.mesoderm,periderm,spinal.cord,vasculature
+stage,epidermis,exocrine_pancreas,eye,fin_mesenchyme,glial,hatching_gland,mesenchyme,neural,paraxial_mesoderm,periderm,spinal_cord,vasculature
   7-9,0,0,0,0,0,0,0,5.22,0,0,0,0
  10-12,0,0,0,0,0,3.19,0,22.95,10.73,0,0,0
  14-21,0,0,0,0,1.23,0,0,3.1,0,0,4.41,0

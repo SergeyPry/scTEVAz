@@ -1,4 +1,4 @@
-stage,blastomeres,erythrocytes,exocrine.pancreas,eye,hatching.gland,immune,mesenchyme,neural,olfactory,periderm
+stage,blastomeres,erythrocytes,exocrine_pancreas,eye,hatching_gland,immune,mesenchyme,neural,olfactory,periderm
   5-6,9.32,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,8.65,0,0,0,0,0
  14-21,0,11.6,0,0,0,60.3,0,0,0,0

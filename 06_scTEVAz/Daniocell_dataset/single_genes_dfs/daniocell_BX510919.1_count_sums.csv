@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,eye,ionocyte,neural,otic,paraxial.mesoderm,periderm,pgc,pronephros,spinal.cord
+stage,axial,blastomeres,endoderm,eye,ionocyte,neural,otic,paraxial_mesoderm,periderm,pgc,pronephros,spinal_cord
   3-4,38.21,467.61,0,0,0,0,0,0,44.36,0,0,0
   5-6,38.16,429.35,0,0,0,18.15,0,0,7.86,0,0,0
   7-9,0,0,3.34,12.47,0,22.03,0,7.79,0,12.47,0,0

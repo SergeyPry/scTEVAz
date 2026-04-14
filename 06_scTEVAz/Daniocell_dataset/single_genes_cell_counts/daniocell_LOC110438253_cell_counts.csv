@@ -1,4 +1,4 @@
-stage,erythrocytes,eye,glial,immune,mesenchyme,mucous,muscle,neural,paraxial.mesoderm,periderm,somites,spinal.cord,taste,vasculature
+stage,erythrocytes,eye,glial,immune,mesenchyme,mucous,muscle,neural,paraxial_mesoderm,periderm,somites,spinal_cord,taste,vasculature
   7-9,0,0,0,0,0,0,0,0,2.63,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,3.15,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,1,2,0,1

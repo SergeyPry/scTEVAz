@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,endoderm,epidermis,eye,gut,mesenchyme,neural,periderm,pronephros,spinal.cord
+stage,endocrine_pancreas,endoderm,epidermis,eye,gut,mesenchyme,neural,periderm,pronephros,spinal_cord
  14-21,0,0,0,0,0,0,0,0,0,1.08
  24-34,0,1.44,0.65,0,0,0,0.82,0,0,0
  36-46,0,0,0,0,0,0,1.08,0,0,0

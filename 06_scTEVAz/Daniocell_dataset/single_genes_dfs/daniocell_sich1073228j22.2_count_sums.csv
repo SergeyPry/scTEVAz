@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,exocrine.pancreas,eye,immune,lateral.line,liver,mesenchyme,neural,otic,paraxial.mesoderm,spinal.cord,taste,vasculature,visceral.smooth.muscle
+stage,blastomeres,epidermis,exocrine_pancreas,eye,immune,lateral_line,liver,mesenchyme,neural,otic,paraxial_mesoderm,spinal_cord,taste,vasculature,visceral_smooth_muscle
   3-4,21.31,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,47.9,0,0,0,0,0,0,0,0,0,9.41,0,0,0,0
  36-46,0,0,0,0,0,0,0,0,1.58,0,0,2.18,0,0,0

@@ -1,4 +1,4 @@
-stage,eye,glial,mesenchyme,neural,olfactory,otic,spinal.cord
+stage,eye,glial,mesenchyme,neural,olfactory,otic,spinal_cord
  14-21,0,0.93,0,1.1,0,0,3.21
  24-34,0,0,0,0,0,0,1.88
  36-46,0,0,0,0.93,1.09,0,0

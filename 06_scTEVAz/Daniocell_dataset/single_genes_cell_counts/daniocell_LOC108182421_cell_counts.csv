@@ -1,4 +1,4 @@
-stage,eye,fin.epithelia,glial,iridophores,mesenchyme,neural,olfactory,otic,spinal.cord,vasculature,xanthophores
+stage,eye,fin_epithelia,glial,iridophores,mesenchyme,neural,olfactory,otic,spinal_cord,vasculature,xanthophores
  14-21,0,0,0,0,0,0,0,0,1,0,0
  24-34,0,0,0,0,0,4.93,0,0,0.82,0,0
  36-46,0,0,0,0,0,4.03,0,0,0.81,0,0

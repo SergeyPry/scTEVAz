@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,erythrocytes,eye,fast.muscle,glial,gut,hatching.gland,immune,ionocyte,iridophores,mesenchyme,mural.cell,muscle,neural,notochord,olfactory,pericytes,periderm,slow.muscle,somites,spinal.cord,vasculature,visceral.smooth.muscle,xanthophores
+stage,blastomeres,endoderm,epidermis,erythrocytes,eye,fast_muscle,glial,gut,hatching_gland,immune,ionocyte,iridophores,mesenchyme,mural_cell,muscle,neural,notochord,olfactory,pericytes,periderm,slow_muscle,somites,spinal_cord,vasculature,visceral_smooth_muscle,xanthophores
   3-4,99.01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,3.54,0,0,0,0,0,0,3.86,0,0,0,0,0,0,10.94,7.34,0,0,0,0,0,0,0,0,0
  10-12,0,10.22,0,0,0,0,0,0,0,0,0,0,0,0,0,10.9,0,0,0,0,0,0,0,0,0,0

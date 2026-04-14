@@ -1,4 +1,4 @@
-stage,eye,fast.muscle,glial,immune,mesenchyme,mural.cell,muscle,neural,notochord,periderm,spinal.cord
+stage,eye,fast_muscle,glial,immune,mesenchyme,mural_cell,muscle,neural,notochord,periderm,spinal_cord
  14-21,0,0,0,0,0,0,2,2,0,0,4
  24-34,0,0,0,0,0,0,0,0.82,0,0.82,0
  36-46,0,0.81,0,0,0,0,0,3.22,0,0.81,0.81

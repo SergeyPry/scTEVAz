@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Endothelial.cell,Epithelial.cell,Keratinocyte,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Osteoblast,Retinal.cone.cell
+stage,Cardiomyocyte,Endothelial_cell,Epithelial_cell,Keratinocyte,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Osteoblast,Retinal_cone_cell
 24hpf,1,0,1,0,0,0,3,0,0
-72hpf,0,0.281848056003223,0.281848056003223,0.281848056003223,0.84554416800967,0.84554416800967,0.563696112006446,0.281848056003223,0
-21Day,0,0,0,0,0,0,0,0,0.369986860264282
+72hpf,0,0.28,0.28,0.28,0.85,0.85,0.56,0.28,0
+21Day,0,0,0,0,0,0,0,0,0.37

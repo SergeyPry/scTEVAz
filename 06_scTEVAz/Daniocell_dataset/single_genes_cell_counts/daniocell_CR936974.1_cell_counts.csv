@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,erythrocytes,eye,glial,iridophores,mesenchyme,mucous,mural.cell,neural,pericytes,pronephros,spinal.cord,taste,vasculature
+stage,endocrine_pancreas,erythrocytes,eye,glial,iridophores,mesenchyme,mucous,mural_cell,neural,pericytes,pronephros,spinal_cord,taste,vasculature
  24-34,0,0.82,0,0,0,0,0,0,1.64,0,0,0,0,0.82
  36-46,0,0,0.81,0,0,0,0,0,0.81,0,0,0,0,0
  48-58,0,0,3.44,0.57,0,0.57,0,0,1.72,0.57,0,1.72,0,0

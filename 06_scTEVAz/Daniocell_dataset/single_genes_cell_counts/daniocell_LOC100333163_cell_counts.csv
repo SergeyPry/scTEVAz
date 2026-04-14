@@ -1,4 +1,4 @@
-stage,epidermis,exocrine.pancreas,eye,glial,ionocyte,liver,mesenchyme,neural,otic,pronephros,visceral.smooth.muscle
+stage,epidermis,exocrine_pancreas,eye,glial,ionocyte,liver,mesenchyme,neural,otic,pronephros,visceral_smooth_muscle
  14-21,3,0,0,0,0,0,0,0,0,0,0
  24-34,2.46,0,0,0,0,0.82,0,0,0,0,0
  36-46,2.42,0,0,0,0,0,0,0.81,0,0,0

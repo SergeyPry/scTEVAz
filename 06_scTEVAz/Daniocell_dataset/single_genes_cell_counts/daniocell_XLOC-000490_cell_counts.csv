@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.epithelia,fin.mesenchyme,glial,gut,ionocyte,melanocytes,mesenchyme,mucous,muscle,neural,olfactory,otic,periderm,pgc,spinal.cord,taste
+stage,epidermis,erythrocytes,eye,fin_epithelia,fin_mesenchyme,glial,gut,ionocyte,melanocytes,mesenchyme,mucous,muscle,neural,olfactory,otic,periderm,pgc,spinal_cord,taste
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,2.63,0,0,0,2.63,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,2,0
  24-34,0,0,0.82,0,0,0,0,0,0,0.82,0,0,15.6,0,0,0.82,0,4.93,0

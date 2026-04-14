@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,fin.epithelia,glial,heart,lateral.line,liver,mesenchyme,mucous,muscle,neural,notochord,otic,paraxial.mesoderm,periderm,pronephros,somites,spinal.cord
+stage,blastomeres,endoderm,epidermis,eye,fin_epithelia,glial,heart,lateral_line,liver,mesenchyme,mucous,muscle,neural,notochord,otic,paraxial_mesoderm,periderm,pronephros,somites,spinal_cord
   3-4,20.61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,5.04,0,0,0,0,0,0,0,0,0,0,12.77,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,61.94,15.06,0,4.16,0,0,0,0

@@ -1,4 +1,4 @@
-stage,epidermis,exocrine.pancreas,eye,fin.epithelia,fin.mesenchyme,glial,gut,immune,ionocyte,lateral.line,melanocytes,mesenchyme,mucous,mural.cell,muscle,neural,notochord,olfactory,otic,pericytes,periderm,presomitic.mesoderm,pronephros,somites,spinal.cord,taste,vasculature,xanthophores
+stage,epidermis,exocrine_pancreas,eye,fin_epithelia,fin_mesenchyme,glial,gut,immune,ionocyte,lateral_line,melanocytes,mesenchyme,mucous,mural_cell,muscle,neural,notochord,olfactory,otic,pericytes,periderm,presomitic_mesoderm,pronephros,somites,spinal_cord,taste,vasculature,xanthophores
  14-21,1,0,0,0,0,0,0,0,0,0,0,2,0,0,1,13,0,0,0,0,1,1,0,1,2,0,1,0
  24-34,0,0,4.1,0,0,0.82,0,0,0,0,0,2.46,0,0,2.46,35.3,0.82,0,0.82,0,0,0,0.82,0.82,8.21,0,0,0
  36-46,0,0,2.42,0,0,2.42,0,0,0,0,0,3.22,0,0.81,0,18.53,0,0,0,0,1.61,0,0,0,5.64,0,0,0

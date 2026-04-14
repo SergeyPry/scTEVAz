@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.mesenchyme,glial,gut,immune,mesenchyme,muscle,neural,pronephros
+stage,epidermis,eye,fin_mesenchyme,glial,gut,immune,mesenchyme,muscle,neural,pronephros
  24-34,0,0,0,0.82,0,0,0,0,0,1.64
  72-82,0,0.98,0,0,0,0.98,0.98,0,0,0
  84-94,0,0,0,0,0,2.12,0,0,0,0

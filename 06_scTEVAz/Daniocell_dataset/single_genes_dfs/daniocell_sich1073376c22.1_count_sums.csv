@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,endoderm,epidermis,eye,fin.mesenchyme,glial,immune,lateral.line,mesenchyme,mucous,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,periderm,presomitic.mesoderm,pronephros,slow.muscle,spinal.cord,vasculature,xanthophores
+stage,blastomeres,endocrine_pancreas,endoderm,epidermis,eye,fin_mesenchyme,glial,immune,lateral_line,mesenchyme,mucous,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,periderm,presomitic_mesoderm,pronephros,slow_muscle,spinal_cord,vasculature,xanthophores
   5-6,8.72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,3.61,0,0,0,0,0,0,0,9.14,0,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,9.81,0,10.23,0,0,0,0,0,0,0,0,0,0,0,6.84,0,0,0,0,0,0,0

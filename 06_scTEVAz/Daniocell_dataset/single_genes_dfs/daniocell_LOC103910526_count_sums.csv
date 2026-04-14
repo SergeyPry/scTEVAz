@@ -1,4 +1,4 @@
-stage,blastomeres,eye,fin.mesenchyme,glial,immune,ionocyte,lateral.line,mesenchyme,neural,paraxial.mesoderm,periderm,spinal.cord
+stage,blastomeres,eye,fin_mesenchyme,glial,immune,ionocyte,lateral_line,mesenchyme,neural,paraxial_mesoderm,periderm,spinal_cord
   3-4,12.03,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,12.62,0,0,0
  10-12,0,4.26,0,0,0,0,0,0,12.3,6.14,0,0

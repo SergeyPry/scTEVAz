@@ -1,3 +1,3 @@
-stage,Epithelial.cell,Goblet.cell,Granulocyte,Hepatocyte,Immune.cell,Immune.progenitor.cell,Ionocyte,Macrophage,Primordial.germ.cell,T.cell
-21Day,0,0,0,0,0,0.369986860264282,0,0,0,0
-3Month,0.208034013289345,0.104017006644673,0.208034013289345,0.104017006644673,2.2883741461828,0,0.104017006644673,1.04017006644673,0.104017006644673,0.312051019934018
+stage,Epithelial_cell,Goblet_cell,Granulocyte,Hepatocyte,Immune_cell,Immune_progenitor_cell,Ionocyte,Macrophage,Primordial_germ_cell,T_cell
+21Day,0,0,0,0,0,0.37,0,0,0,0
+3Month,0.21,0.1,0.21,0.1,2.29,0,0.1,1.04,0.1,0.31

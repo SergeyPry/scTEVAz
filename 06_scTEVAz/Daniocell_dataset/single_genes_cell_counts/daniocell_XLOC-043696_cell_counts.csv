@@ -1,4 +1,4 @@
-stage,fin.mesenchyme,immune,mesenchyme,muscle,neural,pericytes,visceral.smooth.muscle
+stage,fin_mesenchyme,immune,mesenchyme,muscle,neural,pericytes,visceral_smooth_muscle
  60-70,0.98,0,0.98,0,0,0,0
  72-82,0,1.96,0,0,0.98,0,0.98
  84-94,0,1.06,1.06,0,0,0,0

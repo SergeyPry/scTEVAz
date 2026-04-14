@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Hepatocyte,Ionocyte,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Osteoblast,Radial.glia
-72hpf,4.27916456586431,0,1.06979114146608,1.06979114146608,84.5135001758202,4.27916456586431,1.06979114146608,2.13958228293216
-21Day,0,0,0,0,24.0935955876595,0,0,0
-22Month,0,0.546654651197433,0,0,0,0,0,0
+stage,Epithelial_cell,Hepatocyte,Ionocyte,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Osteoblast,Radial_glia
+72hpf,4.28,0,1.07,1.07,84.51,4.28,1.07,2.14
+21Day,0,0,0,0,24.09,0,0,0
+22Month,0,0.55,0,0,0,0,0,0

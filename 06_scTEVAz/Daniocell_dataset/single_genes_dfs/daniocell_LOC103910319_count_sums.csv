@@ -1,4 +1,4 @@
-stage,erythrocytes,eye,fin.epithelia,glial,ionocyte,mesenchyme,muscle,neural,olfactory,periderm,taste
+stage,erythrocytes,eye,fin_epithelia,glial,ionocyte,mesenchyme,muscle,neural,olfactory,periderm,taste
  14-21,0,0,0,0,0,0,0,1.15,0,0,0
  24-34,0,0,0,0,0,0,1.62,1.59,165.36,0.61,0
  36-46,0,0.69,0,0,0,0,0,0,27.43,16.54,0

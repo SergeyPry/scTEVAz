@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.epithelia,mesenchyme,mural.cell,neural,spinal.cord,vasculature
+stage,blastomeres,epidermis,eye,fin_epithelia,mesenchyme,mural_cell,neural,spinal_cord,vasculature
   5-6,6.89,0,0,0,0,0,0,0,0
   7-9,5.69,0,0,0,0,0,0,0,0
  14-21,0,1.94,0,0,0,0,0,0,0

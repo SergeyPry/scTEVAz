@@ -1,4 +1,4 @@
-stage,blastomeres,erythrocytes,eye,heart,immune,mesenchyme,mural.cell,muscle,neural
+stage,blastomeres,erythrocytes,eye,heart,immune,mesenchyme,mural_cell,muscle,neural
   5-6,16.12,0,0,0,0,0,0,0,0
   7-9,0,0,7.01,0,0,0,0,0,3.87
  10-12,0,0,7.2,0,0,0,0,0,0

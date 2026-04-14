@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.epithelia,fin.mesenchyme,glial,immune,mesenchyme,muscle,neural,otic,periderm,presomitic.mesoderm,somites,spinal.cord,vasculature
+stage,epidermis,erythrocytes,eye,fin_epithelia,fin_mesenchyme,glial,immune,mesenchyme,muscle,neural,otic,periderm,presomitic_mesoderm,somites,spinal_cord,vasculature
  14-21,2.08,0.83,0,0,0,0,0,0,0.85,13.88,0,0,0.9,0,8.47,0
  24-34,0,0,0.6,0,0,0,0,2.02,0,13.97,1.24,0,0,1.73,2.54,0
  36-46,0,0,0,0,0,0,0,0,0.73,18.05,0,0,0,0,1.26,0

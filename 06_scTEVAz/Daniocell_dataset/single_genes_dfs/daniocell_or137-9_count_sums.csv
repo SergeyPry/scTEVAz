@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,glial,hatching.gland,neural,olfactory,paraxial.mesoderm,pronephros,spinal.cord,taste
+stage,blastomeres,epidermis,erythrocytes,eye,glial,hatching_gland,neural,olfactory,paraxial_mesoderm,pronephros,spinal_cord,taste
   7-9,0,0,0,0,0,5.32,26.93,0,5.78,0,0,0
  10-12,9.13,0,4.67,0,0,11.19,88.23,0,44.73,6.52,0,0
  14-21,0,0.84,0,0,0,0,2.71,0,0,0,0.8,0

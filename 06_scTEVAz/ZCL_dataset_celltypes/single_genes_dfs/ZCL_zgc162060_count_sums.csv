@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Granulocyte,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Mesenchymal.cell,Muscle.cell,Neural.cell,Primordial.germ.cell,T.cell
-21Day,4.01559926460992,0,0,0,0,0,2.67706617640661,0,0,0
-3Month,7.0388845901923,0.959847898662586,0.959847898662586,2.55959439643356,0.639898599108391,0.319949299554195,9.59847898662586,0.319949299554195,0,0.319949299554195
-22Month,1.09330930239487,0.546654651197433,0,0,1.09330930239487,0,1.6399639535923,0,0.546654651197433,0.546654651197433
+stage,Epithelial_cell,Granulocyte,Hepatocyte,Immune_cell,Intestinal_bulb_cell,Mesenchymal_cell,Muscle_cell,Neural_cell,Primordial_germ_cell,T_cell
+21Day,4.02,0,0,0,0,0,2.68,0,0,0
+3Month,7.04,0.96,0.96,2.56,0.64,0.32,9.6,0.32,0,0.32
+22Month,1.09,0.55,0,0,1.09,0,1.64,0,0.55,0.55

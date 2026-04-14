@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,erythrocytes,fin.epithelia,gut,immune,mesenchyme,mucous,mural.cell,neural,paraxial.mesoderm,periderm,spinal.cord,vasculature
+stage,blastomeres,endoderm,epidermis,erythrocytes,fin_epithelia,gut,immune,mesenchyme,mucous,mural_cell,neural,paraxial_mesoderm,periderm,spinal_cord,vasculature
   5-6,15.05,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,3.65,5.47,0,0,0
  10-12,0,5.62,0,5.18,0,0,0,0,0,0,12.11,7.04,0,0,0

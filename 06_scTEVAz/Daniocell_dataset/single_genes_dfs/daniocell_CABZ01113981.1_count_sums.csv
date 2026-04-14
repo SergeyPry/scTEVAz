@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,fast.muscle,glial,gut,immune,mesenchyme,neural,spinal.cord,taste,vascular.smooth.muscle
+stage,endoderm,epidermis,eye,fast_muscle,glial,gut,immune,mesenchyme,neural,spinal_cord,taste,vascular_smooth_muscle
  14-21,0.9,1.12,0,0,0,1.66,0,0,2.65,0.86,0,0
  24-34,0,0,0,0,0,1.02,0,0,1.21,2.11,0,0
  36-46,0,0,0,0,0,0,0,0,12.05,1.01,0,0

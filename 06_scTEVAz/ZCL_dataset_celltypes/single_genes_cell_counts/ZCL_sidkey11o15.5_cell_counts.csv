@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal.cell,Mt.rich.cell,Muscle.cell,Nephron.cell,Neural.cell,Neurosecretory.cell,Primordial.germ.cell,Spermatocyte,T.cell
-21Day,1.84993430132141,0,0,0,1.47994744105713,0,0,0,0,0,0,0,0,0,0,0
-3Month,2.39239115282747,0.416068026578691,0.104017006644673,0.208034013289345,0.520085033223363,0.208034013289345,0.104017006644673,0.104017006644673,0,0.208034013289345,0.104017006644673,0.104017006644673,0,0,0.104017006644673,0.104017006644673
-22Month,1.2298448878932,0.683247159940666,0,0.273298863976266,0,0,0.136649431988133,0.136649431988133,0.136649431988133,0,0,0.136649431988133,0.136649431988133,0.273298863976266,0,0
+stage,Epithelial_cell,Hepatocyte,Immune_cell,Intestinal_bulb_cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal_cell,Mt_rich_cell,Muscle_cell,Nephron_cell,Neural_cell,Neurosecretory_cell,Primordial_germ_cell,Spermatocyte,T_cell
+21Day,1.85,0,0,0,1.48,0,0,0,0,0,0,0,0,0,0,0
+3Month,2.39,0.42,0.1,0.21,0.52,0.21,0.1,0.1,0,0.21,0.1,0.1,0,0,0.1,0.1
+22Month,1.23,0.68,0,0.27,0,0,0.14,0.14,0.14,0,0,0.14,0.14,0.27,0,0

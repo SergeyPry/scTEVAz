@@ -1,5 +1,5 @@
-stage,Enterocyte,Epithelial.cell,Erythrocyte..Liver.,Goblet.cell,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Macrophage,Mesenchymal.cell,Nephron.cell,Neural.progenitor.cell,Neurosecretory.cell,Oocyte,Pancreatic.cell,Primordial.germ.cell,Spermatocyte,T.cell
+stage,Enterocyte,Epithelial_cell,Erythrocyte__Liver_,Goblet_cell,Hepatocyte,Immune_cell,Intestinal_bulb_cell,Macrophage,Mesenchymal_cell,Nephron_cell,Neural_progenitor_cell,Neurosecretory_cell,Oocyte,Pancreatic_cell,Primordial_germ_cell,Spermatocyte,T_cell
 24hpf,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-21Day,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.369986860264282,0,0
-3Month,0.104017006644673,0.624102039868036,0.312051019934018,0.104017006644673,1.45623809302542,0.208034013289345,0.832136053157381,0.104017006644673,0.416068026578691,0.104017006644673,0,0.104017006644673,0,0.208034013289345,40.8786836113563,16.2266530365689,0.312051019934018
-22Month,0,0,0,0,0.136649431988133,0,0,0,0,0,0,0,1.91309204783386,0,4.78273011958466,0.136649431988133,0
+21Day,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.37,0,0
+3Month,0.1,0.62,0.31,0.1,1.46,0.21,0.83,0.1,0.42,0.1,0,0.1,0,0.21,40.88,16.23,0.31
+22Month,0,0,0,0,0.14,0,0,0,0,0,0,0,1.91,0,4.78,0.14,0

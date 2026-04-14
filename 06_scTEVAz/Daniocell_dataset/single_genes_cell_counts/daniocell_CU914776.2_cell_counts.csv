@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,glial,gut,immune,ionocyte,lateral.line,liver,mesenchyme,mucous,muscle,neural,notochord,periderm,spinal.cord,taste,xanthophores
+stage,epidermis,eye,fin_epithelia,glial,gut,immune,ionocyte,lateral_line,liver,mesenchyme,mucous,muscle,neural,notochord,periderm,spinal_cord,taste,xanthophores
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,2.63,0,0,0,0,0
  14-21,1,0,0,0,0,0,6,0,0,0,2,0,0,0,1,0,0,0
  24-34,0,0.82,0,0,0,0,38.58,0,0.82,0,7.39,0,0,0.82,0,0,0,0

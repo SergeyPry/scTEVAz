@@ -1,4 +1,4 @@
-stage,eye,fin.epithelia,glial,immune,ionocyte,mesenchyme,mural.cell,neural,periderm
+stage,eye,fin_epithelia,glial,immune,ionocyte,mesenchyme,mural_cell,neural,periderm
  24-34,0,0.7,0,0,0,0,0,1.5,0
  36-46,0,0,0,0,0,0,0,1.75,0
  48-58,0,0,0,0,0,0,0,0.55,0

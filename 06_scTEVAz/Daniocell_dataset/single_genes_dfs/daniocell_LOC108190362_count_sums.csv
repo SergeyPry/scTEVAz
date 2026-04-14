@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,erythrocytes,eye,fin.mesenchyme,immune,ionocyte,mesenchyme,mural.cell,muscle,neural,periderm,presomitic.mesoderm,slow.muscle,spinal.cord,vasculature
+stage,axial,blastomeres,epidermis,erythrocytes,eye,fin_mesenchyme,immune,ionocyte,mesenchyme,mural_cell,muscle,neural,periderm,presomitic_mesoderm,slow_muscle,spinal_cord,vasculature
   3-4,0,33.84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.15,14.26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0.95,0,0,0,0,0,2.07,5.08,0,0

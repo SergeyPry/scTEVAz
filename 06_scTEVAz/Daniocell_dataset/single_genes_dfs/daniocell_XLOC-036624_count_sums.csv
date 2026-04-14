@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fast.muscle,fin.epithelia,fin.mesenchyme,glial,mesenchyme,muscle,neural,notochord,otic,periderm,presomitic.mesoderm,slow.muscle,somites,spinal.cord,vasculature
+stage,epidermis,erythrocytes,eye,fast_muscle,fin_epithelia,fin_mesenchyme,glial,mesenchyme,muscle,neural,notochord,otic,periderm,presomitic_mesoderm,slow_muscle,somites,spinal_cord,vasculature
   7-9,0,0,0,0,0,0,0,0,0,14.47,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,19.97,0,0,0,0,0,0,0,0
  14-21,1.95,0,0.99,0,0,0,1.09,0,0,5.1,1.78,0,0,1.03,0,0.81,1.67,0

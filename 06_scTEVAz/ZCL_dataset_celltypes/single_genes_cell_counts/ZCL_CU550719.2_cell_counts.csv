@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Erythrocyte,Intestinal.bulb.cell,Keratinocyte,Mesenchymal.cell,Neural.cell,Osteoblast,Primordial.germ.cell
+stage,Epithelial_cell,Erythrocyte,Intestinal_bulb_cell,Keratinocyte,Mesenchymal_cell,Neural_cell,Osteoblast,Primordial_germ_cell
 24hpf,1,0,0,0,1,0,0,0
-72hpf,0,0,0,0.281848056003223,0,0,0.281848056003223,0
-21Day,1.10996058079285,0.369986860264282,0.369986860264282,0,0,0.369986860264282,0,0.369986860264282
+72hpf,0,0,0,0.28,0,0,0.28,0
+21Day,1.11,0.37,0.37,0,0,0.37,0,0.37

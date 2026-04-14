@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,gut,iridophores,melanocytes,mesenchyme,mural.cell,neural,notochord,periderm,spinal.cord
+stage,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,gut,iridophores,melanocytes,mesenchyme,mural_cell,neural,notochord,periderm,spinal_cord
  14-21,0,0,0,0,0,0,0,0,0,0,2,0,0,0
  24-34,0,0,0,0,0,0.82,0,0,0,0,4.93,0,0.82,0.82
  36-46,0,0,0,0.81,0.81,0,0.81,0,0.81,0,4.83,0,0,0

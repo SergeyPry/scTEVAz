@@ -1,4 +1,4 @@
-stage,Erythrocyte,Mesenchymal.cell,Neural.progenitor.cell,Radial.glia
+stage,Erythrocyte,Mesenchymal_cell,Neural_progenitor_cell,Radial_glia
 24hpf,0,0,1,0
-72hpf,0,0,0,0.281848056003223
-21Day,0.739973720528564,0.369986860264282,0,0
+72hpf,0,0,0,0.28
+21Day,0.74,0.37,0,0

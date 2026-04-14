@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,erythrocytes,eye,fin.mesenchyme,glial,gut,heart,lateral.line,mesenchyme,mucous,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,periderm,pgc,presomitic.mesoderm,pronephros,slow.muscle,somites,spinal.cord,taste,visceral.smooth.muscle
+stage,endocrine_pancreas,epidermis,erythrocytes,eye,fin_mesenchyme,glial,gut,heart,lateral_line,mesenchyme,mucous,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,periderm,pgc,presomitic_mesoderm,pronephros,slow_muscle,somites,spinal_cord,taste,visceral_smooth_muscle
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,5.26,0,0,0,0,0,2.63,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,3.15,3.15,0,0,3.15,0,0,0,0,0,0,0,0,0
  14-21,0,10,0,0,0,9,0,0,0,4,0,0,8,0,0,3,0,0,0,7,10,2,20,25,0,0

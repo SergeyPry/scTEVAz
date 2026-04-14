@@ -1,11 +1,22 @@
 library(shiny)
-library(bslib)
+library(readr)
 library(shinyjs)
 library(dplyr)
 library(tidyr)
 library(ggplot2)
 library(ggsci)
 library(paletteer)
+library(shinycssloaders)
+library(bsicons)
+library(stringr)
+
+# packages for interactive plots 
+library(ggiraph)
+
+################################## CONSTANT VARIABLES #####################
+
+FACET_SIZE = 2
+
 
 # define relevant data frames
 
@@ -58,8 +69,8 @@ ui <- fluidPage(
       
       div(
         style = "padding: 20px; text-align: center;",
-        h1("Welcome to the scTEVAz (single-cell Tissue Expression Value Aggregator for zebrafish)"),
-        h3("This tool contains data from three scRNA-seq datasets:"),
+        h1("Welcome to the scTEVAz"),
+        h3("Choose which dataset you want to use:"),
         
         br(),
         actionButton("goToTool1", h4("Daniocell"), class = "btn-lg btn-primary"),
@@ -71,9 +82,12 @@ ui <- fluidPage(
       div(
         style = "text-align: center;",
         img(src = "logo_video.gif", height = 500, width = 500)
-      )
-
-    ),
+      ),
+      
+      HTML("<footer style = 'position:absolute; bottom:0; width:100%; height:50px; color: white; padding: 10px; background-color: #152437; z-index: 1000;'>
+                      <p style='font-size: 18px'> scTEVAz was developed by Sergey Prykhozhij</strong> while working at the CHEO Research Institute in Ottawa, Canada. If you encounter a problem, please send an email to <strong>Sergey Prykhozhij</strong> at <strong><font style= 'color: lightblue'>s.prykhozhij@gmail.com</font></strong>.</p>
+          </footer>")
+       ),
     
     # Daniocell panel
     tabPanel(
@@ -84,13 +98,46 @@ ui <- fluidPage(
                 tags$style(HTML(".shiny-output-error-validation {color: green;font-size: 20px;}")),
                 tags$style(HTML(".checkbox { font-size: 18px; }")),
                 tags$style(HTML(".radio { font-size: 18px; }")),
-                tags$style(HTML(".radio-inline { font-size: 18px; }"))
+                tags$style(HTML(".radio-inline { font-size: 18px; }")),
+                tags$style(HTML("/* Professional Header Styling */
+                  .plot-header {
+                    background-color: #ffffff;
+                    border-bottom: 2px solid #0c4a6e;
+                    padding: 20px;
+                    margin-bottom: 25px;
+                    border-radius: 8px 8px 0 0;
+                    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+                  }
+                  .plot-title {
+                    color: #0c4a6e;
+                    font-weight: 700;
+                    margin: 0;
+                    letter-spacing: 0.5px;
+                  }
+                  /* Button refinement */
+                  .btn-download {
+                    margin-bottom: 15px;
+                    border-radius: 20px;
+                    font-weight: 500;
+                    transition: all 0.3s ease;
+                  }
+                  .btn-download:hover {
+                    transform: translateY(-2px);
+                    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+                  }
+                  /* Container for the plot */
+                  .plot-container {
+                    background: white;
+                    padding: 20px;
+                    border-radius: 12px;
+                    box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1);
+                  }"))
                 ),
       
       tags$style("body {
                           -moz-transform: scale(0.95 0.95); /* Moz-browsers */
-                          zoom: 0.95; /* Other non-webkit browsers */
-                          zoom: 95%; /* Webkit browsers */
+                          zoom: 0.8; /* Other non-webkit browsers */
+                          zoom: 80%; /* Webkit browsers */
                           }"),
       
       
@@ -102,16 +149,19 @@ ui <- fluidPage(
           class = "sidebar",
           h3(strong("Input Parameters"), style = "color: #1e3a8a;"),
           
-          tags$label(h4(strong("Please input gene symbol:"))),
-          # Input 1: Gene Selection
-          selectizeInput(
-            inputId = "daniocell_gene_id", 
-            label = NULL,
-            choices = NULL, 
-            selected = NULL,
-            multiple = FALSE,
-            width = '200px'
-          ),
+          
+          fluidRow(column(width = 5,           
+                          tags$label(h4(strong("Please input gene symbol:"))),
+                          # Input 1: Gene Selection
+                          selectizeInput(
+                            inputId = "daniocell_gene_id", 
+                            label = NULL,
+                            choices = NULL, 
+                            selected = NULL,
+                            multiple = FALSE,
+                            width = '200px'
+                          ),
+                    )),
       
           
           # Input 2: Cell Type Filtering
@@ -209,21 +259,37 @@ ui <- fluidPage(
             )
           ),
       
-      radioButtons("data_type", h4(strong("Choose the type of data:")),
-                       c("Sum of normalized read counts" = "count_sum",
-                         "Normalized cell counts" = "cell_count"),
-                   selected = "count_sum"),
-      
-      radioButtons("y_scale", h4(strong("Choose the y-axis scale:")),
-                   c("Linear" = "linear",
-                     "Square root" = "sqrt"),
-                   selected = "linear",
-                   inline = TRUE),
-      
+          fluidRow(
+            column(width = 6,       
+                   radioButtons("data_type", h4(strong("Choose the type of data:")),
+                                                 c("Sum of normalized read counts" = "count_sum",
+                                                   "Normalized cell counts" = "cell_count"),
+                                                 selected = "count_sum")),
             
+            column(width = 5,      
+                   radioButtons("y_scale", h4(strong("Choose the y-axis scale:")),
+                                                c("Linear" = "linear",
+                                                  "Square root" = "sqrt"),
+                                                selected = "linear",
+                                                inline = TRUE))
+            
+          ),
           
-      # Action Button
-      actionButton("Daniocell_update_plot", "Generate Plot", class = "bg-blue-600 text-white hover:bg-blue-700")
+          fluidRow(
+            
+            column(width = 6,      
+                   radioButtons("term_sort", h4(strong("Choose how to sort the data:")),
+                                c("Sum of values" = "sum",
+                                  "Alphabetical" = "alpha"),
+                                selected = "sum",
+                                inline = TRUE)),
+            column(width = 5,
+                   # Action Button
+                   actionButton("Daniocell_update_plot", "Generate Plot", class = "btn-lg btn-primary text-white hover:bg-blue-700")
+                   
+            )
+          ),
+          
           
       ), # End of sidebarPanel
         
@@ -231,11 +297,43 @@ ui <- fluidPage(
         mainPanel(
           style = "margin-top: -20px;",
           class = "main-panel",
-          tags$strong(h3("Daniocell Aggregated expression values plot", style = "width: 100%; color: #0c4a6e; background: #f8f5f0; text-align: center; border: 1px solid black; padding: 10px; display: inline-block;")),
-   
-          # plotting the resulting graph
-          plotOutput("daniocell_expr_plot")
-          
+
+          # panels for instructions 
+          tabsetPanel(id="maintabset_daniocell",
+                      
+                      tabPanel(p(class = "panel-title",style="width: 100%, font-size: 14px; color: blue", "Instructions"), value = "Instructions", includeHTML("./www/instructions.html")),
+                      
+                      tabPanel(p(class = "panel-title",style="width: 100%, font-size: 14px; color: blue", "Results"), value = "Results",
+                        
+                        # Title Section
+                        div(class = "plot-header",
+                            h3(class = "plot-title", "Daniocell Aggregated Expression Values")
+                        ),
+                        
+                        # Action Row (Buttons)
+                        fluidRow(
+                          column(12, style = "display: flex; gap: 10px; margin-bottom: 20px;",
+                                 withSpinner(
+                                   downloadButton("download_png", "Save Plot (PNG)", icon = icon("image"), class = "btn-download"),
+                                   type = 4),
+                                 withSpinner(
+                                   downloadButton("download_data", "Export Data (CSV)", icon = icon("table"), class = "btn-download"),
+                                   type = 4 ),
+                                 withSpinner(
+                                   downloadButton("download_code", "Save the plot code", icon = icon("code"), class = "btn-download"),
+                                   type = 4 )
+                          )
+                        ),
+                        
+                        # Plot Section
+                  
+                        withSpinner(girafeOutput("daniocell_expr_plot"), type = 4)
+                      
+                      )
+                                              
+                      
+          ) # end of maintabset
+                    
           
         ) # End of mainPanel
       ) # End of sidebarLayout
@@ -246,6 +344,46 @@ ui <- fluidPage(
     tabPanel(
       
       title = "Zebrafish Cell Landscape",
+      
+      tags$head(tags$link(rel = "stylesheet", type = "text/css", href = "bootstrap.css"),
+                tags$style(HTML(".shiny-output-error-validation {color: green;font-size: 20px;}")),
+                tags$style(HTML(".checkbox { font-size: 18px; }")),
+                tags$style(HTML(".radio { font-size: 18px; }")),
+                tags$style(HTML(".radio-inline { font-size: 18px; }")),
+                tags$style(HTML("/* Professional Header Styling */
+                  .plot-header {
+                    background-color: #ffffff;
+                    border-bottom: 2px solid #0c4a6e;
+                    padding: 20px;
+                    margin-bottom: 25px;
+                    border-radius: 8px 8px 0 0;
+                    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+                  }
+                  .plot-title {
+                    color: #0c4a6e;
+                    font-weight: 700;
+                    margin: 0;
+                    letter-spacing: 0.5px;
+                  }
+                  /* Button refinement */
+                  .btn-download {
+                    margin-bottom: 15px;
+                    border-radius: 20px;
+                    font-weight: 500;
+                    transition: all 0.3s ease;
+                  }
+                  .btn-download:hover {
+                    transform: translateY(-2px);
+                    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+                  }
+                  /* Container for the plot */
+                  .plot-container {
+                    background: white;
+                    padding: 20px;
+                    border-radius: 12px;
+                    box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1);
+                  }"))
+      ),
       
       tags$head(tags$link(rel = "stylesheet", type = "text/css", href = "bootstrap.css"),
                 tags$style(HTML(".shiny-output-error-validation {color: green;font-size: 20px;}"))),
@@ -267,8 +405,8 @@ ui <- fluidPage(
       
       tags$style("body {
                           -moz-transform: scale(0.95 0.95); /* Moz-browsers */
-                          zoom: 0.95; /* Other non-webkit browsers */
-                          zoom: 95%; /* Webkit browsers */
+                          zoom: 0.8; /* Other non-webkit browsers */
+                          zoom: 80%; /* Webkit browsers */
                           }"),
       
       
@@ -331,38 +469,47 @@ ui <- fluidPage(
                 )
               ),
               
-              tags$br(),
-              
+
               # Input 3: Stage Filtering
-              tags$label(h4(strong("Filter by stage:"))),
-              
               fluidRow(
-                column(width = 4,
+                column(width = 5,
                        
                        checkboxGroupInput( 
                          inputId = "lineage_zcl_stages",
-                         label = NULL,
+                         label =  h4(strong("Filter by stage:")),
                          choices = zcl_stages$stage[1:5],
                          selected = zcl_stages$stage[1:5],
                        )
-                )
+                ),
+                
+                column(width = 7,       
+                       radioButtons("lineage_data_type", h4(strong("Choose the type of data:")),
+                                    c("Sum of normalized read counts" = "count_sum",
+                                      "Normalized cell counts" = "cell_count"),
+                                    selected = "count_sum"),
+                       radioButtons("lineage_y_scale", h4(strong("Choose the y-axis scale:")),
+                                    c("Linear" = "linear",
+                                      "Square root" = "sqrt"),
+                                    selected = "linear",
+                                    inline = TRUE)
+                       
+                       )
               ),
               
-              radioButtons("lineage_data_type", h4(strong("Choose the type of data:")),
-                           c("Sum of normalized read counts" = "count_sum",
-                             "Normalized cell counts" = "cell_count"),
-                           selected = "count_sum"),
-              
-              radioButtons("lineage_y_scale", h4(strong("Choose the y-axis scale:")),
-                           c("Linear" = "linear",
-                             "Square root" = "sqrt"),
-                           selected = "linear",
-                           inline = TRUE),
-              
-              
-              # Action Button
-              actionButton("lineages_plot_zcl", "Generate Lineages Plot", class = "bg-blue-600 text-white hover:bg-blue-700")
-              
+              fluidRow(
+                
+                column(width = 5,      
+                       radioButtons("zcl_lin_term_sort", h4(strong("Choose how to sort the data:")),
+                                    c("Sum of values" = "sum",
+                                      "Alphabetical" = "alpha"),
+                                    selected = "sum",
+                                    inline = TRUE)),
+                column(width = 7,
+                       # Action Button
+                       actionButton("lineages_plot_zcl", "Generate Lineages Plot", class = "btn-lg btn-primary text-white hover:bg-blue-700")
+                       
+                )
+              )             
               
             ) #end of lineage div
           ),
@@ -421,38 +568,49 @@ ui <- fluidPage(
                   )
                 ),
                 
-                tags$br(),
-                
-                # Input 3: Stage Filtering
-                tags$label(h4(strong("Filter by stage:"))),
-                
+
                 fluidRow(
-                  column(width = 4,
+                  column(width = 5,
                          
                          checkboxGroupInput(
                            inputId = "celltypes_zcl_stages",
-                           label = NULL,
+                           label = tags$label(h4(strong("Filter by stage:"))),
                            choices = zcl_stages$stage[1:5],
                            selected = zcl_stages$stage[1:5],
                          )
-                  )
+                  ),
+                  
+                  column(width = 7,       
+                         radioButtons("celltypes_data_type", h4(strong("Choose the type of data:")),
+                                      c("Sum of normalized read counts" = "count_sum",
+                                        "Normalized cell counts" = "cell_count"),
+                                      selected = "count_sum"),
+                         
+                         radioButtons("celltypes_y_scale", h4(strong("Choose the y-axis scale:")),
+                                      c("Linear" = "linear",
+                                        "Square root" = "sqrt"),
+                                      selected = "linear",
+                                      inline = TRUE)                         
+                         
+                         )
+                  
                 ),
                 
-                radioButtons("celltypes_data_type", h4(strong("Choose the type of data:")),
-                             c("Sum of normalized read counts" = "count_sum",
-                               "Normalized cell counts" = "cell_count"),
-                             selected = "count_sum"),
                 
-                radioButtons("celltypes_y_scale", h4(strong("Choose the y-axis scale:")),
-                             c("Linear" = "linear",
-                               "Square root" = "sqrt"),
-                             selected = "linear",
-                             inline = TRUE),
-                
-                
-                # Action Button
-                actionButton("celltypes_plot_zcl", "Generate Cell types Plot", class = "bg-blue-600 text-white hover:bg-blue-700")
-                
+                fluidRow(
+                  
+                  column(width = 5,      
+                         radioButtons("zcl_celltype_term_sort", h4(strong("Choose how to sort the data:")),
+                                      c("Sum of values" = "sum",
+                                        "Alphabetical" = "alpha"),
+                                      selected = "sum",
+                                      inline = TRUE)),
+                  column(width = 7,
+                         # Action Button
+                         actionButton("celltypes_plot_zcl", "Generate Cell types Plot", class = "btn-lg btn-primary text-white hover:bg-blue-700")
+                         
+                  )
+                )                
                 
             ) # end of celltypes_wrapper div
           ), 
@@ -463,24 +621,47 @@ ui <- fluidPage(
         mainPanel(
           style = "margin-top: -20px;",
           class = "main-panel",
-          tags$strong(h3("ZCL Aggregated expression values plot", style = "width: 100%; color: #0c4a6e; background: #f8f5f0; text-align: center; border: 1px solid black; padding: 10px; display: inline-block;")),
-          
-          # plotting the resulting graph
-          plotOutput("zcl_expr_plot")
-          
-          # 
-          # # Panel visible 
-          # conditionalPanel(
-          #   condition = "input.plotType == 'Histogram'",
-          #   h3("Histogram Panel"),
-          #   plotOutput("histPlot")
-          # ),
-          # # Panel visible only if "Scatter Plot" is selected
-          # conditionalPanel(
-          #   condition = "input.plotType == 'Scatter Plot'",
-          #   h3("Scatter Plot Panel"),
-          #   plotOutput("scatterPlot")
-          # )
+    
+          # panels for instructions and results
+          tabsetPanel(id="maintabset_zcl",
+                      
+                      tabPanel(p(class = "panel-title",style="width: 100%, font-size: 14px; color: blue", "Instructions"), value = "Instructions", includeHTML("./www/instructions.html")),
+                      
+                      tabPanel(p(class = "panel-title",style="width: 100%, font-size: 14px; color: blue", "Results"), value = "Results", 
+                               
+                                 
+                                 # plotting the resulting graph
+                                 
+                               # Title Section
+                               div(class = "plot-header",
+                                   h3(class = "plot-title", "ZCL Aggregated expression values plot")
+                               ),
+                               
+                               # Action Row (Buttons)
+                               fluidRow(
+                                 column(12, style = "display: flex; gap: 10px; margin-bottom: 20px;",
+                                        withSpinner(
+                                          downloadButton("zcl_download_png", "Download as PNG"),
+                                          type = 4),
+                                        withSpinner(
+                                          downloadButton("zcl_download_data", "Export Data (CSV)", icon = icon("table"), class = "btn-download"),
+                                          type = 4 ),
+                                        withSpinner(
+                                          downloadButton("zcl_download_code", "Save the plot code", icon = icon("code"), class = "btn-download"),
+                                          type = 4 )
+                                 )
+                               ),
+                               
+                               # Plot Section
+                               
+                               withSpinner(girafeOutput("zcl_expr_plot"), type = 4)
+                               
+                               
+                               
+                                          
+                      )
+                      
+          ) # end of maintabset
           
           
         ) # End of mainPanel
@@ -492,6 +673,47 @@ ui <- fluidPage(
     tabPanel(
       
       title = "Zebrahub",
+      
+      tags$head(tags$link(rel = "stylesheet", type = "text/css", href = "bootstrap.css"),
+                tags$style(HTML(".shiny-output-error-validation {color: green;font-size: 20px;}")),
+                tags$style(HTML(".checkbox { font-size: 18px; }")),
+                tags$style(HTML(".radio { font-size: 18px; }")),
+                tags$style(HTML(".radio-inline { font-size: 18px; }")),
+                tags$style(HTML("/* Professional Header Styling */
+                  .plot-header {
+                    background-color: #ffffff;
+                    border-bottom: 2px solid #0c4a6e;
+                    padding: 20px;
+                    margin-bottom: 25px;
+                    border-radius: 8px 8px 0 0;
+                    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+                  }
+                  .plot-title {
+                    color: #0c4a6e;
+                    font-weight: 700;
+                    margin: 0;
+                    letter-spacing: 0.5px;
+                  }
+                  /* Button refinement */
+                  .btn-download {
+                    margin-bottom: 15px;
+                    border-radius: 20px;
+                    font-weight: 500;
+                    transition: all 0.3s ease;
+                  }
+                  .btn-download:hover {
+                    transform: translateY(-2px);
+                    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+                  }
+                  /* Container for the plot */
+                  .plot-container {
+                    background: white;
+                    padding: 20px;
+                    border-radius: 12px;
+                    box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1);
+                  }"))
+      ),
+      
       
       tags$head(tags$link(rel = "stylesheet", type = "text/css", href = "bootstrap.css"),
                 tags$style(HTML(".shiny-output-error-validation {color: green;font-size: 20px;}"))),
@@ -513,8 +735,8 @@ ui <- fluidPage(
       
       tags$style("body {
                           -moz-transform: scale(0.95 0.95); /* Moz-browsers */
-                          zoom: 0.95; /* Other non-webkit browsers */
-                          zoom: 95%; /* Webkit browsers */
+                          zoom: 0.8; /* Other non-webkit browsers */
+                          zoom: 80%; /* Webkit browsers */
                           }"),
       
       
@@ -579,7 +801,7 @@ ui <- fluidPage(
           
           
           fluidRow(
-            column(width = 4,
+            column(width = 3,
                    
                    checkboxGroupInput(
                      inputId = "zhub_stages_1",
@@ -601,31 +823,82 @@ ui <- fluidPage(
           ),
           
           
-          radioButtons("zhub_data_type", h4(strong("Choose the type of data:")),
-                       c("Sum of normalized read counts" = "count_sum",
-                         "Normalized cell counts" = "cell_count"),
-                       selected = "count_sum"),
+          fluidRow(
+            column(width = 5,       
+                   radioButtons("zhub_data_type", h4(strong("Choose the type of data:")),
+                                c("Sum of normalized read counts" = "count_sum",
+                                  "Normalized cell counts" = "cell_count"),
+                                selected = "count_sum")),
+            
+            column(width = 5,      
+                   radioButtons("zhub_y_scale", h4(strong("Choose the y-axis scale:")),
+                                c("Linear" = "linear",
+                                  "Square root" = "sqrt"),
+                                selected = "linear",
+                                inline = TRUE))
+            
+          ),
           
-          radioButtons("zhub_y_scale", h4(strong("Choose the y-axis scale:")),
-                       c("Linear" = "linear",
-                         "Square root" = "sqrt"),
-                       selected = "linear",
-                       inline = TRUE),
           
-          
-          # Action Button
-          actionButton("update_plot_zhub", "Generate Plot", class = "bg-blue-600 text-white hover:bg-blue-700")
-          
+          fluidRow(
+            
+            column(width = 5,      
+                   radioButtons("zhub_term_sort", h4(strong("Choose how to sort the data:")),
+                                c("Sum of values" = "sum",
+                                  "Alphabetical" = "alpha"),
+                                selected = "sum",
+                                inline = TRUE)),
+            column(width = 6,
+                   # Action Button
+                   actionButton("update_plot_zhub", "Generate Plot", class = "btn-lg btn-primary text-white hover:bg-blue-700")
+                   
+            )
+          )          
         ), # End of sidebarPanel
         
         # Main Panel - Output
         mainPanel(
           style = "margin-top: -20px;",
           class = "main-panel",
-          tags$strong(h3("Zebrahub Aggregated Expression Values plot", style = "width: 100%; color: #0c4a6e; background: #f8f5f0; text-align: center; border: 1px solid black; padding: 10px; display: inline-block;")),
           
-          # plotting the resulting graph
-          plotOutput("zebrahub_expr_plot")
+          # panels for instructions and results
+          tabsetPanel(id="maintabset_zhub",
+                      
+                      tabPanel(p(class = "panel-title",style="width: 100%, font-size: 14px; color: blue", "Instructions"), value = "Instructions", includeHTML("./www/instructions.html")),
+                      
+                      tabPanel(p(class = "panel-title",style="width: 100%, font-size: 14px; color: blue", "Results"), value = "Results", 
+                               
+
+                               # Title Section
+                               div(class = "plot-header",
+                                   h3(class = "plot-title", "Zebrahub Aggregated Expression Values plot")
+                               ),
+                               
+                               # Action Row (Buttons)
+                               fluidRow(
+                                 column(12, style = "display: flex; gap: 10px; margin-bottom: 20px;",
+                                        withSpinner(
+                                          downloadButton("zhub_download_png", "Save Plot (PNG)", icon = icon("image"), class = "btn-download"),
+                                          type = 4),
+                                        withSpinner(
+                                          downloadButton("zhub_download_data", "Export Data (CSV)", icon = icon("table"), class = "btn-download"),
+                                          type = 4 ),
+                                        withSpinner(
+                                          downloadButton("zhub_download_code", "Save the plot code", icon = icon("code"), class = "btn-download"),
+                                          type = 4 )
+                                 )
+                               ),
+                               
+                               # Plot Section
+                               
+                               withSpinner(girafeOutput("zebrahub_expr_plot"), type = 4)
+                               
+                                  
+                      )
+                      
+          ) # end of maintabset
+          
+          
         
           ) # End of mainPanel
       ) # End of sidebarLayout
@@ -636,6 +909,8 @@ ui <- fluidPage(
 
 
 server <- function(input, output, session) {
+  
+################################## UI inputs ######################################  
   
   # Update the selectizeInput with the data frame and enable server-side processing
   updateSelectizeInput(session, "daniocell_gene_id", 
@@ -651,9 +926,48 @@ server <- function(input, output, session) {
   updateSelectizeInput(session, "zhub_gene_id", 
                        choices = unique(zhub_genes$orig_gene), 
                        server = TRUE)
-  
 
-  # --- Navigation Logic ---
+####################### switching between tabs ################################
+  
+  # this is the code for updating the relevant tab panel
+  observeEvent(input$Daniocell_update_plot, {
+    if( (input$Daniocell_update_plot >= 1) ){
+      
+      updateTabsetPanel(session, "maintabset_daniocell", selected = "Results")    
+    }
+    
+  })
+  
+  
+  # this is the code for updating the relevant tab panel
+  observeEvent(input$lineages_plot_zcl, {
+    if( (input$lineages_plot_zcl >= 1) ){
+      
+      updateTabsetPanel(session, "maintabset_zcl", selected = "Results")    
+    }
+    
+  })
+  
+  # this is the code for updating the relevant tab panel
+  observeEvent(input$celltypes_plot_zcl, {
+    if( (input$celltypes_plot_zcl >= 1) ){
+      
+      updateTabsetPanel(session, "maintabset_zcl", selected = "Results")    
+    }
+    
+  })
+  
+  
+  # this is the code for updating the relevant tab panel
+  observeEvent(input$update_plot_zhub, {
+    if( (input$update_plot_zhub >= 1) ){
+      
+      updateTabsetPanel(session, "maintabset_zhub", selected = "Results")    
+    }
+    
+  })
+
+########################## Navigation Logic ###################################
   
   # When 'Start with Tool 1' button is clicked
   observeEvent(input$goToTool1, {
@@ -907,12 +1221,12 @@ server <- function(input, output, session) {
   # ------------- Daniocell data ----------------------------------------------
   
   # 1. Reactive filtering of data based on user inputs
-  daniocell_data <- reactive({
+  daniocell_data <- eventReactive(input$Daniocell_update_plot, {
     
     # validate the inputs
     
     # 1. Ensure the 'Generate Plot' button has been clicked at least once
-    req(input$Daniocell_update_plot)
+    #req(input$Daniocell_update_plot)
     
     # 2. Combined validation checks with user-friendly messages
     validate(
@@ -932,6 +1246,9 @@ server <- function(input, output, session) {
     
     # collect all tissue terms
     selected_tissues <- c(input$cell_types_1, input$cell_types_2, input$cell_types_3, input$cell_types_4)
+    
+    # convert to the version with "_"
+    selected_tissues <- str_replace_all(selected_tissues, " ","_")
     
     # collect stages    
     selected_stages <- c(input$stages_1, input$stages_2, input$stages_3)
@@ -962,7 +1279,7 @@ server <- function(input, output, session) {
         group_by(tissue, stage)  |> 
         arrange(tissue, stage, .by_group = TRUE)
       
-            
+
     }else{
       
       df_filename <- paste0("./Daniocell_dataset/single_genes_cell_counts/daniocell_", proc_gene, "_cell_counts.csv")
@@ -989,14 +1306,48 @@ server <- function(input, output, session) {
     
     # define relevant factors
     data_long$stage <- factor(data_long$stage, levels = Daniocell_stages$stage)
-    data_long$tissue <- factor(data_long$tissue, levels = Daniocell_tissues$tissue)
     
+    # convert tissue and selected_tissues to the version with spaces
+    data_long$tissue <- str_replace_all(data_long$tissue, "_", " ")
+    selected_tissues <- str_replace_all(selected_tissues, "_", " ")
+    
+    # redefine tissue factor
+    data_long$tissue <- factor(data_long$tissue, levels = Daniocell_tissues$tissue)
     
     # 7. filter the data frame by the selected tissues and stages
     data <- filter(data_long, tissue %in% selected_tissues & stage %in% selected_stages)
     gene <- gene_id
     
+    # 8. Sorting the data 
+    if(input$data_type == "count_sum"){
+      
+      if(input$term_sort == "sum"){
+
+        # sort the tissues by their total value
+        data <- data %>%
+          group_by(tissue) %>%
+          mutate(Total_sum = sum(counts_sum)) %>%
+          arrange(desc(Total_sum))
+        
+      }
     
+      data$tissue <- factor(data$tissue, levels = unique(data$tissue))
+      
+    } else {
+      
+      if(input$term_sort == "sum"){
+        # sort the tissues by their total value
+        data <- data %>%
+          group_by(tissue) %>%
+          mutate(Total_sum = sum(cell_counts)) %>%
+          arrange(desc(Total_sum))
+      }
+      
+      data$tissue <- factor(data$tissue, levels = unique(data$tissue))
+      
+    }
+    
+  
     # Check if the filtered dataset is empty
     if (nrow(data) == 0) {
       
@@ -1015,50 +1366,67 @@ server <- function(input, output, session) {
         y_value = "cell_counts"
         y_label = "Normalized cell count"
       }
+     
+      ########################### save the data ################################
+      write.csv(data, "./Daniocell_dataset/temp.csv", row.names = FALSE)
       
+       
       # define the plot depending on the y scale that was specified in the input
       if(input$y_scale == "linear"){
         
-        return(ggplot(data, aes(x = stage, y = .data[[y_value]], fill = stage)) +
-                 geom_col() +
-                 scale_y_continuous(n.breaks = 6) +
-                 facet_wrap(~tissue, scales = "free_x") +
-                 ylab(y_label)+
-                 ggtitle(paste("Summarised expression plot for", gene , "in zebrafish"))+
-                 theme_bw() + paletteer::scale_fill_paletteer_d("colorBlindness::paletteMartin") +
-                 theme(plot.title = element_text(size = 14),
-                       strip.text.x = element_text(size = 14, margin = margin(0.12,0,0.12,0, "cm")),
-                       axis.text.y = element_text(size = 12),
-                       axis.title.y = element_text(size = 12),
-                       axis.title.x = element_text(size = 12),
-                       axis.text.x = element_text(angle = 70, vjust=0.6, colour="grey20", size= 12, face="plain"),
-                       legend.title = element_text( size = 12, face = "bold"),
-                       legend.text = element_text( size = 12, face = "plain"),
-                       legend.key.size = unit(0.5, "cm"),
-                       panel.spacing = unit(0.1, "lines")) 
-        )
+        p_ggiraph <- ggplot(data, aes(x = stage, y = .data[[y_value]], fill = stage)) +
+          geom_col_interactive(  aes(tooltip = paste0("Stage: ", stage, 
+                                 "<br>", y_label, ": ", round(.data[[y_value]], 2),
+                                 "<br>Tissue: ", tissue),
+                data_id = paste(stage, tissue, sep = "_") )
+          ) +
+          scale_y_continuous(n.breaks = 5) +
+          facet_wrap(~tissue, scales = "fixed", axes = "all_x", ncol = 5) +
+          ylab(y_label) +
+          ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
+          theme_bw() + 
+          scale_fill_paletteer_d("colorBlindness::paletteMartin") +
+          theme(plot.title = element_text(size = 8),
+                strip.text.x = element_text(size = 8, margin = margin(0.1,0,0.1,0, "cm")),
+                axis.text.y = element_text(size = 8),
+                axis.title.y = element_text(size = 10),
+                axis.title.x = element_text(size = 10),
+                axis.text.x = element_text(angle = 70, vjust=0.6, colour="grey20", size= 7.5, face="plain"),
+                legend.title = element_text(size = 8, face = "bold"),
+                legend.text = element_text(size = 8, face = "plain"),
+                legend.key.size = unit(0.15, "cm"),
+                panel.spacing = unit(0.1, "lines"))   
+        
+        return(p_ggiraph) 
+        
         
       } else{
         
-        return(ggplot(data, aes(x = stage, y = .data[[y_value]], fill = stage)) +
-                 geom_col() +
-                 scale_y_sqrt(n.breaks = 6) +
-                 facet_wrap(~tissue, scales = "free_x") +
-                 ylab( y_label )+
-                 ggtitle(paste("Summarised expression plot for", gene , "in zebrafish"))+
-                 theme_bw() + paletteer::scale_fill_paletteer_d("colorBlindness::paletteMartin") +
-                 theme(plot.title = element_text(size = 14),
-                       strip.text.x = element_text(size = 14, margin = margin(0.12,0,0.12,0, "cm")),
-                       axis.text.y = element_text(size = 12),
-                       axis.title.y = element_text(size = 12),
-                       axis.title.x = element_text(size = 12),
-                       axis.text.x = element_text(angle = 70, vjust=0.6, colour="grey20", size= 12, face="plain"),
-                       legend.title = element_text( size = 12, face = "bold"),
-                       legend.text = element_text( size = 12, face = "plain"),
-                       legend.key.size = unit(0.5, "cm"),
-                       panel.spacing = unit(0.1, "lines"))
-        )
+        p_ggiraph <- ggplot(data, aes(x = stage, y = .data[[y_value]], fill = stage)) +
+          geom_col_interactive(  aes(tooltip = paste0("Stage: ", stage, 
+                                 "<br>", y_label, ": ", round(.data[[y_value]], 2),
+                                 "<br>Tissue: ", tissue),
+                data_id = paste(stage, tissue, sep = "_"))
+          ) +
+          scale_y_sqrt(n.breaks = 5) +
+          facet_wrap(~tissue, scales = "fixed", axes = "all_x", ncol = 5) +
+          ylab(y_label) +
+          ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
+          theme_bw() + 
+          scale_fill_paletteer_d("colorBlindness::paletteMartin") +
+          theme(plot.title = element_text(size = 8),
+                strip.text.x = element_text(size = 8, margin = margin(0.1,0,0.1,0, "cm")),
+                axis.text.y = element_text(size = 8),
+                axis.title.y = element_text(size = 10),
+                axis.title.x = element_text(size = 10),
+                axis.text.x = element_text(angle = 70, vjust=0.6, colour="grey20", size= 7.5, face="plain"),
+                legend.title = element_text(size = 8, face = "bold"),
+                legend.text = element_text(size = 8, face = "plain"),
+                legend.key.size = unit(0.15, "cm"),
+                panel.spacing = unit(0.1, "lines"))       
         
+        return(p_ggiraph)
+      
       } # else for specific scale plot
     } # else for the plot code
     
@@ -1066,15 +1434,134 @@ server <- function(input, output, session) {
   
   
   # 2. Render the plot
-  output$daniocell_expr_plot <- renderPlot({
+  output$daniocell_expr_plot <- renderGirafe({
     
     # 1. Ensure the 'Generate Plot' button has been clicked at least once
-#    req(input$Daniocell_update_plot)
+    req(input$Daniocell_update_plot)
     
-    daniocell_data()
+    # run the graph output function to generate the graph and to save the data
+    # that can be used
+    output_obj <- daniocell_data()
     
-  }, width = 1250, height = 1250, res = 96)
+    # 2. read the data and define how many facets there will be
+    df <- read.csv("./Daniocell_dataset/temp.csv")
+    n_facets = length(unique(df$tissue))
+    
+    if(n_facets < 5){
+      calc_width = n_facets * FACET_SIZE + 0.5
+      calc_height = FACET_SIZE + 0.5
+    } else{
+      # do the final calculation
+      calc_width = 5 * FACET_SIZE
+      calc_height = ceiling(n_facets/5)*FACET_SIZE + 1
+    }
+    
+    # Convert the ggplot object to a girafe object
+    girafe(ggobj = output_obj, width_svg = calc_width, height_svg = calc_height, 
+           options = list(opts_sizing(rescale = TRUE), 
+                          opts_zoom = opts_zoom(min = 0.25, max = 0.5) )  ) 
+    
+  })
 
+  # Handle the PNG download using the base_plot
+  output$download_png <- downloadHandler(
+    filename = function() {
+      paste0("Daniocell_plot_", input$daniocell_gene_id, '_', Sys.Date(), ".png")
+    },
+    content = function(file) {
+      
+      # obtain the data for the size parameters of the plot
+      df <- read.csv("./Daniocell_dataset/temp.csv")
+      n_facets = length(unique(df$tissue))
+      
+      if(n_facets < 5){
+        calc_width = n_facets * FACET_SIZE + 0.5
+        calc_height = FACET_SIZE + 0.5
+      } else{
+        # do the final calculation
+        calc_width = 5 * FACET_SIZE
+        calc_height = ceiling(n_facets/5)*FACET_SIZE + 1
+      }
+      
+      # Use ggsave on the ggplot object      
+      ggsave(file, plot = daniocell_data(), device = "png", dpi = 300, 
+             width = calc_width, height = calc_height)
+    }
+  )
+  
+  # Handle data download
+  output$download_data <- downloadHandler(
+    filename = function() {
+      paste0("Daniocell_data_", input$daniocell_gene_id, '_', Sys.Date(), ".csv")
+    },
+    content = function(file) {
+      
+      data <- read.csv("./Daniocell_dataset/temp.csv")
+      
+      # Write the data to a temporary file
+      write.csv(data, file, row.names = FALSE)
+    }
+  )
+  
+  # Handle data download
+  output$download_code <- downloadHandler(
+    
+    filename = function() {
+      paste0("Plot_code_Daniocell_", input$daniocell_gene_id, '_', Sys.Date(), ".R")  
+    },
+    content = function(file) {
+      
+      # generate a file name for the data in this session
+      # use this file name to insert it into the code file
+      data_filename <- paste0("Daniocell_data_", input$daniocell_gene_id, '_', Sys.Date(), ".csv")
+      
+      # load the templates as appropriate
+
+      if(input$data_type == "count_sum"){
+        
+        # choose the scale to load the templates
+        if(input$y_scale == "linear"){
+          
+          # count_sum - linear
+          file_path <- "./templates/counts_sum_linear.R" 
+          script_code <- read_file(file_path)
+          
+        } else{
+          # count_sum - sqrt
+          file_path <- "./templates/counts_sum_sqrt.R" 
+          script_code <- read_file(file_path)          
+          
+        }
+        
+
+      } else {
+
+        # choose the scale to load the templates
+        if(input$y_scale == "linear"){
+          # count_sum - linear
+          file_path <- "./templates/cell_counts_linear.R" 
+          script_code <- read_file(file_path)
+          
+        } else{
+          # count_sum - sqrt
+          file_path <- "./templates/cell_counts_sqrt.R" 
+          script_code <- read_file(file_path)
+                    
+        }
+        
+      }
+      
+      # replace temp.csv with the current data file name
+      script_code <- str_replace(script_code, 'temp.csv', data_filename)
+      
+      # insert gene name
+      script_code <- str_replace(script_code, 'current_gene', input$daniocell_gene_id)
+      
+      # Write the data to a temporary file
+      writeChar(script_code, file)
+    }
+  )
+  
   
   ################### detecting which of the two ZCL plot buttons was clicked ##
   
@@ -1105,12 +1592,12 @@ server <- function(input, output, session) {
   # ------------- ZCL lineage data ---------------------------------------------
   
   # 1. Reactive filtering of data based on user inputs
-  ZCL_lineage_data <- reactive({
+  ZCL_lineage_data <- eventReactive(input$lineages_plot_zcl, {
     
     # validate the inputs
     
     # 1. Ensure the 'Generate Plot' button has been clicked at least once
-    req(input$lineages_plot_zcl)
+    #req(input$lineages_plot_zcl)
     
     # 2. Combined validation checks with user-friendly messages
     validate(
@@ -1195,6 +1682,34 @@ server <- function(input, output, session) {
     # 7. filter the data frame by the selected tissues and stages
     data <- filter(data_long, tissue %in% selected_tissues & stage %in% selected_stages)
     gene <- gene_id
+
+    
+    # 8. Sorting the data 
+    if(input$lineage_data_type == "count_sum"){
+      
+      if(input$zcl_lin_term_sort == "sum"){
+        # sort the tissues by their total value
+        data <- data %>%
+          group_by(tissue) %>%
+          mutate(Total_sum = sum(counts_sum)) %>%
+          arrange(desc(Total_sum))
+      }
+      
+      data$tissue <- factor(data$tissue, levels = unique(data$tissue))
+      
+    } else {
+      
+      if(input$zcl_lin_term_sort == "sum"){
+        # sort the tissues by their total value
+        data <- data %>%
+          group_by(tissue) %>%
+          mutate(Total_sum = sum(cell_counts)) %>%
+          arrange(desc(Total_sum))
+      }
+      
+      data$tissue <- factor(data$tissue, levels = unique(data$tissue))
+      
+    }
     
     
     # Check if the filtered dataset is empty
@@ -1216,48 +1731,64 @@ server <- function(input, output, session) {
         y_label = "Normalized cell count"
       }
       
+      ########################### save the data ################################
+      write.csv(data, "./ZCL_dataset_lineages/temp.csv", row.names = FALSE)
+      
+      
       # define the plot depending on the y scale that was specified in the input
       if(input$lineage_y_scale == "linear"){
         
-        return(ggplot(data, aes(x = stage, y = .data[[y_value]], fill = stage)) +
-                 geom_col() +
-                 scale_y_continuous(n.breaks = 6) +
-                 facet_wrap(~tissue, scales = "free_x") +
-                 ylab(y_label)+
-                 ggtitle(paste("Summarised expression plot for", gene , "in zebrafish"))+
-                 theme_bw() + paletteer::scale_fill_paletteer_d("colorBlindness::paletteMartin") +
-                 theme(plot.title = element_text(size = 14),
-                       strip.text.x = element_text(size = 14, margin = margin(0.12,0,0.12,0, "cm")),
-                       axis.text.y = element_text(size = 12),
-                       axis.title.y = element_text(size = 12),
-                       axis.title.x = element_text(size = 12),
-                       axis.text.x = element_text(angle = 70, vjust=0.6, colour="grey20", size= 12, face="plain"),
-                       legend.title = element_text( size = 12, face = "bold"),
-                       legend.text = element_text( size = 12, face = "plain"),
-                       legend.key.size = unit(0.5, "cm"),
-                       panel.spacing = unit(0.1, "lines")) 
-        )
+        p_ggiraph <- ggplot(data, aes(x = stage, y = .data[[y_value]], fill = stage)) +
+          geom_col_interactive(  aes(tooltip = paste0("Stage: ", stage, 
+                                 "<br>", y_label, ": ", round(.data[[y_value]], 2),
+                                 "<br>Tissue: ", tissue),
+                data_id = paste(stage, tissue, sep = "_"))
+          ) +
+          scale_y_continuous(n.breaks = 5) +
+          facet_wrap(~tissue, scales = "fixed", axes = "all_x", ncol = 5) +
+          ylab(y_label) +
+          ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
+          theme_bw() + 
+          scale_fill_paletteer_d("colorBlindness::paletteMartin") +
+          theme(plot.title = element_text(size = 8),
+                strip.text.x = element_text(size = 8, margin = margin(0.1,0,0.1,0, "cm")),
+                axis.text.y = element_text(size = 8),
+                axis.title.y = element_text(size = 10),
+                axis.title.x = element_text(size = 10),
+                axis.text.x = element_text(angle = 70, vjust=0.6, colour="grey20", size= 7.5, face="plain"),
+                legend.title = element_text(size = 8, face = "bold"),
+                legend.text = element_text(size = 8, face = "plain"),
+                legend.key.size = unit(0.15, "cm"),
+                panel.spacing = unit(0.1, "lines")) 
+        
+        return(p_ggiraph)
         
       } else{
         
-        return(ggplot(data, aes(x = stage, y = .data[[y_value]], fill = stage)) +
-                 geom_col() +
-                 scale_y_sqrt(n.breaks = 6) +
-                 facet_wrap(~tissue, scales = "free_x") +
-                 ylab( y_label )+
-                 ggtitle(paste("Summarised expression plot for", gene , "in zebrafish"))+
-                 theme_bw() + paletteer::scale_fill_paletteer_d("colorBlindness::paletteMartin") +
-                 theme(plot.title = element_text(size = 14),
-                       strip.text.x = element_text(size = 14, margin = margin(0.12,0,0.12,0, "cm")),
-                       axis.text.y = element_text(size = 12),
-                       axis.title.y = element_text(size = 12),
-                       axis.title.x = element_text(size = 12),
-                       axis.text.x = element_text(angle = 70, vjust=0.6, colour="grey20", size= 12, face="plain"),
-                       legend.title = element_text( size = 12, face = "bold"),
-                       legend.text = element_text( size = 12, face = "plain"),
-                       legend.key.size = unit(0.5, "cm"),
-                       panel.spacing = unit(0.1, "lines"))
-        )
+        p_ggiraph <- ggplot(data, aes(x = stage, y = .data[[y_value]], fill = stage)) +
+          geom_col_interactive( aes(tooltip = paste0("Stage: ", stage, 
+                                 "<br>", y_label, ": ", round(.data[[y_value]], 2),
+                                 "<br>Tissue: ", tissue),
+                data_id = paste(stage, tissue, sep = "_"))
+          ) +
+          scale_y_sqrt(n.breaks = 5) +
+          facet_wrap(~tissue, scales = "fixed", axes = "all_x", ncol = 5) +
+          ylab(y_label) +
+          ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
+          theme_bw() + 
+          scale_fill_paletteer_d("colorBlindness::paletteMartin") +
+          theme(plot.title = element_text(size = 8),
+                strip.text.x = element_text(size = 8, margin = margin(0.1,0,0.1,0, "cm")),
+                axis.text.y = element_text(size = 8),
+                axis.title.y = element_text(size = 10),
+                axis.title.x = element_text(size = 10),
+                axis.text.x = element_text(angle = 70, vjust=0.6, colour="grey20", size= 7.5, face="plain"),
+                legend.title = element_text(size = 8, face = "bold"),
+                legend.text = element_text(size = 8, face = "plain"),
+                legend.key.size = unit(0.15, "cm"),
+                panel.spacing = unit(0.1, "lines"))      
+        
+        return(p_ggiraph)
         
       } # else for specific scale plot
     } # else for the plot code
@@ -1268,12 +1799,12 @@ server <- function(input, output, session) {
   # ------------- ZCL cell types data ---------------------------------------------
   
   # 1. Reactive filtering of data based on user inputs
-  ZCL_celltypes_data <- reactive({
+  ZCL_celltypes_data <- eventReactive(input$celltypes_plot_zcl, {
     
     # validate the inputs
     
     # 1. Ensure the 'Generate Plot' button has been clicked at least once
-    req(input$celltypes_plot_zcl)
+    #req(input$celltypes_plot_zcl)
     
     # 2. Combined validation checks with user-friendly messages
     validate(
@@ -1291,9 +1822,11 @@ server <- function(input, output, session) {
     #collect the gene ID
     gene_id = input$zcl_gene_id
     
-    # if lineages
+    # make a vector of cell types - these can be used directly since they are not
+    # column names
     selected_tissues <- c(input$zcl_cell_types_1, input$zcl_cell_types_2, input$zcl_cell_types_3, input$zcl_cell_types_4)
     
+
     # collect stages    
     selected_stages <- c(input$celltypes_zcl_stages)
     
@@ -1347,14 +1880,71 @@ server <- function(input, output, session) {
       
     }
     
+    
     ############################# Plotting part of the function ###############
     # define relevant factors
     data_long$stage <- factor(data_long$stage, levels = zcl_stages$stage)
+    
+    # convert tissue and selected_tissues 
+    # previous values are names and have '_' and values are new ones 
+    map_tissues <- c("Cardiomyocyte" = "Cardiomyocyte", "Endothelial_cell" = "Endothelial cell", 
+                     "Enterocyte" = "Enterocyte", "Epithelial_cell" = "Epithelial cell", 
+                     "Epithelial_cell__Brain_" = "Epithelial cell (Brain)", "Erythrocyte" = "Erythrocyte", 
+                     "Erythrocyte__Liver_" = "Erythrocyte (Liver)", "Erythroid_progenitor_cell" = "Erythroid progenitor cell", 
+                     "Fibroblast" = "Fibroblast", "Goblet_cell" = "Goblet cell", "Granulocyte" = "Granulocyte",
+                     "Granulosa_cell" = "Granulosa cell", "Hatching_gland" = "Hatching gland",  "Hepatocyte" = "Hepatocyte", 
+                     "Immune_cell" = "Immune cell","Immune_progenitor_cell" = "Immune progenitor cell", 
+                     "Intestinal_bulb_cell" = "Intestinal bulb cell", "Ionocyte" = "Ionocyte", "Keratinocyte" = "Keratinocyte",
+                     "Macrophage" = "Macrophage", "Mesenchymal_cell" = "Mesenchymal cell",
+                     "Mesenchymal_cell__caudal fin_" = "Mesenchymal cell (caudal fin)", "Mt-rich_cell" = "Mt-rich cell",
+                     "Muscle_cell" = "Muscle cell", "Nephron_cell" = "Nephron cell",
+                     "Neural_cell" = "Neural cell", "Neural_progenitor_cell" = "Neural progenitor cell",
+                     "Neurosecretory_cell" = "Neurosecretory cell", "Oligodendrocyte" = "Oligodendrocyte",
+                     "Oocyte" = "Oocyte", "Osteoblast" = "Osteoblast", "Pancreatic_cell" = "Pancreatic cell", 
+                     "Pancreatic_macrophage" = "Pancreatic macrophage", "Primordial_germ_cell" = "Primordial germ cell", 
+                     "Radial_glia" = "Radial glia", "Retinal_cell" = "Retinal cell", "Retinal_cone_cell" = "Retinal cone cell",
+                     "Retinal_pigment_epithelial_cell" = "Retinal pigment epithelial cell", "Smooth_muscle_cell" = "Smooth muscle cell",
+                     "Spermatocyte" = "Spermatocyte", "T_cell" = "T cell") 
+      
+    
+    # Replace values in the column using the named vector for indexing
+    data_long$tissue <- map_tissues[as.character(data_long$tissue)]
+    
+    # refresh the tissue factor
     data_long$tissue <- factor(data_long$tissue, levels = zcl_cell_types$cell_type)
+    
     
     # 7. filter the data frame by the selected tissues and stages
     data <- filter(data_long, tissue %in% selected_tissues & stage %in% selected_stages)
     gene <- gene_id
+    
+    # 8. Sorting the data 
+    if(input$celltypes_data_type == "count_sum"){
+      
+      if(input$zcl_celltype_term_sort == "sum"){
+        # sort the tissues by their total value
+        data <- data %>%
+          group_by(tissue) %>%
+          mutate(Total_sum = sum(counts_sum)) %>%
+          arrange(desc(Total_sum))
+      }
+        
+      data$tissue <- factor(data$tissue, levels = unique(data$tissue))
+      
+    } else {
+      
+      if(input$zcl_celltype_term_sort == "sum"){
+        # sort the tissues by their total value
+        data <- data %>%
+          group_by(tissue) %>%
+          mutate(Total_sum = sum(cell_counts)) %>%
+          arrange(desc(Total_sum))
+      }
+      
+      data$tissue <- factor(data$tissue, levels = unique(data$tissue))
+      
+    }
+    
     
     
     # Check if the filtered dataset is empty
@@ -1376,48 +1966,64 @@ server <- function(input, output, session) {
         y_label = "Normalized cell count"
       }
       
+      ########################### save the data ################################
+      write.csv(data, "./ZCL_dataset_celltypes/temp.csv", row.names = FALSE)
+      
       # define the plot depending on the y scale that was specified in the input
       if(input$celltypes_y_scale == "linear"){
         
-        return(ggplot(data, aes(x = stage, y = .data[[y_value]], fill = stage)) +
-                 geom_col() +
-                 scale_y_continuous(n.breaks = 6) +
-                 facet_wrap(~tissue, scales = "free_x") +
-                 ylab(y_label)+
-                 ggtitle(paste("Summarised expression plot for", gene , "in zebrafish"))+
-                 theme_bw() + paletteer::scale_fill_paletteer_d("colorBlindness::paletteMartin") +
-                 theme(plot.title = element_text(size = 14),
-                       strip.text.x = element_text(size = 14, margin = margin(0.12,0,0.12,0, "cm")),
-                       axis.text.y = element_text(size = 12),
-                       axis.title.y = element_text(size = 12),
-                       axis.title.x = element_text(size = 12),
-                       axis.text.x = element_text(angle = 70, vjust=0.6, colour="grey20", size= 12, face="plain"),
-                       legend.title = element_text( size = 12, face = "bold"),
-                       legend.text = element_text( size = 12, face = "plain"),
-                       legend.key.size = unit(0.5, "cm"),
-                       panel.spacing = unit(0.1, "lines")) 
-        )
+        p_ggiraph <- ggplot(data, aes(x = stage, y = .data[[y_value]], fill = stage)) +
+          geom_col_interactive( aes(tooltip = paste0("Stage: ", stage, 
+                                 "<br>", y_label, ": ", round(.data[[y_value]], 2),
+                                 "<br>Tissue: ", tissue),
+                data_id = paste(stage, tissue, sep = "_"))
+          ) +
+          scale_y_continuous(n.breaks = 5) +
+          facet_wrap(~tissue, scales = "fixed", axes = "all_x", ncol = 5) +
+          ylab(y_label) +
+          ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
+          theme_bw() + 
+          scale_fill_paletteer_d("colorBlindness::paletteMartin") +
+          theme(plot.title = element_text(size = 8),
+                strip.text.x = element_text(size = 8, margin = margin(0.1,0,0.1,0, "cm")),
+                axis.text.y = element_text(size = 8),
+                axis.title.y = element_text(size = 10),
+                axis.title.x = element_text(size = 10),
+                axis.text.x = element_text(angle = 70, vjust=0.6, colour="grey20", size= 7.5, face="plain"),
+                legend.title = element_text(size = 8, face = "bold"),
+                legend.text = element_text(size = 8, face = "plain"),
+                legend.key.size = unit(0.15, "cm"),
+                panel.spacing = unit(0.1, "lines"))   
+        
+        return(p_ggiraph)
+        
         
       } else{
         
-        return(ggplot(data, aes(x = stage, y = .data[[y_value]], fill = stage)) +
-                 geom_col() +
-                 scale_y_sqrt(n.breaks = 6) +
-                 facet_wrap(~tissue, scales = "free_x") +
-                 ylab( y_label )+
-                 ggtitle(paste("Summarised expression plot for", gene , "in zebrafish"))+
-                 theme_bw() + paletteer::scale_fill_paletteer_d("colorBlindness::paletteMartin") +
-                 theme(plot.title = element_text(size = 14),
-                       strip.text.x = element_text(size = 14, margin = margin(0.12,0,0.12,0, "cm")),
-                       axis.text.y = element_text(size = 12),
-                       axis.title.y = element_text(size = 12),
-                       axis.title.x = element_text(size = 12),
-                       axis.text.x = element_text(angle = 70, vjust=0.6, colour="grey20", size= 12, face="plain"),
-                       legend.title = element_text( size = 12, face = "bold"),
-                       legend.text = element_text( size = 12, face = "plain"),
-                       legend.key.size = unit(0.5, "cm"),
-                       panel.spacing = unit(0.1, "lines"))
-        )
+        p_ggiraph <- ggplot(data, aes(x = stage, y = .data[[y_value]], fill = stage)) +
+          geom_col_interactive( aes(tooltip = paste0("Stage: ", stage, 
+                                 "<br>", y_label, ": ", round(.data[[y_value]], 2),
+                                 "<br>Tissue: ", tissue),
+                data_id = paste(stage, tissue, sep = "_"))
+          ) +
+          scale_y_sqrt(n.breaks = 5) +
+          facet_wrap(~tissue, scales = "fixed", axes = "all_x", ncol = 5) +
+          ylab(y_label) +
+          ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
+          theme_bw() + 
+          scale_fill_paletteer_d("colorBlindness::paletteMartin") +
+          theme(plot.title = element_text(size = 8),
+                strip.text.x = element_text(size = 8, margin = margin(0.1,0,0.1,0, "cm")),
+                axis.text.y = element_text(size = 8),
+                axis.title.y = element_text(size = 10),
+                axis.title.x = element_text(size = 10),
+                axis.text.x = element_text(angle = 70, vjust=0.6, colour="grey20", size= 7.5, face="plain"),
+                legend.title = element_text(size = 8, face = "bold"),
+                legend.text = element_text(size = 8, face = "plain"),
+                legend.key.size = unit(0.15, "cm"),
+                panel.spacing = unit(0.1, "lines"))        
+        
+        return(p_ggiraph)
         
       } # else for specific scale plot
     } # else for the plot code
@@ -1425,48 +2031,243 @@ server <- function(input, output, session) {
   })
   
   
-  # # lineages plot  
-  # output$zcl_expr_plot_lineage <- renderPlot({
-  #   
-  #   ZCL_lineage_data()
-  #   
-  # }, width = 1250, height = 1250, res = 96)
-  # 
-  # 
-  # # Cell types plot
-  # output$zcl_expr_plot_celltypes <- renderPlot({
-  #   
-  #   ZCL_celltypes_data()
-  #   
-  # }, width = 1250, height = 1250, res = 96)
-  
-  
   # 
   # 2. Render the plot
-  output$zcl_expr_plot <- renderPlot({
+  output$zcl_expr_plot <- renderGirafe({
     req(input$lineages_plot_zcl | input$celltypes_plot_zcl )
 
     # test
     if( rv$lastBtn == "lineages_plot_zcl" ){
-      return(ZCL_lineage_data())
+      
+      # run the graph output function to generate the graph and to save the data
+      # that can be used
+      output_obj <- ZCL_lineage_data()
+      
+      # 2. read the data and define how many facets there will be
+      df <- read.csv("./ZCL_dataset_lineages/temp.csv")
+      n_facets = length(unique(df$tissue))
+      
+      if(n_facets < 5){
+        calc_width = n_facets * FACET_SIZE + 0.5
+        calc_height = FACET_SIZE + 0.5
+      } else{
+        # do the final calculation
+        calc_width = 5 * FACET_SIZE
+        calc_height = ceiling(n_facets/5)*FACET_SIZE + 1
+      }
+      
+      
+      # Convert the ggplot object to a girafe object
+      return( girafe(ggobj = output_obj, width_svg = calc_width, height_svg = calc_height, 
+                     options = list(opts_sizing(rescale = TRUE), opts_zoom = opts_zoom(min = 0.25, max = 0.5) ) ) )
     }
 
     if( rv$lastBtn == "celltypes_plot_zcl" ){
-       return(ZCL_celltypes_data())
+
+      # run the graph output function to generate the graph and to save the data
+      # that can be used
+      output_obj <- ZCL_celltypes_data()
+      
+      # 2. read the data and define how many facets there will be
+      df <- read.csv("./ZCL_dataset_celltypes/temp.csv")
+      n_facets = length(unique(df$tissue))
+      
+      if(n_facets < 5){
+        calc_width = n_facets * FACET_SIZE + 0.5
+        calc_height = FACET_SIZE + 0.5
+      } else{
+        # do the final calculation
+        calc_width = 5 * FACET_SIZE
+        calc_height = ceiling(n_facets/5)*FACET_SIZE + 1
+      }
+      
+      # Convert the ggplot object to a girafe object
+      return( girafe(ggobj = output_obj, width_svg = calc_width, height_svg = calc_height, 
+                     options = list(opts_sizing(rescale = TRUE), opts_zoom = opts_zoom(min = 0.25, max = 0.5) ) ) )
+      
     }
 
-  }, width = 1000, height = 1000, res = 96)
+  })
     
+  
+  # Handle the PNG download using the base_plot
+  output$zcl_download_png <- downloadHandler(
+    filename = function() {
+      paste0("ZCL_plot_", input$zcl_gene_id, '_', Sys.Date(), ".png")
+    },
+    content = function(file) {
+      
+      # test which button was last pressed
+      if( rv$lastBtn == "lineages_plot_zcl" ){
+        result <- ZCL_lineage_data()
+        # obtain the data for the size parameters of the plot
+        df <- read.csv("./ZCL_dataset_lineages/temp.csv")
+      }
+      
+      if( rv$lastBtn == "celltypes_plot_zcl" ){
+        result <-  ZCL_celltypes_data()
+        # obtain the data for the size parameters of the plot
+        df <- read.csv("./ZCL_dataset_celltypes/temp.csv")
+      }
+      
+      # get a measure of the data size
+      n_facets = length(unique(df$tissue))
+      
+      if(n_facets < 5){
+        calc_width = n_facets * FACET_SIZE + 0.5
+        calc_height = FACET_SIZE + 0.5
+      } else{
+        # do the final calculation
+        calc_width = 5 * FACET_SIZE
+        calc_height = ceiling(n_facets/5)*FACET_SIZE + 1
+      }
+      
+      # Use ggsave on the ggplot object      
+      ggsave(file, plot = result, device = "png", dpi = 300, 
+             width = calc_width, height = calc_height)
+      
+    }
+  )
+
+    # Handle data download
+  output$zcl_download_data <- downloadHandler(
+    filename = function() {
+      paste0("ZCL_data_", input$zcl_gene_id, '_', Sys.Date(), ".csv")
+    },
+    content = function(file) {
+
+      
+      if( rv$lastBtn == "lineages_plot_zcl" ){
+        data <- read.csv("./ZCL_dataset_lineages/temp.csv")
+      }
+      
+      if( rv$lastBtn == "celltypes_plot_zcl" ){
+        data <- read.csv("./ZCL_dataset_celltypes/temp.csv")
+      }
+      
+      
+      # Write the data to a temporary file
+      write.csv(data, file, row.names = FALSE)
+    }
+  )
+
+  
+  # Handle data download
+  output$zcl_download_code <- downloadHandler(
+    
+    filename = function() {
+      paste0("Plot_code_ZCL_", input$zcl_gene_id, '_', Sys.Date(), ".R")  
+    },
+    content = function(file) {
+      
+      # generate a file name for the data in this session
+      # use this file name to insert it into the code file
+      data_filename <- paste0("ZCL_data_", input$zcl_gene_id, '_', Sys.Date(), ".csv")
+      
+      if( rv$lastBtn == "lineages_plot_zcl" ){
+        
+        # load the templates as appropriate
+        if(input$lineage_data_type == "count_sum"){
+          
+          # choose the scale to load the templates
+          if(input$lineage_y_scale == "linear"){
+            
+            # count_sum - linear
+            file_path <- "./templates/counts_sum_linear.R" 
+            script_code <- read_file(file_path)
+            
+          } else{
+            # count_sum - sqrt
+            file_path <- "./templates/counts_sum_sqrt.R" 
+            script_code <- read_file(file_path)          
+            
+          }
+          
+          
+        } else {
+          
+          # choose the scale to load the templates
+          if(input$lineage_y_scale == "linear"){
+            # count_sum - linear
+            file_path <- "./templates/cell_counts_linear.R" 
+            script_code <- read_file(file_path)
+            
+          } else{
+            # count_sum - sqrt
+            file_path <- "./templates/cell_counts_sqrt.R" 
+            script_code <- read_file(file_path)
+            
+          }
+          
+        }
+        
+      }
+      
+      
+      if( rv$lastBtn == "celltypes_plot_zcl" ){
+        
+        # load the templates as appropriate
+        if(input$celltypes_data_type == "count_sum"){
+          
+          # choose the scale to load the templates
+          if(input$celltypes_y_scale == "linear"){
+            
+            # count_sum - linear
+            file_path <- "./templates/counts_sum_linear.R" 
+            script_code <- read_file(file_path)
+            
+          } else{
+            # count_sum - sqrt
+            file_path <- "./templates/counts_sum_sqrt.R" 
+            script_code <- read_file(file_path)          
+            
+          }
+          
+          
+        } else {
+          
+          # choose the scale to load the templates
+          if(input$celltypes_y_scale == "linear"){
+            # count_sum - linear
+            file_path <- "./templates/cell_counts_linear.R" 
+            script_code <- read_file(file_path)
+            
+          } else{
+            # count_sum - sqrt
+            file_path <- "./templates/cell_counts_sqrt.R" 
+            script_code <- read_file(file_path)
+            
+          }
+          
+        }
+        
+      }
+      
+      # replace temp.csv with the current data file name
+      script_code <- str_replace(script_code, 'temp.csv', data_filename)
+      
+      # insert gene name
+      script_code <- str_replace(script_code, 'current_gene', input$zcl_gene_id)
+      
+      
+      # insert code for sorting stages 
+      script_code <- str_replace(script_code, '# sorting code', '#sort the data\n data$stage <- factor(data$stage, levels = c("24hpf", "72hpf","21Day", "3Month","22Month"))')
+      
+      # Write the data to a temporary file
+      writeChar(script_code, file)
+    }
+  )
+  
   
   # ------------- Zebrahub data ----------------------------------------------
   
   # 1. Reactive filtering of data based on user inputs
-  zhub_data <- reactive({
+  zhub_data <- eventReactive(input$update_plot_zhub, {
     
     # validate the inputs
     
     # 1. Ensure the 'Generate Plot' button has been clicked at least once
-    req(input$update_plot_zhub)
+    #req(input$update_plot_zhub)
     
     # 2. Combined validation checks with user-friendly messages
     validate(
@@ -1547,8 +2348,37 @@ server <- function(input, output, session) {
     # 7. filter the data frame by the selected tissues and stages
     data <- filter(data_long, tissue %in% selected_tissues & stage %in% selected_stages)
     gene <- gene_id
+  
     
+    # 8. Sorting the data 
+    if(input$zhub_data_type == "count_sum"){
+      
+      
+      if(input$zhub_term_sort == "sum"){
+        # sort the tissues by their total value
+        data <- data %>%
+          group_by(tissue) %>%
+          mutate(Total_sum = sum(counts_sum)) %>%
+          arrange(desc(Total_sum))
+      }
+      
+      data$tissue <- factor(data$tissue, levels = unique(data$tissue))
+      
+    } else {
+      
+      if(input$zhub_term_sort == "sum"){
+        # sort the tissues by their total value
+        data <- data %>%
+          group_by(tissue) %>%
+          mutate(Total_sum = sum(cell_counts)) %>%
+          arrange(desc(Total_sum))
+      }
+              
+      data$tissue <- factor(data$tissue, levels = unique(data$tissue))
+      
+    }
     
+      
     # Check if the filtered dataset is empty
     if (nrow(data) == 0) {
       
@@ -1568,48 +2398,63 @@ server <- function(input, output, session) {
         y_label = "Normalized cell count"
       }
       
+      ########################### save the data ################################
+      write.csv(data, "./Zebrahub_dataset/temp.csv", row.names = FALSE)
+      
       # define the plot depending on the y scale that was specified in the input
       if(input$zhub_y_scale == "linear"){
         
-        return(ggplot(data, aes(x = stage, y = .data[[y_value]], fill = stage)) +
-                 geom_col() +
-                 scale_y_continuous(n.breaks = 6) +
-                 facet_wrap(~tissue, scales = "free_x") +
-                 ylab(y_label)+
-                 ggtitle(paste("Summarised expression plot for", gene , "in zebrafish"))+
-                 theme_bw() + paletteer::scale_fill_paletteer_d("colorBlindness::paletteMartin") +
-                 theme(plot.title = element_text(size = 14),
-                       strip.text.x = element_text(size = 14, margin = margin(0.12,0,0.12,0, "cm")),
-                       axis.text.y = element_text(size = 12),
-                       axis.title.y = element_text(size = 12),
-                       axis.title.x = element_text(size = 12),
-                       axis.text.x = element_text(angle = 70, vjust=0.6, colour="grey20", size= 12, face="plain"),
-                       legend.title = element_text( size = 12, face = "bold"),
-                       legend.text = element_text( size = 12, face = "plain"),
-                       legend.key.size = unit(0.5, "cm"),
-                       panel.spacing = unit(0.1, "lines")) 
-        )
+        p_ggiraph <- ggplot(data, aes(x = stage, y = .data[[y_value]], fill = stage)) +
+          geom_col_interactive( aes(tooltip = paste0("Stage: ", stage, 
+                                 "<br>", y_label, ": ", round(.data[[y_value]], 2),
+                                 "<br>Tissue: ", tissue),
+                data_id = paste(stage, tissue, sep = "_"))
+          ) +
+          scale_y_continuous(n.breaks = 5) +
+          facet_wrap(~tissue, scales = "fixed", axes = "all_x", ncol = 5) +
+          ylab(y_label) +
+          ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
+          theme_bw() + 
+          scale_fill_paletteer_d("colorBlindness::paletteMartin") +
+          theme(plot.title = element_text(size = 8),
+                strip.text.x = element_text(size = 8, margin = margin(0.1,0,0.1,0, "cm")),
+                axis.text.y = element_text(size = 8),
+                axis.title.y = element_text(size = 10),
+                axis.title.x = element_text(size = 10),
+                axis.text.x = element_text(angle = 70, vjust=0.6, colour="grey20", size= 7.5, face="plain"),
+                legend.title = element_text(size = 8, face = "bold"),
+                legend.text = element_text(size = 8, face = "plain"),
+                legend.key.size = unit(0.15, "cm"),
+                panel.spacing = unit(0.1, "lines")) 
+        
+        return(p_ggiraph) 
         
       } else{
         
-        return(ggplot(data, aes(x = stage, y = .data[[y_value]], fill = stage)) +
-                 geom_col() +
-                 scale_y_sqrt(n.breaks = 6) +
-                 facet_wrap(~tissue, scales = "free_x") +
-                 ylab( y_label )+
-                 ggtitle(paste("Summarised expression plot for", gene , "in zebrafish"))+
-                 theme_bw() + paletteer::scale_fill_paletteer_d("colorBlindness::paletteMartin") +
-                 theme(plot.title = element_text(size = 14),
-                       strip.text.x = element_text(size = 14, margin = margin(0.12,0,0.12,0, "cm")),
-                       axis.text.y = element_text(size = 12),
-                       axis.title.y = element_text(size = 12),
-                       axis.title.x = element_text(size = 12),
-                       axis.text.x = element_text(angle = 70, vjust=0.6, colour="grey20", size= 12, face="plain"),
-                       legend.title = element_text( size = 12, face = "bold"),
-                       legend.text = element_text( size = 12, face = "plain"),
-                       legend.key.size = unit(0.5, "cm"),
-                       panel.spacing = unit(0.1, "lines"))
-        )
+        p_ggiraph <- ggplot(data, aes(x = stage, y = .data[[y_value]], fill = stage)) +
+          geom_col_interactive( aes(tooltip = paste0("Stage: ", stage, 
+                                 "<br>", y_label, ": ", round(.data[[y_value]], 2),
+                                 "<br>Tissue: ", tissue),
+                data_id = paste(stage, tissue, sep = "_"))
+          ) +
+          scale_y_sqrt(n.breaks = 5) +
+          facet_wrap(~tissue, scales = "fixed", axes = "all_x", ncol = 5) +
+          ylab(y_label) +
+          ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
+          theme_bw() + 
+          scale_fill_paletteer_d("colorBlindness::paletteMartin") +
+          theme(plot.title = element_text(size = 8),
+                strip.text.x = element_text(size = 8, margin = margin(0.1,0,0.1,0, "cm")),
+                axis.text.y = element_text(size = 8),
+                axis.title.y = element_text(size = 10),
+                axis.title.x = element_text(size = 10),
+                axis.text.x = element_text(angle = 70, vjust=0.6, colour="grey20", size= 7.5, face="plain"),
+                legend.title = element_text(size = 8, face = "bold"),
+                legend.text = element_text(size = 8, face = "plain"),
+                legend.key.size = unit(0.15, "cm"),
+                panel.spacing = unit(0.1, "lines"))       
+        
+        return(p_ggiraph)
         
       } # else for specific scale plot
     } # else for the plot code
@@ -1618,14 +2463,141 @@ server <- function(input, output, session) {
   
   
   # 2. Render the plot
-  output$zebrahub_expr_plot <- renderPlot({
+  output$zebrahub_expr_plot <- renderGirafe({
     
     # 1. Ensure the 'Generate Plot' button has been clicked at least once
-    #    req(input$update_plot_zhub)
+    req(input$update_plot_zhub)
+
+    # run the graph output function to generate the graph and to save the data
+    # that can be used
+    output_obj <- zhub_data()
     
-    zhub_data()
+    # 2. read the data and define how many facets there will be
+    df <- read.csv("./Zebrahub_dataset/temp.csv")
+    n_facets = length(unique(df$tissue))
     
-  }, width = 1250, height = 1250, res = 96)
+    if(n_facets < 5){
+      calc_width = n_facets * FACET_SIZE + 0.5
+      calc_height = FACET_SIZE + 0.5
+    } else{
+      # do the final calculation
+      calc_width = 5 * FACET_SIZE
+      calc_height = ceiling(n_facets/5)*FACET_SIZE + 1
+    }
+    
+    # Convert the ggplot object to a girafe object
+    return( girafe(ggobj = output_obj, width_svg = calc_width, height_svg = calc_height, 
+                   options = list(opts_sizing(rescale = TRUE), opts_zoom = opts_zoom(min = 0.25, max = 0.5) )) )
+    
+  })
+  
+  
+  
+  
+  # Handle data download
+  output$zhub_download_data <- downloadHandler(
+    filename = function() {
+      paste0("Zebrahub_data_", input$zhub_gene_id, '_', Sys.Date(), ".csv")
+    },
+    content = function(file) {
+      
+      data <- read.csv("./Zebrahub_dataset/temp.csv")
+      
+      # Write the data to a temporary file
+      write.csv(data, file, row.names = FALSE)
+    }
+  )
+  
+  
+  # Handle the PNG download using the base_plot
+  output$zhub_download_png <- downloadHandler(
+    filename = function() {
+      paste0("Zebrahub_plot_", input$zhub_gene_id, '_', Sys.Date(), ".png")
+    },
+    content = function(file) {
+      
+      # obtain the data for the size parameters of the plot
+      df <- read.csv("./Zebrahub_dataset/temp.csv")
+      n_facets = length(unique(df$tissue))
+      
+      if(n_facets < 5){
+        calc_width = n_facets * FACET_SIZE + 0.5
+        calc_height = FACET_SIZE + 0.5
+      } else{
+        # do the final calculation
+        calc_width = 5 * FACET_SIZE
+        calc_height = ceiling(n_facets/5)*FACET_SIZE + 1
+      }
+      
+      # Use ggsave on the ggplot object      
+      ggsave(file, plot = zhub_data(), device = "png", dpi = 300, 
+             width = calc_width, height = calc_height)
+      
+      }
+  )
+  
+  
+  # Handle data download
+  output$zhub_download_code <- downloadHandler(
+    
+    filename = function() {
+      paste0("Plot_code_Zebrahub_", input$zhub_gene_id, '_', Sys.Date(), ".R")  
+    },
+    content = function(file) {
+      
+      # generate a file name for the data in this session
+      # use this file name to insert it into the code file
+      data_filename <- paste0("Zebrahub_data_", input$zhub_gene_id, '_', Sys.Date(), ".csv")
+      
+      # load the templates as appropriate
+      
+      if(input$zhub_data_type == "count_sum"){
+        
+        # choose the scale to load the templates
+        if(input$zhub_y_scale == "linear"){
+          
+          # count_sum - linear
+          file_path <- "./templates/counts_sum_linear.R" 
+          script_code <- read_file(file_path)
+          
+        } else{
+          # count_sum - sqrt
+          file_path <- "./templates/counts_sum_sqrt.R" 
+          script_code <- read_file(file_path)          
+          
+        }
+        
+        
+      } else {
+        
+        # choose the scale to load the templates
+        if(input$zhub_y_scale == "linear"){
+          # count_sum - linear
+          file_path <- "./templates/cell_counts_linear.R" 
+          script_code <- read_file(file_path)
+          
+        } else{
+          # count_sum - sqrt
+          file_path <- "./templates/cell_counts_sqrt.R" 
+          script_code <- read_file(file_path)
+          
+        }
+        
+      }
+      
+      # replace temp.csv with the current data file name
+      script_code <- str_replace(script_code, 'temp.csv', data_filename)
+      
+      # insert gene name
+      script_code <- str_replace(script_code, 'current_gene', input$zhub_gene_id)
+      
+      # insert code for sorting stages 
+      script_code <- str_replace(script_code, '# sorting code', '#sort the data\n data$stage <- factor(data$stage, levels = c("10hpf","12hpf","14hpf","16hpf","19hpf","24hpf","2dpf","3dpf","5dpf","10dpf"))')
+      
+      # Write the data to a temporary file
+      writeChar(script_code, file)
+    }
+  )
   
   
   

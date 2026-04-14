@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,erythrocytes,eye,fast.muscle,glial,hatching.gland,iridophores,lateral.line,mesenchyme,muscle,neural,paraxial.mesoderm,periderm,spinal.cord,vasculature
+stage,blastomeres,endoderm,epidermis,erythrocytes,eye,fast_muscle,glial,hatching_gland,iridophores,lateral_line,mesenchyme,muscle,neural,paraxial_mesoderm,periderm,spinal_cord,vasculature
   3-4,42.32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,22.62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,9.1,0,0,0,0,0,5.39,0,0,0,0,9.91,0,0,0,0

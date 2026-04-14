@@ -1,4 +1,4 @@
-stage,epidermis,exocrine.pancreas,eye,fin.epithelia,glial,heart,immune,ionocyte,lateral.line,liver,mesenchyme,mucous,muscle,neural,notochord,otic,periderm,presomitic.mesoderm,spinal.cord,vasculature,xanthophores
+stage,epidermis,exocrine_pancreas,eye,fin_epithelia,glial,heart,immune,ionocyte,lateral_line,liver,mesenchyme,mucous,muscle,neural,notochord,otic,periderm,presomitic_mesoderm,spinal_cord,vasculature,xanthophores
  14-21,1,0,0,0,0,1,0,0,0,0,0,0,0,5,0,0,0,2,6,0,0
  24-34,0.82,0,2.46,0,0,0,0,0.82,0.82,0,0.82,0,0,6.57,0,0,0,0,1.64,0,0
  36-46,0,0,1.61,0,0,0,0,0.81,0,0,0,0,0.81,0.81,0,0,0,0,0.81,0,0

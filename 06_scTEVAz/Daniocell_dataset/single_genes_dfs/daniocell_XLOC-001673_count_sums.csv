@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,glial,immune,ionocyte,lateral.line,mesenchyme,mucous,muscle,neural,olfactory,periderm,spinal.cord
+stage,epidermis,eye,fin_epithelia,glial,immune,ionocyte,lateral_line,mesenchyme,mucous,muscle,neural,olfactory,periderm,spinal_cord
  14-21,3.3,0,0,0,0,0,0,0,0,0,0,0,0,0
  24-34,73.68,0,1.04,0,0,0,0,0,0.69,0,0,0,14.04,0
  36-46,200.29,0,26.13,1.02,1.56,0,1.17,0,0,0,5.37,0,60.14,0

@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,gut,mesenchyme,muscle,neural,paraxial.mesoderm,presomitic.mesoderm,spinal.cord
+stage,blastomeres,epidermis,eye,gut,mesenchyme,muscle,neural,paraxial_mesoderm,presomitic_mesoderm,spinal_cord
   3-4,20.41,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,5.84,5.96,0,0
  14-21,0,1.73,0,0,0,0.82,2.6,0,1.95,0

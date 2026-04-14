@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Hepatocyte,Immune.cell,Keratinocyte,Mesenchymal.cell,Nephron.cell,Primordial.germ.cell,Spermatocyte
-21Day,0,0,0,0.369986860264282,0,0,0,0
-3Month,0.104017006644673,0.624102039868036,0.312051019934018,0,0,0.208034013289345,0.416068026578691,0.936153059802054
-22Month,0,0.136649431988133,0,0,0.136649431988133,0,0,0
+stage,Epithelial_cell,Hepatocyte,Immune_cell,Keratinocyte,Mesenchymal_cell,Nephron_cell,Primordial_germ_cell,Spermatocyte
+21Day,0,0,0,0.37,0,0,0,0
+3Month,0.1,0.62,0.31,0,0,0.21,0.42,0.94
+22Month,0,0.14,0,0,0.14,0,0,0

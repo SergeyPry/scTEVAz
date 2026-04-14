@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,glial,gut,heart,lateral.line,mesenchyme,mural.cell,muscle,neural,notochord,olfactory,otic,periderm,slow.muscle,spinal.cord,vasculature,visceral.smooth.muscle
+stage,epidermis,eye,fin_epithelia,glial,gut,heart,lateral_line,mesenchyme,mural_cell,muscle,neural,notochord,olfactory,otic,periderm,slow_muscle,spinal_cord,vasculature,visceral_smooth_muscle
  14-21,10.74,0,0,0,0.82,0,0,0,0,0,3.62,1.69,0,0,2.46,2.72,0.86,0,0
  24-34,1.56,0,0,0,0,0,0,3.01,0,0.78,6.48,0,0,0,1.52,0.99,2.2,0,0
  36-46,0,0.56,8.54,0,0,0.56,0,2.66,0,2.22,24.25,2.14,0,0,0,4.68,4.42,6.8,0

@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,fin.epithelia,glial,gut,heart,melanocytes,mesenchyme,muscle,neural,periderm,pronephros,spinal.cord
+stage,endocrine_pancreas,epidermis,eye,fin_epithelia,glial,gut,heart,melanocytes,mesenchyme,muscle,neural,periderm,pronephros,spinal_cord
  14-21,0,0,1.19,0,0,0,0,0,0,0,0,0,0,1.35
  24-34,0,0,0,0,0,0,0,0,0.85,0,1.9,3.86,0,0
  36-46,0,0,0,0.62,0,0,0,0,0.71,0,2.29,2.64,0,0

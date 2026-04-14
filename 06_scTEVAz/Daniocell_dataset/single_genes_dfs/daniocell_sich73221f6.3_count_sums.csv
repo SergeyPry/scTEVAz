@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endocrine.pancreas,endoderm,epidermis,eye,fin.mesenchyme,glial,gut,immune,iridophores,melanocytes,mesenchyme,muscle,neural,olfactory,otic,paraxial.mesoderm,pericytes,pgc,presomitic.mesoderm,slow.muscle,spinal.cord,vasculature,xanthophores
+stage,axial,blastomeres,endocrine_pancreas,endoderm,epidermis,eye,fin_mesenchyme,glial,gut,immune,iridophores,melanocytes,mesenchyme,muscle,neural,olfactory,otic,paraxial_mesoderm,pericytes,pgc,presomitic_mesoderm,slow_muscle,spinal_cord,vasculature,xanthophores
   3-4,0,71.75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.15,60.68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9.89,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59.03,0,0,29.21,0,0,0,0,0,0,0

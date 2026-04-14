@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.epithelia,glial,immune,mesenchyme,neural,notochord,paraxial.mesoderm,periderm,presomitic.mesoderm,spinal.cord
+stage,blastomeres,epidermis,eye,fin_epithelia,glial,immune,mesenchyme,neural,notochord,paraxial_mesoderm,periderm,presomitic_mesoderm,spinal_cord
   3-4,45.46,0,0,0,0,0,0,0,0,0,18.15,0,0
   5-6,72.56,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,6,0,0,0,0,0,0,33.63,4.27,28.09,0,0,0

@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,glial,hatching.gland,mesenchyme,muscle,neural,olfactory,paraxial.mesoderm,periderm,presomitic.mesoderm,slow.muscle,somites
+stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,glial,hatching_gland,mesenchyme,muscle,neural,olfactory,paraxial_mesoderm,periderm,presomitic_mesoderm,slow_muscle,somites
   3-4,32.09,101.01,0,0,0,0,0,0,0,0,0,0,0,11.29,0,0,0
   5-6,9.47,297.38,0,0,0,0,0,0,0,0,8.03,0,13.83,7.49,0,0,0
   7-9,4.08,10.36,8.17,0,0,8.41,0,10.96,0,0,186.99,0,24.9,0,0,0,0

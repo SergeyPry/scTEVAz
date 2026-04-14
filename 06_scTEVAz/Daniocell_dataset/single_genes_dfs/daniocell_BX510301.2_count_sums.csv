@@ -1,4 +1,4 @@
-stage,blastomeres,eye,fin.mesenchyme,glial,gut,heart,iridophores,mesenchyme,mural.cell,muscle,neural,notochord,spinal.cord,vascular.smooth.muscle,visceral.smooth.muscle
+stage,blastomeres,eye,fin_mesenchyme,glial,gut,heart,iridophores,mesenchyme,mural_cell,muscle,neural,notochord,spinal_cord,vascular_smooth_muscle,visceral_smooth_muscle
   3-4,15.97,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,31.08,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,17.52,0,0,0,0

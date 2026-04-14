@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.epithelia,glial,heart,immune,iridophores,mesenchyme,neural,periderm,presomitic.mesoderm,pronephros,slow.muscle,spinal.cord,vasculature
+stage,epidermis,erythrocytes,eye,fin_epithelia,glial,heart,immune,iridophores,mesenchyme,neural,periderm,presomitic_mesoderm,pronephros,slow_muscle,spinal_cord,vasculature
  14-21,0,0,0,0,0,0,0,0,0,0.8,0,0.83,0,0,0,0
  24-34,0.64,0,0,0,0,0,0,0,0,4.99,0,0,0,0,0,0
  36-46,2.71,0,0.78,0,0,0,0,0,0,2.4,0,0,0,5.53,0,0

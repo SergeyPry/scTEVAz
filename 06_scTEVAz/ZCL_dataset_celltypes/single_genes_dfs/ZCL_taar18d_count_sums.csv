@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Keratinocyte,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Primordial.germ.cell,Spermatocyte,T.cell
-24hpf,0,0,0,4.08640457285017,0,0,0,0
-72hpf,0,0,0,0,1.06979114146608,0,0,0
-3Month,0.319949299554195,0.319949299554195,0.319949299554195,5.43913809242132,0,5.11918879286713,2.87954369598776,0.319949299554195
+stage,Epithelial_cell,Keratinocyte,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Primordial_germ_cell,Spermatocyte,T_cell
+24hpf,0,0,0,4.09,0,0,0,0
+72hpf,0,0,0,0,1.07,0,0,0
+3Month,0.32,0.32,0.32,5.44,0,5.12,2.88,0.32

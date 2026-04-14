@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,mucous,mural.cell,neural,spinal.cord,taste
+stage,epidermis,eye,glial,mucous,mural_cell,neural,spinal_cord,taste
  14-21,0,0,0,0,0,0.93,1.26,0
  24-34,1.61,0,0,0,0,12.86,2.35,0
  36-46,0,0,0.64,0,0,7.09,0,0

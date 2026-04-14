@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.epithelia,glial,gut,heart,immune,mesenchyme,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,pronephros,slow.muscle,somites,spinal.cord,taste
+stage,blastomeres,epidermis,eye,fin_epithelia,glial,gut,heart,immune,mesenchyme,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,pronephros,slow_muscle,somites,spinal_cord,taste
   3-4,22.32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,5.68,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,7.19,0,0,0,8.26,0,0,0,0,0

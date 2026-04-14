@@ -1,4 +1,4 @@
-stage,blastomeres,erythrocytes,eye,fin.epithelia,fin.mesenchyme,glial,hatching.gland,immune,lateral.line,mesenchyme,neural,olfactory,paraxial.mesoderm,periderm,spinal.cord,vasculature
+stage,blastomeres,erythrocytes,eye,fin_epithelia,fin_mesenchyme,glial,hatching_gland,immune,lateral_line,mesenchyme,neural,olfactory,paraxial_mesoderm,periderm,spinal_cord,vasculature
   3-4,27.94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,193.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,4.3,0,0,0,31.91,0,16.06,0,0,0

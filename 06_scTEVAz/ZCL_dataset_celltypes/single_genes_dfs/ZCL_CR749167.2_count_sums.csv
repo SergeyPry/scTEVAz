@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Granulocyte,Hepatocyte,Mesenchymal.cell,Neural.cell,Osteoblast,T.cell
-72hpf,0,0,0,0,1.06979114146608,1.06979114146608,0
-21Day,1.33853308820331,0,0,0,1.33853308820331,0,1.33853308820331
-22Month,0,0.546654651197433,2.73327325598717,1.09330930239487,0,0,0
+stage,Epithelial_cell,Granulocyte,Hepatocyte,Mesenchymal_cell,Neural_cell,Osteoblast,T_cell
+72hpf,0,0,0,0,1.07,1.07,0
+21Day,1.34,0,0,0,1.34,0,1.34
+22Month,0,0.55,2.73,1.09,0,0,0

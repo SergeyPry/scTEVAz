@@ -1,4 +1,4 @@
-stage,blastomeres,eye,glial,gut,ionocyte,mesenchyme,neural,olfactory,paraxial.mesoderm,pronephros,spinal.cord
+stage,blastomeres,eye,glial,gut,ionocyte,mesenchyme,neural,olfactory,paraxial_mesoderm,pronephros,spinal_cord
   3-4,12.07,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,6.46,0,0,0,0
  10-12,0,4.85,0,0,0,0,17.09,0,10.65,0,0

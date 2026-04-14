@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Neural.progenitor.cell,Pancreatic.cell
-72hpf,0,0.281848056003223,0
-21Day,2.21992116158569,0,0.369986860264282
-3Month,0.208034013289345,0,0
+stage,Epithelial_cell,Neural_progenitor_cell,Pancreatic_cell
+72hpf,0,0.28,0
+21Day,2.22,0,0.37
+3Month,0.21,0,0

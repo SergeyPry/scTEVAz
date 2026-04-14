@@ -1,4 +1,4 @@
-stage,eye,fin.epithelia,fin.mesenchyme,glial,heart,immune,ionocyte,mesenchyme,mucous,neural,olfactory,periderm,pronephros,spinal.cord,vasculature,xanthophores
+stage,eye,fin_epithelia,fin_mesenchyme,glial,heart,immune,ionocyte,mesenchyme,mucous,neural,olfactory,periderm,pronephros,spinal_cord,vasculature,xanthophores
  14-21,1.17,0,0,0,0,0,0.86,0,0,14.63,0,1.86,0,8.88,0,0
  24-34,2.16,0,0,0,0,0,0,1.14,0,11.9,0,2.37,0,4.44,0,0
  36-46,6.99,0,0,0.8,0,0,0,0.7,0,11.36,0,0.76,0,1.92,0,0

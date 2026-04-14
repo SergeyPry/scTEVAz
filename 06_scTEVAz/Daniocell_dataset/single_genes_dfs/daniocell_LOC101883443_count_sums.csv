@@ -1,4 +1,4 @@
-stage,axial,epidermis,erythrocytes,eye,fast.muscle,fin.epithelia,glial,gut,immune,ionocyte,liver,mesenchyme,mucous,muscle,neural,paraxial.mesoderm,periderm,slow.muscle,spinal.cord,taste,vascular.smooth.muscle,vasculature
+stage,axial,epidermis,erythrocytes,eye,fast_muscle,fin_epithelia,glial,gut,immune,ionocyte,liver,mesenchyme,mucous,muscle,neural,paraxial_mesoderm,periderm,slow_muscle,spinal_cord,taste,vascular_smooth_muscle,vasculature
   7-9,8.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11.07,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32.44,3.67,0,0,0,0,0,0
  14-21,0,1.05,0,0,0,0,0,0,0,1.12,0,0,0,0.89,1.27,0,3.89,0,0,0,0,0

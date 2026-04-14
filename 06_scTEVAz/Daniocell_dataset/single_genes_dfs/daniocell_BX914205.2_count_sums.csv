@@ -1,4 +1,4 @@
-stage,eye,fin.epithelia,glial,immune,mesenchyme,neural,spinal.cord
+stage,eye,fin_epithelia,glial,immune,mesenchyme,neural,spinal_cord
  14-21,0,0,0,0,1.55,8.26,0
  36-46,0,0,0,0,0,0.6,0
  48-58,2.41,0,0.82,4.27,0.55,13.52,0.87

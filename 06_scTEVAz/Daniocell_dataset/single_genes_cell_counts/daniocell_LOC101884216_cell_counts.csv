@@ -1,4 +1,4 @@
-stage,epidermis,eye,mesenchyme,muscle,neural,notochord,periderm,spinal.cord
+stage,epidermis,eye,mesenchyme,muscle,neural,notochord,periderm,spinal_cord
  24-34,0,0.82,0,0,0,0,0,0
  36-46,0,0.81,0,0,3.22,0,0,0
  48-58,0,0,0.57,0.57,1.72,0,0,0.57

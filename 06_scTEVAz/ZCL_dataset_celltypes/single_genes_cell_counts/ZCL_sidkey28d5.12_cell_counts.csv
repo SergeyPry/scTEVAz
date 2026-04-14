@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Immune.progenitor.cell,Keratinocyte,Muscle.cell,Neural.progenitor.cell
+stage,Epithelial_cell,Immune_progenitor_cell,Keratinocyte,Muscle_cell,Neural_progenitor_cell
 24hpf,0,0,0,0,1
-21Day,1.47994744105713,0.369986860264282,0.369986860264282,0,0
-22Month,0,0,0,0.273298863976266,0
+21Day,1.48,0.37,0.37,0,0
+22Month,0,0,0,0.27,0

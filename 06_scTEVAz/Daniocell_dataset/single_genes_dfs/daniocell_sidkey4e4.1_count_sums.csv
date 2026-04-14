@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,ionocyte,mesenchyme,mural.cell,muscle,neural,olfactory,periderm,somites,spinal.cord,vasculature
+stage,epidermis,eye,glial,ionocyte,mesenchyme,mural_cell,muscle,neural,olfactory,periderm,somites,spinal_cord,vasculature
  14-21,0,0,0,0,0,0,0,6.4,0,0,1.44,1.44,0
  24-34,0.59,1.7,0,3.73,0,0,0.67,22.79,0,1.02,0,1.77,0
  36-46,0,2.72,0,0,0,0,0,29.42,0,2.03,0,1.4,1.7

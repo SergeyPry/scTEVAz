@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Endothelial.cell,Epithelial.cell,Epithelial.cell..Brain.,Goblet.cell,Granulocyte,Granulosa.cell,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Keratinocyte,Macrophage,Mesenchymal.cell,Mt.rich.cell,Muscle.cell,Nephron.cell,Neural.cell,Neural.progenitor.cell,Pancreatic.cell,Primordial.germ.cell,Retinal.cell,Retinal.cone.cell,Spermatocyte,T.cell
-21Day,0.369986860264282,0,0.369986860264282,0,0,0,0,0,0,0,0.369986860264282,0,0,0,0.739973720528564,0,0.369986860264282,0.369986860264282,0,0,0,0,0,0
-3Month,0,0.104017006644673,0.312051019934018,0.104017006644673,0,0,0.104017006644673,1.24820407973607,0.104017006644673,0.104017006644673,0,0.208034013289345,0,0,3.4325612192742,0.104017006644673,0,0,0.208034013289345,0.832136053157381,0,0.208034013289345,12.4820407973607,0.104017006644673
-22Month,0,0,0.273298863976266,0,0.136649431988133,0.409948295964399,0.136649431988133,4.64608068759653,0.273298863976266,0.136649431988133,0.273298863976266,0.409948295964399,0.273298863976266,0.273298863976266,1.2298448878932,0,0,0,0,0.136649431988133,0.136649431988133,0,0,0
+stage,Cardiomyocyte,Endothelial_cell,Epithelial_cell,Epithelial_cell__Brain_,Goblet_cell,Granulocyte,Granulosa_cell,Hepatocyte,Immune_cell,Intestinal_bulb_cell,Keratinocyte,Macrophage,Mesenchymal_cell,Mt_rich_cell,Muscle_cell,Nephron_cell,Neural_cell,Neural_progenitor_cell,Pancreatic_cell,Primordial_germ_cell,Retinal_cell,Retinal_cone_cell,Spermatocyte,T_cell
+21Day,0.37,0,0.37,0,0,0,0,0,0,0,0.37,0,0,0,0.74,0,0.37,0.37,0,0,0,0,0,0
+3Month,0,0.1,0.31,0.1,0,0,0.1,1.25,0.1,0.1,0,0.21,0,0,3.43,0.1,0,0,0.21,0.83,0,0.21,12.48,0.1
+22Month,0,0,0.27,0,0.14,0.41,0.14,4.65,0.27,0.14,0.27,0.41,0.27,0.27,1.23,0,0,0,0,0.14,0.14,0,0,0

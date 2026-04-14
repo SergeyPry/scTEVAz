@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,glial,ionocyte,mesenchyme,muscle,neural,notochord,periderm,spinal.cord,vasculature
+stage,epidermis,eye,fin_epithelia,glial,ionocyte,mesenchyme,muscle,neural,notochord,periderm,spinal_cord,vasculature
   3-4,0,0,0,0,0,0,0,0,0,22.18,0,0
  14-21,0,0,0,0,0,1.18,0,0,0,0,0,0
  24-34,0,1.19,0,0,0,0,0,2.66,0,0,0,0

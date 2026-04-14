@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,liver,mesenchyme,neural,spinal.cord
+stage,blastomeres,epidermis,eye,glial,liver,mesenchyme,neural,spinal_cord
  10-12,3.15,0,0,0,0,0,3.15,0
  14-21,0,0,1,0,0,0,2,0
  24-34,0,0,0.82,0,0,0,2.46,0

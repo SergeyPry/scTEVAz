@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,gut,heart,mesenchyme,mural.cell,muscle,neural,notochord,paraxial.mesoderm,pgc,presomitic.mesoderm,somites,spinal.cord
+stage,epidermis,erythrocytes,eye,gut,heart,mesenchyme,mural_cell,muscle,neural,notochord,paraxial_mesoderm,pgc,presomitic_mesoderm,somites,spinal_cord
   7-9,0,0,0,0,0,0,0,0,8,6.95,17.07,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,10.81,3.92,14.09,0,0,0,0
  14-21,1.48,0,0,1.21,8.04,2.45,0,1.95,10.4,0,1.7,0,46.61,6.51,1.67

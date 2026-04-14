@@ -1,5 +1,5 @@
-stage,Hepatocyte,Immune.cell,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell
-72hpf,0,0,0,1.97293639202256,0.563696112006446
-21Day,0,0,0,1.84993430132141,0
-3Month,0.208034013289345,0,0,0,0
-22Month,0,0.136649431988133,0.136649431988133,0.136649431988133,0
+stage,Hepatocyte,Immune_cell,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell
+72hpf,0,0,0,1.97,0.56
+21Day,0,0,0,1.85,0
+3Month,0.21,0,0,0,0
+22Month,0,0.14,0.14,0.14,0

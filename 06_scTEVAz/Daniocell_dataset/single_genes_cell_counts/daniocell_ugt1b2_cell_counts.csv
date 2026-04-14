@@ -1,4 +1,4 @@
-stage,eye,glial,gut,mesenchyme,neural,visceral.smooth.muscle
+stage,eye,glial,gut,mesenchyme,neural,visceral_smooth_muscle
  48-58,0,0.57,0,0,0.57,0
  72-82,0.98,0,0,0,0,0
  84-94,0,0,0,0,0,1.06

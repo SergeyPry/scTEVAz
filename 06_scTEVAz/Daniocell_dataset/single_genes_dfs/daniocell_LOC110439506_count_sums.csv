@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.mesenchyme,gut,neural,periderm,pronephros,somites,spinal.cord,vasculature
+stage,epidermis,eye,fin_mesenchyme,gut,neural,periderm,pronephros,somites,spinal_cord,vasculature
  14-21,0,0,0,0,0,0,0,2.77,0,0
  24-34,0,0,0,0,0,0,1.19,0,0.72,0
  36-46,0,0,0,0,0,0,0,0,0.57,0

@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,lateral.line,mesenchyme,muscle,neural,notochord,periderm,slow.muscle,spinal.cord
+stage,epidermis,eye,glial,lateral_line,mesenchyme,muscle,neural,notochord,periderm,slow_muscle,spinal_cord
  14-21,0,0,0.86,0,1.27,0,10.68,0,0,1,2.18
  24-34,0,0.68,2.78,0,0,0.76,32.05,0,0,0,10.61
  36-46,0,0.75,1.13,0,0,0,38.98,0,0,0,4.3

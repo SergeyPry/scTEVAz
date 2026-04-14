@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,immune,lateral.line,mesenchyme,muscle,neural,otic,pericytes,presomitic.mesoderm,pronephros,somites,spinal.cord
+stage,epidermis,eye,glial,immune,lateral_line,mesenchyme,muscle,neural,otic,pericytes,presomitic_mesoderm,pronephros,somites,spinal_cord
  14-21,1,0,0,0,0,0,0,1,0,0,2,1,1,0
  24-34,0.82,0,0,0,0,0,0,5.75,0,0,0,0,0,0.82
  36-46,0,0,0,0,0,0,0,3.22,0,0.81,0,0,0,1.61

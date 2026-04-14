@@ -1,2 +1,2 @@
-stage,Epithelial.cell,Granulocyte,Hepatocyte,Immune.progenitor.cell,Intestinal.bulb.cell,Macrophage,Mesenchymal.cell
-22Month,0.136649431988133,0.409948295964399,0.819896591928799,0.136649431988133,0.136649431988133,0.136649431988133,0.136649431988133
+stage,Epithelial_cell,Granulocyte,Hepatocyte,Immune_progenitor_cell,Intestinal_bulb_cell,Macrophage,Mesenchymal_cell
+22Month,0.14,0.41,0.82,0.14,0.14,0.14,0.14

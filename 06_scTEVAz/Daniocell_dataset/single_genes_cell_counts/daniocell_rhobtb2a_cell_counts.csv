@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,liver,mesenchyme,mural.cell,muscle,neural,otic,spinal.cord,vasculature
+stage,blastomeres,epidermis,eye,glial,liver,mesenchyme,mural_cell,muscle,neural,otic,spinal_cord,vasculature
   5-6,6.13,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,2.63,0,0,0,0,0,2.63,0,0,0
  14-21,0,0,0,0,2,0,0,0,2,0,0,0

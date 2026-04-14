@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,glial,immune,mesenchyme,muscle,neural,olfactory,spinal.cord
+stage,endocrine_pancreas,epidermis,eye,glial,immune,mesenchyme,muscle,neural,olfactory,spinal_cord
  48-58,0,0,0.57,0,0,0,0,0.57,0,0.57
  60-70,0,0,0,0,0,0,0,0,0.98,0
  72-82,0,0,0,0.98,0,0,0,0,0,0

@@ -1,6 +1,6 @@
-stage,Endothelial.cell,Hepatocyte,Immune.cell,Mesenchymal.cell,Mesenchymal.cell..caudal.fin.,Muscle.cell,Neural.cell,Osteoblast,Pancreatic.cell
+stage,Endothelial_cell,Hepatocyte,Immune_cell,Mesenchymal_cell,Mesenchymal_cell__caudal_fin_,Muscle_cell,Neural_cell,Osteoblast,Pancreatic_cell
 24hpf,0,0,0,2,0,0,1,0,0
-72hpf,0,0,0,0.84554416800967,0,0.84554416800967,0,0.563696112006446,0
-21Day,0,0,0,1.84993430132141,0,0,0,0,0.369986860264282
-3Month,0,0.104017006644673,0.104017006644673,0.520085033223363,0.416068026578691,0,0,0,0
-22Month,0.136649431988133,0.273298863976266,0,0,0,0,0,0,0
+72hpf,0,0,0,0.85,0,0.85,0,0.56,0
+21Day,0,0,0,1.85,0,0,0,0,0.37
+3Month,0,0.1,0.1,0.52,0.42,0,0,0,0
+22Month,0.14,0.27,0,0,0,0,0,0,0

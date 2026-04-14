@@ -1,5 +1,5 @@
-stage,Epithelial.cell,Erythrocyte,Hepatocyte,Immune.cell,Immune.progenitor.cell,Macrophage,Mesenchymal.cell,Smooth.muscle.cell,Spermatocyte,T.cell
+stage,Epithelial_cell,Erythrocyte,Hepatocyte,Immune_cell,Immune_progenitor_cell,Macrophage,Mesenchymal_cell,Smooth_muscle_cell,Spermatocyte,T_cell
 24hpf,0,0,0,0,0,0,1,0,0,0
-21Day,0.369986860264282,0.739973720528564,0,0.369986860264282,0.739973720528564,1.10996058079285,0,0,0,0.369986860264282
-3Month,0.208034013289345,0,0,0,0,0.208034013289345,0.104017006644673,0.104017006644673,0.104017006644673,1.66427210631476
-22Month,0,0,0.409948295964399,0,0,0.273298863976266,0,0,0,0.409948295964399
+21Day,0.37,0.74,0,0.37,0.74,1.11,0,0,0,0.37
+3Month,0.21,0,0,0,0,0.21,0.1,0.1,0.1,1.66
+22Month,0,0,0.41,0,0,0.27,0,0,0,0.41

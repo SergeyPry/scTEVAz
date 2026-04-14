@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,fin.epithelia,glial,gut,hatching.gland,heart,ionocyte,iridophores,lateral.line,mesenchyme,mucous,neural,olfactory,otic,paraxial.mesoderm,periderm,spinal.cord,taste,vasculature,visceral.smooth.muscle
+stage,blastomeres,endoderm,epidermis,eye,fin_epithelia,glial,gut,hatching_gland,heart,ionocyte,iridophores,lateral_line,mesenchyme,mucous,neural,olfactory,otic,paraxial_mesoderm,periderm,spinal_cord,taste,vasculature,visceral_smooth_muscle
   3-4,48.89,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,89.89,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.97,0,0,5.88,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,epidermis,fin.epithelia,glial,gut,hatching.gland,ionocyte,lateral.line,liver,mucous,neural,olfactory,otic,periderm,somites
+stage,epidermis,fin_epithelia,glial,gut,hatching_gland,ionocyte,lateral_line,liver,mucous,neural,olfactory,otic,periderm,somites
  14-21,1.07,0,0,0,0,0,0,0,0,0,0,0,2.61,1.48
  36-46,0,0,0,0,0,0,0,0,0,2.82,0,0,1.14,0
  48-58,0,0,0,0,0.49,0,0,0,0,1.89,0,0,0.37,0

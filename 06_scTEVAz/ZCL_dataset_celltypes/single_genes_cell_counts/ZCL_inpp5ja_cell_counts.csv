@@ -1,4 +1,4 @@
-stage,Hepatocyte,Mesenchymal.cell,Muscle.cell,Neural.cell
-72hpf,0,0,0,1.12739222401289
-21Day,0,0,0.369986860264282,1.47994744105713
-22Month,0.136649431988133,0.136649431988133,0,0
+stage,Hepatocyte,Mesenchymal_cell,Muscle_cell,Neural_cell
+72hpf,0,0,0,1.13
+21Day,0,0,0.37,1.48
+22Month,0.14,0.14,0,0

@@ -1,4 +1,4 @@
-stage,eye,fin.mesenchyme,glial,gut,ionocyte,liver,mesenchyme,muscle,neural,otic,periderm,presomitic.mesoderm,spinal.cord,xanthophores
+stage,eye,fin_mesenchyme,glial,gut,ionocyte,liver,mesenchyme,muscle,neural,otic,periderm,presomitic_mesoderm,spinal_cord,xanthophores
  14-21,0,0,0,0,1,0,0,0,4,1,0,1,2,0
  24-34,0.82,0,0,0,0,0,1.64,0,4.93,0,0,0,0.82,0.82
  36-46,1.61,0,0,0,0,0,0,0,7.25,0,0.81,0,2.42,0

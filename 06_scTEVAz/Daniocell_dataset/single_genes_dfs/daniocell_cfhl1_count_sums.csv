@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,exocrine.pancreas,eye,fin.epithelia,glial,gut,immune,liver,mesenchyme,mucous,mural.cell,muscle,neural,paraxial.mesoderm,pericytes,periderm,pronephros,spinal.cord,taste,xanthophores
+stage,blastomeres,epidermis,exocrine_pancreas,eye,fin_epithelia,glial,gut,immune,liver,mesenchyme,mucous,mural_cell,muscle,neural,paraxial_mesoderm,pericytes,periderm,pronephros,spinal_cord,taste,xanthophores
   3-4,14.47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.33,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,2.94,0,0,0,0,3.96,0,0,0,0,0.92,0,0

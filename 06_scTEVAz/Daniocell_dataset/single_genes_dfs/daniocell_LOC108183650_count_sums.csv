@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,epidermis,eye,fast.muscle,fin.epithelia,glial,heart,iridophores,mesenchyme,muscle,neural,notochord,olfactory,paraxial.mesoderm,periderm,spinal.cord,vasculature,visceral.smooth.muscle
+stage,blastomeres,endocrine_pancreas,epidermis,eye,fast_muscle,fin_epithelia,glial,heart,iridophores,mesenchyme,muscle,neural,notochord,olfactory,paraxial_mesoderm,periderm,spinal_cord,vasculature,visceral_smooth_muscle
   7-9,0,0,0,0,0,0,0,0,0,0,0,10.77,0,0,0,0,0,0,0
  10-12,3.65,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,1.56,9.7,0,1,0.93,0,6.53,0,0

@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,fin.epithelia,hatching.gland,mesenchyme,mucous,neural,olfactory,taste
+stage,endocrine_pancreas,epidermis,eye,fin_epithelia,hatching_gland,mesenchyme,mucous,neural,olfactory,taste
  14-21,0,0,1,0,0,0,0,1,0,0
  24-34,0,0,0,0,0,0,0,0.82,0,0
  36-46,0,0,0,0,0,0,0,1.61,0,0

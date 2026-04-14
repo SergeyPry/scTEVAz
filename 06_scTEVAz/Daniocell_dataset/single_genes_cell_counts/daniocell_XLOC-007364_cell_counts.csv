@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,glial,heart,immune,melanocytes,mesenchyme,neural,paraxial.mesoderm,periderm,pronephros,spinal.cord
+stage,blastomeres,endoderm,epidermis,eye,glial,heart,immune,melanocytes,mesenchyme,neural,paraxial_mesoderm,periderm,pronephros,spinal_cord
   5-6,36.78,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,5.26,0,0,0,0,0,0,0,15.77,18.4,0,0,0
  10-12,3.15,3.15,0,3.15,0,0,0,0,0,50.35,34.62,3.15,3.15,0

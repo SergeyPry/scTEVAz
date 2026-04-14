@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,heart,lateral.line,mesenchyme,neural,paraxial.mesoderm,periderm,spinal.cord,vasculature,xanthophores
+stage,blastomeres,epidermis,eye,glial,heart,lateral_line,mesenchyme,neural,paraxial_mesoderm,periderm,spinal_cord,vasculature,xanthophores
   3-4,184.49,0,0,0,0,0,0,0,0,13.18,0,0,0
   5-6,24.52,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,2.63,0,0,0,0,0,5.26,0,0,0,0

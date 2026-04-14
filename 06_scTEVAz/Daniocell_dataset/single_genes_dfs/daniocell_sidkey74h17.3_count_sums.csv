@@ -1,4 +1,4 @@
-stage,erythrocytes,eye,gut,immune,mesenchyme,mucous,neural,spinal.cord
+stage,erythrocytes,eye,gut,immune,mesenchyme,mucous,neural,spinal_cord
  14-21,0,0,0,0,0,0,0,1.25
  24-34,0,0,0,0,0,0,0,1.96
  36-46,0,1.26,0,2.25,0,0,0.71,1.55

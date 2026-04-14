@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,immune,mesenchyme,mural.cell,neural,periderm,spinal.cord,vascular.smooth.muscle,vasculature
+stage,epidermis,erythrocytes,eye,immune,mesenchyme,mural_cell,neural,periderm,spinal_cord,vascular_smooth_muscle,vasculature
   7-9,0,0,0,0,0,0,3.79,0,0,0,0
  10-12,0,0,0,0,0,0,8.53,0,0,0,0
  24-34,0,0,1.15,164.5,2.83,0,18.62,0.66,0,0,0

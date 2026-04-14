@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,glial,heart,lateral.line,melanocytes,mesenchyme,mucous,mural.cell,muscle,neural,olfactory,otic,periderm,spinal.cord,vasculature
+stage,epidermis,eye,fin_epithelia,glial,heart,lateral_line,melanocytes,mesenchyme,mucous,mural_cell,muscle,neural,olfactory,otic,periderm,spinal_cord,vasculature
  14-21,4,1,0,0,0,0,0,0,0,0,1,7,0,0,0,0,0
  24-34,0.82,0,0,0,0,0,0,0,0,0,0.82,4.1,0,0.82,0,1.64,0
  36-46,0.81,0,0,0,0,0,0,3.22,0,0,0,1.61,0.81,0,0,0,0.81

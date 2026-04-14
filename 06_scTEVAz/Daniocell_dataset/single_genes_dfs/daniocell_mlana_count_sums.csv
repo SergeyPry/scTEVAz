@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,eye,iridophores,liver,melanocytes,mesenchyme,mural.cell,neural,olfactory,spinal.cord,vasculature,xanthophores
+stage,endocrine_pancreas,eye,iridophores,liver,melanocytes,mesenchyme,mural_cell,neural,olfactory,spinal_cord,vasculature,xanthophores
  14-21,0,1.43,0,0,0,0,0,0,0,0,0,0
  24-34,0,25.1,0,0.73,19.25,0.84,0,5.89,0,0,0,3.83
  36-46,0,43.97,0,0,116.62,0,0,1.36,0,1.93,0,22.15

@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,exocrine.pancreas,eye,fin.epithelia,fin.mesenchyme,glial,gut,immune,ionocyte,liver,mesenchyme,mural.cell,muscle,neural,notochord,olfactory,paraxial.mesoderm,presomitic.mesoderm,slow.muscle,spinal.cord,vasculature
+stage,blastomeres,endoderm,epidermis,exocrine_pancreas,eye,fin_epithelia,fin_mesenchyme,glial,gut,immune,ionocyte,liver,mesenchyme,mural_cell,muscle,neural,notochord,olfactory,paraxial_mesoderm,presomitic_mesoderm,slow_muscle,spinal_cord,vasculature
   5-6,6.13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10.51,0,0,2.63,0,0,0,0
  10-12,3.15,3.15,0,0,0,0,0,0,0,0,0,0,0,0,0,6.29,0,0,0,0,0,0,0

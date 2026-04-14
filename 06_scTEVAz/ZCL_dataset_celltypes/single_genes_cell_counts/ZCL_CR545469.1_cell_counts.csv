@@ -1,5 +1,5 @@
-stage,Cardiomyocyte,Epithelial.cell,Goblet.cell,Granulocyte,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Keratinocyte,Mesenchymal.cell,Muscle.cell,Nephron.cell,Neural.cell,Neural.progenitor.cell,Osteoblast,Pancreatic.cell,Primordial.germ.cell,Radial.glia,Smooth.muscle.cell,Spermatocyte,T.cell
+stage,Cardiomyocyte,Epithelial_cell,Goblet_cell,Granulocyte,Hepatocyte,Immune_cell,Intestinal_bulb_cell,Keratinocyte,Mesenchymal_cell,Muscle_cell,Nephron_cell,Neural_cell,Neural_progenitor_cell,Osteoblast,Pancreatic_cell,Primordial_germ_cell,Radial_glia,Smooth_muscle_cell,Spermatocyte,T_cell
 24hpf,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
-21Day,0,0.369986860264282,0,0,0,0,0,0,0,0,0,0,0,0.369986860264282,0,0,0,0,0,0
-3Month,0.104017006644673,0.936153059802054,0.104017006644673,0.312051019934018,0.520085033223363,0.208034013289345,0.208034013289345,0.416068026578691,0.208034013289345,0.104017006644673,0.104017006644673,0,0,0,0.312051019934018,26.4203196877469,0.104017006644673,0.728119046512708,19.4511802425538,0.208034013289345
-22Month,0,0.136649431988133,0,0,0,0,0,0,0,0,0,0,0,0,0,3.55288523169146,0,0,0,0
+21Day,0,0.37,0,0,0,0,0,0,0,0,0,0,0,0.37,0,0,0,0,0,0
+3Month,0.1,0.94,0.1,0.31,0.52,0.21,0.21,0.42,0.21,0.1,0.1,0,0,0,0.31,26.42,0.1,0.73,19.45,0.21
+22Month,0,0.14,0,0,0,0,0,0,0,0,0,0,0,0,0,3.55,0,0,0,0

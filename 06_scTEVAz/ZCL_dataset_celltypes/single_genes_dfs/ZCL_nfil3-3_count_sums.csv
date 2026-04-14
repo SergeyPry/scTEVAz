@@ -1,5 +1,5 @@
-stage,Erythroid.progenitor.cell,Ionocyte,Macrophage,Neural.cell,Neural.progenitor.cell,Oligodendrocyte,Primordial.germ.cell,Radial.glia,Retinal.pigment.epithelial.cell
-24hpf,0,4.08640457285017,4.08640457285017,16.3456182914007,12.2592137185505,0,0,0,0
-72hpf,0,0,0,3.20937342439823,2.13958228293216,0,1.06979114146608,1.06979114146608,1.06979114146608
-21Day,1.33853308820331,0,1.33853308820331,1.33853308820331,0,0,0,0,0
-22Month,0,0,0,0,0,1.09330930239487,0,0.546654651197433,0
+stage,Erythroid_progenitor_cell,Ionocyte,Macrophage,Neural_cell,Neural_progenitor_cell,Oligodendrocyte,Primordial_germ_cell,Radial_glia,Retinal_pigment_epithelial_cell
+24hpf,0,4.09,4.09,16.35,12.26,0,0,0,0
+72hpf,0,0,0,3.21,2.14,0,1.07,1.07,1.07
+21Day,1.34,0,1.34,1.34,0,0,0,0,0
+22Month,0,0,0,0,0,1.09,0,0.55,0

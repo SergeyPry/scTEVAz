@@ -1,4 +1,4 @@
-stage,Endothelial.cell,Hepatocyte,Mesenchymal.cell
+stage,Endothelial_cell,Hepatocyte,Mesenchymal_cell
 24hpf,0,0,1
-72hpf,0,0,0.281848056003223
-22Month,0.136649431988133,0.956546023916932,0
+72hpf,0,0,0.28
+22Month,0.14,0.96,0

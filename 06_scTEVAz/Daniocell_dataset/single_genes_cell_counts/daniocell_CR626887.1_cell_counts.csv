@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,glial,iridophores,mesenchyme,muscle,neural,olfactory,otic,periderm,spinal.cord
+stage,endoderm,epidermis,glial,iridophores,mesenchyme,muscle,neural,olfactory,otic,periderm,spinal_cord
  14-21,1,0,0,0,0,0,0,1,0,0,0
  24-34,0,0.82,0,0,0,0,0,0,0,0.82,0
  48-58,0,0,0,0,0,0,1.15,0,0,0,0

@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,immune,ionocyte,mesenchyme,mural.cell,muscle,neural,olfactory,paraxial.mesoderm,periderm,pronephros,spinal.cord,vascular.smooth.muscle
+stage,axial,blastomeres,endoderm,epidermis,eye,immune,ionocyte,mesenchyme,mural_cell,muscle,neural,olfactory,paraxial_mesoderm,periderm,pronephros,spinal_cord,vascular_smooth_muscle
   3-4,0,72.88,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,12.67,133.82,0,0,0,0,0,0,0,0,6.35,0,9.5,7.54,0,0,0
   7-9,0,13.71,22.8,0,0,0,0,0,0,0,62.27,0,43.26,0,0,0,0

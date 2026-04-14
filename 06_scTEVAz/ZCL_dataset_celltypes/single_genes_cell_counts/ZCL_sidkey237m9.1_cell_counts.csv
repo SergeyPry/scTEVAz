@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Ionocyte,Keratinocyte,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Osteoblast,Radial.glia
+stage,Epithelial_cell,Ionocyte,Keratinocyte,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Osteoblast,Radial_glia
 24hpf,0,0,0,1,0,3,0,0
-72hpf,0.563696112006446,0.281848056003223,0.563696112006446,1.12739222401289,5.07326500805802,7.04620140008058,0.281848056003223,0.281848056003223
-21Day,0.739973720528564,0,0,0,0,0.369986860264282,0,0
+72hpf,0.56,0.28,0.56,1.13,5.07,7.05,0.28,0.28
+21Day,0.74,0,0,0,0,0.37,0,0

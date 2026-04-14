@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,erythrocytes,eye,fin.epithelia,glial,gut,immune,ionocyte,liver,melanocytes,mesenchyme,neural,paraxial.mesoderm,periderm,pronephros,spinal.cord,xanthophores
+stage,blastomeres,endoderm,epidermis,erythrocytes,eye,fin_epithelia,glial,gut,immune,ionocyte,liver,melanocytes,mesenchyme,neural,paraxial_mesoderm,periderm,pronephros,spinal_cord,xanthophores
   3-4,11.59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,20.37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,3.59,0,0,0,0,0,0,0,0,0,0,0,9.23,4.05,0,0,0,0

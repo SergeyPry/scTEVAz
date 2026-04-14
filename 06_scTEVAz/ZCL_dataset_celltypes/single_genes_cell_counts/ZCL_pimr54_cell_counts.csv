@@ -1,2 +1,2 @@
-stage,Epithelial.cell,Hepatocyte,Immune.progenitor.cell,Keratinocyte,Primordial.germ.cell,Spermatocyte
-3Month,0.104017006644673,0.208034013289345,0.104017006644673,0.104017006644673,0.104017006644673,1.76828911295943
+stage,Epithelial_cell,Hepatocyte,Immune_progenitor_cell,Keratinocyte,Primordial_germ_cell,Spermatocyte
+3Month,0.1,0.21,0.1,0.1,0.1,1.77

@@ -1,4 +1,4 @@
-stage,epidermis,eye,immune,melanocytes,mesenchyme,neural,somites,spinal.cord
+stage,epidermis,eye,immune,melanocytes,mesenchyme,neural,somites,spinal_cord
  24-34,0,0,0,0,0,5.59,0,1.12
  36-46,0,0,0,0,0,4.37,0.69,0
  48-58,0,0.97,0,0,0,7.56,0,0.95

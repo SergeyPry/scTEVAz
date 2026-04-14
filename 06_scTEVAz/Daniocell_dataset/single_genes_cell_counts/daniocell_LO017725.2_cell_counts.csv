@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,gut,lateral.line,neural,notochord,olfactory,otic,paraxial.mesoderm
+stage,blastomeres,epidermis,eye,gut,lateral_line,neural,notochord,olfactory,otic,paraxial_mesoderm
   5-6,6.13,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,5.26,2.63,0,0,2.63
  10-12,0,0,3.15,0,0,9.44,0,0,0,3.15

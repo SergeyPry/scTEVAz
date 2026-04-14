@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.mesenchyme,glial,heart,immune,mesenchyme,muscle,neural,olfactory,otic,periderm,pronephros,spinal.cord,vasculature
+stage,epidermis,erythrocytes,eye,fin_mesenchyme,glial,heart,immune,mesenchyme,muscle,neural,olfactory,otic,periderm,pronephros,spinal_cord,vasculature
  14-21,0,2,0,0,0,0,0,0,0,2,0,0,1,0,3,2
  24-34,0,1.64,0,0,0,0.82,0,0.82,0,25.45,0.82,0,0,0,11.49,17.24
  36-46,0,0,1.61,0,0,0,0,3.22,0,63.65,0,0,0,0,18.53,4.83

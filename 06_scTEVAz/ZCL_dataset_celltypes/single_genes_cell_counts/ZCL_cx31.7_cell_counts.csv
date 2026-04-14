@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Endothelial.cell,Enterocyte,Epithelial.cell,Erythrocyte,Goblet.cell,Granulocyte,Hepatocyte,Intestinal.bulb.cell,Ionocyte,Keratinocyte,Mesenchymal.cell,Mesenchymal.cell..caudal.fin.,Muscle.cell,Neural.cell,Neural.progenitor.cell,Oligodendrocyte,Osteoblast,Primordial.germ.cell,Radial.glia,Retinal.pigment.epithelial.cell,T.cell
-21Day,0.369986860264282,0,0.369986860264282,0.369986860264282,0.739973720528564,0,0,0,0,0.369986860264282,0,0,0,0,5.17981604369995,1.10996058079285,4.06985546290711,0.739973720528564,0,1.10996058079285,0.369986860264282,0
-3Month,0,0.104017006644673,0,0.936153059802054,0,0.104017006644673,0.208034013289345,0.208034013289345,0.104017006644673,0,0.104017006644673,0.208034013289345,0.104017006644673,0,0.104017006644673,0,3.74461223920822,0,0,0.728119046512708,0,0.208034013289345
-22Month,0,0,0,0,0,0,0,0,0,0,0,0,0,0.136649431988133,0,0,0.136649431988133,0,0.136649431988133,0,0,0
+stage,Cardiomyocyte,Endothelial_cell,Enterocyte,Epithelial_cell,Erythrocyte,Goblet_cell,Granulocyte,Hepatocyte,Intestinal_bulb_cell,Ionocyte,Keratinocyte,Mesenchymal_cell,Mesenchymal_cell__caudal_fin_,Muscle_cell,Neural_cell,Neural_progenitor_cell,Oligodendrocyte,Osteoblast,Primordial_germ_cell,Radial_glia,Retinal_pigment_epithelial_cell,T_cell
+21Day,0.37,0,0.37,0.37,0.74,0,0,0,0,0.37,0,0,0,0,5.18,1.11,4.07,0.74,0,1.11,0.37,0
+3Month,0,0.1,0,0.94,0,0.1,0.21,0.21,0.1,0,0.1,0.21,0.1,0,0.1,0,3.74,0,0,0.73,0,0.21
+22Month,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14,0,0,0.14,0,0.14,0,0,0

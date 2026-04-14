@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,fin.mesenchyme,glial,ionocyte,mesenchyme,neural,olfactory,spinal.cord,visceral.smooth.muscle
+stage,endocrine_pancreas,epidermis,fin_mesenchyme,glial,ionocyte,mesenchyme,neural,olfactory,spinal_cord,visceral_smooth_muscle
   7-9,0,0,0,0,0,0,2.63,0,0,0
  14-21,0,0,0,0,0,0,0,0,3,0
  48-58,0,0.57,0,0,0,0,1.15,0,0,0.57

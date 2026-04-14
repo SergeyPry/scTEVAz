@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,eye,glial,heart,lateral.line,mesenchyme,neural,notochord,olfactory,otic,paraxial.mesoderm,presomitic.mesoderm,pronephros,somites,spinal.cord
+stage,axial,blastomeres,epidermis,eye,glial,heart,lateral_line,mesenchyme,neural,notochord,olfactory,otic,paraxial_mesoderm,presomitic_mesoderm,pronephros,somites,spinal_cord
   3-4,0,60.86,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,0,6.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,5.85,0,0,0,0,0,0,0,8.86,0,0,0,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,glial,immune,mesenchyme,neural,olfactory,paraxial.mesoderm,periderm,somites,taste
+stage,blastomeres,endoderm,epidermis,glial,immune,mesenchyme,neural,olfactory,paraxial_mesoderm,periderm,somites,taste
   3-4,13.66,0,0,0,0,0,0,0,0,93.63,0,0
   5-6,19.56,0,0,0,0,0,12.95,0,0,81.78,0,0
   7-9,0,6.65,0,0,0,0,0,0,8.6,0,0,0

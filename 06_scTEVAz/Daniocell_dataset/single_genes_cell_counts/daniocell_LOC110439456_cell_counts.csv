@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,immune,ionocyte,lateral.line,mesenchyme,muscle,neural,notochord,paraxial.mesoderm,periderm,presomitic.mesoderm,somites,spinal.cord,vasculature
+stage,blastomeres,epidermis,erythrocytes,eye,immune,ionocyte,lateral_line,mesenchyme,muscle,neural,notochord,paraxial_mesoderm,periderm,presomitic_mesoderm,somites,spinal_cord,vasculature
   3-4,26.36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,55.17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,21.03,0,10.51,0,0,0,0,0

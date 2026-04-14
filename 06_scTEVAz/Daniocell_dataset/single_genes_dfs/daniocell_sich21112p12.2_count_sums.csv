@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,endoderm,epidermis,eye,gut,ionocyte,liver,mesenchyme,mucous,mural.cell,neural,periderm,spinal.cord,vasculature
+stage,endocrine_pancreas,endoderm,epidermis,eye,gut,ionocyte,liver,mesenchyme,mucous,mural_cell,neural,periderm,spinal_cord,vasculature
   7-9,0,0,0,0,0,0,0,0,0,0,10.34,0,0,0
  14-21,0.82,2.19,0.88,0,0,0,0,0,0,0,7.13,0.91,0,0
  24-34,0,0.79,0.78,0,0,0,0.66,0.62,0.68,0,2.56,1.49,0.82,1.08

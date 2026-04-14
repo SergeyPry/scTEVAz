@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,fin.epithelia,glial,immune,ionocyte,iridophores,mesenchyme,mucous,muscle,neural,notochord,olfactory,periderm,slow.muscle,spinal.cord
+stage,epidermis,eye,fast_muscle,fin_epithelia,glial,immune,ionocyte,iridophores,mesenchyme,mucous,muscle,neural,notochord,olfactory,periderm,slow_muscle,spinal_cord
  14-21,0,0,0,0,0,0,0,0,0,0,0,1.05,0,0,0,0,0.91
  24-34,0,0,0,0.72,0,0,0,0,0,0,0,4.06,0.73,1.22,0,0,1.42
  36-46,0,0,0,0,0,0,0,0,0,0.59,0,2.23,0,0,9.64,0,1.29

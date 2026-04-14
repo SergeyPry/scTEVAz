@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Erythrocyte,Erythrocyte..Liver.,Granulocyte,Hepatocyte,Immune.progenitor.cell,Intestinal.bulb.cell,Macrophage,Mesenchymal.cell,Neural.cell,Radial.glia,T.cell
-21Day,0,0.369986860264282,0,0,0,0.739973720528564,0,0.369986860264282,0,0.369986860264282,0,0
-3Month,0,0,0,0,0,0.104017006644673,0,0,0,0,0,0
-22Month,0.273298863976266,0,0.136649431988133,0.136649431988133,0.546597727952532,0.273298863976266,0.409948295964399,3.82618409566773,0.136649431988133,0,0.136649431988133,0.819896591928799
+stage,Epithelial_cell,Erythrocyte,Erythrocyte__Liver_,Granulocyte,Hepatocyte,Immune_progenitor_cell,Intestinal_bulb_cell,Macrophage,Mesenchymal_cell,Neural_cell,Radial_glia,T_cell
+21Day,0,0.37,0,0,0,0.74,0,0.37,0,0.37,0,0
+3Month,0,0,0,0,0,0.1,0,0,0,0,0,0
+22Month,0.27,0,0.14,0.14,0.55,0.27,0.41,3.83,0.14,0,0.14,0.82

@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,exocrine.pancreas,eye,fin.epithelia,fin.mesenchyme,glial,immune,iridophores,melanocytes,mesenchyme,mural.cell,neural,notochord,otic,paraxial.mesoderm,periderm,presomitic.mesoderm,slow.muscle,somites,spinal.cord,vasculature,xanthophores
+stage,blastomeres,epidermis,exocrine_pancreas,eye,fin_epithelia,fin_mesenchyme,glial,immune,iridophores,melanocytes,mesenchyme,mural_cell,neural,notochord,otic,paraxial_mesoderm,periderm,presomitic_mesoderm,slow_muscle,somites,spinal_cord,vasculature,xanthophores
   5-6,10.26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,3.45,0,0,0,0,0,0,0,0,10.06,0,0,21.15,0,0,0,0,0,0,0
  10-12,0,0,0,4.68,0,0,0,0,0,0,0,0,6.98,9.08,0,3.29,0,0,0,0,0,0,0

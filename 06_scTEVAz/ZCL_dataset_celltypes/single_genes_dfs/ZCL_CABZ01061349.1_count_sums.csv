@@ -1,5 +1,5 @@
-stage,Cardiomyocyte,Epithelial.cell,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Ionocyte,Mt.rich.cell,Neural.cell,Oligodendrocyte,Pancreatic.cell,Radial.glia,T.cell
-72hpf,0,0,0,0,0,0,0,13.907284839059,0,0,1.06979114146608,0
-21Day,0,0,0,0,0,0,0,5.35413235281323,1.33853308820331,1.33853308820331,0,0
-3Month,0,0.319949299554195,4.79923949331293,0.319949299554195,0,0.319949299554195,0,0,0,0,0,0
-22Month,1.09330930239487,0.546654651197433,84.1848162844047,0,0.546654651197433,0,0.546654651197433,0,0,0,0,0.546654651197433
+stage,Cardiomyocyte,Epithelial_cell,Hepatocyte,Immune_cell,Intestinal_bulb_cell,Ionocyte,Mt_rich_cell,Neural_cell,Oligodendrocyte,Pancreatic_cell,Radial_glia,T_cell
+72hpf,0,0,0,0,0,0,0,13.91,0,0,1.07,0
+21Day,0,0,0,0,0,0,0,5.35,1.34,1.34,0,0
+3Month,0,0.32,4.8,0.32,0,0.32,0,0,0,0,0,0
+22Month,1.09,0.55,84.18,0,0.55,0,0.55,0,0,0,0,0.55

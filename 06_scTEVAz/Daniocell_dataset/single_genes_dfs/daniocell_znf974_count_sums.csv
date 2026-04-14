@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.mesenchyme,glial,gut,hatching.gland,immune,ionocyte,lateral.line,mesenchyme,muscle,neural,notochord,periderm,presomitic.mesoderm,slow.muscle,somites,spinal.cord,vasculature
+stage,epidermis,eye,fin_mesenchyme,glial,gut,hatching_gland,immune,ionocyte,lateral_line,mesenchyme,muscle,neural,notochord,periderm,presomitic_mesoderm,slow_muscle,somites,spinal_cord,vasculature
  14-21,2.06,0,0,0,0,0,0,0,0,1.23,0,9.51,1.75,0,7.13,0.88,5.02,1.98,0
  24-34,0,3.21,0,0,0,0,0,1.01,0,3.79,1.13,13.37,0,3.89,0,0,0,3.4,0
  36-46,0,2.46,3.16,0.76,0,0,0,0,0,1.4,0.73,22.93,0,0,0,0,0,3.64,2.52

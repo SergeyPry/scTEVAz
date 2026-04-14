@@ -4,7 +4,6 @@
 #remotes::install_version("SeuratObject", "4.1.4", repos = c("https://satijalab.r-universe.dev", getOption("repos")))
 #remotes::install_version("Seurat", "4.4.0", repos = c("https://satijalab.r-universe.dev", getOption("repos")))
 
-#setwd("c:/Bioinformatics/00_Daniocell_data")
 
 library(tidyverse)
 library(dplyr)
@@ -142,6 +141,10 @@ for(gene in gene_names){
   
   gene_wide_summary[is.na(gene_wide_summary)] <- 0
   
+  # correct the column names
+  colnames_new <- str_replace_all(colnames(gene_wide_summary), '\\.', '_')
+  colnames(gene_wide_summary) <- colnames_new
+  
   write.csv(gene_wide_summary, paste0("./ZCL_dataset_celltypes/single_genes_dfs/ZCL_", gene, "_count_sums.csv"), quote = FALSE, row.names = FALSE)
   
 }
@@ -168,7 +171,7 @@ stage_cell_factors_df <- data.frame(stage = c("24hpf", "72hpf", "21Day", "3Month
                                     size_factors = stage_cell_factors)
 
 
-for(gene in gene_names[20347:length(gene_names)]){
+for(gene in gene_names){
   
   
   # check if the gene is already processed
@@ -238,6 +241,10 @@ for(gene in gene_names[20347:length(gene_names)]){
                                    arrange(stage)
   
   gene_wide_summary[is.na(gene_wide_summary)] <- 0
+  
+  # correct the column names
+  colnames_new <- str_replace_all(colnames(gene_wide_summary), '\\.', '_')
+  colnames(gene_wide_summary) <- colnames_new
   
   write.csv(gene_wide_summary, paste0("./ZCL_dataset_celltypes/single_genes_cell_counts/ZCL_", gene, "_cell_counts.csv"), quote = FALSE, row.names = FALSE)
   

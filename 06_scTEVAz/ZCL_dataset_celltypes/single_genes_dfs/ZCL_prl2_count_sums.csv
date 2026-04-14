@@ -1,6 +1,6 @@
-stage,Epithelial.cell,Granulosa.cell,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Mt.rich.cell,Neural.cell
-24hpf,4.08640457285017,0,0,0,0,0,0
-72hpf,0,0,0,0,0,0,21.3958228293216
-21Day,0,0,0,0,0,0,5.35413235281323
-3Month,0,0,0.319949299554195,0.319949299554195,0,0,0
-22Month,0.546654651197433,3.82658255838203,6.01320116317177,0,1.09330930239487,0.546654651197433,0
+stage,Epithelial_cell,Granulosa_cell,Hepatocyte,Immune_cell,Intestinal_bulb_cell,Mt_rich_cell,Neural_cell
+24hpf,4.09,0,0,0,0,0,0
+72hpf,0,0,0,0,0,0,21.4
+21Day,0,0,0,0,0,0,5.35
+3Month,0,0,0.32,0.32,0,0,0
+22Month,0.55,3.83,6.01,0,1.09,0.55,0

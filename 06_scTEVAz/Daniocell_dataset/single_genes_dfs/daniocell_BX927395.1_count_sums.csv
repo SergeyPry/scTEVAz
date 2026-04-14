@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,erythrocytes,glial,gut,immune,melanocytes,mesenchyme,muscle,neural,notochord,paraxial.mesoderm,periderm,presomitic.mesoderm,pronephros,somites,spinal.cord,vasculature
+stage,blastomeres,endoderm,epidermis,erythrocytes,glial,gut,immune,melanocytes,mesenchyme,muscle,neural,notochord,paraxial_mesoderm,periderm,presomitic_mesoderm,pronephros,somites,spinal_cord,vasculature
   7-9,7.42,0,0,0,0,0,0,0,0,0,106.99,12.44,205.62,0,0,0,0,0,0
  10-12,15.28,27.82,0,0,0,0,0,0,0,0,284.52,20.05,668.72,0,0,37.52,0,0,0
  14-21,0,0,65.88,16.31,28.34,6.16,0,1.01,6.94,15.87,48.48,14.93,40.88,1.15,137.13,7.07,43.56,239.38,3.31

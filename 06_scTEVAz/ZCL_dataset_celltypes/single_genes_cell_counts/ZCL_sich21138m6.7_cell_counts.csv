@@ -1,3 +1,3 @@
-stage,Erythrocyte,Hepatocyte,Macrophage,Mesenchymal.cell,Neural.cell
-72hpf,0.281848056003223,0,0,0,1.12739222401289
-22Month,0,0.819896591928799,0.136649431988133,0.136649431988133,0
+stage,Erythrocyte,Hepatocyte,Macrophage,Mesenchymal_cell,Neural_cell
+72hpf,0.28,0,0,0,1.13
+22Month,0,0.82,0.14,0.14,0

@@ -1,6 +1,6 @@
-stage,Epithelial.cell,Granulocyte,Hepatocyte,Intestinal.bulb.cell,Keratinocyte,Mesenchymal.cell,Neural.cell,Osteoblast,Retinal.pigment.epithelial.cell
+stage,Epithelial_cell,Granulocyte,Hepatocyte,Intestinal_bulb_cell,Keratinocyte,Mesenchymal_cell,Neural_cell,Osteoblast,Retinal_pigment_epithelial_cell
 24hpf,0,0,0,0,0,0,1,1,0
-72hpf,0,0,0,0,0,0,0,0.281848056003223,0.84554416800967
-21Day,0,0,0,0,0,0,0.739973720528564,0,0.369986860264282
-3Month,0.104017006644673,0,0.208034013289345,0.208034013289345,0.104017006644673,0.208034013289345,0,0,0
-22Month,0,0.136649431988133,0.819896591928799,0,0,0,0,0,0
+72hpf,0,0,0,0,0,0,0,0.28,0.85
+21Day,0,0,0,0,0,0,0.74,0,0.37
+3Month,0.1,0,0.21,0.21,0.1,0.21,0,0,0
+22Month,0,0.14,0.82,0,0,0,0,0,0

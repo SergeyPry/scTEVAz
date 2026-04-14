@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,fin.mesenchyme,glial,hatching.gland,heart,ionocyte,iridophores,lateral.line,mesenchyme,mucous,mural.cell,muscle,neural,otic,pericytes,periderm,pronephros,spinal.cord,taste,vascular.smooth.muscle,vasculature,visceral.smooth.muscle
+stage,blastomeres,epidermis,erythrocytes,eye,fin_mesenchyme,glial,hatching_gland,heart,ionocyte,iridophores,lateral_line,mesenchyme,mucous,mural_cell,muscle,neural,otic,pericytes,periderm,pronephros,spinal_cord,taste,vascular_smooth_muscle,vasculature,visceral_smooth_muscle
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9.44,0,0,0,0,0,0,0,0,0
  14-21,0,1,0,0,0,0,0,0,0,0,0,73,0,0,35,15,0,0,0,0,1,0,0,0,0

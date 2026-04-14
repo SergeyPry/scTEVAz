@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.epithelia,glial,gut,hatching.gland,immune,ionocyte,lateral.line,mesenchyme,mucous,muscle,neural,olfactory,periderm,spinal.cord
+stage,epidermis,erythrocytes,eye,fin_epithelia,glial,gut,hatching_gland,immune,ionocyte,lateral_line,mesenchyme,mucous,muscle,neural,olfactory,periderm,spinal_cord
   7-9,0,0,0,0,0,0,7.87,0,0,0,0,0,0,8.95,0,0,0
  10-12,0,0,0,0,0,0,11.75,0,0,0,0,0,0,0,0,0,0
  24-34,0,0,0,0,0,0,0,0,0.77,0,0,26.68,0,0,0,0,0

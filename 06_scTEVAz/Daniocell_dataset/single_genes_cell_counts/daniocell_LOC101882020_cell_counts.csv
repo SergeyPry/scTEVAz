@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,immune,iridophores,mesenchyme,muscle,neural,notochord,paraxial.mesoderm,periderm,spinal.cord
+stage,epidermis,eye,glial,immune,iridophores,mesenchyme,muscle,neural,notochord,paraxial_mesoderm,periderm,spinal_cord
   7-9,0,0,0,0,0,0,0,0,0,2.63,0,0
  24-34,0,0,0,0,0,0,0,0.82,0.82,0,0,0
  36-46,0,0.81,0,0,0,0.81,0,3.22,0,0,0.81,0

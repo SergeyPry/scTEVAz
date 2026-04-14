@@ -1,5 +1,5 @@
-stage,Endothelial.cell,Epithelial.cell,Erythrocyte,Granulocyte,Granulosa.cell,Hepatocyte,Intestinal.bulb.cell,Ionocyte,Macrophage,Mesenchymal.cell,Neural.cell,Neurosecretory.cell,Osteoblast,Pancreatic.cell,Radial.glia,Retinal.pigment.epithelial.cell,T.cell
-72hpf,0,0.281848056003223,0,0,0,0,0,0.281848056003223,0.281848056003223,0,11.8376183521354,0,1.12739222401289,0,0.84554416800967,0,0
-21Day,0,0,0.369986860264282,0,0,0,0,0,0,0.369986860264282,6.65976348475708,0,0,1.10996058079285,0,0.369986860264282,0
-3Month,0,0.208034013289345,0,0.104017006644673,0,0,0.104017006644673,0,0,0,0.104017006644673,0.104017006644673,0,0,0,0,0
-22Month,0.136649431988133,0.136649431988133,0,0.136649431988133,0.136649431988133,2.8696380717508,0.409948295964399,0.136649431988133,0,0.273298863976266,0.136649431988133,0,0.136649431988133,0,0.136649431988133,0,0.273298863976266
+stage,Endothelial_cell,Epithelial_cell,Erythrocyte,Granulocyte,Granulosa_cell,Hepatocyte,Intestinal_bulb_cell,Ionocyte,Macrophage,Mesenchymal_cell,Neural_cell,Neurosecretory_cell,Osteoblast,Pancreatic_cell,Radial_glia,Retinal_pigment_epithelial_cell,T_cell
+72hpf,0,0.28,0,0,0,0,0,0.28,0.28,0,11.84,0,1.13,0,0.85,0,0
+21Day,0,0,0.37,0,0,0,0,0,0,0.37,6.66,0,0,1.11,0,0.37,0
+3Month,0,0.21,0,0.1,0,0,0.1,0,0,0,0.1,0.1,0,0,0,0,0
+22Month,0.14,0.14,0,0.14,0.14,2.87,0.41,0.14,0,0.27,0.14,0,0.14,0,0.14,0,0.27

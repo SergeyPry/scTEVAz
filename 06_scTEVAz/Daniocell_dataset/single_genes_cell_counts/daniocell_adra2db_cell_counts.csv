@@ -1,4 +1,4 @@
-stage,eye,glial,mesenchyme,muscle,neural,presomitic.mesoderm,spinal.cord
+stage,eye,glial,mesenchyme,muscle,neural,presomitic_mesoderm,spinal_cord
  14-21,0,0,0,0,0,1,0
  24-34,0.82,0,0.82,0,1.64,0,0
  36-46,0,0,0,0,5.64,0,0.81

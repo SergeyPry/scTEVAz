@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.epithelia,gut,heart,immune,ionocyte,mesenchyme,mural.cell,muscle,paraxial.mesoderm,periderm,vasculature
+stage,blastomeres,epidermis,eye,fin_epithelia,gut,heart,immune,ionocyte,mesenchyme,mural_cell,muscle,paraxial_mesoderm,periderm,vasculature
   7-9,2.63,0,0,0,0,0,0,0,0,0,0,2.63,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,1,0
  36-46,0,0,0,0,0,0,0,0.81,0.81,0,0,0,0,0

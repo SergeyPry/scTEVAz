@@ -1,4 +1,4 @@
-stage,axial,blastomeres,eye,glial,mesenchyme,mural.cell,muscle,neural,otic,paraxial.mesoderm,periderm,presomitic.mesoderm,spinal.cord,vascular.smooth.muscle
+stage,axial,blastomeres,eye,glial,mesenchyme,mural_cell,muscle,neural,otic,paraxial_mesoderm,periderm,presomitic_mesoderm,spinal_cord,vascular_smooth_muscle
   3-4,13.18,13.18,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,2.63,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,1,0,0

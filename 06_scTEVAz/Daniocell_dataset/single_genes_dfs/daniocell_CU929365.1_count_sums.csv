@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,immune,mesenchyme,neural,periderm,spinal.cord,vasculature,visceral.smooth.muscle
+stage,epidermis,eye,glial,immune,mesenchyme,neural,periderm,spinal_cord,vasculature,visceral_smooth_muscle
  14-21,0,0,0,0,1.01,1.42,0,0,0,0
  24-34,0,0,0.84,0,0,3.93,2.07,0,0,0
  36-46,0,0,0,0,0.83,4.08,0,2.1,0,0

@@ -1,5 +1,5 @@
-stage,Cardiomyocyte,Erythrocyte,Hepatocyte,Immune.progenitor.cell,Keratinocyte,Mesenchymal.cell,Muscle.cell,Neural.cell,Neural.progenitor.cell,Osteoblast,Retinal.pigment.epithelial.cell
+stage,Cardiomyocyte,Erythrocyte,Hepatocyte,Immune_progenitor_cell,Keratinocyte,Mesenchymal_cell,Muscle_cell,Neural_cell,Neural_progenitor_cell,Osteoblast,Retinal_pigment_epithelial_cell
 24hpf,0,0,0,0,0,0,0,0,1,0,0
-72hpf,7.3280494560838,0,0,0,0.281848056003223,1.12739222401289,0,0.281848056003223,0.281848056003223,0.281848056003223,0
-21Day,5.91978976422852,0.369986860264282,0.369986860264282,0.369986860264282,0,0.369986860264282,0.369986860264282,0,0,3.69986860264282,0.369986860264282
-3Month,0.104017006644673,0,0,0,0,0.104017006644673,0,0,0,0,0
+72hpf,7.33,0,0,0,0.28,1.13,0,0.28,0.28,0.28,0
+21Day,5.92,0.37,0.37,0.37,0,0.37,0.37,0,0,3.7,0.37
+3Month,0.1,0,0,0,0,0.1,0,0,0,0,0

@@ -1,3 +1,3 @@
-stage,Epithelial.cell,Granulocyte,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Ionocyte,Macrophage,Mesenchymal.cell,Neural.cell,Pancreatic.cell
-3Month,0.319949299554195,0,1.91969579732517,0.319949299554195,0.319949299554195,0.319949299554195,0.319949299554195,0.319949299554195,0.319949299554195,0.319949299554195
-22Month,0,0.546654651197433,6.01320116317177,0,0.546654651197433,0,0,0.546654651197433,0,0
+stage,Epithelial_cell,Granulocyte,Hepatocyte,Immune_cell,Intestinal_bulb_cell,Ionocyte,Macrophage,Mesenchymal_cell,Neural_cell,Pancreatic_cell
+3Month,0.32,0,1.92,0.32,0.32,0.32,0.32,0.32,0.32,0.32
+22Month,0,0.55,6.01,0,0.55,0,0,0.55,0,0

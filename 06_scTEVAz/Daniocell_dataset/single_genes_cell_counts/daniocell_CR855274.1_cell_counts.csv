@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,eye,fast.muscle,glial,mesenchyme,neural,spinal.cord
+stage,endocrine_pancreas,eye,fast_muscle,glial,mesenchyme,neural,spinal_cord
  24-34,0,0,0,0,0,0,0.82
  48-58,0,0.57,0,0,0,0.57,0.57
  72-82,0.98,0,0.98,1.96,0.98,0,0

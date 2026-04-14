@@ -1,5 +1,5 @@
-stage,Immune.cell,Keratinocyte,Mesenchymal.cell,Mesenchymal.cell..caudal.fin.,Neural.cell,Neural.progenitor.cell,Osteoblast,Radial.glia,Retinal.cell
+stage,Immune_cell,Keratinocyte,Mesenchymal_cell,Mesenchymal_cell__caudal_fin_,Neural_cell,Neural_progenitor_cell,Osteoblast,Radial_glia,Retinal_cell
 24hpf,0,0,1,0,1,13,0,0,0
-72hpf,0,0,0.281848056003223,0,1.97293639202256,1.69108833601934,0.281848056003223,0.281848056003223,0.281848056003223
-21Day,0.369986860264282,0.369986860264282,1.10996058079285,0,1.10996058079285,0.739973720528564,0.369986860264282,0.369986860264282,0
-3Month,0,0,0.104017006644673,0.104017006644673,0,0,0,0,0
+72hpf,0,0,0.28,0,1.97,1.69,0.28,0.28,0.28
+21Day,0.37,0.37,1.11,0,1.11,0.74,0.37,0.37,0
+3Month,0,0,0.1,0.1,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,erythrocytes,eye,fin.mesenchyme,glial,liver,mesenchyme,mural.cell,neural,notochord,paraxial.mesoderm,taste,xanthophores
+stage,blastomeres,endoderm,erythrocytes,eye,fin_mesenchyme,glial,liver,mesenchyme,mural_cell,neural,notochord,paraxial_mesoderm,taste,xanthophores
   5-6,42.29,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,4,0,0,0,0,0,5.36,0,6.15,0,0
  10-12,0,4.98,7.16,9.93,0,0,0,0,0,19.1,5.29,0,0,0

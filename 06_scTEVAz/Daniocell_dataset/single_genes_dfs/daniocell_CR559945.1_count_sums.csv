@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,glial,mesenchyme,neural,periderm,spinal.cord
+stage,epidermis,erythrocytes,eye,glial,mesenchyme,neural,periderm,spinal_cord
  14-21,0,0.81,0,0,0,1.1,0,0
  24-34,0,0,0,0,0,5.21,0,1.02
  36-46,0,0,0,0,0,7.45,0,2.06

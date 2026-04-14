@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,erythrocytes,eye,fast.muscle,fin.mesenchyme,glial,gut,immune,lateral.line,mesenchyme,mural.cell,muscle,neural,otic,periderm,pronephros,spinal.cord,taste,vasculature
+stage,endoderm,epidermis,erythrocytes,eye,fast_muscle,fin_mesenchyme,glial,gut,immune,lateral_line,mesenchyme,mural_cell,muscle,neural,otic,periderm,pronephros,spinal_cord,taste,vasculature
  14-21,0,0,0,0,0,0,1,0,0,0,1,0,0,18,1,0,0,10,0,0
  24-34,0.82,0,0,13.13,0,0,9.03,0,0,0,2.46,0,0.82,84.55,0.82,0,0.82,19.7,0,0
  36-46,0,0.81,0,16.11,0,0,5.64,0,0,0,0.81,0.81,1.61,43.51,0.81,0.81,0,20.95,0,0

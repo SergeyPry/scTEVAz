@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,glial,gut,ionocyte,lateral.line,mesenchyme,neural,notochord,olfactory,periderm,spinal.cord,taste,vascular.smooth.muscle
+stage,epidermis,eye,fin_epithelia,glial,gut,ionocyte,lateral_line,mesenchyme,neural,notochord,olfactory,periderm,spinal_cord,taste,vascular_smooth_muscle
  14-21,0,0,0,0,0,0,0,0,1.14,0,0,0,0,0,0
  24-34,0.71,0,0,0,0,0,0,0,0,0.67,0,0,0,0,0
  36-46,3.44,0,0,0,0,0,0,2.74,0,0,0,0,0,0,0

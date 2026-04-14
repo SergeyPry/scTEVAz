@@ -1,4 +1,4 @@
-stage,fast.muscle,immune,neural,notochord,periderm,vasculature
+stage,fast_muscle,immune,neural,notochord,periderm,vasculature
  14-21,0,0,1,0,0,0
  24-34,0,0,0,0.82,0,0
  36-46,0,0,0,0,0,0.81

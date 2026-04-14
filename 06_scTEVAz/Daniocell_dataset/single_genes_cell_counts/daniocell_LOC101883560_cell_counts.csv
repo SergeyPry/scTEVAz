@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.epithelia,fin.mesenchyme,glial,gut,immune,ionocyte,lateral.line,mesenchyme,mural.cell,muscle,neural,notochord,otic,periderm,pgc,spinal.cord,vasculature
+stage,epidermis,erythrocytes,eye,fin_epithelia,fin_mesenchyme,glial,gut,immune,ionocyte,lateral_line,mesenchyme,mural_cell,muscle,neural,notochord,otic,periderm,pgc,spinal_cord,vasculature
  14-21,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,2,0
  24-34,0,0,0,0,0,0,0,0,0,0.82,0.82,0,0.82,7.39,0,0,0,0,1.64,0
  36-46,0.81,0,0,0,0,0,0,0,0,0,0.81,0,0,6.45,0,0,0.81,0,1.61,0

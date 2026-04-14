@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,fin.mesenchyme,gut,heart,mesenchyme,mucous,mural.cell,muscle,neural,olfactory,paraxial.mesoderm,periderm,vasculature
+stage,blastomeres,epidermis,erythrocytes,eye,fin_mesenchyme,gut,heart,mesenchyme,mucous,mural_cell,muscle,neural,olfactory,paraxial_mesoderm,periderm,vasculature
   3-4,51.04,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,42.91,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,4.33,0,5.47,0,0

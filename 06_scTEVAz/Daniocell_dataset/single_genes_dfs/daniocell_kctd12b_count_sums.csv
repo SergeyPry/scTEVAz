@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,erythrocytes,eye,glial,ionocyte,iridophores,lateral.line,liver,mesenchyme,mural.cell,muscle,neural,olfactory,otic,periderm,pronephros,spinal.cord,taste,visceral.smooth.muscle
+stage,axial,blastomeres,epidermis,erythrocytes,eye,glial,ionocyte,iridophores,lateral_line,liver,mesenchyme,mural_cell,muscle,neural,olfactory,otic,periderm,pronephros,spinal_cord,taste,visceral_smooth_muscle
   3-4,26.21,306.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16.81,0,0,0,0
   5-6,19.87,221.99,0,0,0,0,0,0,0,0,0,0,0,7.06,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,11.77,0,0,0,0,0,0,0

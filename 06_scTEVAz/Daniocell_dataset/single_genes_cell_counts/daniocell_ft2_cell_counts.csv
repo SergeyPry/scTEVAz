@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,gut,immune,ionocyte,lateral.line,mucous,neural,notochord,olfactory,paraxial.mesoderm,periderm,spinal.cord,taste,vasculature
+stage,epidermis,eye,glial,gut,immune,ionocyte,lateral_line,mucous,neural,notochord,olfactory,paraxial_mesoderm,periderm,spinal_cord,taste,vasculature
   7-9,0,0,0,0,0,0,0,0,0,2.63,0,2.63,0,0,0,0
  24-34,0,0,0,0,0,0,0,0,0,0,0,0,0.82,0.82,0,0.82
  36-46,0,0,0,0,0,0,0,0,3.22,0,0,0,0,1.61,0,0

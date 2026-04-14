@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Macrophage,Neural.cell,Pancreatic.cell
-72hpf,0.281848056003223,0,0.563696112006446,0
-21Day,0,0.369986860264282,1.47994744105713,0.369986860264282
-3Month,0,0,0.312051019934018,0
+stage,Cardiomyocyte,Macrophage,Neural_cell,Pancreatic_cell
+72hpf,0.28,0,0.56,0
+21Day,0,0.37,1.48,0.37
+3Month,0,0,0.31,0

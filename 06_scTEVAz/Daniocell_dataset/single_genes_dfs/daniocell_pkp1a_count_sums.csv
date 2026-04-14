@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,fast.muscle,fin.epithelia,gut,hatching.gland,heart,immune,ionocyte,lateral.line,mesenchyme,mucous,muscle,neural,notochord,olfactory,periderm,pronephros,spinal.cord,vascular.smooth.muscle
+stage,endocrine_pancreas,epidermis,eye,fast_muscle,fin_epithelia,gut,hatching_gland,heart,immune,ionocyte,lateral_line,mesenchyme,mucous,muscle,neural,notochord,olfactory,periderm,pronephros,spinal_cord,vascular_smooth_muscle
  14-21,0,3.55,0,0,0,0,0.97,0,0,0.8,0,0,0,0,6.17,4.88,0,8.13,0,0,0
  24-34,0,20.9,0,0,1.37,0,0,1.37,0,2.23,0,0,0,0,0,0.6,2.06,16.31,0,0.86,0
  36-46,0,30.2,0,0,8.66,0,0,0,0,0.67,0,0,2.82,0.65,0,0,0.84,14.31,0,0,0

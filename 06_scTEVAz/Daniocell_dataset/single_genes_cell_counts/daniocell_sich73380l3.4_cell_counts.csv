@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,fin.epithelia,fin.mesenchyme,immune,iridophores,mesenchyme,muscle,neural,notochord,otic,paraxial.mesoderm,periderm,somites,spinal.cord,vascular.smooth.muscle,vasculature
+stage,blastomeres,epidermis,erythrocytes,eye,fin_epithelia,fin_mesenchyme,immune,iridophores,mesenchyme,muscle,neural,notochord,otic,paraxial_mesoderm,periderm,somites,spinal_cord,vascular_smooth_muscle,vasculature
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,12.26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,2.63,0,2.63,0,0,0,0,0

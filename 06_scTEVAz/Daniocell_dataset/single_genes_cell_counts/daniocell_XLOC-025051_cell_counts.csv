@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,immune,iridophores,lateral.line,liver,mesenchyme,mural.cell,muscle,neural,olfactory,otic,pericytes,periderm,spinal.cord,xanthophores
+stage,blastomeres,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,immune,iridophores,lateral_line,liver,mesenchyme,mural_cell,muscle,neural,olfactory,otic,pericytes,periderm,spinal_cord,xanthophores
   5-6,6.13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,0,3.15,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0

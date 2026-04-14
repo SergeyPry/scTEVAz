@@ -1,3 +1,3 @@
-stage,Epithelial.cell,Neural.progenitor.cell,Primordial.germ.cell,Spermatocyte
-24hpf,0,8.17280914570035,0,0
-3Month,0.319949299554195,0,0.639898599108391,0.319949299554195
+stage,Epithelial_cell,Neural_progenitor_cell,Primordial_germ_cell,Spermatocyte
+24hpf,0,8.17,0,0
+3Month,0.32,0,0.64,0.32

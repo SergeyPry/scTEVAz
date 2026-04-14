@@ -1,6 +1,6 @@
-stage,Cardiomyocyte,Enterocyte,Epithelial.cell,Epithelial.cell..Brain.,Erythrocyte,Erythroid.progenitor.cell,Goblet.cell,Granulocyte,Immune.cell,Immune.progenitor.cell,Keratinocyte,Macrophage,Mesenchymal.cell,Muscle.cell,Neural.cell,Neural.progenitor.cell,Neurosecretory.cell,Oligodendrocyte,Osteoblast,Primordial.germ.cell,Retinal.cell,Spermatocyte
-24hpf,0,0,4.08640457285017,0,0,0,0,0,0,0,0,0,4.08640457285017,0,0,40.8640457285017,0,0,0,0,0,0
-72hpf,1.06979114146608,0,1.06979114146608,0,2.13958228293216,0,0,0,0,0,3.20937342439823,0,0,0,17.1166582634572,8.55832913172862,0,1.06979114146608,8.55832913172862,0,1.06979114146608,0
-21Day,4.01559926460992,0,1.33853308820331,0,5.35413235281323,1.33853308820331,0,0,0,1.33853308820331,1.33853308820331,1.33853308820331,6.69266544101654,0,2.67706617640661,1.33853308820331,1.33853308820331,0,1.33853308820331,0,0,0
-3Month,0,0.319949299554195,0.639898599108391,0.319949299554195,0,0,0.319949299554195,0,0.319949299554195,0,0.959847898662586,0,0.639898599108391,0.319949299554195,0,0,0,0,0,0.639898599108391,0,1.59974649777098
-22Month,0,0,0,0,0,0,0.546654651197433,1.09330930239487,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+stage,Cardiomyocyte,Enterocyte,Epithelial_cell,Epithelial_cell__Brain_,Erythrocyte,Erythroid_progenitor_cell,Goblet_cell,Granulocyte,Immune_cell,Immune_progenitor_cell,Keratinocyte,Macrophage,Mesenchymal_cell,Muscle_cell,Neural_cell,Neural_progenitor_cell,Neurosecretory_cell,Oligodendrocyte,Osteoblast,Primordial_germ_cell,Retinal_cell,Spermatocyte
+24hpf,0,0,4.09,0,0,0,0,0,0,0,0,0,4.09,0,0,40.86,0,0,0,0,0,0
+72hpf,1.07,0,1.07,0,2.14,0,0,0,0,0,3.21,0,0,0,17.12,8.56,0,1.07,8.56,0,1.07,0
+21Day,4.02,0,1.34,0,5.35,1.34,0,0,0,1.34,1.34,1.34,6.69,0,2.68,1.34,1.34,0,1.34,0,0,0
+3Month,0,0.32,0.64,0.32,0,0,0.32,0,0.32,0,0.96,0,0.64,0.32,0,0,0,0,0,0.64,0,1.6
+22Month,0,0,0,0,0,0,0.55,1.09,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,blastomeres,eye,fast.muscle,glial,mesenchyme,muscle,neural,slow.muscle,somites,spinal.cord,xanthophores
+stage,blastomeres,eye,fast_muscle,glial,mesenchyme,muscle,neural,slow_muscle,somites,spinal_cord,xanthophores
   5-6,12.26,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,11,0,4,7,0,0
  24-34,0,0,0,0,2.46,8.21,0.82,0,1.64,0,0

@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Goblet.cell,Granulocyte,Hepatocyte,Immune.cell,Mesenchymal.cell,Muscle.cell,Neural.progenitor.cell,Primordial.germ.cell,Radial.glia,Retinal.pigment.epithelial.cell,Spermatocyte
-24hpf,0,0,0,0,0,0,4.08640457285017,8.17280914570035,0,0,0,0
-21Day,0,0,0,0,0,0,0,1.33853308820331,0,0,0,0
-3Month,0.319949299554195,0.639898599108391,0.319949299554195,0.639898599108391,0.319949299554195,0.319949299554195,0.319949299554195,0,11.518174783951,0.319949299554195,0.319949299554195,8.31868178840908
+stage,Epithelial_cell,Goblet_cell,Granulocyte,Hepatocyte,Immune_cell,Mesenchymal_cell,Muscle_cell,Neural_progenitor_cell,Primordial_germ_cell,Radial_glia,Retinal_pigment_epithelial_cell,Spermatocyte
+24hpf,0,0,0,0,0,0,4.09,8.17,0,0,0,0
+21Day,0,0,0,0,0,0,0,1.34,0,0,0,0
+3Month,0.32,0.64,0.32,0.64,0.32,0.32,0.32,0,11.52,0.32,0.32,8.32

@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,erythrocytes,eye,glial,neural,periderm,spinal.cord
+stage,endocrine_pancreas,erythrocytes,eye,glial,neural,periderm,spinal_cord
  14-21,0,1,0,0,1,0,0
  24-34,0,0,0,0,0.82,0,0
  36-46,0,0,0,0,6.45,0.81,0.81

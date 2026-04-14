@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,eye,fin.mesenchyme,glial,lateral.line,mesenchyme,muscle,neural,notochord,periderm,taste
+stage,blastomeres,endoderm,eye,fin_mesenchyme,glial,lateral_line,mesenchyme,muscle,neural,notochord,periderm,taste
   3-4,32.82,0,0,0,0,0,0,0,0,0,12.22,0
   5-6,28.4,0,0,0,0,0,0,0,8.85,0,0,0
   7-9,0,3.45,4.53,0,0,0,0,0,0,0,0,0

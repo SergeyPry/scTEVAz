@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,eye,glial,liver,mural.cell,muscle,neural,olfactory,otic,paraxial.mesoderm,pronephros,spinal.cord,taste
+stage,endocrine_pancreas,eye,glial,liver,mural_cell,muscle,neural,olfactory,otic,paraxial_mesoderm,pronephros,spinal_cord,taste
   7-9,0,10.74,0,0,0,0,7.92,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,15.57,0,0,11.86,0,0,0
  14-21,0,2.53,3.06,0,0,0,5.74,0,0,0,0.9,2.9,0

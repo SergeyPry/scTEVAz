@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,gut,immune,mesenchyme,muscle,neural,notochord,otic,spinal.cord,taste,vasculature
+stage,epidermis,eye,glial,gut,immune,mesenchyme,muscle,neural,notochord,otic,spinal_cord,taste,vasculature
  14-21,0,0,0,1,0,0,0,4,1,0,3,0,0
  24-34,0,0.82,0,0,0,0,0,3.28,0,0,0.82,0,0
  36-46,0,0,0,0,0,1.61,0,5.64,0,0,0,0,0

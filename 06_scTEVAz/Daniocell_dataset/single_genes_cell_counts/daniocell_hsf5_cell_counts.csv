@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,fin.mesenchyme,glial,iridophores,liver,mesenchyme,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,pericytes,periderm,slow.muscle,somites,spinal.cord,visceral.smooth.muscle
+stage,blastomeres,endoderm,epidermis,eye,fin_mesenchyme,glial,iridophores,liver,mesenchyme,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,pericytes,periderm,slow_muscle,somites,spinal_cord,visceral_smooth_muscle
   3-4,39.53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13.18,0,0,0,0
   5-6,42.91,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,5.26,0,0,0,0,0,0,0,0,10.51,0,0,0,2.63,0,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,erythrocytes,eye,fast.muscle,glial,gut,heart,immune,ionocyte,lateral.line,melanocytes,mesenchyme,mucous,muscle,neural,notochord,otic,paraxial.mesoderm,periderm,pgc,spinal.cord,vasculature
+stage,axial,blastomeres,epidermis,erythrocytes,eye,fast_muscle,glial,gut,heart,immune,ionocyte,lateral_line,melanocytes,mesenchyme,mucous,muscle,neural,notochord,otic,paraxial_mesoderm,periderm,pgc,spinal_cord,vasculature
   3-4,0,12.19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,8.71,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.07,0,0,8.8,0,0,0,0

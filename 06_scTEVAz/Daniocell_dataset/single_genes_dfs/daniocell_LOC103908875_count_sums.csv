@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,fin.epithelia,glial,gut,heart,ionocyte,lateral.line,mesenchyme,muscle,neural,olfactory,periderm,pronephros,spinal.cord,taste,vascular.smooth.muscle,vasculature
+stage,epidermis,eye,fast_muscle,fin_epithelia,glial,gut,heart,ionocyte,lateral_line,mesenchyme,muscle,neural,olfactory,periderm,pronephros,spinal_cord,taste,vascular_smooth_muscle,vasculature
  10-12,0,0,0,0,0,0,0,0,0,0,0,20.66,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,1.32,0,0,0,1.67,0,0,0,0,0
  24-34,0,0,0,0.62,0,0,0,0,0,0.9,0,0.95,1.22,24.73,1.08,0,0,0,0

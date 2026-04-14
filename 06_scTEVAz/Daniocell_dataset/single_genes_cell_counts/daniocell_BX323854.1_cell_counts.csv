@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,glial,gut,immune,ionocyte,lateral.line,mesenchyme,mucous,neural,periderm,taste,vasculature
+stage,epidermis,eye,fin_epithelia,glial,gut,immune,ionocyte,lateral_line,mesenchyme,mucous,neural,periderm,taste,vasculature
  14-21,0,0,0,0,0,0,0,0,0,0,1,0,0,0
  24-34,0,0,0,0,0,0,0,0,0,2.46,0,0,0,0
  36-46,0,0,0,0,0,0,2.42,0,0,4.03,0,0,0,0

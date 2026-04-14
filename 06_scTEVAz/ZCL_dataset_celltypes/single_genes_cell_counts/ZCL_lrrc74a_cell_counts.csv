@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Epithelial.cell..Brain.,Hepatocyte,Macrophage,Osteoblast,Pancreatic.cell
-72hpf,0,0.281848056003223,0,0,0.281848056003223,0
-3Month,0,0,0.104017006644673,0.104017006644673,0,0.104017006644673
-22Month,0.136649431988133,0,0.546597727952532,0,0,0
+stage,Epithelial_cell,Epithelial_cell__Brain_,Hepatocyte,Macrophage,Osteoblast,Pancreatic_cell
+72hpf,0,0.28,0,0,0.28,0
+3Month,0,0,0.1,0.1,0,0.1
+22Month,0.14,0,0.55,0,0,0

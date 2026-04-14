@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,fast.muscle,fin.epithelia,glial,gut,immune,mesenchyme,muscle,neural,otic,paraxial.mesoderm,pericytes,periderm,somites,spinal.cord,visceral.smooth.muscle
+stage,blastomeres,epidermis,erythrocytes,eye,fast_muscle,fin_epithelia,glial,gut,immune,mesenchyme,muscle,neural,otic,paraxial_mesoderm,pericytes,periderm,somites,spinal_cord,visceral_smooth_muscle
   3-4,49.94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13.35,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.73,0,0
  36-46,0,0,0,0,0,0,0,0,0,1.58,0,3.18,0.57,0,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,endoderm,eye,glial,lateral.line,mesenchyme,muscle,neural,olfactory,otic,periderm,spinal.cord,vasculature
+stage,endoderm,eye,glial,lateral_line,mesenchyme,muscle,neural,olfactory,otic,periderm,spinal_cord,vasculature
   7-9,6.4,0,0,0,0,0,4.57,0,0,0,0,0
  10-12,4.3,0,0,0,0,0,13.16,0,0,0,0,0
  14-21,0,0,0,0,0,0,3.04,0,0,0,0,0

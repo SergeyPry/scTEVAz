@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,mesenchyme,neural,paraxial.mesoderm,spinal.cord
+stage,blastomeres,epidermis,eye,mesenchyme,neural,paraxial_mesoderm,spinal_cord
   7-9,6.82,0,0,0,0,4.23,0
  14-21,0,0.83,0,0,0,0,0
  24-34,0,0,0,0,1.13,0,0

@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,fin.epithelia,glial,ionocyte,mesenchyme,mucous,neural,olfactory,periderm,taste
+stage,epidermis,eye,fast_muscle,fin_epithelia,glial,ionocyte,mesenchyme,mucous,neural,olfactory,periderm,taste
  14-21,0,0,0,0,0,0,0,0,0,0,0.98,0
  24-34,0,0,0,0,0,0,0,0,1.03,0,18.85,0
  36-46,0,0.7,0,0,0,0,0,0,0,0,46.48,0

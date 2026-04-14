@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.epithelia,immune,liver,melanocytes,mesenchyme,mucous,neural,notochord,periderm,somites,spinal.cord
+stage,epidermis,erythrocytes,eye,fin_epithelia,immune,liver,melanocytes,mesenchyme,mucous,neural,notochord,periderm,somites,spinal_cord
  14-21,3.75,0,0,0,0,0,0,1.12,0,1.34,0,0,0.85,1.83
  24-34,1.31,0,0.7,0,0,0,0,0,0,1.4,0,0,0,0
  36-46,0,0,1.22,0,0,0,0,0,0,0,0,0.7,0,0

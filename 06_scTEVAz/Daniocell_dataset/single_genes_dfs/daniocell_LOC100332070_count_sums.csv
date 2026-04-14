@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.epithelia,glial,immune,mesenchyme,mucous,muscle,neural,notochord,otic,paraxial.mesoderm,periderm,presomitic.mesoderm,slow.muscle,somites,spinal.cord,vasculature
+stage,blastomeres,epidermis,eye,fin_epithelia,glial,immune,mesenchyme,mucous,muscle,neural,notochord,otic,paraxial_mesoderm,periderm,presomitic_mesoderm,slow_muscle,somites,spinal_cord,vasculature
   3-4,30.36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,12.17,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,4.22,0,0,0,0,0,0,0,0,0

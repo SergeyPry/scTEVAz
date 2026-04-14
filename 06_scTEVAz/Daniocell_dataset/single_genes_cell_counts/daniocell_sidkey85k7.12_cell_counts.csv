@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,glial,gut,immune,ionocyte,mesenchyme,neural,olfactory,otic,paraxial.mesoderm,spinal.cord
+stage,epidermis,eye,fin_epithelia,glial,gut,immune,ionocyte,mesenchyme,neural,olfactory,otic,paraxial_mesoderm,spinal_cord
  14-21,0,0,0,0,0,0,0,0,1,0,0,1,2
  24-34,0,0,0,0,0,0,0,0,0.82,0.82,0,0,1.64
  36-46,0,0,0,0.81,0,0,0,0,4.83,0.81,0,0,0.81

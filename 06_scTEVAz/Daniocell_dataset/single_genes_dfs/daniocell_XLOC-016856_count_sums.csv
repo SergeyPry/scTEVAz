@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,eye,immune,mesenchyme,neural,paraxial.mesoderm,pgc,vasculature
+stage,axial,blastomeres,epidermis,eye,immune,mesenchyme,neural,paraxial_mesoderm,pgc,vasculature
   3-4,0,25.39,0,0,0,0,0,0,0,0
   5-6,9.29,16.72,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,6.25,4.96,0,0

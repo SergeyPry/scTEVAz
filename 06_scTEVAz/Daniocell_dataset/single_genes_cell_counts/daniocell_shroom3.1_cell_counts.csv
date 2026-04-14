@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,liver,melanocytes,mesenchyme,muscle,neural,olfactory,otic,periderm,spinal.cord,vasculature
+stage,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,liver,melanocytes,mesenchyme,muscle,neural,olfactory,otic,periderm,spinal_cord,vasculature
  14-21,0,0,0,0,0,0,0,1,1,2,0,0,1,1,0
  24-34,0,0,0,0,0,0,0,0.82,0,3.28,0.82,0,0.82,0.82,1.64
  36-46,0,2.42,0.81,0,2.42,0,0,4.83,1.61,11.28,0.81,0.81,3.22,2.42,0

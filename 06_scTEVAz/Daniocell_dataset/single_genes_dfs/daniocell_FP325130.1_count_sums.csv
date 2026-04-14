@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.epithelia,glial,gut,heart,ionocyte,lateral.line,mesenchyme,mural.cell,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,periderm,spinal.cord,taste,vascular.smooth.muscle,vasculature
+stage,blastomeres,epidermis,eye,fin_epithelia,glial,gut,heart,ionocyte,lateral_line,mesenchyme,mural_cell,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,periderm,spinal_cord,taste,vascular_smooth_muscle,vasculature
   3-4,101.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,68.14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,9.14,0,0,0,3.04,0,0,0,0,0

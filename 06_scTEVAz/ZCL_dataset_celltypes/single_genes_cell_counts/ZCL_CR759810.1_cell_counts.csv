@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Erythrocyte,Neural.progenitor.cell,Retinal.pigment.epithelial.cell
+stage,Epithelial_cell,Erythrocyte,Neural_progenitor_cell,Retinal_pigment_epithelial_cell
 24hpf,0,0,2,0
-72hpf,0,0,0.281848056003223,0
-21Day,0.369986860264282,0.369986860264282,0,0.369986860264282
+72hpf,0,0,0.28,0
+21Day,0.37,0.37,0,0.37

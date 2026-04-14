@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,epidermis,eye,fin.mesenchyme,mesenchyme,mural.cell,neural,periderm,somites,spinal.cord,vasculature
+stage,blastomeres,endocrine_pancreas,epidermis,eye,fin_mesenchyme,mesenchyme,mural_cell,neural,periderm,somites,spinal_cord,vasculature
   5-6,11.03,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0.96,0,0,0.83,0,0,0,0.97,0,0
  24-34,0,0,0,0.97,0,0,0,5.29,0.71,0,0,1.26

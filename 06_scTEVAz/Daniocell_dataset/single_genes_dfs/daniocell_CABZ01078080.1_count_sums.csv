@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,exocrine.pancreas,eye,fin.epithelia,glial,gut,mesenchyme,neural,otic,periderm,pronephros,spinal.cord,vasculature,visceral.smooth.muscle
+stage,epidermis,erythrocytes,exocrine_pancreas,eye,fin_epithelia,glial,gut,mesenchyme,neural,otic,periderm,pronephros,spinal_cord,vasculature,visceral_smooth_muscle
  14-21,0.83,0,0,0,0,0,0,0,0,0,0,0,1.09,0,0
  24-34,1.89,0,0,0,0,0,0,1.16,12.72,0.88,0,0,0,0.98,0
  36-46,0,0,0,0,0,0,0,0,1.89,0,0,0,0,0,0

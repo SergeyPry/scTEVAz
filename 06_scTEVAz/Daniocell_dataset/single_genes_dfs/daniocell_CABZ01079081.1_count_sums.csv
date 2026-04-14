@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,gut,hatching.gland,immune,ionocyte,mesenchyme,neural,olfactory,otic,periderm,somites,spinal.cord,taste,vasculature
+stage,blastomeres,epidermis,eye,glial,gut,hatching_gland,immune,ionocyte,mesenchyme,neural,olfactory,otic,periderm,somites,spinal_cord,taste,vasculature
   3-4,31.64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,10.64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,6.86,0,0,0,0,0,0,13.36,0,0,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,erythrocytes,eye,glial,gut,mesenchyme,muscle,neural,paraxial.mesoderm,periderm,taste,vasculature
+stage,axial,blastomeres,epidermis,erythrocytes,eye,glial,gut,mesenchyme,muscle,neural,paraxial_mesoderm,periderm,taste,vasculature
   3-4,13.67,48.39,0,0,0,0,0,0,0,0,0,19.1,0,0
   5-6,0,17.49,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,11.98,3.31,0,0,0

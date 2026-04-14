@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,eye,glial,mesenchyme,mucous,neural,otic,paraxial.mesoderm,periderm,presomitic.mesoderm,slow.muscle,somites,spinal.cord
+stage,axial,blastomeres,endoderm,eye,glial,mesenchyme,mucous,neural,otic,paraxial_mesoderm,periderm,presomitic_mesoderm,slow_muscle,somites,spinal_cord
   3-4,15.32,374.63,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,8.83,258.08,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,15.06,0,0,30.43,0,0,0,61.81,0,21.58,0,0,0,0,0

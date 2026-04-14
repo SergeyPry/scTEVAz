@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,glial,mesenchyme,mural.cell,muscle,neural,notochord,otic,slow.muscle,somites,spinal.cord,vasculature
+stage,endocrine_pancreas,epidermis,eye,glial,mesenchyme,mural_cell,muscle,neural,notochord,otic,slow_muscle,somites,spinal_cord,vasculature
  14-21,0,0,0,0,1.13,0,1.16,8.32,0,0,0,1.54,4.95,1.23
  24-34,0,0,1.04,0.63,1.33,0,1.03,28.72,0,0,0.67,0,2.03,0.88
  36-46,0,0,3.43,0,1.6,0,0,69.15,0,0,0,0,9.72,0.91

@@ -1,3 +1,3 @@
-stage,Epithelial.cell,Intestinal.bulb.cell,Primordial.germ.cell,Spermatocyte
-72hpf,0.281848056003223,0,0,0
-3Month,0,0.104017006644673,0.416068026578691,0.104017006644673
+stage,Epithelial_cell,Intestinal_bulb_cell,Primordial_germ_cell,Spermatocyte
+72hpf,0.28,0,0,0
+3Month,0,0.1,0.42,0.1

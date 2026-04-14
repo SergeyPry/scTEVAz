@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,neural,periderm,spinal.cord,vasculature
+stage,endoderm,epidermis,neural,periderm,spinal_cord,vasculature
  14-21,1,0,0,0,0,0
  24-34,0,0,0.82,2.46,0,0.82
  36-46,0,0,1.61,0,0,0

@@ -1,5 +1,5 @@
-stage,Endothelial.cell,Enterocyte,Epithelial.cell,Erythroid.progenitor.cell,Goblet.cell,Granulocyte,Granulosa.cell,Hepatocyte,Intestinal.bulb.cell,Macrophage,Mesenchymal.cell,Mesenchymal.cell..caudal.fin.,Mt.rich.cell,Muscle.cell,Nephron.cell,Pancreatic.cell,T.cell
-72hpf,0.281848056003223,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.281848056003223,0
-21Day,0,0,0.369986860264282,0.369986860264282,0,0,0,0,0,0.369986860264282,0,0,0,0,0,0,0
-3Month,0,0.104017006644673,1.35222108638074,0,0.312051019934018,0.104017006644673,0,3.95264625249756,0.624102039868036,0.312051019934018,0.104017006644673,0.208034013289345,0.104017006644673,0.936153059802054,0.208034013289345,0.104017006644673,0.104017006644673
-22Month,0,0,0,0,0,0.273298863976266,0.683247159940666,1.36649431988133,0,0.136649431988133,0,0,0,0.136649431988133,0,0,0
+stage,Endothelial_cell,Enterocyte,Epithelial_cell,Erythroid_progenitor_cell,Goblet_cell,Granulocyte,Granulosa_cell,Hepatocyte,Intestinal_bulb_cell,Macrophage,Mesenchymal_cell,Mesenchymal_cell__caudal_fin_,Mt_rich_cell,Muscle_cell,Nephron_cell,Pancreatic_cell,T_cell
+72hpf,0.28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.28,0
+21Day,0,0,0.37,0.37,0,0,0,0,0,0.37,0,0,0,0,0,0,0
+3Month,0,0.1,1.35,0,0.31,0.1,0,3.95,0.62,0.31,0.1,0.21,0.1,0.94,0.21,0.1,0.1
+22Month,0,0,0,0,0,0.27,0.68,1.37,0,0.14,0,0,0,0.14,0,0,0

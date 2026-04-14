@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,ionocyte,liver,neural,periderm
+stage,epidermis,eye,fin_epithelia,ionocyte,liver,neural,periderm
  14-21,0,0,0,0,0.93,0,0
  24-34,0,0,0,0,0,0,6.03
  36-46,0,0.56,0,0,0,0.73,5.46

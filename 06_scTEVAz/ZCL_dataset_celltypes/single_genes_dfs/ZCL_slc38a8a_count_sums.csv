@@ -1,6 +1,6 @@
-stage,Goblet.cell,Granulocyte,Hepatocyte,Intestinal.bulb.cell,Macrophage,Neural.cell,Neural.progenitor.cell,Osteoblast,Retinal.pigment.epithelial.cell,Spermatocyte
-24hpf,0,0,0,0,4.08640457285017,12.2592137185505,8.17280914570035,0,0,0
-72hpf,0,0,0,0,0,2.13958228293216,0,2.13958228293216,9.6281202731947,0
-21Day,0,0,0,0,0,0,0,0,6.69266544101654,0
-3Month,0.319949299554195,0.319949299554195,0,0,0,0,0,0,0.639898599108391,0.319949299554195
-22Month,0,0,1.09330930239487,0.546654651197433,0,0,0,0,0,0
+stage,Goblet_cell,Granulocyte,Hepatocyte,Intestinal_bulb_cell,Macrophage,Neural_cell,Neural_progenitor_cell,Osteoblast,Retinal_pigment_epithelial_cell,Spermatocyte
+24hpf,0,0,0,0,4.09,12.26,8.17,0,0,0
+72hpf,0,0,0,0,0,2.14,0,2.14,9.63,0
+21Day,0,0,0,0,0,0,0,0,6.69,0
+3Month,0.32,0.32,0,0,0,0,0,0,0.64,0.32
+22Month,0,0,1.09,0.55,0,0,0,0,0,0

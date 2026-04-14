@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,glial,melanocytes,mesenchyme,muscle,neural,periderm,pronephros,spinal.cord
+stage,epidermis,eye,fin_epithelia,glial,melanocytes,mesenchyme,muscle,neural,periderm,pronephros,spinal_cord
  14-21,4.89,0,0,1.18,0,0,0,4.89,0,0,1.24
  24-34,0,0,0,0,0.77,0.77,0,0,0.76,0,2.12
  36-46,0,0,0,0,0.97,0,0.83,1.64,0,0,0

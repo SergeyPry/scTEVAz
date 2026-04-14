@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,exocrine.pancreas,eye,fin.epithelia,glial,hatching.gland,immune,liver,mesenchyme,mucous,muscle,neural,olfactory,paraxial.mesoderm,periderm,presomitic.mesoderm,slow.muscle,spinal.cord
+stage,axial,blastomeres,epidermis,exocrine_pancreas,eye,fin_epithelia,glial,hatching_gland,immune,liver,mesenchyme,mucous,muscle,neural,olfactory,paraxial_mesoderm,periderm,presomitic_mesoderm,slow_muscle,spinal_cord
   3-4,16.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,0,10.52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,4.47,0,0,0,0,0,0,0,0,8.9,0,11.61,0,0,0,0

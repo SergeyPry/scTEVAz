@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fast.muscle,glial,ionocyte,mesenchyme,muscle,neural,olfactory,periderm,pronephros,spinal.cord,taste,visceral.smooth.muscle
+stage,epidermis,erythrocytes,eye,fast_muscle,glial,ionocyte,mesenchyme,muscle,neural,olfactory,periderm,pronephros,spinal_cord,taste,visceral_smooth_muscle
  14-21,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0
  24-34,0,0,0,0,0,0,0,0,0.82,0.82,0,0,0,0,0
  36-46,0,0,0,0,0,0,0,0,0.81,0,0,0.81,0.81,0,0

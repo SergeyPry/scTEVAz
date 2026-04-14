@@ -1,4 +1,4 @@
-stage,axial,endoderm,epidermis,erythrocytes,eye,glial,ionocyte,iridophores,lateral.line,liver,melanocytes,mesenchyme,mural.cell,muscle,neural,notochord,otic,paraxial.mesoderm,periderm,presomitic.mesoderm,pronephros,slow.muscle,somites,spinal.cord,vasculature,xanthophores
+stage,axial,endoderm,epidermis,erythrocytes,eye,glial,ionocyte,iridophores,lateral_line,liver,melanocytes,mesenchyme,mural_cell,muscle,neural,notochord,otic,paraxial_mesoderm,periderm,presomitic_mesoderm,pronephros,slow_muscle,somites,spinal_cord,vasculature,xanthophores
  14-21,0,3,3,1,39,1,0,2,0,0,54,16,0,0,138,1,0,1,0,1,0,1,2,92,0,19
  24-34,0,0,1.64,0,22.16,2.46,0.82,8.21,0,0,81.26,19.7,0,3.28,92.76,0,0,0,0.82,0.82,0.82,0.82,1.64,16.42,0.82,59.1
  36-46,0.81,0,0,0,1.61,0.81,0,10.47,0,0,24.98,3.22,0,0,23.36,0,0,0,0,0,0,0,0,4.83,0,12.09

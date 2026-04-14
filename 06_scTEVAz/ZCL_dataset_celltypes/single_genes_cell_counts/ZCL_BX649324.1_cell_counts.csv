@@ -1,4 +1,4 @@
-stage,Granulocyte,Hepatocyte,Immune.cell,Immune.progenitor.cell,Intestinal.bulb.cell,Keratinocyte,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Pancreatic.cell
+stage,Granulocyte,Hepatocyte,Immune_cell,Immune_progenitor_cell,Intestinal_bulb_cell,Keratinocyte,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Pancreatic_cell
 24hpf,0,0,0,0,0,0,1,0,1,0
-21Day,0,0,0,0,0,0.369986860264282,0,0,0,0.369986860264282
-22Month,0.409948295964399,1.2298448878932,0.136649431988133,0.273298863976266,0.136649431988133,0,0.136649431988133,0.136649431988133,0,0
+21Day,0,0,0,0,0,0.37,0,0,0,0.37
+22Month,0.41,1.23,0.14,0.27,0.14,0,0.14,0.14,0,0

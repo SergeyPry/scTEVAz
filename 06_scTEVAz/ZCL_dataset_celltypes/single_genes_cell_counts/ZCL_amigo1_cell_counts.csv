@@ -1,4 +1,4 @@
-stage,Epithelial.cell..Brain.,Hepatocyte,Immune.progenitor.cell,Neural.cell
-72hpf,0,0,0,2.53663250402901
-21Day,0.739973720528564,0,0.369986860264282,1.10996058079285
-22Month,0,0.273298863976266,0,0
+stage,Epithelial_cell__Brain_,Hepatocyte,Immune_progenitor_cell,Neural_cell
+72hpf,0,0,0,2.54
+21Day,0.74,0,0.37,1.11
+22Month,0,0.27,0,0

@@ -1,4 +1,4 @@
-stage,erythrocytes,fin.mesenchyme,heart,mesenchyme,mural.cell,muscle,neural,spinal.cord,vasculature
+stage,erythrocytes,fin_mesenchyme,heart,mesenchyme,mural_cell,muscle,neural,spinal_cord,vasculature
  14-21,0.87,0,0,0,0,0,0,0,1.22
  24-34,0,0,0,0.78,0,0,7.15,1.38,8.81
  36-46,0,1.09,0.73,1.16,0,0.82,0,0,10.97

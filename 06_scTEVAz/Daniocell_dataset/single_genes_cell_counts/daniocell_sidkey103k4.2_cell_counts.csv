@@ -1,4 +1,4 @@
-stage,eye,fin.epithelia,fin.mesenchyme,glial,gut,heart,immune,iridophores,melanocytes,mesenchyme,mural.cell,muscle,neural,notochord,olfactory,presomitic.mesoderm,slow.muscle,spinal.cord,vasculature,xanthophores
+stage,eye,fin_epithelia,fin_mesenchyme,glial,gut,heart,immune,iridophores,melanocytes,mesenchyme,mural_cell,muscle,neural,notochord,olfactory,presomitic_mesoderm,slow_muscle,spinal_cord,vasculature,xanthophores
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0
  24-34,0,0,0,0,0,0,0,0,0,0,0,0,2.46,0,0,0,0,0,0.82,0
  36-46,0,0,0,0,0,0,0,0,0,1.61,0,0,0,0,0,0,0,0,0,0

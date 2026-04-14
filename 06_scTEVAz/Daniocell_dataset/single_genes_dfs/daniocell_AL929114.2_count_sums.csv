@@ -1,4 +1,4 @@
-stage,eye,glial,gut,immune,mesenchyme,muscle,neural,notochord,otic,pronephros,spinal.cord,vasculature
+stage,eye,glial,gut,immune,mesenchyme,muscle,neural,notochord,otic,pronephros,spinal_cord,vasculature
  14-21,0,0,0,0,0,0,2.42,0,0,0,0,1.1
  24-34,0,0,0,0,0,0,2.04,0,0,0,0,0
  36-46,0,0,0,0,0,0,0.99,0,0,0,0,0

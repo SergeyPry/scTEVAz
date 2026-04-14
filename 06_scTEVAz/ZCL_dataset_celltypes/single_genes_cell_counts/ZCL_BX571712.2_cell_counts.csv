@@ -1,6 +1,6 @@
-stage,Cardiomyocyte,Epithelial.cell,Goblet.cell,Granulocyte,Hepatocyte,Macrophage,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Neurosecretory.cell,Osteoblast,Pancreatic.cell,Primordial.germ.cell,Retinal.cone.cell,Retinal.pigment.epithelial.cell,T.cell
+stage,Cardiomyocyte,Epithelial_cell,Goblet_cell,Granulocyte,Hepatocyte,Macrophage,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Neurosecretory_cell,Osteoblast,Pancreatic_cell,Primordial_germ_cell,Retinal_cone_cell,Retinal_pigment_epithelial_cell,T_cell
 24hpf,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
-72hpf,0.84554416800967,0,0,0,0,0,0,14.3742508561644,0.563696112006446,0,0,0,0,0,0,0
-21Day,0.369986860264282,0,0,0.369986860264282,0,0,0.369986860264282,11.0996058079285,0,0,0.369986860264282,0.369986860264282,0.369986860264282,0.739973720528564,0.369986860264282,0.369986860264282
-3Month,0,0,0.104017006644673,0.104017006644673,0.104017006644673,0,0,0,0,0,0,0,0.208034013289345,0,0,0
-22Month,0,0.136649431988133,0,0,0.273298863976266,0,0.136649431988133,0,0,0.136649431988133,0,0,0.273298863976266,0,0,0.136649431988133
+72hpf,0.85,0,0,0,0,0,0,14.37,0.56,0,0,0,0,0,0,0
+21Day,0.37,0,0,0.37,0,0,0.37,11.1,0,0,0.37,0.37,0.37,0.74,0.37,0.37
+3Month,0,0,0.1,0.1,0.1,0,0,0,0,0,0,0,0.21,0,0,0
+22Month,0,0.14,0,0,0.27,0,0.14,0,0,0.14,0,0,0.27,0,0,0.14

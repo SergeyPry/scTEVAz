@@ -1,5 +1,5 @@
-stage,Epithelial.cell,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Keratinocyte,Muscle.cell,Nephron.cell,Primordial.germ.cell
-72hpf,0,0,0,0,0.281848056003223,0,0,0
-21Day,0.369986860264282,0,0,0,0,0,0,0
-3Month,0,0.312051019934018,0,0,0,0.104017006644673,0.104017006644673,0.104017006644673
-22Month,0,2.4596897757864,1.36649431988133,0.136649431988133,0,0,0,0.136649431988133
+stage,Epithelial_cell,Hepatocyte,Immune_cell,Intestinal_bulb_cell,Keratinocyte,Muscle_cell,Nephron_cell,Primordial_germ_cell
+72hpf,0,0,0,0,0.28,0,0,0
+21Day,0.37,0,0,0,0,0,0,0
+3Month,0,0.31,0,0,0,0.1,0.1,0.1
+22Month,0,2.46,1.37,0.14,0,0,0,0.14

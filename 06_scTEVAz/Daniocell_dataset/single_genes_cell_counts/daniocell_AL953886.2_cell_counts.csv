@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,hatching.gland,lateral.line,liver,mesenchyme,neural,notochord,olfactory,otic,pronephros,spinal.cord,vascular.smooth.muscle
+stage,epidermis,eye,glial,hatching_gland,lateral_line,liver,mesenchyme,neural,notochord,olfactory,otic,pronephros,spinal_cord,vascular_smooth_muscle
   7-9,0,0,0,5.26,0,0,0,2.63,2.63,0,0,0,0,0
  14-21,0,0,2,0,0,0,1,3,0,0,0,0,2,0
  24-34,0,0,1.64,0,0,0.82,0,3.28,0,1.64,0,2.46,11.49,0

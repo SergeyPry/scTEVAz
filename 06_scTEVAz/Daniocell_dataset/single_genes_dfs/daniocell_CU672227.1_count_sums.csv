@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,erythrocytes,eye,glial,gut,lateral.line,mesenchyme,muscle,neural,otic,paraxial.mesoderm,periderm,presomitic.mesoderm,somites,spinal.cord,vasculature,visceral.smooth.muscle,xanthophores
+stage,axial,blastomeres,epidermis,erythrocytes,eye,glial,gut,lateral_line,mesenchyme,muscle,neural,otic,paraxial_mesoderm,periderm,presomitic_mesoderm,somites,spinal_cord,vasculature,visceral_smooth_muscle,xanthophores
   3-4,13.35,83.74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,11.97,28.67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,9.17,0,4.55,0,0,0,0,0,0,0

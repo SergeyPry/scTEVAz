@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Macrophage,Mesenchymal.cell,Neural.progenitor.cell
+stage,Epithelial_cell,Macrophage,Mesenchymal_cell,Neural_progenitor_cell
 24hpf,0,2,2,6
-72hpf,0,0.281848056003223,0.281848056003223,0.281848056003223
-21Day,0.739973720528564,0,0,0
+72hpf,0,0.28,0.28,0.28
+21Day,0.74,0,0,0

@@ -1,6 +1,6 @@
-stage,Cardiomyocyte,Epithelial.cell,Erythrocyte,Intestinal.bulb.cell,Ionocyte,Keratinocyte,Mesenchymal.cell,Neural.progenitor.cell,Primordial.germ.cell
+stage,Cardiomyocyte,Epithelial_cell,Erythrocyte,Intestinal_bulb_cell,Ionocyte,Keratinocyte,Mesenchymal_cell,Neural_progenitor_cell,Primordial_germ_cell
 24hpf,0,1,0,0,0,2,1,0,0
-72hpf,0.281848056003223,0,0.281848056003223,0,0.281848056003223,0.563696112006446,0.281848056003223,0.281848056003223,0.281848056003223
-21Day,0,1.10996058079285,0,0,0,0,0.369986860264282,0.739973720528564,0
-3Month,0,0.208034013289345,0,0.104017006644673,0,0,0,0,0.416068026578691
-22Month,0,0,0,0,0,0,0,0,0.409948295964399
+72hpf,0.28,0,0.28,0,0.28,0.56,0.28,0.28,0.28
+21Day,0,1.11,0,0,0,0,0.37,0.74,0
+3Month,0,0.21,0,0.1,0,0,0,0,0.42
+22Month,0,0,0,0,0,0,0,0,0.41

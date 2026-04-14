@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,glial,gut,heart,immune,liver,mesenchyme,mucous,neural,notochord,olfactory,periderm,pronephros,spinal.cord,vasculature
+stage,endocrine_pancreas,epidermis,eye,glial,gut,heart,immune,liver,mesenchyme,mucous,neural,notochord,olfactory,periderm,pronephros,spinal_cord,vasculature
  14-21,0,1.03,0,0,0,0,0,0.86,0,0,14.68,0,0,0,0,0,0
  24-34,0,0,0,0,0,0,0,0,0,0,0,0,0,3.78,0,0,0
  36-46,0,0,0,0,0,0,0,0,0,0,0,0,2.5,0,0,0,0

@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,erythrocytes,eye,fast.muscle,fin.epithelia,glial,gut,hatching.gland,immune,ionocyte,lateral.line,liver,melanocytes,mesenchyme,mucous,muscle,neural,olfactory,otic,periderm,pronephros,spinal.cord,taste,vasculature,xanthophores
+stage,endoderm,epidermis,erythrocytes,eye,fast_muscle,fin_epithelia,glial,gut,hatching_gland,immune,ionocyte,lateral_line,liver,melanocytes,mesenchyme,mucous,muscle,neural,olfactory,otic,periderm,pronephros,spinal_cord,taste,vasculature,xanthophores
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.19,0,0,0,0,0,0,0,0
  10-12,0,0,0,4.88,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.65,0,0,0,0
  14-21,0,0,1.08,0,0,0,0,0,3.13,0,26.36,0,0,0,0,1.52,0,1.99,0,0,9.04,16.73,0,0,0,0

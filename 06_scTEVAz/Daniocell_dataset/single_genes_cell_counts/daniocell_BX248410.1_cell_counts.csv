@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,eye,fin.mesenchyme,glial,gut,heart,immune,mesenchyme,muscle,neural,periderm,spinal.cord,vasculature
+stage,endocrine_pancreas,eye,fin_mesenchyme,glial,gut,heart,immune,mesenchyme,muscle,neural,periderm,spinal_cord,vasculature
   7-9,0,0,0,0,0,0,0,0,0,5.26,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,2,0,0,0
  24-34,0.82,0.82,0,0,0,0,0,0,0,0.82,0.82,0,0

@@ -1,4 +1,4 @@
-stage,Neural.progenitor.cell,Primordial.germ.cell,Spermatocyte
-21Day,1.33853308820331,0,0
-3Month,0,0,2.23964509687937
-22Month,0,4.37323720957947,0.546654651197433
+stage,Neural_progenitor_cell,Primordial_germ_cell,Spermatocyte
+21Day,1.34,0,0
+3Month,0,0,2.24
+22Month,0,4.37,0.55

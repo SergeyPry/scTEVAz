@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.epithelia,glial,gut,hatching.gland,heart,immune,ionocyte,iridophores,mesenchyme,mucous,mural.cell,muscle,neural,notochord,paraxial.mesoderm,pericytes,periderm,presomitic.mesoderm,pronephros,somites,spinal.cord
+stage,blastomeres,epidermis,eye,fin_epithelia,glial,gut,hatching_gland,heart,immune,ionocyte,iridophores,mesenchyme,mucous,mural_cell,muscle,neural,notochord,paraxial_mesoderm,pericytes,periderm,presomitic_mesoderm,pronephros,somites,spinal_cord
   3-4,15.22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12.88,0,0,0,0
   5-6,90.11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8.67,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,3.22,0,0,0,0,0,0,0,0,32.6,0,3.86,0,0,0,0,0,0

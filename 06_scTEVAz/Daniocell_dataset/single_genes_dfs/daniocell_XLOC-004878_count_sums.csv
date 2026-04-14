@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,gut,lateral.line,liver,melanocytes,mesenchyme,muscle,neural,olfactory,otic,periderm,slow.muscle,spinal.cord,xanthophores
+stage,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,gut,lateral_line,liver,melanocytes,mesenchyme,muscle,neural,olfactory,otic,periderm,slow_muscle,spinal_cord,xanthophores
  14-21,0,0,0,0,0,0,0,0,0,1.14,1.37,3.42,0,0,0,0,1.27,0.84
  24-34,0,1.49,0,0,0,0,0,0,0,0,0.62,11.13,0,0.79,0,0,0.69,1.98
  36-46,0,0.72,0,0,0,0,0,0,1.14,0,0,1.62,0,0,9.33,0,0,0

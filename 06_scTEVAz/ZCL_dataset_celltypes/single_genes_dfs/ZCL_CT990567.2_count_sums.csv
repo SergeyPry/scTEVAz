@@ -1,4 +1,4 @@
-stage,Ionocyte,Neural.progenitor.cell,Osteoblast
-24hpf,0,4.08640457285017,0
-72hpf,0,1.06979114146608,0
-21Day,1.33853308820331,1.33853308820331,1.33853308820331
+stage,Ionocyte,Neural_progenitor_cell,Osteoblast
+24hpf,0,4.09,0
+72hpf,0,1.07,0
+21Day,1.34,1.34,1.34

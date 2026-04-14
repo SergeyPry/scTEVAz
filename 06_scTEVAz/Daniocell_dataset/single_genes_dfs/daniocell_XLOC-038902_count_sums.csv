@@ -1,4 +1,4 @@
-stage,blastomeres,eye,glial,heart,melanocytes,mesenchyme,neural,notochord,paraxial.mesoderm,spinal.cord
+stage,blastomeres,eye,glial,heart,melanocytes,mesenchyme,neural,notochord,paraxial_mesoderm,spinal_cord
   3-4,13.33,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,7.5,0,0,0
  14-21,0,0,0,0,0,0,0.84,0,1.3,0.93

@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,fin.epithelia,glial,immune,ionocyte,mesenchyme,neural,periderm
+stage,endoderm,epidermis,eye,fin_epithelia,glial,immune,ionocyte,mesenchyme,neural,periderm
   7-9,2.63,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,3.15,0
  24-34,0,0,0,0,0,0,0,0,3.28,0.82

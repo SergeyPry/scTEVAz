@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endocrine.pancreas,endoderm,erythrocytes,eye,glial,gut,hatching.gland,heart,lateral.line,liver,mesenchyme,mural.cell,muscle,neural,otic,paraxial.mesoderm,periderm,pronephros,somites,spinal.cord,vasculature
+stage,axial,blastomeres,endocrine_pancreas,endoderm,erythrocytes,eye,glial,gut,hatching_gland,heart,lateral_line,liver,mesenchyme,mural_cell,muscle,neural,otic,paraxial_mesoderm,periderm,pronephros,somites,spinal_cord,vasculature
   3-4,13.45,32.33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,7.2,93.13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,13.04,0,3.3,0,15.47,0,0,0,0,0,0,0,0,0,93.04,0,40.5,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,eye,fin.mesenchyme,glial,hatching.gland,lateral.line,mesenchyme,neural,notochord,paraxial.mesoderm,somites,spinal.cord,xanthophores
+stage,axial,blastomeres,endoderm,eye,fin_mesenchyme,glial,hatching_gland,lateral_line,mesenchyme,neural,notochord,paraxial_mesoderm,somites,spinal_cord,xanthophores
   3-4,0,26.36,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.13,67.43,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,2.63,0,0,0,0,0,13.14,0,7.89,0,0,0

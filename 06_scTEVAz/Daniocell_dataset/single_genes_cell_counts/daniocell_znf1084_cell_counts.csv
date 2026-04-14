@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,fast.muscle,glial,heart,iridophores,mesenchyme,muscle,neural,olfactory,paraxial.mesoderm,periderm,pronephros,spinal.cord,xanthophores
+stage,axial,blastomeres,endoderm,epidermis,eye,fast_muscle,glial,heart,iridophores,mesenchyme,muscle,neural,olfactory,paraxial_mesoderm,periderm,pronephros,spinal_cord,xanthophores
   3-4,0,184.49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.13,110.33,0,0,0,0,0,0,0,0,0,0,0,6.13,0,0,0,0
   7-9,0,2.63,5.26,0,2.63,0,0,0,0,0,0,21.03,0,2.63,0,0,0,0

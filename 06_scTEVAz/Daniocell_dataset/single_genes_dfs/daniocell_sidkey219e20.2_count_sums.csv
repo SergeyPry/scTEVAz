@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,eye,glial,hatching.gland,immune,mesenchyme,mucous,muscle,neural,otic,paraxial.mesoderm,periderm,presomitic.mesoderm,spinal.cord,vascular.smooth.muscle
+stage,endocrine_pancreas,eye,glial,hatching_gland,immune,mesenchyme,mucous,muscle,neural,otic,paraxial_mesoderm,periderm,presomitic_mesoderm,spinal_cord,vascular_smooth_muscle
   7-9,0,0,0,0,0,0,0,0,0,0,15.55,0,0,0,0
  10-12,0,0,0,5.59,0,0,0,0,0,0,4.74,0,0,0,0
  14-21,1.24,1.13,0,0,0,0,0,2.25,1.87,0,1.28,2.28,1.06,1.93,0

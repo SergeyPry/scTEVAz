@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,fast.muscle,fin.epithelia,fin.mesenchyme,glial,gut,hatching.gland,immune,ionocyte,liver,mesenchyme,mucous,mural.cell,muscle,neural,notochord,otic,paraxial.mesoderm,periderm,spinal.cord,taste,vasculature,visceral.smooth.muscle
+stage,blastomeres,endoderm,epidermis,eye,fast_muscle,fin_epithelia,fin_mesenchyme,glial,gut,hatching_gland,immune,ionocyte,liver,mesenchyme,mucous,mural_cell,muscle,neural,notochord,otic,paraxial_mesoderm,periderm,spinal_cord,taste,vasculature,visceral_smooth_muscle
   3-4,92.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11.94,0,0,0,0
   5-6,85.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.85,0,0,0,0
   7-9,4.3,6.59,0,6.85,0,0,0,0,0,5.26,0,0,0,0,0,0,0,80.16,0,0,59.53,3.26,0,0,0,0

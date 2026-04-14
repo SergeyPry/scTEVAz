@@ -1,4 +1,4 @@
-stage,axial,epidermis,eye,fin.epithelia,glial,ionocyte,mesenchyme,muscle,neural,paraxial.mesoderm,pericytes,periderm,spinal.cord
+stage,axial,epidermis,eye,fin_epithelia,glial,ionocyte,mesenchyme,muscle,neural,paraxial_mesoderm,pericytes,periderm,spinal_cord
   7-9,3.44,0,4.49,0,0,0,0,0,0,4.53,0,0,0
  14-21,0,0,0,0,0,0,0,0,0.94,0,0,0,0
  24-34,0,0,0.8,0,0,0,0,0,0,0,0,0,0

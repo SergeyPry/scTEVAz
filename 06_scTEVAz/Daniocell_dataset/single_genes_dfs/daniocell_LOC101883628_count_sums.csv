@@ -1,4 +1,4 @@
-stage,erythrocytes,eye,fin.mesenchyme,glial,gut,immune,ionocyte,iridophores,lateral.line,mesenchyme,neural,otic,periderm,spinal.cord
+stage,erythrocytes,eye,fin_mesenchyme,glial,gut,immune,ionocyte,iridophores,lateral_line,mesenchyme,neural,otic,periderm,spinal_cord
  14-21,0,0,0,0,0,0,0,0,0,0,1,0,0,1.79
  24-34,0.76,0.99,0,0,0.67,0,0,0,0,0.64,10.23,0,0,5.71
  36-46,0,1.84,0,0,0,0,0,0,0,0,19.18,0,2.93,2.77

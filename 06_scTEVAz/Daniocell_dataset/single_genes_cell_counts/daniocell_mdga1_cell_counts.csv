@@ -1,4 +1,4 @@
-stage,axial,endocrine.pancreas,endoderm,epidermis,eye,glial,gut,heart,immune,melanocytes,mesenchyme,mural.cell,muscle,neural,olfactory,periderm,spinal.cord
+stage,axial,endocrine_pancreas,endoderm,epidermis,eye,glial,gut,heart,immune,melanocytes,mesenchyme,mural_cell,muscle,neural,olfactory,periderm,spinal_cord
   7-9,2.63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,2,1,0,0,1,0,0,0,0,0,0,4,0,0,2
  24-34,0,0,0,0,0,0,0,1.64,0,0,0.82,0,0.82,9.03,0,0,1.64

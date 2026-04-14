@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endocrine.pancreas,endoderm,epidermis,eye,mesenchyme,muscle,neural,notochord,paraxial.mesoderm,periderm,spinal.cord,xanthophores
+stage,axial,blastomeres,endocrine_pancreas,endoderm,epidermis,eye,mesenchyme,muscle,neural,notochord,paraxial_mesoderm,periderm,spinal_cord,xanthophores
   3-4,26.36,26.36,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.13,30.65,0,0,0,0,0,0,0,0,0,6.13,0,0
   7-9,5.26,2.63,0,0,0,0,0,0,13.14,0,2.63,7.89,0,0

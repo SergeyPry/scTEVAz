@@ -1,4 +1,4 @@
-stage,eye,fin.mesenchyme,glial,heart,immune,iridophores,mesenchyme,muscle,neural,otic,periderm,spinal.cord,vasculature
+stage,eye,fin_mesenchyme,glial,heart,immune,iridophores,mesenchyme,muscle,neural,otic,periderm,spinal_cord,vasculature
  14-21,0,0,0,0,0,0,0,0,2,0,0,1,0
  24-34,0.82,0,0,0,0,0,0.82,0,0.82,0,0,0,0
  36-46,0,0.81,0,0,0,0,0,0,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,gut,immune,muscle,neural,olfactory,spinal.cord,taste,vasculature
+stage,blastomeres,epidermis,eye,gut,immune,muscle,neural,olfactory,spinal_cord,taste,vasculature
   5-6,6.46,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,7.13,0,0,0,0
  24-34,0,0,0.88,0,0,0,0,0,0,0,0

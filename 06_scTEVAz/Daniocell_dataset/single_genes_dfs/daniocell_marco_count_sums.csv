@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,erythrocytes,exocrine.pancreas,eye,fin.epithelia,fin.mesenchyme,glial,gut,heart,immune,lateral.line,liver,mesenchyme,mucous,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,periderm,spinal.cord,vascular.smooth.muscle,vasculature,visceral.smooth.muscle
+stage,endoderm,epidermis,erythrocytes,exocrine_pancreas,eye,fin_epithelia,fin_mesenchyme,glial,gut,heart,immune,lateral_line,liver,mesenchyme,mucous,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,periderm,spinal_cord,vascular_smooth_muscle,vasculature,visceral_smooth_muscle
   5-6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.76,0,0,0,0,0,0,0,0,0
   7-9,4.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42.38,0,0,0,0,0,0,0,0,0
  10-12,4.61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.38,0,0,0,0,0,0,0,0

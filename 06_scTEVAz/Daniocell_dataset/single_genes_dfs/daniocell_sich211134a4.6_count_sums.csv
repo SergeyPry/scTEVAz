@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fast.muscle,fin.epithelia,glial,mesenchyme,mucous,muscle,neural,notochord,olfactory,pericytes,periderm,somites,taste,vasculature
+stage,blastomeres,epidermis,eye,fast_muscle,fin_epithelia,glial,mesenchyme,mucous,muscle,neural,notochord,olfactory,pericytes,periderm,somites,taste,vasculature
   3-4,22.21,0,0,0,0,0,0,0,0,0,0,0,0,243.65,0,0,0
   5-6,31.93,0,0,0,0,0,0,0,0,0,0,0,0,358,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,33.11,0,0,0,37.6,0,0,0

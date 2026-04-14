@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,erythrocytes,exocrine.pancreas,eye,glial,gut,lateral.line,mesenchyme,mural.cell,neural,notochord,olfactory,otic,paraxial.mesoderm,periderm,presomitic.mesoderm,pronephros,somites,spinal.cord,taste,vasculature
+stage,axial,blastomeres,endoderm,epidermis,erythrocytes,exocrine_pancreas,eye,glial,gut,lateral_line,mesenchyme,mural_cell,neural,notochord,olfactory,otic,paraxial_mesoderm,periderm,presomitic_mesoderm,pronephros,somites,spinal_cord,taste,vasculature
   3-4,12.69,263.17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,0,193.19,0,0,0,0,0,0,0,0,0,0,36.04,0,0,0,0,0,0,0,0,0,0,0
   7-9,7.24,0,0,0,0,0,0,0,0,0,0,0,149.77,9.86,0,0,55.33,0,0,0,0,0,0,0

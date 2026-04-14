@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,fin.epithelia,glial,gut,lateral.line,mesenchyme,neural,olfactory,otic,periderm
+stage,endocrine_pancreas,epidermis,fin_epithelia,glial,gut,lateral_line,mesenchyme,neural,olfactory,otic,periderm
  24-34,0,0,0,0,0,0,0,0.82,0,0,0.82
  36-46,0,0,0,0,0,0,0,0,0.81,0,0
  48-58,0.57,0,0,0,0,0,0,0.57,0,0,0

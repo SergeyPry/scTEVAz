@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,erythrocytes,eye,fin.epithelia,fin.mesenchyme,glial,gut,heart,lateral.line,mesenchyme,mucous,mural.cell,muscle,neural,olfactory,otic,pericytes,periderm,pronephros,spinal.cord,taste,vascular.smooth.muscle,vasculature
+stage,endoderm,epidermis,erythrocytes,eye,fin_epithelia,fin_mesenchyme,glial,gut,heart,lateral_line,mesenchyme,mucous,mural_cell,muscle,neural,olfactory,otic,pericytes,periderm,pronephros,spinal_cord,taste,vascular_smooth_muscle,vasculature
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.63,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9.44,0,0,0,0,0,0,0,0,0
  14-21,0,19,1,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,3,0,0,0

@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fast.muscle,fin.epithelia,fin.mesenchyme,glial,gut,heart,ionocyte,lateral.line,liver,melanocytes,mesenchyme,mucous,mural.cell,muscle,neural,notochord,olfactory,otic,periderm,pronephros,slow.muscle,somites,spinal.cord,taste
+stage,blastomeres,epidermis,eye,fast_muscle,fin_epithelia,fin_mesenchyme,glial,gut,heart,ionocyte,lateral_line,liver,melanocytes,mesenchyme,mucous,mural_cell,muscle,neural,notochord,olfactory,otic,periderm,pronephros,slow_muscle,somites,spinal_cord,taste
   3-4,25.68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,9.27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,5.13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

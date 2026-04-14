@@ -1,6 +1,6 @@
-stage,Cardiomyocyte,Epithelial.cell,Erythrocyte,Granulocyte,Hepatocyte,Immune.cell,Keratinocyte,Macrophage,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Radial.glia,T.cell
+stage,Cardiomyocyte,Epithelial_cell,Erythrocyte,Granulocyte,Hepatocyte,Immune_cell,Keratinocyte,Macrophage,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Radial_glia,T_cell
 24hpf,67,0,0,0,0,0,0,2,4,0,11,0,0
-72hpf,7.60989751208703,0,0,0,0,0,0,0,0,0.281848056003223,0.281848056003223,0.281848056003223,0
-21Day,17.019395572157,0.369986860264282,0.369986860264282,0.369986860264282,0,0.369986860264282,0.739973720528564,0,0,0.739973720528564,0,0,0
-3Month,0,0.104017006644673,0,0,0.104017006644673,0,0,0,0,0,0,0,0.624102039868036
-22Month,0,0,0,0,0.136649431988133,0,0,0.136649431988133,0,0,0,0,2.32304034379826
+72hpf,7.61,0,0,0,0,0,0,0,0,0.28,0.28,0.28,0
+21Day,17.02,0.37,0.37,0.37,0,0.37,0.74,0,0,0.74,0,0,0
+3Month,0,0.1,0,0,0.1,0,0,0,0,0,0,0,0.62
+22Month,0,0,0,0,0.14,0,0,0.14,0,0,0,0,2.32

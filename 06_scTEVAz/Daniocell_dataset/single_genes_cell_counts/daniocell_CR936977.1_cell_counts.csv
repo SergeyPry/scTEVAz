@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,mesenchyme,muscle,neural,notochord,periderm,presomitic.mesoderm,somites,spinal.cord
+stage,epidermis,eye,fin_epithelia,mesenchyme,muscle,neural,notochord,periderm,presomitic_mesoderm,somites,spinal_cord
  14-21,0,3,0,1,1,8,1,0,1,1,2
  24-34,0.82,0,0.82,1.64,0,4.1,0,0.82,0,0,1.64
  36-46,0.81,0.81,0,0,0,1.61,0,0,0,0,1.61

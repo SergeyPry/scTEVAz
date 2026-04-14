@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,fast.muscle,fin.mesenchyme,glial,heart,ionocyte,lateral.line,mesenchyme,muscle,neural,olfactory,otic,paraxial.mesoderm,periderm,presomitic.mesoderm,slow.muscle,somites,spinal.cord,taste
+stage,endocrine_pancreas,epidermis,eye,fast_muscle,fin_mesenchyme,glial,heart,ionocyte,lateral_line,mesenchyme,muscle,neural,olfactory,otic,paraxial_mesoderm,periderm,presomitic_mesoderm,slow_muscle,somites,spinal_cord,taste
  10-12,0,0,0,0,0,0,0,0,0,0,0,3.15,0,0,3.15,0,0,0,0,0,0
  14-21,0,1,0,0,0,0,0,0,0,0,0,12,1,0,0,0,3,0,3,2,0
  24-34,0,0,0,0,0,0,0,0,0,0.82,0,9.03,0,0,0,0,0,0,1.64,3.28,0

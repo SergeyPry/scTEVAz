@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Endothelial.cell,Keratinocyte,Neural.cell,Neural.progenitor.cell
-24hpf,4.08640457285017,4.08640457285017,0,0,4.08640457285017
-72hpf,0,0,1.06979114146608,1.06979114146608,1.06979114146608
-21Day,0,0,1.33853308820331,0,0
+stage,Cardiomyocyte,Endothelial_cell,Keratinocyte,Neural_cell,Neural_progenitor_cell
+24hpf,4.09,4.09,0,0,4.09
+72hpf,0,0,1.07,1.07,1.07
+21Day,0,0,1.34,0,0

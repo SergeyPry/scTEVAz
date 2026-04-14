@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,mesenchyme,muscle,neural,somites,spinal.cord,vascular.smooth.muscle
+stage,blastomeres,epidermis,eye,glial,mesenchyme,muscle,neural,somites,spinal_cord,vascular_smooth_muscle
   3-4,26.36,0,0,0,0,0,0,0,0,0
  14-21,0,1,0,0,1,0,6,1,0,0
  24-34,0,0,1.64,0,1.64,0,5.75,0,0.82,0

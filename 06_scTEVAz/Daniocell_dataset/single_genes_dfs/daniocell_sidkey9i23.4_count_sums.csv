@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,glial,immune,mesenchyme,mucous,mural.cell,muscle,neural,otic,paraxial.mesoderm,pgc,spinal.cord,vasculature
+stage,blastomeres,endoderm,epidermis,eye,glial,immune,mesenchyme,mucous,mural_cell,muscle,neural,otic,paraxial_mesoderm,pgc,spinal_cord,vasculature
   3-4,26.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,91.24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,38.77,0,15.35,0,0,0

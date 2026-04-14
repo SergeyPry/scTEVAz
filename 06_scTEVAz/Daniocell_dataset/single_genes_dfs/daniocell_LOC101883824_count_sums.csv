@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,fin.mesenchyme,glial,immune,ionocyte,iridophores,lateral.line,mesenchyme,muscle,neural,notochord,olfactory,otic,periderm,slow.muscle,spinal.cord,vasculature,xanthophores
+stage,epidermis,eye,fast_muscle,fin_mesenchyme,glial,immune,ionocyte,iridophores,lateral_line,mesenchyme,muscle,neural,notochord,olfactory,otic,periderm,slow_muscle,spinal_cord,vasculature,xanthophores
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.03,0,0.96,0,0
  24-34,2.45,0.6,0,0,0,0,0,0,0,0,0.79,0,0,0,0,4.2,0,3.31,0,0
  36-46,0,0.65,0,0,0,0,0,0,0,1.22,0,1.6,0,5.14,0,0.97,0,1.42,1.94,0

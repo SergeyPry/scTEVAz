@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Hepatocyte,Immune.progenitor.cell,T.cell
-21Day,0,0,0.369986860264282,0
-3Month,0.104017006644673,0.104017006644673,0,0
-22Month,0,0,0,0.273298863976266
+stage,Epithelial_cell,Hepatocyte,Immune_progenitor_cell,T_cell
+21Day,0,0,0.37,0
+3Month,0.1,0.1,0,0
+22Month,0,0,0,0.27

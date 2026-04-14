@@ -1,4 +1,4 @@
-stage,glial,ionocyte,neural,otic,paraxial.mesoderm,periderm,pronephros,somites,spinal.cord,vasculature
+stage,glial,ionocyte,neural,otic,paraxial_mesoderm,periderm,pronephros,somites,spinal_cord,vasculature
   7-9,0,0,3.83,0,0,0,0,0,0,0
  10-12,0,0,0,0,6.74,0,4.44,0,0,0
  14-21,0,0,0,0,0,0,0,0.81,0,0

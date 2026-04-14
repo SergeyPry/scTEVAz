@@ -1,4 +1,4 @@
-stage,Neural.cell,Oligodendrocyte,T.cell
-72hpf,0,1.06979114146608,0
-21Day,1.33853308820331,1.33853308820331,0
-3Month,0,0,1.27979719821678
+stage,Neural_cell,Oligodendrocyte,T_cell
+72hpf,0,1.07,0
+21Day,1.34,1.34,0
+3Month,0,0,1.28

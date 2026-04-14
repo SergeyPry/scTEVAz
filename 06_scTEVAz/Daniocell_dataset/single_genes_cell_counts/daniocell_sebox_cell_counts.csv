@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,fin.epithelia,glial,gut,hatching.gland,mesenchyme,muscle,neural,notochord,paraxial.mesoderm,periderm,pgc,spinal.cord,vasculature,xanthophores
+stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,fin_epithelia,glial,gut,hatching_gland,mesenchyme,muscle,neural,notochord,paraxial_mesoderm,periderm,pgc,spinal_cord,vasculature,xanthophores
   3-4,685.25,2068.94,0,0,0,0,0,0,0,0,0,0,0,0,0,39.53,0,0,0,0
   5-6,839.76,3542.93,12.26,0,0,0,0,0,0,12.26,0,0,91.94,24.52,61.3,0,0,0,0,0
   7-9,2.63,0,2.63,0,0,5.26,0,0,0,13.14,0,0,31.54,7.89,155.09,0,2.63,0,0,0

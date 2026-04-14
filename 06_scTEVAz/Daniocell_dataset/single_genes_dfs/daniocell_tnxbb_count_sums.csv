@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,mesenchyme,mucous,mural.cell,muscle,neural,spinal.cord,xanthophores
+stage,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,mesenchyme,mucous,mural_cell,muscle,neural,spinal_cord,xanthophores
  14-21,6.98,0,0,0,0,1.6,0,0,10.14,1.25,1.86,0
  24-34,45.39,0.88,0,2.01,0,40.11,0.65,0,78.96,4.5,2.91,0
  36-46,15.52,0,2.41,10.47,0,145.21,0,0,63.98,11.02,0.82,2.36

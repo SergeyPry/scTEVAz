@@ -1,5 +1,5 @@
-stage,Cardiomyocyte,Epithelial.cell,Hepatocyte,Intestinal.bulb.cell,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell
-24hpf,4.08640457285017,0,0,0,0,0,4.08640457285017
-72hpf,0,0,0,0,1.06979114146608,38.5124810927788,1.06979114146608
-21Day,13.3853308820331,1.33853308820331,0,0,0,12.0467977938298,0
-3Month,0,0,1.27979719821678,0.319949299554195,0,0,0
+stage,Cardiomyocyte,Epithelial_cell,Hepatocyte,Intestinal_bulb_cell,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell
+24hpf,4.09,0,0,0,0,0,4.09
+72hpf,0,0,0,0,1.07,38.51,1.07
+21Day,13.39,1.34,0,0,0,12.05,0
+3Month,0,0,1.28,0.32,0,0,0

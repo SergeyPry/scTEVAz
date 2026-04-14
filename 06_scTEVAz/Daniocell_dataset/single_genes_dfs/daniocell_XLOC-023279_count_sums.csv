@@ -1,4 +1,4 @@
-stage,blastomeres,eye,glial,mesenchyme,neural,paraxial.mesoderm,presomitic.mesoderm,slow.muscle,somites,spinal.cord
+stage,blastomeres,eye,glial,mesenchyme,neural,paraxial_mesoderm,presomitic_mesoderm,slow_muscle,somites,spinal_cord
   3-4,14.28,0,0,0,0,0,0,0,0,0
   5-6,7.6,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,16.37,3.89,0,0,0,0

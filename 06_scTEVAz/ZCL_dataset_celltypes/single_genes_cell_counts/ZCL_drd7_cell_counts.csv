@@ -1,4 +1,4 @@
-stage,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Osteoblast
-72hpf,0,0.563696112006446,0.281848056003223,0.281848056003223
-21Day,0,0.369986860264282,0,0
-3Month,0.208034013289345,0,0,0
+stage,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Osteoblast
+72hpf,0,0.56,0.28,0.28
+21Day,0,0.37,0,0
+3Month,0.21,0,0,0

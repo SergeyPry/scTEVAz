@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,fast.muscle,fin.epithelia,glial,gut,lateral.line,liver,mesenchyme,mural.cell,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,pericytes,periderm,presomitic.mesoderm,pronephros,somites,spinal.cord,vascular.smooth.muscle,visceral.smooth.muscle
+stage,endocrine_pancreas,epidermis,eye,fast_muscle,fin_epithelia,glial,gut,lateral_line,liver,mesenchyme,mural_cell,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,pericytes,periderm,presomitic_mesoderm,pronephros,somites,spinal_cord,vascular_smooth_muscle,visceral_smooth_muscle
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,13.74,0,0,0,4.75,0,0,0,0,0,0,0,0
  14-21,7.78,0.87,1.99,0,0,0,1.21,0,0,0,0,0,3.69,0.81,0,0,0,0,0,2.75,2.38,0.85,16.14,0,0
  24-34,1.51,0,0,0,0,7.28,0,0,0,0,0,0,33.1,0,0,0.78,0,0,0,0,1.4,0,13.79,0,0

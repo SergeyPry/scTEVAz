@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,fin.mesenchyme,glial,heart,immune,mesenchyme,neural,olfactory,otic,paraxial.mesoderm,periderm,pronephros,spinal.cord,taste,vasculature
+stage,blastomeres,epidermis,erythrocytes,eye,fin_mesenchyme,glial,heart,immune,mesenchyme,neural,olfactory,otic,paraxial_mesoderm,periderm,pronephros,spinal_cord,taste,vasculature
   3-4,52.39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,20.03,0,0,5.18,0,0,0,0,0

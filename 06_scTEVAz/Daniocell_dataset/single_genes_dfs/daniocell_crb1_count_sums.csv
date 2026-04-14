@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,glial,hatching.gland,iridophores,lateral.line,mesenchyme,muscle,neural,otic,paraxial.mesoderm,somites,spinal.cord
+stage,blastomeres,endoderm,epidermis,eye,glial,hatching_gland,iridophores,lateral_line,mesenchyme,muscle,neural,otic,paraxial_mesoderm,somites,spinal_cord
   3-4,19.88,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,35.63,0,0,0,0,0,0,0,0,0,7.38,0,0,0,0
   7-9,0,11.95,0,0,0,0,0,0,0,0,63.19,0,13.57,0,0

@@ -1,4 +1,4 @@
-stage,eye,glial,iridophores,mesenchyme,muscle,neural,presomitic.mesoderm,spinal.cord,vasculature
+stage,eye,glial,iridophores,mesenchyme,muscle,neural,presomitic_mesoderm,spinal_cord,vasculature
  24-34,0,0,0,0,0,0.73,3.08,0.81,0
  36-46,0,0,0.86,0,3.18,8.86,0,0,0
  48-58,0,0,0,0,0,2.59,0,0,0

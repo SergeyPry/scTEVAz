@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,endoderm,epidermis,eye,fin.epithelia,glial,gut,immune,ionocyte,lateral.line,mesenchyme,neural,olfactory,otic,periderm,pronephros,spinal.cord
+stage,endocrine_pancreas,endoderm,epidermis,eye,fin_epithelia,glial,gut,immune,ionocyte,lateral_line,mesenchyme,neural,olfactory,otic,periderm,pronephros,spinal_cord
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.11,0,0
  48-58,0,0,0,0,0,0,0,2.91,0.44,0,0,0,0,0.52,0,0,0
  60-70,0,0,0,0,0,1.13,0,0,0,0,0,0,1.43,0.65,0,0,0

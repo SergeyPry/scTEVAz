@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,erythrocytes,eye,glial,gut,ionocyte,mesenchyme,muscle,neural,otic,spinal.cord,visceral.smooth.muscle
+stage,blastomeres,endoderm,epidermis,erythrocytes,eye,glial,gut,ionocyte,mesenchyme,muscle,neural,otic,spinal_cord,visceral_smooth_muscle
   7-9,2.63,0,0,0,0,0,0,0,0,0,2.63,0,0,0
  14-21,0,2,0,0,0,0,1,0,1,1,1,0,1,0
  24-34,0,0.82,0.82,0,0,0,0.82,0,1.64,1.64,0.82,0,0,0

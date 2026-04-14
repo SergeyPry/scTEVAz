@@ -1,5 +1,5 @@
-stage,Cardiomyocyte,Epithelial.cell,Erythrocyte,Erythroid.progenitor.cell,Hatching.gland,Hepatocyte,Keratinocyte,Macrophage,Mesenchymal.cell,Muscle.cell,Neural.cell,Neural.progenitor.cell,Osteoblast,Primordial.germ.cell,Spermatocyte
+stage,Cardiomyocyte,Epithelial_cell,Erythrocyte,Erythroid_progenitor_cell,Hatching_gland,Hepatocyte,Keratinocyte,Macrophage,Mesenchymal_cell,Muscle_cell,Neural_cell,Neural_progenitor_cell,Osteoblast,Primordial_germ_cell,Spermatocyte
 24hpf,0,0,0,0,2,0,0,1,1,0,1,12,0,0,0
-72hpf,0.563696112006446,0.563696112006446,0.563696112006446,0,0,0,0,0,0.281848056003223,0,0.563696112006446,2.25478444802579,0.84554416800967,0,0
-21Day,0.369986860264282,0.369986860264282,1.10996058079285,0.369986860264282,0,0,0,0,0,0.369986860264282,0.739973720528564,1.10996058079285,0.369986860264282,0,0
-3Month,0,0,0,0,0,0.104017006644673,0.104017006644673,0,0,0,0,0,0,0.312051019934018,0.312051019934018
+72hpf,0.56,0.56,0.56,0,0,0,0,0,0.28,0,0.56,2.25,0.85,0,0
+21Day,0.37,0.37,1.11,0.37,0,0,0,0,0,0.37,0.74,1.11,0.37,0,0
+3Month,0,0,0,0,0,0.1,0.1,0,0,0,0,0,0,0.31,0.31

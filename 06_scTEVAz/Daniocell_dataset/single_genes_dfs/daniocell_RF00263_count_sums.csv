@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endocrine.pancreas,eye,fast.muscle,glial,melanocytes,mesenchyme,mural.cell,muscle,neural,paraxial.mesoderm,periderm,somites,spinal.cord,vasculature
+stage,axial,blastomeres,endocrine_pancreas,eye,fast_muscle,glial,melanocytes,mesenchyme,mural_cell,muscle,neural,paraxial_mesoderm,periderm,somites,spinal_cord,vasculature
   3-4,0,62.45,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,0,35.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,8.33,0,0,0,0,0,0,0,0,53.17,10.97,0,0,0,0

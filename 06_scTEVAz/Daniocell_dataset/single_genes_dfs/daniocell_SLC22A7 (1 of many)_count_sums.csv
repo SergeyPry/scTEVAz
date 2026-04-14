@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,erythrocytes,eye,fin.epithelia,glial,liver,mesenchyme,muscle,neural,olfactory,otic,periderm,spinal.cord
+stage,endocrine_pancreas,epidermis,erythrocytes,eye,fin_epithelia,glial,liver,mesenchyme,muscle,neural,olfactory,otic,periderm,spinal_cord
  14-21,0,0,4.58,0,0,0,0,0,0,0,0,0,0,0
  24-34,0,0,0,1.41,0,0,0,0,0,0,0,0,0,1.54
  36-46,0,0,0,0,0,0,0,2.02,0,16.53,0,0,0,0

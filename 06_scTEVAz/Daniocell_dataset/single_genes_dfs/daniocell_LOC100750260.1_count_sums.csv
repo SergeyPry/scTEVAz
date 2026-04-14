@@ -1,4 +1,4 @@
-stage,eye,glial,immune,lateral.line,mesenchyme,muscle,neural,olfactory,presomitic.mesoderm,spinal.cord,vasculature,xanthophores
+stage,eye,glial,immune,lateral_line,mesenchyme,muscle,neural,olfactory,presomitic_mesoderm,spinal_cord,vasculature,xanthophores
  14-21,0,0,0,0,0,0,3.45,0,0.87,0,0,0
  24-34,1.59,0,0,0,0,0,7.44,1.54,0,0.6,0,0
  36-46,1.44,0,0,0,2.44,0,1.98,0,0,0,0,0

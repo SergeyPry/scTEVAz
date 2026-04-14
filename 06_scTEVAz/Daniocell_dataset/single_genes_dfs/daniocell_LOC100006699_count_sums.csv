@@ -1,4 +1,4 @@
-stage,eye,glial,heart,lateral.line,mesenchyme,muscle,neural,olfactory,otic,paraxial.mesoderm,pronephros,spinal.cord
+stage,eye,glial,heart,lateral_line,mesenchyme,muscle,neural,olfactory,otic,paraxial_mesoderm,pronephros,spinal_cord
   7-9,0,0,0,0,0,0,4.64,0,0,0,0,0
  10-12,0,0,0,0,0,0,5.4,0,0,6.31,0,0
  14-21,0,0.9,0,0,0,0,1.04,0,0,0,0,4.3

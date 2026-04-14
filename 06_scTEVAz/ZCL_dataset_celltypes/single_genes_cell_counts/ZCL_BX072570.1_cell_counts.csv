@@ -1,2 +1,2 @@
-stage,Epithelial.cell,Hepatocyte,Immune.cell,Ionocyte,Keratinocyte,Nephron.cell,Primordial.germ.cell,Spermatocyte
-3Month,0.104017006644673,0.312051019934018,0.104017006644673,0.104017006644673,0.104017006644673,0.104017006644673,4.26469727243158,5.09683332558896
+stage,Epithelial_cell,Hepatocyte,Immune_cell,Ionocyte,Keratinocyte,Nephron_cell,Primordial_germ_cell,Spermatocyte
+3Month,0.1,0.31,0.1,0.1,0.1,0.1,4.26,5.1

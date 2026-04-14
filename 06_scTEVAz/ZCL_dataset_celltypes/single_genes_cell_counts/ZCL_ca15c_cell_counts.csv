@@ -1,5 +1,5 @@
-stage,Cardiomyocyte,Enterocyte,Epithelial.cell,Epithelial.cell..Brain.,Erythrocyte,Erythroid.progenitor.cell,Granulocyte,Hepatocyte,Immune.cell,Immune.progenitor.cell,Intestinal.bulb.cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal.cell,Muscle.cell,Neural.cell,Neural.progenitor.cell,Oligodendrocyte,Osteoblast,Pancreatic.cell,Primordial.germ.cell,Radial.glia,Retinal.cone.cell,Retinal.pigment.epithelial.cell,T.cell
-72hpf,0.281848056003223,0,0.84554416800967,0.281848056003223,0,0.281848056003223,0,0,0,0,0,0,30.7214381043513,0,0.281848056003223,0,1.40924028001612,1.12739222401289,0,0.563696112006446,0,0,0,0,0,0
-21Day,1.47994744105713,0.369986860264282,48.0982918343567,0,1.84993430132141,0,0,0.369986860264282,0.369986860264282,0.739973720528564,0.739973720528564,1.47994744105713,76.2172932144422,0.369986860264282,8.13971092581421,0.739973720528564,5.91978976422852,0.739973720528564,0.369986860264282,2.58990802184998,1.47994744105713,0,1.10996058079285,0.369986860264282,0.369986860264282,0.369986860264282
-3Month,0,0,1.04017006644673,0,0,0,0.104017006644673,0.520085033223363,0.104017006644673,0,0.208034013289345,0.104017006644673,0,0,0.104017006644673,0,0,0,0,0,0,0.312051019934018,0,0,0,0.312051019934018
-22Month,0,0,0,0,0,0,0,0.273298863976266,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+stage,Cardiomyocyte,Enterocyte,Epithelial_cell,Epithelial_cell__Brain_,Erythrocyte,Erythroid_progenitor_cell,Granulocyte,Hepatocyte,Immune_cell,Immune_progenitor_cell,Intestinal_bulb_cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal_cell,Muscle_cell,Neural_cell,Neural_progenitor_cell,Oligodendrocyte,Osteoblast,Pancreatic_cell,Primordial_germ_cell,Radial_glia,Retinal_cone_cell,Retinal_pigment_epithelial_cell,T_cell
+72hpf,0.28,0,0.85,0.28,0,0.28,0,0,0,0,0,0,30.72,0,0.28,0,1.41,1.13,0,0.56,0,0,0,0,0,0
+21Day,1.48,0.37,48.1,0,1.85,0,0,0.37,0.37,0.74,0.74,1.48,76.22,0.37,8.14,0.74,5.92,0.74,0.37,2.59,1.48,0,1.11,0.37,0.37,0.37
+3Month,0,0,1.04,0,0,0,0.1,0.52,0.1,0,0.21,0.1,0,0,0.1,0,0,0,0,0,0,0.31,0,0,0,0.31
+22Month,0,0,0,0,0,0,0,0.27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

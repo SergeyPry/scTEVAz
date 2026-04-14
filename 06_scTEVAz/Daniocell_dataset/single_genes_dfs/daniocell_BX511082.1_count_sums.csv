@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fast.muscle,fin.epithelia,glial,hatching.gland,iridophores,lateral.line,melanocytes,mesenchyme,mucous,muscle,neural,olfactory,otic,periderm,slow.muscle,somites,spinal.cord,vascular.smooth.muscle,vasculature,xanthophores
+stage,epidermis,erythrocytes,eye,fast_muscle,fin_epithelia,glial,hatching_gland,iridophores,lateral_line,melanocytes,mesenchyme,mucous,muscle,neural,olfactory,otic,periderm,slow_muscle,somites,spinal_cord,vascular_smooth_muscle,vasculature,xanthophores
  14-21,3.97,0,0.85,0,0,1.18,0,0,0,0,0,0,2.96,12.6,0,0,2.08,0,0.83,0,0,1.49,0
  24-34,0.68,0,1.84,0,0,0,0,0,0.66,0,1.33,0,2.36,22.76,1.36,0,0,0,0,5.74,0,0,0
  36-46,0.87,0,0.93,3.98,0,0,0,0,1.61,0.8,2.59,0,1.75,24.03,0,0,0,0,0,4.49,0,0,0

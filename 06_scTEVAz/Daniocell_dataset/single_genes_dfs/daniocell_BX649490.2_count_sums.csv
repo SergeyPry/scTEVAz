@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,eye,fin.epithelia,glial,heart,immune,mesenchyme,mural.cell,muscle,neural,olfactory,spinal.cord
+stage,endocrine_pancreas,eye,fin_epithelia,glial,heart,immune,mesenchyme,mural_cell,muscle,neural,olfactory,spinal_cord
  24-34,0,0,0,0,0,0,0,0,0.72,1.26,0,1.31
  36-46,0,0.66,0,0,0.9,0,0,0,0,1,0,0
  48-58,0,0,0,0,0,0,0,0,0,2.06,0,5.59

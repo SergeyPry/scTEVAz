@@ -1,3 +1,3 @@
-stage,Epithelial.cell,Erythrocyte..Liver.,Granulocyte,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Macrophage,Mesenchymal.cell,Mt.rich.cell,Nephron.cell,Oligodendrocyte,Pancreatic.cell,Smooth.muscle.cell,T.cell
-3Month,1.27979719821678,0.319949299554195,0,53.1115837259964,1.27979719821678,0,0.319949299554195,0.639898599108391,0,0.639898599108391,0.319949299554195,0,0.319949299554195,0.319949299554195
-22Month,0,0,1.09330930239487,171.102905824797,0,1.6399639535923,0.546654651197433,0,2.73327325598717,0,0,1.6399639535923,0,0
+stage,Epithelial_cell,Erythrocyte__Liver_,Granulocyte,Hepatocyte,Immune_cell,Intestinal_bulb_cell,Macrophage,Mesenchymal_cell,Mt_rich_cell,Nephron_cell,Oligodendrocyte,Pancreatic_cell,Smooth_muscle_cell,T_cell
+3Month,1.28,0.32,0,53.11,1.28,0,0.32,0.64,0,0.64,0.32,0,0.32,0.32
+22Month,0,0,1.09,171.1,0,1.64,0.55,0,2.73,0,0,1.64,0,0

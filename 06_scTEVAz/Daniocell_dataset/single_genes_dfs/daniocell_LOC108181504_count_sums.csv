@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,gut,ionocyte,liver,neural,olfactory,periderm,pronephros,spinal.cord
+stage,epidermis,eye,glial,gut,ionocyte,liver,neural,olfactory,periderm,pronephros,spinal_cord
  14-21,0,0,2.05,0,0,0,0,0,0,3.09,2.23
  24-34,0,0,0,0,0,0,0,0,0,0,0.96
  36-46,0,0,1.59,0,0,0,0,0,1.67,1.34,0

@@ -1,4 +1,4 @@
-stage,eye,glial,mesenchyme,mural.cell,muscle,neural,pericytes,spinal.cord
+stage,eye,glial,mesenchyme,mural_cell,muscle,neural,pericytes,spinal_cord
  24-34,0,0,0,0,0,7.5,0,1.48
  36-46,0,0,0,0,1.14,16.15,0,1.77
  48-58,2.2,1.26,1.48,0,0.61,21.38,0,2.95

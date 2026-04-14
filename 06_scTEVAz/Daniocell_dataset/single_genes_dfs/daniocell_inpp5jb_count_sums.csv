@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.epithelia,glial,gut,immune,ionocyte,iridophores,mesenchyme,mucous,muscle,neural,olfactory,otic,paraxial.mesoderm,periderm,pronephros,slow.muscle,spinal.cord,taste,xanthophores
+stage,blastomeres,epidermis,eye,fin_epithelia,glial,gut,immune,ionocyte,iridophores,mesenchyme,mucous,muscle,neural,olfactory,otic,paraxial_mesoderm,periderm,pronephros,slow_muscle,spinal_cord,taste,xanthophores
   5-6,61.92,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,7.14,0,0,0,0,0,0,0,0,0
  10-12,5.3,0,4.9,0,0,0,0,0,0,0,0,0,35.66,0,0,8.85,0,0,0,0,0,0

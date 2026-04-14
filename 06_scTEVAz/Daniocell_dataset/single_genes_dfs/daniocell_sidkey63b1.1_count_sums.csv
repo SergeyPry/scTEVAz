@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,glial,heart,ionocyte,liver,mesenchyme,mural.cell,neural,spinal.cord,vascular.smooth.muscle,vasculature,visceral.smooth.muscle
+stage,epidermis,erythrocytes,eye,glial,heart,ionocyte,liver,mesenchyme,mural_cell,neural,spinal_cord,vascular_smooth_muscle,vasculature,visceral_smooth_muscle
  24-34,0,0,0,0,0,0,0,1.08,0,0,0,0,0,0
  36-46,0,0,0,0,0,0,0,0,0,1.15,0,0,0,0
  48-58,0,1.48,0,0,0,0,0,0,0,3.26,0,0,0,0

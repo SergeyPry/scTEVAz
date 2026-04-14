@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,lateral.line,mesenchyme,muscle,neural,notochord,olfactory,paraxial.mesoderm,spinal.cord
+stage,blastomeres,epidermis,erythrocytes,eye,lateral_line,mesenchyme,muscle,neural,notochord,olfactory,paraxial_mesoderm,spinal_cord
   5-6,53.64,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,29.11,4.44,0,10.48,0
  14-21,0,0,0,0,0,0,0,6.76,0,2.02,0,0

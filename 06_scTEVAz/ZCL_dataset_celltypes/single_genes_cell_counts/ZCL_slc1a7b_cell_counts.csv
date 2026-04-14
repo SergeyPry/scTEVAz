@@ -1,5 +1,5 @@
-stage,Cardiomyocyte,Endothelial.cell,Epithelial.cell,Erythrocyte,Hepatocyte,Intestinal.bulb.cell,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Pancreatic.cell,Spermatocyte,T.cell
+stage,Cardiomyocyte,Endothelial_cell,Epithelial_cell,Erythrocyte,Hepatocyte,Intestinal_bulb_cell,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Pancreatic_cell,Spermatocyte,T_cell
 24hpf,0,0,0,0,0,0,0,1,1,0,0,0
-72hpf,0,0,0,0,0,0,0,2.25478444802579,0,0,0,0
-21Day,0.369986860264282,0,0,0.369986860264282,0,0,0.739973720528564,3.69986860264282,0,0.369986860264282,0,0
-3Month,0,0.104017006644673,0.104017006644673,0,0.104017006644673,0.104017006644673,0,0,0,0,0.104017006644673,0.104017006644673
+72hpf,0,0,0,0,0,0,0,2.25,0,0,0,0
+21Day,0.37,0,0,0.37,0,0,0.74,3.7,0,0.37,0,0
+3Month,0,0.1,0.1,0,0.1,0.1,0,0,0,0,0.1,0.1

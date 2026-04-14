@@ -1,4 +1,4 @@
-stage,erythrocytes,eye,fast.muscle,glial,immune,lateral.line,mesenchyme,neural,olfactory,otic,pronephros,spinal.cord
+stage,erythrocytes,eye,fast_muscle,glial,immune,lateral_line,mesenchyme,neural,olfactory,otic,pronephros,spinal_cord
  10-12,0,0,0,0,0,0,0,16.14,0,0,0,0
  14-21,0.92,0,0,0,0,0,1.22,0,0,0,0,0
  36-46,0,0,0,0,0,0,0.82,0,0,0,1.34,0

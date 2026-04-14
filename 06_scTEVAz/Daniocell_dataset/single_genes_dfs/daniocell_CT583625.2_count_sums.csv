@@ -1,4 +1,4 @@
-stage,epidermis,fin.epithelia,glial,immune,neural,notochord,pronephros,somites,spinal.cord
+stage,epidermis,fin_epithelia,glial,immune,neural,notochord,pronephros,somites,spinal_cord
  14-21,0,0,0,0,0,0,0,1.01,0
  24-34,0,0,0,0,0,0,0,0,0.83
  36-46,0,0,0,0,0,0,1.34,0,0

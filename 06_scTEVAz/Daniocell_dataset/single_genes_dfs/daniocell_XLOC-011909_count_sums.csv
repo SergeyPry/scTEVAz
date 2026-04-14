@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,ionocyte,liver,mesenchyme,muscle,neural,notochord,olfactory,paraxial.mesoderm,pronephros,spinal.cord,vasculature,visceral.smooth.muscle
+stage,blastomeres,epidermis,eye,glial,ionocyte,liver,mesenchyme,muscle,neural,notochord,olfactory,paraxial_mesoderm,pronephros,spinal_cord,vasculature,visceral_smooth_muscle
   3-4,12.77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,34.77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,4.21,0,0,0,0,0,0,0,35.3,4.17,0,10.86,0,0,0,0

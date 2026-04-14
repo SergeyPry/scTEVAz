@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,glial,heart,ionocyte,mesenchyme,mural.cell,muscle,neural,paraxial.mesoderm,slow.muscle,spinal.cord,visceral.smooth.muscle
+stage,epidermis,eye,fast_muscle,glial,heart,ionocyte,mesenchyme,mural_cell,muscle,neural,paraxial_mesoderm,slow_muscle,spinal_cord,visceral_smooth_muscle
   7-9,0,0,0,0,0,0,0,0,0,0,5.26,0,0,0
  14-21,1,0,0,0,0,0,1,0,0,2,0,0,0,0
  24-34,0,0.82,0,0,0,0,0,0,0,0,0,0,0,0

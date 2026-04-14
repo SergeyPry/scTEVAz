@@ -1,4 +1,4 @@
-stage,Hepatocyte,Mesenchymal.cell,Neural.cell,Osteoblast
-72hpf,0,0,0.281848056003223,0
-21Day,0,0.369986860264282,0.369986860264282,0.369986860264282
-22Month,0.409948295964399,0,0,0
+stage,Hepatocyte,Mesenchymal_cell,Neural_cell,Osteoblast
+72hpf,0,0,0.28,0
+21Day,0,0.37,0.37,0.37
+22Month,0.41,0,0,0

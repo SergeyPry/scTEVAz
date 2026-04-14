@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,fin.epithelia,gut,hatching.gland,heart,immune,mesenchyme,neural,periderm
+stage,endocrine_pancreas,epidermis,eye,fin_epithelia,gut,hatching_gland,heart,immune,mesenchyme,neural,periderm
  24-34,0,0,0,0,0,2.59,0,0,0,1.01,0
  48-58,0,0,0,0,0,0,0,0,0,0,4.33
  72-82,0,0,0,0,5.16,0,0,0,0,3.49,1.52

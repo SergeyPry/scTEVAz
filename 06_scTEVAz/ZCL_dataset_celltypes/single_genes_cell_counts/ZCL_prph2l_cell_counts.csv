@@ -1,3 +1,3 @@
-stage,Cardiomyocyte,Epithelial.cell,Goblet.cell,Keratinocyte,Mt.rich.cell,Neural.cell,Neural.progenitor.cell,Osteoblast,Radial.glia,Retinal.cell,Retinal.cone.cell
-72hpf,0.563696112006446,0.281848056003223,0,0.281848056003223,0.281848056003223,25.3663250402901,0.281848056003223,0.84554416800967,0.281848056003223,8.17359362409347,5.63696112006446
-21Day,0,0,0.369986860264282,0,0,2.95989488211426,0,0,0,6.65976348475708,8.13971092581421
+stage,Cardiomyocyte,Epithelial_cell,Goblet_cell,Keratinocyte,Mt_rich_cell,Neural_cell,Neural_progenitor_cell,Osteoblast,Radial_glia,Retinal_cell,Retinal_cone_cell
+72hpf,0.56,0.28,0,0.28,0.28,25.37,0.28,0.85,0.28,8.17,5.64
+21Day,0,0,0.37,0,0,2.96,0,0,0,6.66,8.14

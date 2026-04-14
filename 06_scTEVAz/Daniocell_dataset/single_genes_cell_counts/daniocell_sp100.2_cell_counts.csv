@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.mesenchyme,gut,immune,mesenchyme,mucous,muscle,neural,notochord,paraxial.mesoderm,periderm,pgc,spinal.cord,vasculature
+stage,blastomeres,epidermis,eye,fin_mesenchyme,gut,immune,mesenchyme,mucous,muscle,neural,notochord,paraxial_mesoderm,periderm,pgc,spinal_cord,vasculature
   3-4,79.07,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,12.26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,15.77,0,7.89,0,0,0,0

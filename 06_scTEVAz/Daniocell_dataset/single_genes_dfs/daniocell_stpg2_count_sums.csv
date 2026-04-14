@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,glial,hatching.gland,iridophores,lateral.line,melanocytes,mesenchyme,mural.cell,muscle,neural,olfactory,otic,paraxial.mesoderm,periderm,pgc,pronephros,somites,spinal.cord,vascular.smooth.muscle
+stage,axial,blastomeres,endoderm,epidermis,eye,glial,hatching_gland,iridophores,lateral_line,melanocytes,mesenchyme,mural_cell,muscle,neural,olfactory,otic,paraxial_mesoderm,periderm,pgc,pronephros,somites,spinal_cord,vascular_smooth_muscle
   3-4,41.13,641.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42.63,0,0,0,0,0
   5-6,0,206.38,0,0,0,0,0,0,0,0,0,0,0,28.37,0,0,0,0,0,0,0,0,0
   7-9,0,4.75,15.13,0,0,0,4.51,0,0,0,0,0,0,45.06,0,0,14.83,0,16.34,0,0,0,0

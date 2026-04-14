@@ -1,4 +1,4 @@
-stage,blastomeres,eye,fin.mesenchyme,glial,hatching.gland,mesenchyme,muscle,neural,otic,pgc,somites,spinal.cord,vasculature
+stage,blastomeres,eye,fin_mesenchyme,glial,hatching_gland,mesenchyme,muscle,neural,otic,pgc,somites,spinal_cord,vasculature
   3-4,37.53,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,12.66,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,4.44,0,0,12.68,0,0,0,0,0

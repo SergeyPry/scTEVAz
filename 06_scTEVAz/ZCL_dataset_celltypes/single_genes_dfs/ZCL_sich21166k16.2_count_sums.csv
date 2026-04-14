@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Granulocyte,Hepatocyte,Muscle.cell,Nephron.cell,T.cell
-21Day,1.33853308820331,0,0,0,0,0
-3Month,0.639898599108391,0.319949299554195,0.959847898662586,0.319949299554195,0.319949299554195,0.639898599108391
-22Month,0.546654651197433,0,1.09330930239487,0,0,0
+stage,Epithelial_cell,Granulocyte,Hepatocyte,Muscle_cell,Nephron_cell,T_cell
+21Day,1.34,0,0,0,0,0
+3Month,0.64,0.32,0.96,0.32,0.32,0.64
+22Month,0.55,0,1.09,0,0,0

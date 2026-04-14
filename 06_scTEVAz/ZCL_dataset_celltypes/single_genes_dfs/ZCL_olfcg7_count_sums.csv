@@ -1,5 +1,5 @@
-stage,Goblet.cell,Granulocyte,Intestinal.bulb.cell,Neural.cell,Neural.progenitor.cell,Radial.glia
-24hpf,0,0,0,12.2592137185505,0,0
-21Day,0,0,0,2.67706617640661,1.33853308820331,0
-3Month,0.959847898662586,0,0.319949299554195,0.959847898662586,0,0.319949299554195
-22Month,0,1.09330930239487,0,0,0,0
+stage,Goblet_cell,Granulocyte,Intestinal_bulb_cell,Neural_cell,Neural_progenitor_cell,Radial_glia
+24hpf,0,0,0,12.26,0,0
+21Day,0,0,0,2.68,1.34,0
+3Month,0.96,0,0.32,0.96,0,0.32
+22Month,0,1.09,0,0,0,0

@@ -1,5 +1,5 @@
-stage,Cardiomyocyte,Intestinal.bulb.cell,Keratinocyte,Macrophage,Mesenchymal.cell,Retinal.cell
+stage,Cardiomyocyte,Intestinal_bulb_cell,Keratinocyte,Macrophage,Mesenchymal_cell,Retinal_cell
 24hpf,3,0,0,0,0,0
-72hpf,1.97293639202256,0,0,0,0,0
-21Day,1.10996058079285,0,0,0,0.739973720528564,0.369986860264282
-3Month,0,0.104017006644673,0.104017006644673,0.104017006644673,0,0
+72hpf,1.97,0,0,0,0,0
+21Day,1.11,0,0,0,0.74,0.37
+3Month,0,0.1,0.1,0.1,0,0

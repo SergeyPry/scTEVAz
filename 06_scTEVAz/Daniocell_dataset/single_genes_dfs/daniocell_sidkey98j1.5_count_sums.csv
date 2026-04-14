@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,gut,mesenchyme,mural.cell,neural,notochord,olfactory,paraxial.mesoderm,periderm,spinal.cord
+stage,blastomeres,epidermis,eye,glial,gut,mesenchyme,mural_cell,neural,notochord,olfactory,paraxial_mesoderm,periderm,spinal_cord
   3-4,22.67,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,8.17,0,0,0,0,0,0,0,0,0,0,12.09,0
   7-9,0,0,4.04,0,0,0,0,25.55,4.49,0,0,0,0

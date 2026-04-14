@@ -1,4 +1,4 @@
-stage,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell
+stage,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell
 24hpf,0,0,3
-72hpf,0,0,0.563696112006446
-21Day,0.369986860264282,0.369986860264282,1.10996058079285
+72hpf,0,0,0.56
+21Day,0.37,0.37,1.11

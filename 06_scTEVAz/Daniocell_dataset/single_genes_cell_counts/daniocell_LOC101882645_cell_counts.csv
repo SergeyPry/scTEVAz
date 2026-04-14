@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,endoderm,epidermis,erythrocytes,eye,fast.muscle,fin.epithelia,glial,immune,iridophores,mesenchyme,mural.cell,muscle,neural,olfactory,otic,periderm,pgc,presomitic.mesoderm,pronephros,spinal.cord,taste,visceral.smooth.muscle
+stage,blastomeres,endocrine_pancreas,endoderm,epidermis,erythrocytes,eye,fast_muscle,fin_epithelia,glial,immune,iridophores,mesenchyme,mural_cell,muscle,neural,olfactory,otic,periderm,pgc,presomitic_mesoderm,pronephros,spinal_cord,taste,visceral_smooth_muscle
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,4,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
  24-34,0,0,0,1.64,0,0,0,0,0.82,0.82,0,0.82,0,0,7.39,0.82,0,0.82,0,0,0,1.64,0,0

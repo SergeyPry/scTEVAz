@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Erythroid.progenitor.cell,Goblet.cell,Hepatocyte,Keratinocyte,Neural.cell,Neural.progenitor.cell,Osteoblast,Retinal.pigment.epithelial.cell
-72hpf,0,0,0,0,0.281848056003223,0.563696112006446,0.281848056003223,0,0.281848056003223
-21Day,0.369986860264282,1.47994744105713,0.369986860264282,0,0.739973720528564,0,0,0.739973720528564,0
-22Month,0,0,0,0.409948295964399,0,0,0,0,0
+stage,Epithelial_cell,Erythroid_progenitor_cell,Goblet_cell,Hepatocyte,Keratinocyte,Neural_cell,Neural_progenitor_cell,Osteoblast,Retinal_pigment_epithelial_cell
+72hpf,0,0,0,0,0.28,0.56,0.28,0,0.28
+21Day,0.37,1.48,0.37,0,0.74,0,0,0.74,0
+22Month,0,0,0,0.41,0,0,0,0,0

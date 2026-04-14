@@ -1,4 +1,4 @@
-stage,eye,fast.muscle,fin.epithelia,glial,immune,ionocyte,mesenchyme,mural.cell,neural,spinal.cord,visceral.smooth.muscle
+stage,eye,fast_muscle,fin_epithelia,glial,immune,ionocyte,mesenchyme,mural_cell,neural,spinal_cord,visceral_smooth_muscle
  10-12,3.97,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0.98,0,0
  36-46,0,0,0,0,0,0,0,0,3.45,0.62,0

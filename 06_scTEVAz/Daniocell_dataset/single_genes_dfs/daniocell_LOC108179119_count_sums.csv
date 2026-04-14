@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,heart,immune,iridophores,mesenchyme,muscle,neural,olfactory,somites,spinal.cord,vasculature
+stage,epidermis,eye,glial,heart,immune,iridophores,mesenchyme,muscle,neural,olfactory,somites,spinal_cord,vasculature
  14-21,0.86,0,0,0,0,0,1.04,0,3.2,0,0,1.08,0
  24-34,0,0,0,0,0,0,0,0,5.64,0,1.16,1.06,1.48
  36-46,0,0,0.76,0,0,0,0,0,3.37,0,0,0,0

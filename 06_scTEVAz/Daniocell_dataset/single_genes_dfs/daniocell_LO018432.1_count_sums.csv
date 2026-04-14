@@ -1,4 +1,4 @@
-stage,blastomeres,glial,gut,heart,immune,iridophores,mesenchyme,neural,periderm,pronephros,visceral.smooth.muscle
+stage,blastomeres,glial,gut,heart,immune,iridophores,mesenchyme,neural,periderm,pronephros,visceral_smooth_muscle
   7-9,0,0,0,0,0,0,0,0,5.09,0,0
  10-12,9.54,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0.97,0,0,0,0,0,0,0

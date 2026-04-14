@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,fin.epithelia,fin.mesenchyme,glial,iridophores,liver,melanocytes,mesenchyme,mural.cell,muscle,neural,pericytes,vascular.smooth.muscle,vasculature,visceral.smooth.muscle,xanthophores
+stage,epidermis,eye,fast_muscle,fin_epithelia,fin_mesenchyme,glial,iridophores,liver,melanocytes,mesenchyme,mural_cell,muscle,neural,pericytes,vascular_smooth_muscle,vasculature,visceral_smooth_muscle,xanthophores
  24-34,0,0,0,0,0,0,0,0,0,0.9,0,0,0.99,0,0,0,0,0
  36-46,0,0,0,0,0,0,0,0,0.61,0.93,0,0,0.87,0,0,0,0,0
  48-58,0,0,3.69,4.35,0,0,0,0,0,3.8,0,0,0,0,0,0,0,0

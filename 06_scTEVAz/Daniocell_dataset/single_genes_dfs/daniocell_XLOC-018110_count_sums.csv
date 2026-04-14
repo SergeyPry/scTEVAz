@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,immune,iridophores,melanocytes,mesenchyme,mucous,neural,olfactory,paraxial.mesoderm,periderm,spinal.cord,vascular.smooth.muscle,vasculature,xanthophores
+stage,epidermis,eye,glial,immune,iridophores,melanocytes,mesenchyme,mucous,neural,olfactory,paraxial_mesoderm,periderm,spinal_cord,vascular_smooth_muscle,vasculature,xanthophores
   7-9,0,0,0,0,0,0,0,0,4.01,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,4.01,0,14.6,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,2.32,0,0,0,0,0,0,0

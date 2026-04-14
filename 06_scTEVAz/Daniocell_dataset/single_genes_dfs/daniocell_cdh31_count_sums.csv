@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,gut,muscle,neural,somites,spinal.cord,vasculature
+stage,blastomeres,epidermis,eye,glial,gut,muscle,neural,somites,spinal_cord,vasculature
   3-4,11.83,0,0,0,0,0,0,0,0,0
  10-12,3.56,0,4.95,0,0,0,10.44,0,0,0
  14-21,0,0,0,0,1.28,0,12.48,1.15,3.79,0

@@ -1,4 +1,4 @@
-stage,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Osteoblast,Retinal.cell,Retinal.cone.cell
-72hpf,0,0,0,1.06979114146608,3.20937342439823,1.06979114146608,0,3.20937342439823,1.06979114146608
-21Day,0,0,0,0,0,0,1.33853308820331,1.33853308820331,18.7394632348463
-22Month,4.9198918607769,0.546654651197433,0.546654651197433,0,0,0,0,0.546654651197433,0
+stage,Hepatocyte,Immune_cell,Intestinal_bulb_cell,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Osteoblast,Retinal_cell,Retinal_cone_cell
+72hpf,0,0,0,1.07,3.21,1.07,0,3.21,1.07
+21Day,0,0,0,0,0,0,1.34,1.34,18.74
+22Month,4.92,0.55,0.55,0,0,0,0,0.55,0

@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,iridophores,mesenchyme,mucous,neural,notochord,olfactory,otic,paraxial.mesoderm,periderm,spinal.cord,taste,xanthophores
+stage,blastomeres,epidermis,eye,glial,iridophores,mesenchyme,mucous,neural,notochord,olfactory,otic,paraxial_mesoderm,periderm,spinal_cord,taste,xanthophores
   3-4,171.31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,91.94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,5.26,0,0,0,2.63,0,0,0,0

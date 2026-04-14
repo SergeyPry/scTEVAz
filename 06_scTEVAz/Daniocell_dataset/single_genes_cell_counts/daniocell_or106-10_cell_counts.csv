@@ -1,4 +1,4 @@
-stage,epidermis,exocrine.pancreas,eye,glial,mesenchyme,mural.cell,neural,olfactory,spinal.cord
+stage,epidermis,exocrine_pancreas,eye,glial,mesenchyme,mural_cell,neural,olfactory,spinal_cord
  14-21,0,0,0,0,0,0,0,0,1
  24-34,0,0,0,0,0,0,1.64,0.82,0
  36-46,0,0,0,0,0,0,0,1.61,0

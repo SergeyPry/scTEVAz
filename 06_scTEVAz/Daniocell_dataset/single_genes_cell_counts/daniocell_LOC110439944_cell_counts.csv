@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,heart,immune,mesenchyme,muscle,neural,periderm,spinal.cord,vasculature
+stage,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,heart,immune,mesenchyme,muscle,neural,periderm,spinal_cord,vasculature
  14-21,1,0,0,0,0,0,0,0,1,0,0,0,0
  24-34,0,0,0,0,0,0,0,0,0.82,0.82,0,0,0
  36-46,0.81,0,0,0.81,0,0,0,0.81,0,1.61,0.81,0,0

@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fast.muscle,fin.epithelia,glial,gut,heart,mesenchyme,muscle,neural,periderm,spinal.cord,vascular.smooth.muscle,vasculature
+stage,epidermis,erythrocytes,eye,fast_muscle,fin_epithelia,glial,gut,heart,mesenchyme,muscle,neural,periderm,spinal_cord,vascular_smooth_muscle,vasculature
  10-12,0,0,11.65,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,40.67,0,0,0,0,0,0,0,0,1.07,0,4.79,0,0
  24-34,0,112.49,0,0,0,0,0,0,2.51,0,15.31,5.95,27.59,0,3.27

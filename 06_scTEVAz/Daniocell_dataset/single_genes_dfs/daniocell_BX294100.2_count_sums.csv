@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,fin.mesenchyme,glial,heart,lateral.line,mesenchyme,muscle,neural,notochord,otic,paraxial.mesoderm,periderm,presomitic.mesoderm,somites,spinal.cord,vasculature
+stage,blastomeres,endoderm,epidermis,fin_mesenchyme,glial,heart,lateral_line,mesenchyme,muscle,neural,notochord,otic,paraxial_mesoderm,periderm,presomitic_mesoderm,somites,spinal_cord,vasculature
   3-4,150.31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,75.61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,8.22,3.8,0,0,0,0,0,0,0,14.89,0,0,7.66,0,0,0,0,0

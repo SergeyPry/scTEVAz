@@ -1,4 +1,4 @@
-stage,Granulocyte,Immune.cell,Macrophage,Mesenchymal.cell,T.cell
-21Day,0,0,0,1.33853308820331,1.33853308820331
-3Month,0.639898599108391,0.639898599108391,0.319949299554195,0.319949299554195,0.319949299554195
-22Month,1.6399639535923,0,0,0,0
+stage,Granulocyte,Immune_cell,Macrophage,Mesenchymal_cell,T_cell
+21Day,0,0,0,1.34,1.34
+3Month,0.64,0.64,0.32,0.32,0.32
+22Month,1.64,0,0,0,0

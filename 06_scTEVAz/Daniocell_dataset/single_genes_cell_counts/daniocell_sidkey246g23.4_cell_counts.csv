@@ -1,4 +1,4 @@
-stage,axial,blastomeres,exocrine.pancreas,eye,gut,ionocyte,liver,mesenchyme,mural.cell,muscle,neural,olfactory,otic,pronephros,spinal.cord,taste,visceral.smooth.muscle
+stage,axial,blastomeres,exocrine_pancreas,eye,gut,ionocyte,liver,mesenchyme,mural_cell,muscle,neural,olfactory,otic,pronephros,spinal_cord,taste,visceral_smooth_muscle
   3-4,13.18,52.71,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,0,24.52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,10.51,0,0,0,0,0,0

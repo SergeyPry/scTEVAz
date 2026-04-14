@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,iridophores,melanocytes,mesenchyme,mucous,muscle,neural,otic,paraxial.mesoderm,periderm,spinal.cord,vascular.smooth.muscle,xanthophores
+stage,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,iridophores,melanocytes,mesenchyme,mucous,muscle,neural,otic,paraxial_mesoderm,periderm,spinal_cord,vascular_smooth_muscle,xanthophores
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,3.74,0,0,0,0
  14-21,2.67,0,0,0,0,0,0,2.9,0,0,1.5,0,0,0,2.62,0,0
  24-34,1.05,0,0.82,0,0,0,0,2.8,2.05,0,2.54,0,0,0,0.71,0,0

@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endocrine.pancreas,epidermis,erythrocytes,eye,glial,gut,mesenchyme,neural,notochord,otic,paraxial.mesoderm,periderm,pronephros,somites,spinal.cord
+stage,axial,blastomeres,endocrine_pancreas,epidermis,erythrocytes,eye,glial,gut,mesenchyme,neural,notochord,otic,paraxial_mesoderm,periderm,pronephros,somites,spinal_cord
   3-4,28.57,220.42,0,0,0,0,0,0,0,0,0,0,0,10.4,0,0,0
   5-6,16.49,33.21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,16.7,0,0,0,0,0,0,0

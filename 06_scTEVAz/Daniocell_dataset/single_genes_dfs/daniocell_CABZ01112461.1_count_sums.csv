@@ -1,4 +1,4 @@
-stage,blastomeres,eye,glial,melanocytes,mesenchyme,muscle,neural,otic,spinal.cord
+stage,blastomeres,eye,glial,melanocytes,mesenchyme,muscle,neural,otic,spinal_cord
   3-4,11.75,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,6.71,0,0
  24-34,0,0,0,0,0.71,0,3.2,0,1.02

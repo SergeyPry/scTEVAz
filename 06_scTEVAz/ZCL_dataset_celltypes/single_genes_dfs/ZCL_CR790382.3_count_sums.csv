@@ -1,5 +1,5 @@
-stage,Cardiomyocyte,Epithelial.cell,Granulocyte,Immune.progenitor.cell,Macrophage,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Neurosecretory.cell,Primordial.germ.cell
-24hpf,4.08640457285017,24.518427437101,0,0,12.2592137185505,4.08640457285017,0,134.851350904056,0,0
-72hpf,0,0,0,0,0,0,1.06979114146608,0,1.06979114146608,0
-21Day,0,0,0,1.33853308820331,0,0,0,0,0,0
-3Month,0,0,0.319949299554195,0,0,0,0,0,0,0.319949299554195
+stage,Cardiomyocyte,Epithelial_cell,Granulocyte,Immune_progenitor_cell,Macrophage,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Neurosecretory_cell,Primordial_germ_cell
+24hpf,4.09,24.52,0,0,12.26,4.09,0,134.85,0,0
+72hpf,0,0,0,0,0,0,1.07,0,1.07,0
+21Day,0,0,0,1.34,0,0,0,0,0,0
+3Month,0,0,0.32,0,0,0,0,0,0,0.32

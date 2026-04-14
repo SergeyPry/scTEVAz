@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,fin.mesenchyme,gut,hatching.gland,immune,ionocyte,iridophores,liver,melanocytes,mesenchyme,neural,notochord,otic,periderm,pronephros,slow.muscle,somites,spinal.cord,vasculature,visceral.smooth.muscle
+stage,epidermis,eye,fin_epithelia,fin_mesenchyme,gut,hatching_gland,immune,ionocyte,iridophores,liver,melanocytes,mesenchyme,neural,notochord,otic,periderm,pronephros,slow_muscle,somites,spinal_cord,vasculature,visceral_smooth_muscle
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,2,1,0,0
  24-34,0,0.82,0,0,0,0,0,0,0,0,0.82,0,0.82,0,0,4.93,0,0,0,0,0,0
  36-46,0,0,0,0,0,0,0,0,0,0,0,0,0.81,0,0,5.64,0,0,0,1.61,0,0

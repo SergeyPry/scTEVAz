@@ -1,4 +1,4 @@
-stage,blastomeres,erythrocytes,eye,gut,heart,immune,melanocytes,mesenchyme,muscle,neural,somites,spinal.cord,vascular.smooth.muscle,visceral.smooth.muscle
+stage,blastomeres,erythrocytes,eye,gut,heart,immune,melanocytes,mesenchyme,muscle,neural,somites,spinal_cord,vascular_smooth_muscle,visceral_smooth_muscle
   3-4,26.9,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,3.34,0,0,0,0
  14-21,0,0,1.42,0,0,0,0,0,0,0,0.94,0.88,0,0

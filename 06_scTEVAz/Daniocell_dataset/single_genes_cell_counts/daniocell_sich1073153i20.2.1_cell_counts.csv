@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,glial,liver,mesenchyme,mural.cell,neural,somites,spinal.cord
+stage,endocrine_pancreas,epidermis,eye,glial,liver,mesenchyme,mural_cell,neural,somites,spinal_cord
  14-21,0,0,0,0,0,0,0,4,1,1
  24-34,0,0,0,0,0,2.46,0,4.93,0,1.64
  36-46,0,0,3.22,0.81,0,0.81,0,2.42,0,0.81

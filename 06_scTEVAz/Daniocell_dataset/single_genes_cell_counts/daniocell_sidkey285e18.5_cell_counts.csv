@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,immune,mesenchyme,muscle,neural,periderm,pronephros,somites,spinal.cord,vasculature
+stage,blastomeres,epidermis,eye,glial,immune,mesenchyme,muscle,neural,periderm,pronephros,somites,spinal_cord,vasculature
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,1,0,1,0,1,1,0
  24-34,0,0.82,0,0,0,0.82,0,4.1,0,0,0,0.82,0.82

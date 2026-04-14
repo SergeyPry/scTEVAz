@@ -1,4 +1,4 @@
-stage,blastomeres,eye,glial,heart,iridophores,melanocytes,mesenchyme,mucous,muscle,neural,notochord,otic,paraxial.mesoderm,periderm,pronephros,somites,spinal.cord,xanthophores
+stage,blastomeres,eye,glial,heart,iridophores,melanocytes,mesenchyme,mucous,muscle,neural,notochord,otic,paraxial_mesoderm,periderm,pronephros,somites,spinal_cord,xanthophores
   3-4,13.21,0,0,0,0,0,0,0,0,0,0,0,0,28.35,0,0,0,0
   5-6,33.83,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,8.07,0,0,5.98,0,0,0,0,0

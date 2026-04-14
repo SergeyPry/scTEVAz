@@ -1,4 +1,4 @@
-stage,blastomeres,erythrocytes,eye,glial,lateral.line,mesenchyme,muscle,neural,notochord,slow.muscle,somites,spinal.cord,vasculature
+stage,blastomeres,erythrocytes,eye,glial,lateral_line,mesenchyme,muscle,neural,notochord,slow_muscle,somites,spinal_cord,vasculature
   3-4,39.53,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,18.39,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,1,2,0,0,0,0,0

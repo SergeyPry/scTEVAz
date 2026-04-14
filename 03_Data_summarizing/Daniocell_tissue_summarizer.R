@@ -4,9 +4,6 @@
 # remotes::install_version("SeuratObject", "4.1.4", repos = c("https://satijalab.r-universe.dev", getOption("repos")))
 # remotes::install_version("Seurat", "4.4.0", repos = c("https://satijalab.r-universe.dev", getOption("repos")))
 
-# setwd("c:/Bioinformatics/00_Daniocell_data")
-
-
 library(dplyr)
 library(tidyverse)
 library(stringr)
@@ -136,8 +133,12 @@ for(gene in gene_names){
     
     gene_wide_summary[is.na(gene_wide_summary)] <- 0
     
+    # correct the column names
+    colnames_new <- str_replace_all(colnames(gene_wide_summary), '\\.', '_')
+    colnames(gene_wide_summary) <- colnames_new
     
-    write.csv(gene_wide_summary, paste0("./new/daniocell_", gene, "_count_sums.csv"), quote = FALSE, row.names = FALSE)
+    
+    write.csv(gene_wide_summary, paste0("./Daniocell_dataset/single_genes_dfs/daniocell_", gene, "_count_sums.csv"), quote = FALSE, row.names = FALSE)
   }
   
 
@@ -224,7 +225,11 @@ for(gene in gene_names){
   
   gene_wide_summary[is.na(gene_wide_summary)] <- 0
   
-  write.csv(gene_wide_summary, paste0("./single_genes_cell_counts/daniocell_", gene, "_cell_counts.csv"), quote = FALSE, row.names = FALSE)
+  # correct the column names
+  colnames_new <- str_replace_all(colnames(gene_wide_summary), '\\.', '_')
+  colnames(gene_wide_summary) <- colnames_new
+  
+  write.csv(gene_wide_summary, paste0("./Daniocell_dataset/single_genes_cell_counts/daniocell_", gene, "_cell_counts.csv"), quote = FALSE, row.names = FALSE)
   
 }
 

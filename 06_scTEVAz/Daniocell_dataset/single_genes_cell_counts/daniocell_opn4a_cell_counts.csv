@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.mesenchyme,glial,gut,mesenchyme,muscle,neural,otic,spinal.cord,vasculature
+stage,epidermis,eye,fin_mesenchyme,glial,gut,mesenchyme,muscle,neural,otic,spinal_cord,vasculature
  14-21,1,0,0,0,0,0,0,0,0,2,0
  24-34,0,0.82,0,0,0,0,0.82,10.67,0,0,0
  36-46,0,0,0,0,0,0,0.81,13.7,0,3.22,0

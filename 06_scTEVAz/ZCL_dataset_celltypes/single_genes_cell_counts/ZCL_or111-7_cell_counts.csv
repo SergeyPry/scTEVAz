@@ -1,4 +1,4 @@
-stage,Epithelial.cell..Brain.,Intestinal.bulb.cell,Keratinocyte,Neural.cell
-72hpf,0.281848056003223,0,0.281848056003223,0.84554416800967
-21Day,0,0,0,0.369986860264282
-3Month,0,0.104017006644673,0,0.416068026578691
+stage,Epithelial_cell__Brain_,Intestinal_bulb_cell,Keratinocyte,Neural_cell
+72hpf,0.28,0,0.28,0.85
+21Day,0,0,0,0.37
+3Month,0,0.1,0,0.42

@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Goblet.cell,Hepatocyte,Intestinal.bulb.cell,Keratinocyte,Nephron.cell,Primordial.germ.cell,Retinal.pigment.epithelial.cell,Spermatocyte,T.cell
-72hpf,0,0,0,0,0,0,0,1.06979114146608,0,0
-3Month,0.319949299554195,0.319949299554195,0.959847898662586,0.319949299554195,0.639898599108391,0.639898599108391,0.639898599108391,0,9.27852968707167,0.639898599108391
-22Month,0,0,0,0,0,0,1.6399639535923,0,0,0
+stage,Epithelial_cell,Goblet_cell,Hepatocyte,Intestinal_bulb_cell,Keratinocyte,Nephron_cell,Primordial_germ_cell,Retinal_pigment_epithelial_cell,Spermatocyte,T_cell
+72hpf,0,0,0,0,0,0,0,1.07,0,0
+3Month,0.32,0.32,0.96,0.32,0.64,0.64,0.64,0,9.28,0.64
+22Month,0,0,0,0,0,0,1.64,0,0,0

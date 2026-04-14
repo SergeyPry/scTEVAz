@@ -1,5 +1,5 @@
-stage,Epithelial.cell,Granulosa.cell,Hepatocyte,Macrophage,Neural.cell,Neurosecretory.cell,Oligodendrocyte,Pancreatic.cell,Primordial.germ.cell
-24hpf,0,0,0,4.08640457285017,0,0,0,0,0
-21Day,0,0,0,0,13.3853308820331,0,0,0,0
-3Month,0.639898599108391,0,0,0,0,0,0,0,1.27979719821678
-22Month,0,0.546654651197433,2.73327325598717,0,0,0.546654651197433,0.546654651197433,0.546654651197433,0
+stage,Epithelial_cell,Granulosa_cell,Hepatocyte,Macrophage,Neural_cell,Neurosecretory_cell,Oligodendrocyte,Pancreatic_cell,Primordial_germ_cell
+24hpf,0,0,0,4.09,0,0,0,0,0
+21Day,0,0,0,0,13.39,0,0,0,0
+3Month,0.64,0,0,0,0,0,0,0,1.28
+22Month,0,0.55,2.73,0,0,0.55,0.55,0.55,0

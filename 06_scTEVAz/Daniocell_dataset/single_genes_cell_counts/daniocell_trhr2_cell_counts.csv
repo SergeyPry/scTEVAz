@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,gut,hatching.gland,ionocyte,mesenchyme,mural.cell,neural,otic,pronephros,spinal.cord,vasculature,visceral.smooth.muscle
+stage,blastomeres,epidermis,eye,glial,gut,hatching_gland,ionocyte,mesenchyme,mural_cell,neural,otic,pronephros,spinal_cord,vasculature,visceral_smooth_muscle
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,0,0,0,0,0,6.13,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,5.26,0,0,0,0,0

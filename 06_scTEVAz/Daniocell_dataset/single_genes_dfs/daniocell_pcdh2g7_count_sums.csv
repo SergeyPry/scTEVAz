@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,fin.mesenchyme,glial,heart,lateral.line,liver,melanocytes,mesenchyme,muscle,neural,notochord,olfactory,otic,spinal.cord,vascular.smooth.muscle,vasculature
+stage,endocrine_pancreas,epidermis,eye,fin_mesenchyme,glial,heart,lateral_line,liver,melanocytes,mesenchyme,muscle,neural,notochord,olfactory,otic,spinal_cord,vascular_smooth_muscle,vasculature
  14-21,0,0,0,0,0,0,0,0,0,0,0,4.02,0,0,0,3.64,0,0
  24-34,0,0,0,0,0,0,0,0,0,0.87,0.72,41.21,0,0,0,13.08,0,5.46
  36-46,0,0,2.1,0,1.4,0,0,0,0,2.42,0,46.26,0,0,0,12.37,0,0.71

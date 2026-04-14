@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Epithelial.cell..Brain.,Erythroid.progenitor.cell,Immune.progenitor.cell,Keratinocyte,Neural.cell,Neural.progenitor.cell,Osteoblast
-24hpf,0,0,0,0,0,0,24.518427437101,0
-72hpf,0,1.06979114146608,0,1.06979114146608,1.06979114146608,3.20937342439823,0,1.06979114146608
-21Day,1.33853308820331,0,1.33853308820331,1.33853308820331,0,1.33853308820331,1.33853308820331,0
+stage,Epithelial_cell,Epithelial_cell__Brain_,Erythroid_progenitor_cell,Immune_progenitor_cell,Keratinocyte,Neural_cell,Neural_progenitor_cell,Osteoblast
+24hpf,0,0,0,0,0,0,24.52,0
+72hpf,0,1.07,0,1.07,1.07,3.21,0,1.07
+21Day,1.34,0,1.34,1.34,0,1.34,1.34,0

@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,exocrine.pancreas,eye,fin.epithelia,glial,gut,hatching.gland,immune,liver,mesenchyme,muscle,neural,paraxial.mesoderm,periderm,somites,vasculature
+stage,axial,blastomeres,endoderm,exocrine_pancreas,eye,fin_epithelia,glial,gut,hatching_gland,immune,liver,mesenchyme,muscle,neural,paraxial_mesoderm,periderm,somites,vasculature
   3-4,0,76.32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.31,524.99,0,0,0,0,0,0,0,0,0,0,0,0,0,16.59,0,0
   7-9,0,0,5.42,0,3.31,0,0,0,4.94,0,0,0,0,12.33,4.83,0,0,0

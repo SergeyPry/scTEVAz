@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,lateral.line,mesenchyme,neural,olfactory,otic,paraxial.mesoderm,pronephros,somites,spinal.cord,taste
+stage,blastomeres,epidermis,eye,glial,lateral_line,mesenchyme,neural,olfactory,otic,paraxial_mesoderm,pronephros,somites,spinal_cord,taste
   5-6,6.13,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,2.63,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,3.15,0,0,0

@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Hepatocyte,Keratinocyte,Macrophage,Mesenchymal.cell,Neural.progenitor.cell,Oocyte,Osteoblast
-24hpf,0,0,0,4.08640457285017,16.3456182914007,36.7776411556516,0,0
-72hpf,0,0,1.06979114146608,0,0,0,0,1.06979114146608
-22Month,0.546654651197433,0.546654651197433,0,0.546654651197433,0,0,30.6126604670563,0
+stage,Epithelial_cell,Hepatocyte,Keratinocyte,Macrophage,Mesenchymal_cell,Neural_progenitor_cell,Oocyte,Osteoblast
+24hpf,0,0,0,4.09,16.35,36.78,0,0
+72hpf,0,0,1.07,0,0,0,0,1.07
+22Month,0.55,0.55,0,0.55,0,0,30.61,0

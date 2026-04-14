@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,eye,fast.muscle,hatching.gland,immune,neural,notochord,paraxial.mesoderm,vasculature
+stage,axial,blastomeres,endoderm,eye,fast_muscle,hatching_gland,immune,neural,notochord,paraxial_mesoderm,vasculature
   3-4,0,58.72,0,0,0,0,0,0,0,0,0
   5-6,15.01,53.99,0,0,0,0,0,38.05,7.03,10.04,0
   7-9,17.96,5.84,26.42,0,0,31.11,0,19.66,0,114.56,0

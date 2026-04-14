@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,fin.mesenchyme,glial,immune,ionocyte,liver,mesenchyme,neural,paraxial.mesoderm,spinal.cord,vasculature
+stage,blastomeres,epidermis,erythrocytes,eye,fin_mesenchyme,glial,immune,ionocyte,liver,mesenchyme,neural,paraxial_mesoderm,spinal_cord,vasculature
   3-4,11.35,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.57,0,0,0,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,7.66,0,0

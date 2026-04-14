@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,eye,glial,hatching.gland,heart,mesenchyme,neural,notochord,olfactory,paraxial.mesoderm,pericytes,periderm,spinal.cord,vasculature
+stage,axial,blastomeres,epidermis,eye,glial,hatching_gland,heart,mesenchyme,neural,notochord,olfactory,paraxial_mesoderm,pericytes,periderm,spinal_cord,vasculature
   3-4,13.18,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,5.26,0,0,0,0,0,0,0,0,7.89,0,2.63,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,6.29,0,0,0,0,0,0

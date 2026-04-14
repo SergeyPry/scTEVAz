@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,glial,heart,immune,iridophores,liver,mesenchyme,muscle,neural,periderm,vascular.smooth.muscle,vasculature,visceral.smooth.muscle
+stage,epidermis,erythrocytes,eye,glial,heart,immune,iridophores,liver,mesenchyme,muscle,neural,periderm,vascular_smooth_muscle,vasculature,visceral_smooth_muscle
  36-46,0,0,13.21,0,0,0,0,0,0,0,0,0,0,0,0
  48-58,0,0,56.49,0,0,0,0,0,0.37,0,0,0,0,0,0
  60-70,0,0,449.36,0,0,0,3.43,0,0,0,6.9,0,0,0,0

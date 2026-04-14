@@ -1,3 +1,3 @@
-stage,Epithelial.cell,Ionocyte,Nephron.cell
-21Day,1.33853308820331,1.33853308820331,1.33853308820331
-3Month,0,0,0.639898599108391
+stage,Epithelial_cell,Ionocyte,Nephron_cell
+21Day,1.34,1.34,1.34
+3Month,0,0,0.64

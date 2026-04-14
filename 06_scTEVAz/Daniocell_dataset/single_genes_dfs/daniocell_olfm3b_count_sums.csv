@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.epithelia,glial,gut,ionocyte,lateral.line,mesenchyme,mural.cell,muscle,neural,notochord,periderm,somites,spinal.cord,vasculature
+stage,blastomeres,epidermis,eye,fin_epithelia,glial,gut,ionocyte,lateral_line,mesenchyme,mural_cell,muscle,neural,notochord,periderm,somites,spinal_cord,vasculature
   3-4,59.51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,58.87,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,8.67,7.16,0,0,0,0

@@ -1,4 +1,4 @@
-stage,epidermis,eye,gut,mesenchyme,neural,notochord,otic,somites,spinal.cord,visceral.smooth.muscle
+stage,epidermis,eye,gut,mesenchyme,neural,notochord,otic,somites,spinal_cord,visceral_smooth_muscle
  14-21,2.44,1.12,0,0,0,0,0,0.91,0,0
  24-34,2.41,0,0,6.93,6.31,2.43,0,0,0,0
  36-46,0,0.82,0,0.68,0,0,0,0,0.63,0

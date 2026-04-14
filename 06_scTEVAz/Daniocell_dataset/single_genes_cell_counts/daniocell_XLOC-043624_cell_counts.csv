@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,erythrocytes,eye,fin.mesenchyme,glial,immune,iridophores,mesenchyme,mural.cell,muscle,neural,notochord,olfactory,paraxial.mesoderm,periderm,pgc,pronephros,spinal.cord,vasculature
+stage,axial,blastomeres,endoderm,erythrocytes,eye,fin_mesenchyme,glial,immune,iridophores,mesenchyme,mural_cell,muscle,neural,notochord,olfactory,paraxial_mesoderm,periderm,pgc,pronephros,spinal_cord,vasculature
   3-4,13.18,39.53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13.18,0,0,0,0
   5-6,0,79.69,0,0,0,0,0,0,0,0,0,0,6.13,0,0,0,0,0,0,0,0
   7-9,0,2.63,0,0,2.63,0,0,0,0,0,0,0,34.17,2.63,0,13.14,0,2.63,0,0,0

@@ -1,4 +1,4 @@
-stage,eye,fin.mesenchyme,glial,ionocyte,lateral.line,melanocytes,mesenchyme,muscle,neural,otic,periderm,spinal.cord
+stage,eye,fin_mesenchyme,glial,ionocyte,lateral_line,melanocytes,mesenchyme,muscle,neural,otic,periderm,spinal_cord
   7-9,0,0,0,0,0,0,0,0,2.63,0,0,0
  10-12,0,0,0,0,0,0,0,0,3.15,0,0,0
  14-21,1,0,0,0,0,0,0,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,exocrine.pancreas,eye,fin.epithelia,fin.mesenchyme,glial,liver,mesenchyme,mucous,mural.cell,muscle,neural,notochord,olfactory,otic,periderm,spinal.cord,vasculature,xanthophores
+stage,endoderm,epidermis,exocrine_pancreas,eye,fin_epithelia,fin_mesenchyme,glial,liver,mesenchyme,mucous,mural_cell,muscle,neural,notochord,olfactory,otic,periderm,spinal_cord,vasculature,xanthophores
  10-12,3.15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.15,0,0,0
  14-21,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,37,0,0,0
  24-34,0,0,0,7.39,0,0,0,0,0,0,0,0.82,0.82,0,0,0,7.39,0,0,0

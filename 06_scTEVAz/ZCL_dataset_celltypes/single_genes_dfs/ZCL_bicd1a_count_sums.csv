@@ -1,6 +1,6 @@
-stage,Cardiomyocyte,Endothelial.cell,Epithelial.cell,Granulocyte,Granulosa.cell,Hepatocyte,Keratinocyte,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Radial.glia,Spermatocyte
-24hpf,0,0,0,0,0,0,0,0,0,4.08640457285017,0,0
-72hpf,1.06979114146608,1.06979114146608,0,0,0,0,0,1.06979114146608,19.2562405463894,3.20937342439823,1.06979114146608,0
-21Day,1.33853308820331,0,0,0,0,0,0,0,22.7550624994562,0,0,0
-3Month,0,0,0.959847898662586,0,0,0.639898599108391,0.319949299554195,0,0,0,0,0.319949299554195
-22Month,0,0,0,0.546654651197433,0.546654651197433,8.74647441915893,0,0,0.546654651197433,0,0,0
+stage,Cardiomyocyte,Endothelial_cell,Epithelial_cell,Granulocyte,Granulosa_cell,Hepatocyte,Keratinocyte,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Radial_glia,Spermatocyte
+24hpf,0,0,0,0,0,0,0,0,0,4.09,0,0
+72hpf,1.07,1.07,0,0,0,0,0,1.07,19.26,3.21,1.07,0
+21Day,1.34,0,0,0,0,0,0,0,22.76,0,0,0
+3Month,0,0,0.96,0,0,0.64,0.32,0,0,0,0,0.32
+22Month,0,0,0,0.55,0.55,8.75,0,0,0.55,0,0,0

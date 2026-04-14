@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,gut,neural,paraxial.mesoderm,periderm,pronephros
+stage,axial,blastomeres,endoderm,epidermis,eye,gut,neural,paraxial_mesoderm,periderm,pronephros
   3-4,0,13.18,0,0,0,0,0,0,0,0
   5-6,6.13,30.65,0,0,0,0,0,0,0,0
   7-9,0,0,2.63,0,5.26,0,21.03,0,0,0

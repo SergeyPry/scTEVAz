@@ -1,4 +1,4 @@
-stage,endoderm,eye,fast.muscle,immune,mesenchyme,mucous,neural,paraxial.mesoderm,periderm,presomitic.mesoderm,somites,spinal.cord,vasculature
+stage,endoderm,eye,fast_muscle,immune,mesenchyme,mucous,neural,paraxial_mesoderm,periderm,presomitic_mesoderm,somites,spinal_cord,vasculature
  10-12,3.15,0,0,0,0,0,3.15,3.15,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,1,0,0,0
  24-34,0,0,0,0,0.82,0,3.28,0,0.82,0,1.64,0,0

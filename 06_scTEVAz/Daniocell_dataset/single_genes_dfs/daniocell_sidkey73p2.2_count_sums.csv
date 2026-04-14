@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,exocrine.pancreas,eye,fin.epithelia,glial,gut,hatching.gland,heart,immune,ionocyte,mesenchyme,mucous,muscle,neural,olfactory,otic,paraxial.mesoderm,periderm,pronephros,spinal.cord,vasculature,visceral.smooth.muscle,xanthophores
+stage,blastomeres,epidermis,exocrine_pancreas,eye,fin_epithelia,glial,gut,hatching_gland,heart,immune,ionocyte,mesenchyme,mucous,muscle,neural,olfactory,otic,paraxial_mesoderm,periderm,pronephros,spinal_cord,vasculature,visceral_smooth_muscle,xanthophores
   3-4,22.73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,12.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.64,0,0,0,0,0

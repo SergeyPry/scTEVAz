@@ -1,4 +1,4 @@
-stage,Enterocyte,Hepatocyte,Intestinal.bulb.cell,Primordial.germ.cell,Spermatocyte
-21Day,0,0,1.33853308820331,0,0
-3Month,0.319949299554195,0,0,0.319949299554195,0.959847898662586
-22Month,0,3.82658255838203,0.546654651197433,2.73327325598717,0
+stage,Enterocyte,Hepatocyte,Intestinal_bulb_cell,Primordial_germ_cell,Spermatocyte
+21Day,0,0,1.34,0,0
+3Month,0.32,0,0,0.32,0.96
+22Month,0,3.83,0.55,2.73,0

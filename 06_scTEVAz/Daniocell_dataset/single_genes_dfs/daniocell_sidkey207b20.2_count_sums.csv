@@ -1,4 +1,4 @@
-stage,axial,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,gut,hatching.gland,immune,ionocyte,iridophores,lateral.line,mesenchyme,mucous,muscle,neural,olfactory,otic,pericytes,periderm,spinal.cord,taste
+stage,axial,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,gut,hatching_gland,immune,ionocyte,iridophores,lateral_line,mesenchyme,mucous,muscle,neural,olfactory,otic,pericytes,periderm,spinal_cord,taste
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19.41,0,0,0,0,0,0
  14-21,0.89,1.66,0,0,0,0,0,7.08,0,0.96,0,0,0,0.95,0,1.4,0,0,0,4.55,0,0
  24-34,0,1.37,0,0,0,0,0,0.62,0,2.81,0,0.78,0,9.86,0,31.71,4.7,0,0,1.09,0.89,0

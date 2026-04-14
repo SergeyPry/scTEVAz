@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,erythrocytes,eye,fast.muscle,glial,immune,mesenchyme,muscle,neural,notochord,paraxial.mesoderm,slow.muscle,somites,spinal.cord
+stage,blastomeres,endoderm,erythrocytes,eye,fast_muscle,glial,immune,mesenchyme,muscle,neural,notochord,paraxial_mesoderm,slow_muscle,somites,spinal_cord
   3-4,26.36,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,30.65,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,5.26,0,0,0,0,0,10.51,2.63,10.51,0,0,0

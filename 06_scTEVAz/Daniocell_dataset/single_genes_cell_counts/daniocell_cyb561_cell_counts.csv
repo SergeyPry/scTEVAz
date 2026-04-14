@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,endoderm,epidermis,eye,glial,gut,hatching.gland,ionocyte,liver,mesenchyme,mucous,muscle,neural,notochord,olfactory,otic,periderm,pronephros,somites,spinal.cord
+stage,endocrine_pancreas,endoderm,epidermis,eye,glial,gut,hatching_gland,ionocyte,liver,mesenchyme,mucous,muscle,neural,notochord,olfactory,otic,periderm,pronephros,somites,spinal_cord
   7-9,0,2.63,0,0,0,0,0,0,0,0,0,0,2.63,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,0,6.29,0,0,0,0,0,0
  14-21,0,0,2,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,2,28

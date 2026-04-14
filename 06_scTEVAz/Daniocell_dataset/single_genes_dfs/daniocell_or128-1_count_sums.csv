@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,fast.muscle,glial,gut,liver,mesenchyme,muscle,neural,olfactory,paraxial.mesoderm,periderm,presomitic.mesoderm,pronephros,somites,spinal.cord
+stage,endocrine_pancreas,epidermis,eye,fast_muscle,glial,gut,liver,mesenchyme,muscle,neural,olfactory,paraxial_mesoderm,periderm,presomitic_mesoderm,pronephros,somites,spinal_cord
   7-9,0,0,0,0,0,0,0,0,0,0,0,14.33,0,0,0,0,0
  14-21,1.32,0,0,0,0,0,0,0,1.26,0,0,0,1.35,1.16,0.86,3.62,0
  24-34,0,0,1.46,0,0,0,0,0,0.76,1.92,0,0,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fast.muscle,fin.epithelia,glial,heart,immune,ionocyte,mesenchyme,muscle,neural,paraxial.mesoderm,periderm,somites,spinal.cord,xanthophores
+stage,epidermis,erythrocytes,eye,fast_muscle,fin_epithelia,glial,heart,immune,ionocyte,mesenchyme,muscle,neural,paraxial_mesoderm,periderm,somites,spinal_cord,xanthophores
  10-12,0,0,0,0,0,0,0,0,0,0,0,3.15,0,0,0,0,0
  14-21,1,0,3,0,0,0,0,0,0,0,0,8,1,0,1,0,1
  24-34,0,0.82,0.82,0,0,0,0,0,0,0.82,0,7.39,0,0,0.82,2.46,0

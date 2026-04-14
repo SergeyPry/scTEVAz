@@ -1,4 +1,4 @@
-stage,eye,fast.muscle,fin.epithelia,glial,hatching.gland,liver,mesenchyme,mural.cell,muscle,neural,spinal.cord,vasculature
+stage,eye,fast_muscle,fin_epithelia,glial,hatching_gland,liver,mesenchyme,mural_cell,muscle,neural,spinal_cord,vasculature
  10-12,0,0,0,0,8.93,0,0,0,0,4.44,0,0
  24-34,0.66,0,0,0,0,0,0,0,0,0.79,0,1.15
  36-46,0.78,0,0,0,0,0.67,0.58,0,0,2.33,1.86,0

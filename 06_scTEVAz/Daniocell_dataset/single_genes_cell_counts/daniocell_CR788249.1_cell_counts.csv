@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,glial,mesenchyme,mucous,neural,olfactory,periderm
+stage,epidermis,eye,fin_epithelia,glial,mesenchyme,mucous,neural,olfactory,periderm
  24-34,0,0,0,0,0,0,1.64,0,0
  48-58,0.57,1.15,0,0,0,0,2.87,0,0
  60-70,0.98,0,0,0,0,0,0.98,0,0

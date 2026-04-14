@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,fin.mesenchyme,glial,immune,ionocyte,mesenchyme,muscle,neural,notochord,periderm,pronephros,spinal.cord
+stage,blastomeres,epidermis,erythrocytes,eye,fin_mesenchyme,glial,immune,ionocyte,mesenchyme,muscle,neural,notochord,periderm,pronephros,spinal_cord
   5-6,8.57,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,3.53,0,0,0,0
  14-21,0,0,1.09,0,0,0,0,0.96,0,0,2.14,0,0,0,0

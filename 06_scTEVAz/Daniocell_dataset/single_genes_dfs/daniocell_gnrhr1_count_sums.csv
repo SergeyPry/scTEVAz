@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,exocrine.pancreas,eye,fast.muscle,glial,gut,melanocytes,mesenchyme,neural,notochord,olfactory,periderm,slow.muscle,somites,spinal.cord,vascular.smooth.muscle,vasculature,visceral.smooth.muscle
+stage,blastomeres,epidermis,erythrocytes,exocrine_pancreas,eye,fast_muscle,glial,gut,melanocytes,mesenchyme,neural,notochord,olfactory,periderm,slow_muscle,somites,spinal_cord,vascular_smooth_muscle,vasculature,visceral_smooth_muscle
   3-4,9.81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,4.96,0,0,0,0,0,0,0,0,0
  14-21,0,8.27,0,0,0,0,0,0,0,0,0,0,0,0,0,1.22,0,0,0,0

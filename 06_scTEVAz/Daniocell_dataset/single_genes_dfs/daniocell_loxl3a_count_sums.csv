@@ -1,4 +1,4 @@
-stage,blastomeres,eye,liver,melanocytes,mesenchyme,muscle,neural,notochord,otic,pericytes,vascular.smooth.muscle,visceral.smooth.muscle,xanthophores
+stage,blastomeres,eye,liver,melanocytes,mesenchyme,muscle,neural,notochord,otic,pericytes,vascular_smooth_muscle,visceral_smooth_muscle,xanthophores
   5-6,10.5,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,10.99,0,0,0,0,0,0
  14-21,0,0,0,0.98,0,0,3.03,0,0,0,0,0,0

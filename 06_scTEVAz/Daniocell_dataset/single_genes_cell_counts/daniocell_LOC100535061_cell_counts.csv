@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.epithelia,ionocyte,mesenchyme,muscle,neural,periderm,spinal.cord,vascular.smooth.muscle,vasculature
+stage,blastomeres,epidermis,eye,fin_epithelia,ionocyte,mesenchyme,muscle,neural,periderm,spinal_cord,vascular_smooth_muscle,vasculature
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0
   5-6,18.39,0,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,3.15,0,0,0,0,3.15,0,0,0,0

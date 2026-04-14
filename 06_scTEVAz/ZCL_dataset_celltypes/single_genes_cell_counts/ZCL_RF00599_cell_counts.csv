@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Epithelial.cell,Erythrocyte,Erythroid.progenitor.cell,Neural.progenitor.cell
+stage,Cardiomyocyte,Epithelial_cell,Erythrocyte,Erythroid_progenitor_cell,Neural_progenitor_cell
 24hpf,0,0,0,0,1
-72hpf,0,0,0,0,0.563696112006446
-21Day,0.369986860264282,0.739973720528564,0.369986860264282,0.369986860264282,0.369986860264282
+72hpf,0,0,0,0,0.56
+21Day,0.37,0.74,0.37,0.37,0.37

@@ -1,4 +1,4 @@
-stage,Endothelial.cell,Enterocyte,Erythrocyte,Hepatocyte,Neural.progenitor.cell
-24hpf,0,0,0,0,8.17280914570035
-72hpf,1.06979114146608,0,1.06979114146608,0,0
-22Month,0,0.546654651197433,0,2.18661860478973,0
+stage,Endothelial_cell,Enterocyte,Erythrocyte,Hepatocyte,Neural_progenitor_cell
+24hpf,0,0,0,0,8.17
+72hpf,1.07,0,1.07,0,0
+22Month,0,0.55,0,2.19,0

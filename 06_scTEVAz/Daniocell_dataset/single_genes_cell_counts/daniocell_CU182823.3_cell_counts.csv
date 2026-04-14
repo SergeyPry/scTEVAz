@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,gut,immune,liver,mesenchyme,muscle,neural,otic,periderm,presomitic.mesoderm,pronephros,somites,spinal.cord,vasculature
+stage,epidermis,eye,glial,gut,immune,liver,mesenchyme,muscle,neural,otic,periderm,presomitic_mesoderm,pronephros,somites,spinal_cord,vasculature
   7-9,0,0,0,0,0,0,0,0,2.63,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,9.44,0,0,0,0,0,0,0
  14-21,0,1,0,0,0,0,0,0,0,0,0,1,0,2,0,0

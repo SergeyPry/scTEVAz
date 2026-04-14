@@ -1,4 +1,4 @@
-stage,Neural.cell,Neural.progenitor.cell,T.cell
+stage,Neural_cell,Neural_progenitor_cell,T_cell
 24hpf,0,1,0
-72hpf,0.84554416800967,0.563696112006446,0
-21Day,1.47994744105713,0,0.369986860264282
+72hpf,0.85,0.56,0
+21Day,1.48,0,0.37

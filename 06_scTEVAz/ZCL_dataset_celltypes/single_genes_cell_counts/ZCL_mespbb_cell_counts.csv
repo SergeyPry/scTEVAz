@@ -1,6 +1,6 @@
-stage,Cardiomyocyte,Epithelial.cell,Granulocyte,Hepatocyte,Ionocyte,Keratinocyte,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Osteoblast,Pancreatic.cell,Primordial.germ.cell,Radial.glia
+stage,Cardiomyocyte,Epithelial_cell,Granulocyte,Hepatocyte,Ionocyte,Keratinocyte,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Osteoblast,Pancreatic_cell,Primordial_germ_cell,Radial_glia
 24hpf,2,0,0,0,0,1,4,0,63,0,0,0,0
-72hpf,0,0,0,0,0,0,0.281848056003223,1.40924028001612,0,1.40924028001612,0,0,0.281848056003223
-21Day,0,0.369986860264282,0,0,0.369986860264282,0,0,0.369986860264282,0,5.17981604369995,0.369986860264282,0,0
-3Month,0,0,0,0,0,0,0,0,0,0,0,0.104017006644673,0
-22Month,0,0,0.136649431988133,0.136649431988133,0,0,0.136649431988133,0,0,0,0,0,0
+72hpf,0,0,0,0,0,0,0.28,1.41,0,1.41,0,0,0.28
+21Day,0,0.37,0,0,0.37,0,0,0.37,0,5.18,0.37,0,0
+3Month,0,0,0,0,0,0,0,0,0,0,0,0.1,0
+22Month,0,0,0.14,0.14,0,0,0.14,0,0,0,0,0,0

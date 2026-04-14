@@ -1,4 +1,4 @@
-stage,blastomeres,glial,immune,mesenchyme,neural,paraxial.mesoderm,pronephros
+stage,blastomeres,glial,immune,mesenchyme,neural,paraxial_mesoderm,pronephros
   5-6,12.26,0,0,0,0,0,0
   7-9,0,0,0,0,0,13.14,0
  10-12,0,0,0,0,9.44,28.32,3.15

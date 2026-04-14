@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,gut,mesenchyme,muscle,neural,periderm,pronephros,somites,spinal.cord,xanthophores
+stage,epidermis,eye,glial,gut,mesenchyme,muscle,neural,periderm,pronephros,somites,spinal_cord,xanthophores
  14-21,0,0,0,0,0,0,8,0,0,1,2,0
  24-34,0,1.64,0,0,0,0.82,9.85,0,0,0,1.64,0.82
  36-46,0,4.83,0,0,0,0,7.25,0,0,0,2.42,0

@@ -1,5 +1,5 @@
-stage,Erythrocyte,Hepatocyte,Mesenchymal.cell,Neural.cell,Osteoblast,Primordial.germ.cell
-72hpf,1.06979114146608,0,2.13958228293216,22.4656139707876,1.06979114146608,0
-21Day,0,0,0,21.4165294112529,0,0
-3Month,0,0.319949299554195,0,1.27979719821678,0,0.319949299554195
-22Month,0,2.73327325598717,0,0,0,0
+stage,Erythrocyte,Hepatocyte,Mesenchymal_cell,Neural_cell,Osteoblast,Primordial_germ_cell
+72hpf,1.07,0,2.14,22.47,1.07,0
+21Day,0,0,0,21.42,0,0
+3Month,0,0.32,0,1.28,0,0.32
+22Month,0,2.73,0,0,0,0

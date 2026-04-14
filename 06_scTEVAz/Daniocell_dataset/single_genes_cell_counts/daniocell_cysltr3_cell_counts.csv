@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.epithelia,gut,muscle,neural,olfactory,paraxial.mesoderm,periderm,pronephros,spinal.cord,visceral.smooth.muscle
+stage,blastomeres,epidermis,eye,fin_epithelia,gut,muscle,neural,olfactory,paraxial_mesoderm,periderm,pronephros,spinal_cord,visceral_smooth_muscle
   5-6,18.39,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,2.63,0,5.26,2.63,0,0,0
  14-21,0,0,0,0,0,0,1,0,0,2,0,0,0

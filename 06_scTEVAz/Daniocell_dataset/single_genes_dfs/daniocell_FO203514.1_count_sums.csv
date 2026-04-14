@@ -1,4 +1,4 @@
-stage,epidermis,exocrine.pancreas,eye,fast.muscle,glial,gut,immune,mesenchyme,mucous,muscle,neural,notochord,olfactory,otic,periderm,slow.muscle,somites,spinal.cord,xanthophores
+stage,epidermis,exocrine_pancreas,eye,fast_muscle,glial,gut,immune,mesenchyme,mucous,muscle,neural,notochord,olfactory,otic,periderm,slow_muscle,somites,spinal_cord,xanthophores
  14-21,2.37,0,0.99,0,0,0,0,1.21,0,0,9.19,7.83,0,0,3.87,3.01,4.54,0.98,0
  24-34,0,0,0,0.93,0,0,0,0.97,0,1.05,3.62,1.89,2.24,0,1.62,1.34,1.94,3.54,0
  36-46,0,0,0,0,0,0,0,0,1.99,0.61,2.43,0,0,0,3.5,0,0,1.28,4.96

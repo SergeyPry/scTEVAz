@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,fast.muscle,fin.epithelia,fin.mesenchyme,glial,gut,hatching.gland,immune,lateral.line,mesenchyme,mucous,neural,otic,periderm,pronephros,spinal.cord,vasculature
+stage,blastomeres,epidermis,erythrocytes,eye,fast_muscle,fin_epithelia,fin_mesenchyme,glial,gut,hatching_gland,immune,lateral_line,mesenchyme,mucous,neural,otic,periderm,pronephros,spinal_cord,vasculature
   3-4,11.91,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,1.61,1.04,0,0,0,0,0,0,0,33.41,0,0,0,0,0,3.48,0,0,0
  24-34,0,0,2.99,0,0,0,0,0,0,0,69.78,0,0,0.61,16.7,0,7.34,0,1.49,0

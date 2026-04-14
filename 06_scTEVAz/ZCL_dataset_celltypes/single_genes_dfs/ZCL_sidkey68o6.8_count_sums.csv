@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Epithelial.cell,Intestinal.bulb.cell,Keratinocyte,Neural.progenitor.cell
-24hpf,0,0,0,0,4.08640457285017
-72hpf,0,0,0,1.06979114146608,0
-3Month,0.319949299554195,3.51944229509615,0.639898599108391,0,0
+stage,Cardiomyocyte,Epithelial_cell,Intestinal_bulb_cell,Keratinocyte,Neural_progenitor_cell
+24hpf,0,0,0,0,4.09
+72hpf,0,0,0,1.07,0
+3Month,0.32,3.52,0.64,0,0

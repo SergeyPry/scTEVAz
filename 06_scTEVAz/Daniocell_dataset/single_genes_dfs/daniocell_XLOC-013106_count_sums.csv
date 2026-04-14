@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,endoderm,epidermis,erythrocytes,eye,fin.epithelia,fin.mesenchyme,glial,heart,iridophores,liver,mesenchyme,muscle,neural,notochord,olfactory,otic,periderm,spinal.cord,vasculature
+stage,endocrine_pancreas,endoderm,epidermis,erythrocytes,eye,fin_epithelia,fin_mesenchyme,glial,heart,iridophores,liver,mesenchyme,muscle,neural,notochord,olfactory,otic,periderm,spinal_cord,vasculature
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,4.34,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,2.85,0,0,0,0,0,88.72,1.13,0,0,0,52.07,0
  24-34,0,0,0,0,4.6,0,0,0,0,0,2.18,1.95,0.92,749.81,0,0,0.82,0.72,305.29,2.01

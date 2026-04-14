@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,glial,melanocytes,mesenchyme,muscle,neural,otic,somites,spinal.cord,vasculature
+stage,epidermis,erythrocytes,eye,glial,melanocytes,mesenchyme,muscle,neural,otic,somites,spinal_cord,vasculature
   7-9,0,0,0,0,0,0,0,2.63,0,0,0,0
  14-21,0,0,2,0,0,0,0,2,0,0,0,0
  24-34,0,0.82,0,0,0.82,0.82,0.82,27.91,0,0.82,5.75,0.82

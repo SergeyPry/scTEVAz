@@ -1,4 +1,4 @@
-stage,eye,fin.epithelia,glial,gut,immune,lateral.line,mesenchyme,neural,periderm,spinal.cord
+stage,eye,fin_epithelia,glial,gut,immune,lateral_line,mesenchyme,neural,periderm,spinal_cord
  14-21,0,0,0,0,0,0,0,0,2.29,0
  24-34,0.81,0,0.65,0,0,0,0,3.09,0,0.63
  36-46,0,0,0,0,0,0,0,1.82,0,0

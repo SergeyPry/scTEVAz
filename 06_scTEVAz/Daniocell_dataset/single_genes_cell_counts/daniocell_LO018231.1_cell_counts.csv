@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,fin.mesenchyme,glial,ionocyte,iridophores,mesenchyme,mural.cell,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,periderm,spinal.cord,vascular.smooth.muscle,vasculature,xanthophores
+stage,endoderm,epidermis,eye,fin_mesenchyme,glial,ionocyte,iridophores,mesenchyme,mural_cell,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,periderm,spinal_cord,vascular_smooth_muscle,vasculature,xanthophores
  14-21,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0
  24-34,0,0.82,0,0,0.82,0,0,0,0,0,0.82,0.82,0,0,0,0,0,0,0,0
  36-46,0,0,0,0,4.03,0,0,0,0,0.81,5.64,0,0.81,0,0,0,0,0,0,0

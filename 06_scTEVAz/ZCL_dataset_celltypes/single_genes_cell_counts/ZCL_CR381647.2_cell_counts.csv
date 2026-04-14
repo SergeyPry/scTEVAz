@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Hepatocyte,Keratinocyte,Neural.progenitor.cell,Neurosecretory.cell,Primordial.germ.cell,Spermatocyte,T.cell
-21Day,0,0,0,0.369986860264282,0,0.369986860264282,0,0
-3Month,0.208034013289345,0.208034013289345,0.104017006644673,0,0.104017006644673,0.208034013289345,0.728119046512708,0.104017006644673
-22Month,0,0.273298863976266,0,0,0,0,0,0
+stage,Epithelial_cell,Hepatocyte,Keratinocyte,Neural_progenitor_cell,Neurosecretory_cell,Primordial_germ_cell,Spermatocyte,T_cell
+21Day,0,0,0,0.37,0,0.37,0,0
+3Month,0.21,0.21,0.1,0,0.1,0.21,0.73,0.1
+22Month,0,0.27,0,0,0,0,0,0

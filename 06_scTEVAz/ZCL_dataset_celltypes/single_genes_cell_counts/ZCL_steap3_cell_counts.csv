@@ -1,6 +1,6 @@
-stage,Endothelial.cell,Epithelial.cell,Erythrocyte,Erythrocyte..Liver.,Erythroid.progenitor.cell,Granulocyte,Hepatocyte,Intestinal.bulb.cell,Keratinocyte,Macrophage,Mesenchymal.cell
+stage,Endothelial_cell,Epithelial_cell,Erythrocyte,Erythrocyte__Liver_,Erythroid_progenitor_cell,Granulocyte,Hepatocyte,Intestinal_bulb_cell,Keratinocyte,Macrophage,Mesenchymal_cell
 24hpf,0,0,0,0,1,0,0,0,0,0,0
-72hpf,0,0,8.4554416800967,0,0.563696112006446,0,0,0,0,0,0
-21Day,0,0,5.54980290396423,0,2.58990802184998,0,0,0.369986860264282,0.369986860264282,0,0
-3Month,0,0.104017006644673,0,0,0,0,0.208034013289345,0.208034013289345,0,0,0.104017006644673
-22Month,0.136649431988133,0.136649431988133,0,0.136649431988133,0,0.136649431988133,1.6397931838576,0.273298863976266,0,0.273298863976266,0
+72hpf,0,0,8.46,0,0.56,0,0,0,0,0,0
+21Day,0,0,5.55,0,2.59,0,0,0.37,0.37,0,0
+3Month,0,0.1,0,0,0,0,0.21,0.21,0,0,0.1
+22Month,0.14,0.14,0,0.14,0,0.14,1.64,0.27,0,0.27,0

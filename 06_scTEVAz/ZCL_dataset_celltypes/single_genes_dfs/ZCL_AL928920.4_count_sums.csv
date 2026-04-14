@@ -1,4 +1,4 @@
-stage,Keratinocyte,Neural.progenitor.cell,Primordial.germ.cell,Spermatocyte
-24hpf,0,4.08640457285017,0,0
-21Day,1.33853308820331,0,0,0
-3Month,0,0,0.639898599108391,0.319949299554195
+stage,Keratinocyte,Neural_progenitor_cell,Primordial_germ_cell,Spermatocyte
+24hpf,0,4.09,0,0
+21Day,1.34,0,0,0
+3Month,0,0,0.64,0.32

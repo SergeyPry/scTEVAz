@@ -1,4 +1,4 @@
-stage,endoderm,erythrocytes,eye,fin.epithelia,fin.mesenchyme,mesenchyme,muscle,neural,spinal.cord
+stage,endoderm,erythrocytes,eye,fin_epithelia,fin_mesenchyme,mesenchyme,muscle,neural,spinal_cord
  14-21,0,0,0,0,0,0,0,0.96,0.9
  24-34,0,0.62,0,0,0,0,0,0,0
  36-46,0,0,0,0,0,9.92,1.5,0,0

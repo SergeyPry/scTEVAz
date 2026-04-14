@@ -1,4 +1,4 @@
-stage,blastomeres,eye,fin.mesenchyme,glial,ionocyte,mesenchyme,neural,otic,periderm,spinal.cord
+stage,blastomeres,eye,fin_mesenchyme,glial,ionocyte,mesenchyme,neural,otic,periderm,spinal_cord
   3-4,10.14,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,3.96,0,0,0
  14-21,0,1.14,0,1.62,0,0,2.11,0,0,0.96

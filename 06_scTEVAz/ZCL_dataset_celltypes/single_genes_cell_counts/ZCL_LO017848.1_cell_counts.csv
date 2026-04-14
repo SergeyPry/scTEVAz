@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Neural.cell,Neural.progenitor.cell
+stage,Cardiomyocyte,Neural_cell,Neural_progenitor_cell
 24hpf,0,0,1
-72hpf,0.281848056003223,0.563696112006446,0
-21Day,0,0.739973720528564,0
+72hpf,0.28,0.56,0
+21Day,0,0.74,0

@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,glial,gut,immune,ionocyte,lateral.line,mural.cell,neural,notochord,periderm,vasculature
+stage,blastomeres,epidermis,erythrocytes,eye,glial,gut,immune,ionocyte,lateral_line,mural_cell,neural,notochord,periderm,vasculature
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,2.63,2.63,0,0
  24-34,0,0,0,0,0,0,0,0,0,0,0.82,0,0,0

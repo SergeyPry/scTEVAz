@@ -1,4 +1,4 @@
-stage,eye,glial,immune,mesenchyme,muscle,neural,otic,presomitic.mesoderm,spinal.cord,vasculature
+stage,eye,glial,immune,mesenchyme,muscle,neural,otic,presomitic_mesoderm,spinal_cord,vasculature
  14-21,0,1.08,0,0,0,3.74,0,1.39,0.85,0
  24-34,0,1.05,0,0,0,4.78,0,0,1.78,0.85
  36-46,0.88,1.62,0,2.69,0,7.5,0,0,0,0

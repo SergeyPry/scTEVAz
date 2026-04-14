@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Granulocyte,Hepatocyte,Intestinal.bulb.cell,Keratinocyte,Mesenchymal.cell,Mesenchymal.cell..caudal.fin.,Mt.rich.cell,Nephron.cell,Neural.progenitor.cell,Pancreatic.cell,Primordial.germ.cell,Spermatocyte
-72hpf,0,0,0,0,0,0,0,0,0,1.06979114146608,0,0,0
-3Month,0.319949299554195,0.319949299554195,2.87954369598776,1.59974649777098,0.319949299554195,0.319949299554195,0.319949299554195,0,0.319949299554195,0,0,0.639898599108391,0.319949299554195
-22Month,0.546654651197433,0,8.1998197679615,2.73327325598717,0,0,0,0.546654651197433,0,0,0.546654651197433,0.546654651197433,0
+stage,Epithelial_cell,Granulocyte,Hepatocyte,Intestinal_bulb_cell,Keratinocyte,Mesenchymal_cell,Mesenchymal_cell__caudal_fin_,Mt_rich_cell,Nephron_cell,Neural_progenitor_cell,Pancreatic_cell,Primordial_germ_cell,Spermatocyte
+72hpf,0,0,0,0,0,0,0,0,0,1.07,0,0,0
+3Month,0.32,0.32,2.88,1.6,0.32,0.32,0.32,0,0.32,0,0,0.64,0.32
+22Month,0.55,0,8.2,2.73,0,0,0,0.55,0,0,0.55,0.55,0

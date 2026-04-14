@@ -1,4 +1,4 @@
-stage,endoderm,exocrine.pancreas,eye,fin.epithelia,glial,liver,mesenchyme,muscle,neural,periderm,spinal.cord
+stage,endoderm,exocrine_pancreas,eye,fin_epithelia,glial,liver,mesenchyme,muscle,neural,periderm,spinal_cord
   7-9,0,0,5.97,0,0,0,0,0,0,0,0
  24-34,0,0,0,0,0,1.11,0,0,0.8,2.5,1.3
  36-46,0,0,0,0,0,0,0,0,9.29,0,0.63

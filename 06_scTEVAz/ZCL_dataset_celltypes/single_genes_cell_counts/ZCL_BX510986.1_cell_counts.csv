@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Epithelial.cell,Granulocyte,Hepatocyte,Macrophage,Mesenchymal.cell,Neural.progenitor.cell,Radial.glia
+stage,Cardiomyocyte,Epithelial_cell,Granulocyte,Hepatocyte,Macrophage,Mesenchymal_cell,Neural_progenitor_cell,Radial_glia
 24hpf,0,1,0,0,0,0,3,0
-21Day,0.369986860264282,0,0,0,0,0.369986860264282,0,0
-22Month,0,0,0.273298863976266,0.136649431988133,0.136649431988133,0.136649431988133,0,0.136649431988133
+21Day,0.37,0,0,0,0,0.37,0,0
+22Month,0,0,0.27,0.14,0.14,0.14,0,0.14

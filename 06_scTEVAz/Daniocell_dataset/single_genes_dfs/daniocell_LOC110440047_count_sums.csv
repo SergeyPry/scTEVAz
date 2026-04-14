@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,eye,glial,melanocytes,mesenchyme,muscle,neural,otic,periderm,spinal.cord,vascular.smooth.muscle,vasculature
+stage,endocrine_pancreas,eye,glial,melanocytes,mesenchyme,muscle,neural,otic,periderm,spinal_cord,vascular_smooth_muscle,vasculature
  14-21,1.14,11.5,0,0,0,0,3.26,0,0,0,0,0
  24-34,0,42.47,0,0,1.42,0.66,25.84,0,0,2.39,0,0
  36-46,0,62.39,0,1.99,2.08,0,51.98,0.78,0,4.91,0,0

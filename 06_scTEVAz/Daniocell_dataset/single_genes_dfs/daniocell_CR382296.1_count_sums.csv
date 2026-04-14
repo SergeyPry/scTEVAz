@@ -1,4 +1,4 @@
-stage,epidermis,exocrine.pancreas,eye,fin.epithelia,fin.mesenchyme,glial,lateral.line,mesenchyme,muscle,neural,somites,spinal.cord,vascular.smooth.muscle,vasculature
+stage,epidermis,exocrine_pancreas,eye,fin_epithelia,fin_mesenchyme,glial,lateral_line,mesenchyme,muscle,neural,somites,spinal_cord,vascular_smooth_muscle,vasculature
  14-21,0,0,0,0,0,0,0,0,3.41,0.81,9.19,0,0,0
  24-34,0,0,0,0,1.24,0,0,0.9,9.66,2.08,0.59,1.37,0,0
  36-46,0,0,0,0,0,0,0,14.15,5.06,1.42,0,0,0,0

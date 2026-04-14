@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fast.muscle,fin.epithelia,glial,mesenchyme,mural.cell,muscle,neural,olfactory,otic,pronephros,somites,spinal.cord
+stage,blastomeres,epidermis,eye,fast_muscle,fin_epithelia,glial,mesenchyme,mural_cell,muscle,neural,olfactory,otic,pronephros,somites,spinal_cord
   5-6,15.62,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,10.86,0,0,0,1.12,2.85
  24-34,0,0,3.78,0,0,4.51,2.29,0,1.04,38.78,0,0,0,1.19,14.3

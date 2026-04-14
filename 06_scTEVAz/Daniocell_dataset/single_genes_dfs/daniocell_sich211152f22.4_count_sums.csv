@@ -1,4 +1,4 @@
-stage,erythrocytes,eye,fast.muscle,fin.epithelia,fin.mesenchyme,glial,immune,lateral.line,melanocytes,mesenchyme,mural.cell,muscle,neural,otic,pericytes,periderm,slow.muscle,somites,spinal.cord
+stage,erythrocytes,eye,fast_muscle,fin_epithelia,fin_mesenchyme,glial,immune,lateral_line,melanocytes,mesenchyme,mural_cell,muscle,neural,otic,pericytes,periderm,slow_muscle,somites,spinal_cord
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,14.39,0,0,0,0,1.13,0
  24-34,0,0,0,0,0,0,0,0,0,1.51,0,0,11.64,0,0,10.28,0,0,0.71
  36-46,0,1.87,0,0,0,0,0,0,0,0.89,0,0,16.46,0.59,0,0,0,0,1.18

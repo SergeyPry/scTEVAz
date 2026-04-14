@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,glial,gut,heart,immune,iridophores,mesenchyme,mural.cell,muscle,neural,notochord,otic,paraxial.mesoderm,pericytes,slow.muscle,spinal.cord,taste,vascular.smooth.muscle,vasculature,visceral.smooth.muscle,xanthophores
+stage,epidermis,erythrocytes,eye,glial,gut,heart,immune,iridophores,mesenchyme,mural_cell,muscle,neural,notochord,otic,paraxial_mesoderm,pericytes,slow_muscle,spinal_cord,taste,vascular_smooth_muscle,vasculature,visceral_smooth_muscle,xanthophores
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.71,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,7.3,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,2.05,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,axial,epidermis,erythrocytes,eye,fin.epithelia,fin.mesenchyme,glial,gut,melanocytes,mesenchyme,muscle,neural,notochord,paraxial.mesoderm,periderm,presomitic.mesoderm,pronephros,somites,spinal.cord,vasculature
+stage,axial,epidermis,erythrocytes,eye,fin_epithelia,fin_mesenchyme,glial,gut,melanocytes,mesenchyme,muscle,neural,notochord,paraxial_mesoderm,periderm,presomitic_mesoderm,pronephros,somites,spinal_cord,vasculature
   3-4,12.37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,19.75,0,7.67,0,0,0,0,0,0
  10-12,0,0,0,14.27,0,0,0,0,0,0,0,0,0,0,0,0,10.23,0,0,0

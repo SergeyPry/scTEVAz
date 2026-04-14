@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,fin.epithelia,fin.mesenchyme,gut,heart,immune,ionocyte,iridophores,liver,mesenchyme,mucous,mural.cell,muscle,neural,paraxial.mesoderm,periderm,pronephros,spinal.cord,vasculature,xanthophores
+stage,blastomeres,epidermis,erythrocytes,eye,fin_epithelia,fin_mesenchyme,gut,heart,immune,ionocyte,iridophores,liver,mesenchyme,mucous,mural_cell,muscle,neural,paraxial_mesoderm,periderm,pronephros,spinal_cord,vasculature,xanthophores
   7-9,5.29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13.14,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.42,9.29,0,0,0,0
  14-21,0,1.27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10.41,0,1.31,0,0,0,0

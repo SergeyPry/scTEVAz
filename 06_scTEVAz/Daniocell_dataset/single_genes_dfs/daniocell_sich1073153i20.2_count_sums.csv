@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,ionocyte,lateral.line,mesenchyme,mural.cell,muscle,neural,olfactory,spinal.cord
+stage,epidermis,eye,glial,ionocyte,lateral_line,mesenchyme,mural_cell,muscle,neural,olfactory,spinal_cord
  14-21,0,0,0,0,0,0,0,0,4.53,0,1.9
  24-34,0,5.19,0,0,0,4.06,0,1.88,55.29,0.66,6.53
  36-46,0,30.58,2.66,0,0,2.74,0,0,40.05,0,4.2

@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,erythrocytes,eye,glial,gut,immune,iridophores,lateral.line,melanocytes,mesenchyme,muscle,neural,pericytes,periderm,spinal.cord,vascular.smooth.muscle,vasculature
+stage,blastomeres,endocrine_pancreas,erythrocytes,eye,glial,gut,immune,iridophores,lateral_line,melanocytes,mesenchyme,muscle,neural,pericytes,periderm,spinal_cord,vascular_smooth_muscle,vasculature
   3-4,14.34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,1.71,0,0,0,0,0,0,0,0,0,0,3.83,0,0,0,0,0
  24-34,0,0.8,0,0,0,0,0,0,0,17.03,0,0,3.99,0,0,0,0,3.27

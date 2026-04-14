@@ -1,4 +1,4 @@
-stage,erythrocytes,eye,fin.mesenchyme,glial,immune,mesenchyme,muscle,neural,otic,somites,spinal.cord
+stage,erythrocytes,eye,fin_mesenchyme,glial,immune,mesenchyme,muscle,neural,otic,somites,spinal_cord
  14-21,0,0,0,0,0,0,0,0,0,0.89,0
  24-34,0,0.8,0,0,0,1.31,0,7.83,0.74,0,5.23
  36-46,0,0,0,0,0,1.7,0,0,0,0,1.36

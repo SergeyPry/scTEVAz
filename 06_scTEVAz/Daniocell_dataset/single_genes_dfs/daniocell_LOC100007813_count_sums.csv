@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,glial,immune,iridophores,melanocytes,mesenchyme,neural,visceral.smooth.muscle
+stage,epidermis,eye,fin_epithelia,glial,immune,iridophores,melanocytes,mesenchyme,neural,visceral_smooth_muscle
  14-21,0.92,0,0,0,0,0,0,0,0,0
  24-34,6.22,0,0,0,0,0,0,0,1.49,0
  36-46,23.76,0,0,0,0,0,0,0,0,0

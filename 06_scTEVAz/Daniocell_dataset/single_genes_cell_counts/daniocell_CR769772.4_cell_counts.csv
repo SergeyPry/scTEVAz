@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,glial,mesenchyme,neural,notochord,periderm,presomitic.mesoderm,spinal.cord
+stage,epidermis,erythrocytes,eye,glial,mesenchyme,neural,notochord,periderm,presomitic_mesoderm,spinal_cord
  14-21,2,4,0,1,0,2,0,0,2,0
  24-34,0,3.28,0.82,0,0,0.82,0,0,0,0.82
  36-46,0,0,0,0.81,0,0,0,0,0,0

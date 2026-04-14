@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Endothelial.cell,Epithelial.cell,Erythrocyte..Liver.,Granulocyte,Hepatocyte,Immune.progenitor.cell,Intestinal.bulb.cell,Keratinocyte,Macrophage,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Pancreatic.cell,Primordial.germ.cell,Retinal.cell,Retinal.pigment.epithelial.cell,T.cell
-21Day,0.739973720528564,0,1.10996058079285,0,0,0,0.739973720528564,0,0.369986860264282,31.8188699827283,0.369986860264282,0.369986860264282,0,0.369986860264282,0,0,0.369986860264282,0
-3Month,0,0.104017006644673,0.312051019934018,0.104017006644673,0.104017006644673,0.624102039868036,0,0.208034013289345,0,11.6499047442033,0,0,0.104017006644673,0.208034013289345,0.104017006644673,0,0,0
-22Month,0,0.136649431988133,0,0.136649431988133,0.273298863976266,0.273298863976266,0,0,0.136649431988133,1.09319545590506,0.136649431988133,0,0,0,0,0.136649431988133,0,0.136649431988133
+stage,Cardiomyocyte,Endothelial_cell,Epithelial_cell,Erythrocyte__Liver_,Granulocyte,Hepatocyte,Immune_progenitor_cell,Intestinal_bulb_cell,Keratinocyte,Macrophage,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Pancreatic_cell,Primordial_germ_cell,Retinal_cell,Retinal_pigment_epithelial_cell,T_cell
+21Day,0.74,0,1.11,0,0,0,0.74,0,0.37,31.82,0.37,0.37,0,0.37,0,0,0.37,0
+3Month,0,0.1,0.31,0.1,0.1,0.62,0,0.21,0,11.65,0,0,0.1,0.21,0.1,0,0,0
+22Month,0,0.14,0,0.14,0.27,0.27,0,0,0.14,1.09,0.14,0,0,0,0,0.14,0,0.14

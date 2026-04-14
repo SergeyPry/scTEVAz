@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,immune,ionocyte,iridophores,lateral.line,mesenchyme,mural.cell,muscle,neural,notochord,otic,paraxial.mesoderm,pericytes,periderm,pgc,presomitic.mesoderm,spinal.cord,vascular.smooth.muscle,vasculature,xanthophores
+stage,axial,blastomeres,endoderm,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,immune,ionocyte,iridophores,lateral_line,mesenchyme,mural_cell,muscle,neural,notochord,otic,paraxial_mesoderm,pericytes,periderm,pgc,presomitic_mesoderm,spinal_cord,vascular_smooth_muscle,vasculature,xanthophores
   3-4,17.01,126.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.98,158.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8.98,0,0,0,0,0,0
   7-9,6.61,21.22,4.8,0,3.31,0,0,0,0,0,0,0,0,0,0,83,0,0,30.11,0,0,3.79,0,0,0,0,0

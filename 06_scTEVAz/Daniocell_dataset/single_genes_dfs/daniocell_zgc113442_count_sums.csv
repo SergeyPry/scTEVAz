@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,exocrine.pancreas,eye,fin.epithelia,fin.mesenchyme,glial,gut,hatching.gland,ionocyte,lateral.line,mesenchyme,mucous,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,periderm,pgc,presomitic.mesoderm,spinal.cord,taste
+stage,blastomeres,endoderm,epidermis,exocrine_pancreas,eye,fin_epithelia,fin_mesenchyme,glial,gut,hatching_gland,ionocyte,lateral_line,mesenchyme,mucous,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,periderm,pgc,presomitic_mesoderm,spinal_cord,taste
   3-4,44.21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,629.5,0,0,0,0
   5-6,30.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1500.96,0,0,0,0
   7-9,0,0,0,0,3.45,0,0,0,0,3.77,0,0,0,0,0,120.38,11.2,0,0,8.92,546.5,14.64,0,0,0

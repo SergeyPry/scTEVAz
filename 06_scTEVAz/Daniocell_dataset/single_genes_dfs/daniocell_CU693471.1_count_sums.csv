@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,glial,gut,hatching.gland,mesenchyme,muscle,neural,olfactory,otic,paraxial.mesoderm,presomitic.mesoderm,slow.muscle,somites,spinal.cord,taste,vasculature,visceral.smooth.muscle,xanthophores
+stage,axial,blastomeres,endoderm,epidermis,eye,glial,gut,hatching_gland,mesenchyme,muscle,neural,olfactory,otic,paraxial_mesoderm,presomitic_mesoderm,slow_muscle,somites,spinal_cord,taste,vasculature,visceral_smooth_muscle,xanthophores
   5-6,0,13.36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,4.22,6.79,9.52,0,0,0,0,6.64,0,0,58.43,0,0,33.55,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,26.66,0,0,4.36,0,0,0,0,0,0,0,0

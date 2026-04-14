@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,exocrine.pancreas,eye,fin.epithelia,glial,ionocyte,melanocytes,mesenchyme,neural,olfactory,paraxial.mesoderm,periderm,spinal.cord,vasculature
+stage,epidermis,erythrocytes,exocrine_pancreas,eye,fin_epithelia,glial,ionocyte,melanocytes,mesenchyme,neural,olfactory,paraxial_mesoderm,periderm,spinal_cord,vasculature
   7-9,0,0,0,0,0,0,0,0,0,0,0,2.63,2.63,0,0
  14-21,0,1,0,0,0,0,0,0,0,5,1,0,12,1,0
  24-34,0.82,0,0,0.82,0,0,0,0,0,6.57,1.64,0,0.82,3.28,0

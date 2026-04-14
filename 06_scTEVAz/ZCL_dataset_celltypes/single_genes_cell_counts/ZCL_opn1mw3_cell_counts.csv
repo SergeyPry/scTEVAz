@@ -1,5 +1,5 @@
-stage,Epithelial.cell,Immune.cell,Macrophage,Mesenchymal.cell,Neural.cell,Osteoblast,Retinal.cell,Retinal.cone.cell,T.cell
+stage,Epithelial_cell,Immune_cell,Macrophage,Mesenchymal_cell,Neural_cell,Osteoblast,Retinal_cell,Retinal_cone_cell,T_cell
 24hpf,0,0,0,0,0,1,0,0,0
-72hpf,0,0,0,0,0.563696112006446,0,0,0,0
-21Day,0,0,0,0.369986860264282,0,0,2.95989488211426,4.43984232317139,0.369986860264282
-3Month,0.104017006644673,0.104017006644673,0.104017006644673,0,0,0,0,0,0
+72hpf,0,0,0,0,0.56,0,0,0,0
+21Day,0,0,0,0.37,0,0,2.96,4.44,0.37
+3Month,0.1,0.1,0.1,0,0,0,0,0,0

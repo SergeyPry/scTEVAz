@@ -1,4 +1,4 @@
-stage,axial,blastomeres,erythrocytes,eye,fast.muscle,fin.epithelia,fin.mesenchyme,glial,gut,immune,lateral.line,liver,mesenchyme,neural,olfactory,otic,spinal.cord,vasculature
+stage,axial,blastomeres,erythrocytes,eye,fast_muscle,fin_epithelia,fin_mesenchyme,glial,gut,immune,lateral_line,liver,mesenchyme,neural,olfactory,otic,spinal_cord,vasculature
   3-4,13.18,26.36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,2.63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0

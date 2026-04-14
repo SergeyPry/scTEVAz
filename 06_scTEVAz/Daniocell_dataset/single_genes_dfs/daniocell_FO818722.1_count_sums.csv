@@ -1,4 +1,4 @@
-stage,blastomeres,erythrocytes,exocrine.pancreas,eye,glial,ionocyte,mesenchyme,neural,spinal.cord
+stage,blastomeres,erythrocytes,exocrine_pancreas,eye,glial,ionocyte,mesenchyme,neural,spinal_cord
   5-6,11.75,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,3.89,0
  14-21,0,0.94,0,0,0,0,0,0,0

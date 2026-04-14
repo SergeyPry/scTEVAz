@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,erythrocytes,eye,fin.epithelia,glial,gut,liver,mesenchyme,mucous,mural.cell,muscle,neural,notochord,periderm,spinal.cord,vasculature,visceral.smooth.muscle
+stage,endocrine_pancreas,epidermis,erythrocytes,eye,fin_epithelia,glial,gut,liver,mesenchyme,mucous,mural_cell,muscle,neural,notochord,periderm,spinal_cord,vasculature,visceral_smooth_muscle
  14-21,0,0.92,0,0,0,0,0,0,0,0,0,0,2.83,0,0.89,2.59,0,0
  24-34,0,0.8,0,0.64,0,0,0,0,0,0,0,0,1.87,0,0,0,0,0
  36-46,0,0,0,1.66,0,0.91,0,0,0.65,0,0,0.61,10.54,0,0,2.24,0.69,0

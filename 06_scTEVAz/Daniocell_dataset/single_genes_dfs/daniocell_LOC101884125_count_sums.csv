@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,epidermis,eye,fast.muscle,fin.epithelia,glial,gut,ionocyte,iridophores,lateral.line,mesenchyme,neural,notochord,olfactory,periderm,slow.muscle,spinal.cord,taste
+stage,blastomeres,endocrine_pancreas,epidermis,eye,fast_muscle,fin_epithelia,glial,gut,ionocyte,iridophores,lateral_line,mesenchyme,neural,notochord,olfactory,periderm,slow_muscle,spinal_cord,taste
   3-4,24.53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,4.13,0,0,0,0,0,0,0,0,0,0
  24-34,0,0.8,0,0,0,0,0,0,1.82,0,0,0,2.9,0,2.17,0,0,0,0

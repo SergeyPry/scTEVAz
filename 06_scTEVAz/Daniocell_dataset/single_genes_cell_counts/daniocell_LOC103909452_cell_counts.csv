@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,immune,mesenchyme,neural,notochord,olfactory,pronephros,spinal.cord,visceral.smooth.muscle
+stage,epidermis,eye,glial,immune,mesenchyme,neural,notochord,olfactory,pronephros,spinal_cord,visceral_smooth_muscle
  14-21,0,2,0,0,0,0,0,0,0,0,0
  24-34,0,0,0,0,0.82,1.64,0.82,0,0,0,0
  36-46,0,0,0,0,0,0.81,0,0,0,0,0

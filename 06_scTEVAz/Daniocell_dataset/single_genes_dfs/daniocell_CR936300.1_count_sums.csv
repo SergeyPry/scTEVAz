@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,glial,iridophores,liver,mesenchyme,mural.cell,neural,notochord,otic,pronephros,spinal.cord,vasculature
+stage,epidermis,eye,fast_muscle,glial,iridophores,liver,mesenchyme,mural_cell,neural,notochord,otic,pronephros,spinal_cord,vasculature
  14-21,0,0,0,1.11,0,0,0,0,0,0,0,0,0,0
  24-34,0,0,0,0,0,0,1.11,0,7.74,0.95,0,0,0,4.54
  36-46,0,0.76,0,0,0,0,1.42,0,3.56,3.79,0,0,0.99,0.65

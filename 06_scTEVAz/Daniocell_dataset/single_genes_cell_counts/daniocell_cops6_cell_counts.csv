@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,gut,iridophores,mesenchyme,mural.cell,neural,periderm,spinal.cord,vasculature
+stage,epidermis,eye,fast_muscle,gut,iridophores,mesenchyme,mural_cell,neural,periderm,spinal_cord,vasculature
  14-21,0,0,0,0,0,0,0,1,0,1,0
  24-34,0,0,0,0,0,0,0,8.21,0,2.46,0
  36-46,0,0.81,0,0,0,0,0,2.42,0,0.81,0.81

@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Hepatocyte,Macrophage,Mesenchymal.cell,Primordial.germ.cell,Spermatocyte,T.cell
+stage,Epithelial_cell,Hepatocyte,Macrophage,Mesenchymal_cell,Primordial_germ_cell,Spermatocyte,T_cell
 24hpf,0,0,1,1,0,0,0
-3Month,0.208034013289345,0.312051019934018,0.104017006644673,0.104017006644673,0.416068026578691,0.312051019934018,0.104017006644673
-22Month,0,0,0,0,0.409948295964399,0,0
+3Month,0.21,0.31,0.1,0.1,0.42,0.31,0.1
+22Month,0,0,0,0,0.41,0,0

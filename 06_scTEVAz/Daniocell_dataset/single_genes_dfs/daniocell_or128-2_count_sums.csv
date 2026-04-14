@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,exocrine.pancreas,eye,glial,mesenchyme,muscle,neural,olfactory,periderm,presomitic.mesoderm,somites,spinal.cord
+stage,epidermis,erythrocytes,exocrine_pancreas,eye,glial,mesenchyme,muscle,neural,olfactory,periderm,presomitic_mesoderm,somites,spinal_cord
  14-21,0.88,0,0,0,0,0,0.97,5.84,0,0,18.34,0.85,1.96
  24-34,0,0,0,0,0,0,0,0.83,0,0,0,0,3.01
  36-46,0,0,0,0,0,0,0,0.74,0,0,0,0,0

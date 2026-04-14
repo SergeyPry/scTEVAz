@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,erythrocytes,eye,gut,neural,notochord,periderm,spinal.cord
+stage,endocrine_pancreas,erythrocytes,eye,gut,neural,notochord,periderm,spinal_cord
  24-34,0,0,0,0,0,0,0,1.64
  36-46,0,0,0.81,0,5.64,0,0,1.61
  48-58,0,0,0,0,4.02,0.57,0.57,2.3

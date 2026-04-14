@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,fin.mesenchyme,glial,gut,immune,iridophores,liver,mesenchyme,mucous,mural.cell,muscle,neural,notochord,paraxial.mesoderm,periderm,presomitic.mesoderm,somites,spinal.cord
+stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,fin_mesenchyme,glial,gut,immune,iridophores,liver,mesenchyme,mucous,mural_cell,muscle,neural,notochord,paraxial_mesoderm,periderm,presomitic_mesoderm,somites,spinal_cord
   3-4,26.36,289.91,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26.36,0,0,0
   5-6,0,116.46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18.39,6.13,0,0,0,0,0
   7-9,0,0,2.63,0,0,2.63,0,0,0,0,0,0,0,0,0,0,13.14,2.63,7.89,0,0,0,0

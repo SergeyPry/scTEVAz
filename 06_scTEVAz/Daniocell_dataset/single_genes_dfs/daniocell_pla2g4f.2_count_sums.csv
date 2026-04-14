@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,ionocyte,mesenchyme,muscle,neural,paraxial.mesoderm,periderm,pgc,presomitic.mesoderm,pronephros,somites,spinal.cord,taste,vasculature
+stage,axial,blastomeres,endoderm,epidermis,eye,ionocyte,mesenchyme,muscle,neural,paraxial_mesoderm,periderm,pgc,presomitic_mesoderm,pronephros,somites,spinal_cord,taste,vasculature
   3-4,12.63,431.51,0,0,0,0,0,0,0,0,22.71,0,0,0,0,0,0,0
   5-6,8.83,175.62,0,0,0,0,0,0,6.44,0,11.11,0,0,0,0,0,0,0
   7-9,7.47,0,8.95,0,14.24,0,0,0,76.95,37.38,0,0,0,0,0,0,0,0

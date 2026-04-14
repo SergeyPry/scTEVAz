@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,immune,mesenchyme,muscle,neural,notochord,periderm,spinal.cord
+stage,epidermis,eye,glial,immune,mesenchyme,muscle,neural,notochord,periderm,spinal_cord
  14-21,0,0,0,0,0,0,1.76,0.99,2.7,0
  24-34,0,0,0,0,0,0,0.65,0,0.72,1.65
  36-46,0,0,0,0,1.61,0,3.41,0,0,0

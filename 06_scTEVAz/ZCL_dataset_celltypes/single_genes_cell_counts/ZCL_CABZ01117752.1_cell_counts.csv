@@ -1,6 +1,6 @@
-stage,Epithelial.cell,Erythrocyte,Macrophage,Mt.rich.cell,Neural.cell,Neural.progenitor.cell,Neurosecretory.cell,Oligodendrocyte,Primordial.germ.cell,Radial.glia,Spermatocyte
+stage,Epithelial_cell,Erythrocyte,Macrophage,Mt_rich_cell,Neural_cell,Neural_progenitor_cell,Neurosecretory_cell,Oligodendrocyte,Primordial_germ_cell,Radial_glia,Spermatocyte
 24hpf,0,0,0,0,0,1,0,0,0,0,0
-72hpf,0,0.563696112006446,0,0,10.146530016116,0.281848056003223,0,0,0,0.563696112006446,0
-21Day,0,0,0.369986860264282,0,1.84993430132141,0.369986860264282,0,0,0,0,0
-3Month,0.104017006644673,0,0.104017006644673,0,0,0,0,0.104017006644673,0.208034013289345,0,0.104017006644673
-22Month,0,0,0,0.136649431988133,0,0,0.136649431988133,0,0.136649431988133,0,0
+72hpf,0,0.56,0,0,10.15,0.28,0,0,0,0.56,0
+21Day,0,0,0.37,0,1.85,0.37,0,0,0,0,0
+3Month,0.1,0,0.1,0,0,0,0,0.1,0.21,0,0.1
+22Month,0,0,0,0.14,0,0,0.14,0,0.14,0,0

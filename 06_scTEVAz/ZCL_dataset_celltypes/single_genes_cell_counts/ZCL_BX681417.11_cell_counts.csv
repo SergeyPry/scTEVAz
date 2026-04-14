@@ -1,3 +1,3 @@
-stage,Granulocyte,Immune.progenitor.cell,Macrophage,T.cell
-21Day,0,4.80982918343567,0.369986860264282,0.369986860264282
-3Month,0.104017006644673,0,0,0.208034013289345
+stage,Granulocyte,Immune_progenitor_cell,Macrophage,T_cell
+21Day,0,4.81,0.37,0.37
+3Month,0.1,0,0,0.21

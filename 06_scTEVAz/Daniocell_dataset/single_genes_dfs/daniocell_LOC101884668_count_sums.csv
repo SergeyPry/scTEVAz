@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,exocrine.pancreas,eye,fin.mesenchyme,heart,iridophores,lateral.line,liver,mesenchyme,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,pronephros,spinal.cord,taste
+stage,blastomeres,epidermis,exocrine_pancreas,eye,fin_mesenchyme,heart,iridophores,lateral_line,liver,mesenchyme,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,pronephros,spinal_cord,taste
   3-4,17.54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,3.86,0,0,0,9.74,0,0,0
  14-21,0,2,0,0,0,0.93,0,0,0,0,0,2.76,0,0,0,0,0,2.62,0

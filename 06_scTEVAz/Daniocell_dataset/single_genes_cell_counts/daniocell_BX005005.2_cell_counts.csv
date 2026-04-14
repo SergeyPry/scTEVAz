@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,fin.epithelia,gut,immune,iridophores,melanocytes,mesenchyme,mucous,neural,notochord,olfactory,periderm,presomitic.mesoderm,spinal.cord,vasculature
+stage,blastomeres,epidermis,erythrocytes,eye,fin_epithelia,gut,immune,iridophores,melanocytes,mesenchyme,mucous,neural,notochord,olfactory,periderm,presomitic_mesoderm,spinal_cord,vasculature
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,6,1,0,0,0,0,0,0,0,0,1,4,0,0,1,1,0
  24-34,0,6.57,0,0,1.64,0,0,0,0.82,0,0,0.82,0,0,1.64,0,0,0

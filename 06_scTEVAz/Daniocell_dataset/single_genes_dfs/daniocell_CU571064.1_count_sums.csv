@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,endoderm,epidermis,eye,fast.muscle,fin.epithelia,glial,gut,iridophores,liver,mesenchyme,mural.cell,muscle,neural,olfactory,otic,spinal.cord,vasculature
+stage,blastomeres,endocrine_pancreas,endoderm,epidermis,eye,fast_muscle,fin_epithelia,glial,gut,iridophores,liver,mesenchyme,mural_cell,muscle,neural,olfactory,otic,spinal_cord,vasculature
   3-4,19.55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,7.41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13.81,0,0,0,0

@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,endoderm,epidermis,eye,glial,hatching.gland,heart,ionocyte,lateral.line,mesenchyme,neural,notochord,olfactory,otic,paraxial.mesoderm,pgc,pronephros,somites,spinal.cord,vascular.smooth.muscle,vasculature
+stage,endocrine_pancreas,endoderm,epidermis,eye,glial,hatching_gland,heart,ionocyte,lateral_line,mesenchyme,neural,notochord,olfactory,otic,paraxial_mesoderm,pgc,pronephros,somites,spinal_cord,vascular_smooth_muscle,vasculature
   7-9,0,15.91,0,0,0,0,0,0,0,0,34.42,0,0,0,16.67,0,0,0,0,0,0
  10-12,0,0,0,3.32,0,0,0,0,0,0,95.77,4.18,0,0,16.76,12.01,3.14,0,3.28,0,0
  14-21,0,0,0,0,57.61,2.04,0,0,0,5.41,43.39,0,0,5.84,0.87,0,35.16,0.81,147.08,0,0

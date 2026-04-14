@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,erythrocytes,eye,neural,notochord,otic,paraxial.mesoderm,periderm,pgc,spinal.cord,vasculature
+stage,axial,blastomeres,endoderm,erythrocytes,eye,neural,notochord,otic,paraxial_mesoderm,periderm,pgc,spinal_cord,vasculature
   3-4,149.81,4156.54,0,0,0,0,0,0,0,113.96,0,0,0
   5-6,152.73,1982.03,10.68,0,0,207.01,0,0,0,6.06,0,0,0
   7-9,0,26.06,8.69,0,0,170.92,9.05,0,67.89,0,6.2,0,0

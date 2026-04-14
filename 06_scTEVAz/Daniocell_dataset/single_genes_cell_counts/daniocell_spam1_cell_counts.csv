@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,hatching.gland,ionocyte,iridophores,lateral.line,liver,mesenchyme,mucous,muscle,neural,olfactory,otic,periderm,pronephros,spinal.cord,vasculature,visceral.smooth.muscle
+stage,endoderm,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,hatching_gland,ionocyte,iridophores,lateral_line,liver,mesenchyme,mucous,muscle,neural,olfactory,otic,periderm,pronephros,spinal_cord,vasculature,visceral_smooth_muscle
   7-9,0,0,2.63,0,0,0,0,0,0,0,0,0,0,0,5.26,0,0,0,0,0,0,0
  10-12,3.15,0,0,0,0,0,0,0,0,0,0,0,0,0,6.29,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0

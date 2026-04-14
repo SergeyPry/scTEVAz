@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,fin.epithelia,glial,immune,mesenchyme,neural,vasculature
+stage,epidermis,erythrocytes,fin_epithelia,glial,immune,mesenchyme,neural,vasculature
  14-21,0,3,0,0,2,0,1,0
  24-34,0,0.82,0,0,0.82,0,0,0
  36-46,0,0,0,0,1.61,0,0.81,0.81

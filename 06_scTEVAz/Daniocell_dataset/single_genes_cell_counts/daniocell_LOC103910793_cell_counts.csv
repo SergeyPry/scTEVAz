@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,fin.epithelia,glial,gut,iridophores,mesenchyme,mural.cell,muscle,neural,olfactory,periderm,spinal.cord,vasculature
+stage,endoderm,epidermis,eye,fin_epithelia,glial,gut,iridophores,mesenchyme,mural_cell,muscle,neural,olfactory,periderm,spinal_cord,vasculature
  14-21,1,2,0,0,0,0,0,0,0,1,5,0,0,4,0
  24-34,0,0,0,0,0.82,0,0,0.82,0,0,12.31,0.82,0.82,2.46,0
  36-46,0,0,0.81,0,1.61,0,0,0.81,0,0,8.86,0,0.81,4.03,0

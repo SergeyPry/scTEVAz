@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,fin.mesenchyme,glial,immune,lateral.line,liver,mesenchyme,mucous,muscle,neural,olfactory,otic,periderm,pronephros,slow.muscle,spinal.cord,vasculature
+stage,blastomeres,epidermis,erythrocytes,eye,fin_mesenchyme,glial,immune,lateral_line,liver,mesenchyme,mucous,muscle,neural,olfactory,otic,periderm,pronephros,slow_muscle,spinal_cord,vasculature
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,5.26,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,0,2,0

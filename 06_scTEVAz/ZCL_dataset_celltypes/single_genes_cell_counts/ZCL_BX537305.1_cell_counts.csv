@@ -1,4 +1,4 @@
-stage,Immune.progenitor.cell,Mesenchymal.cell,Primordial.germ.cell,Spermatocyte
+stage,Immune_progenitor_cell,Mesenchymal_cell,Primordial_germ_cell,Spermatocyte
 24hpf,0,1,0,0
-21Day,0.369986860264282,0,1.47994744105713,0
-3Month,0,0.104017006644673,4.99281631894429,1.66427210631476
+21Day,0.37,0,1.48,0
+3Month,0,0.1,4.99,1.66

@@ -1,4 +1,4 @@
-stage,axial,blastomeres,eye,fin.mesenchyme,glial,mesenchyme,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,periderm,pgc,slow.muscle,spinal.cord
+stage,axial,blastomeres,eye,fin_mesenchyme,glial,mesenchyme,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,periderm,pgc,slow_muscle,spinal_cord
   3-4,50.53,660.81,0,0,0,0,0,0,0,0,0,0,30.56,0,0,0
   5-6,6.35,275.49,0,0,0,0,0,7.48,0,0,0,0,9.07,0,0,0
   7-9,0,0,15.95,0,0,0,0,56.05,0,0,0,14.49,0,0,0,0

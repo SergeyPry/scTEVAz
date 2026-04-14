@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Endothelial.cell,Epithelial.cell,Epithelial.cell..Brain.,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Osteoblast,Radial.glia
+stage,Cardiomyocyte,Endothelial_cell,Epithelial_cell,Epithelial_cell__Brain_,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Osteoblast,Radial_glia
 24hpf,0,0,0,0,1,3,5,0,0
-72hpf,0.563696112006446,0,0,0,0.563696112006446,6.76435334407736,1.40924028001612,0.281848056003223,0.563696112006446
-21Day,0.369986860264282,0.739973720528564,0.369986860264282,0.369986860264282,1.47994744105713,2.95989488211426,1.47994744105713,1.47994744105713,0
+72hpf,0.56,0,0,0,0.56,6.76,1.41,0.28,0.56
+21Day,0.37,0.74,0.37,0.37,1.48,2.96,1.48,1.48,0

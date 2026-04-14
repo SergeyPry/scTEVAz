@@ -1,6 +1,6 @@
-stage,Cardiomyocyte,Enterocyte,Epithelial.cell,Fibroblast,Hepatocyte,Ionocyte,Neural.cell,Neural.progenitor.cell,Osteoblast,Primordial.germ.cell,Retinal.cell,Spermatocyte
-24hpf,0,0,0,0,0,0,0,8.17280914570035,0,0,0,0
-72hpf,2.13958228293216,0,0,0,0,0,2.13958228293216,0,0,0,3.20937342439823,0
-21Day,0,0,1.33853308820331,0,0,0,0,0,1.33853308820331,0,0,0
-3Month,0,0,0.319949299554195,0,0.319949299554195,0.319949299554195,0,0,0,0.959847898662586,0,1.59974649777098
-22Month,0,0.546654651197433,0,0.546654651197433,0,0,0,0,0,1.09330930239487,0,0
+stage,Cardiomyocyte,Enterocyte,Epithelial_cell,Fibroblast,Hepatocyte,Ionocyte,Neural_cell,Neural_progenitor_cell,Osteoblast,Primordial_germ_cell,Retinal_cell,Spermatocyte
+24hpf,0,0,0,0,0,0,0,8.17,0,0,0,0
+72hpf,2.14,0,0,0,0,0,2.14,0,0,0,3.21,0
+21Day,0,0,1.34,0,0,0,0,0,1.34,0,0,0
+3Month,0,0,0.32,0,0.32,0.32,0,0,0,0.96,0,1.6
+22Month,0,0.55,0,0.55,0,0,0,0,0,1.09,0,0

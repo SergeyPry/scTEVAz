@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,fin.mesenchyme,glial,iridophores,lateral.line,liver,mesenchyme,mural.cell,muscle,neural,otic,periderm,spinal.cord,vascular.smooth.muscle,vasculature
+stage,endoderm,epidermis,eye,fin_mesenchyme,glial,iridophores,lateral_line,liver,mesenchyme,mural_cell,muscle,neural,otic,periderm,spinal_cord,vascular_smooth_muscle,vasculature
  14-21,0,0,0,0,0,0,0,0,1.82,0,0,11.88,0,0,0,0,0
  24-34,0,0,3.03,0,1.03,0,0,0,1.22,0,0,28.85,0,0,7.54,0,0
  36-46,0,0,3.39,0,6.84,0,0,1.74,0.61,0,1.22,15.14,1.43,0,3.53,0,0

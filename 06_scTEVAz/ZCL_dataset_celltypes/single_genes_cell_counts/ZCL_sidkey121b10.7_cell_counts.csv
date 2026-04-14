@@ -1,5 +1,5 @@
-stage,Enterocyte,Hepatocyte,Keratinocyte,Macrophage,Mesenchymal.cell,Oligodendrocyte,Primordial.germ.cell,Smooth.muscle.cell,T.cell
-72hpf,0,0,0,0,0.563696112006446,0,0,0,0
-21Day,0.369986860264282,0,0,0,0.369986860264282,0,0,0,0
-3Month,0,0,0.104017006644673,0.104017006644673,0.312051019934018,0,0.104017006644673,0.520085033223363,0.104017006644673
-22Month,0,0.136649431988133,0,0,0,0.136649431988133,0,0,0
+stage,Enterocyte,Hepatocyte,Keratinocyte,Macrophage,Mesenchymal_cell,Oligodendrocyte,Primordial_germ_cell,Smooth_muscle_cell,T_cell
+72hpf,0,0,0,0,0.56,0,0,0,0
+21Day,0.37,0,0,0,0.37,0,0,0,0
+3Month,0,0,0.1,0.1,0.31,0,0.1,0.52,0.1
+22Month,0,0.14,0,0,0,0.14,0,0,0

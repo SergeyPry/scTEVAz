@@ -1,4 +1,4 @@
-stage,eye,glial,liver,melanocytes,mesenchyme,muscle,neural,notochord,spinal.cord
+stage,eye,glial,liver,melanocytes,mesenchyme,muscle,neural,notochord,spinal_cord
  10-12,0,0,0,0,0,0,5.76,0,0
  14-21,1.8,0,0,0,0,0,0,1.01,1.27
  24-34,0,0,0,0,0,0.67,8.31,1.5,1.87

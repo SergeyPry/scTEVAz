@@ -1,4 +1,4 @@
-stage,axial,blastomeres,eye,fin.epithelia,glial,immune,lateral.line,mesenchyme,mucous,muscle,neural,notochord,olfactory,otic,periderm,pronephros,somites,spinal.cord,taste
+stage,axial,blastomeres,eye,fin_epithelia,glial,immune,lateral_line,mesenchyme,mucous,muscle,neural,notochord,olfactory,otic,periderm,pronephros,somites,spinal_cord,taste
   3-4,0,39.53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.13,42.91,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,2.63,0,0,0,0,0,0,0,0

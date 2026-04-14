@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,hatching.gland,mesenchyme,muscle,neural,notochord,paraxial.mesoderm,periderm,presomitic.mesoderm,somites,spinal.cord
+stage,axial,blastomeres,endoderm,epidermis,eye,hatching_gland,mesenchyme,muscle,neural,notochord,paraxial_mesoderm,periderm,presomitic_mesoderm,somites,spinal_cord
   3-4,92.25,1897.62,0,0,0,0,0,0,0,0,0,131.78,0,0,0
   5-6,104.2,1152.37,0,0,0,0,0,0,49.04,6.13,12.26,24.52,0,0,0
   7-9,13.14,10.51,13.14,0,26.29,26.29,0,0,228.7,15.77,136.69,0,0,0,0

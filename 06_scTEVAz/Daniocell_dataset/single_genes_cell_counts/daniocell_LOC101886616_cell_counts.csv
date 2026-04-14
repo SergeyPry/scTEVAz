@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,eye,fin.epithelia,glial,hatching.gland,immune,lateral.line,mesenchyme,muscle,neural,olfactory,otic,paraxial.mesoderm,periderm,spinal.cord,taste,vascular.smooth.muscle
+stage,axial,blastomeres,epidermis,eye,fin_epithelia,glial,hatching_gland,immune,lateral_line,mesenchyme,muscle,neural,olfactory,otic,paraxial_mesoderm,periderm,spinal_cord,taste,vascular_smooth_muscle
   3-4,0,39.53,0,0,0,0,0,0,0,0,0,0,0,0,0,13.18,0,0,0
   5-6,0,30.65,0,0,0,0,0,0,0,0,0,0,0,0,0,6.13,0,0,0
   7-9,2.63,0,0,0,0,0,2.63,0,0,0,0,15.77,0,0,7.89,0,0,0,0

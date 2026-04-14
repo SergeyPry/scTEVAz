@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,fin.mesenchyme,glial,lateral.line,melanocytes,mesenchyme,mucous,muscle,neural,olfactory,otic,paraxial.mesoderm,periderm,presomitic.mesoderm,somites,spinal.cord,vasculature
+stage,endoderm,epidermis,eye,fin_mesenchyme,glial,lateral_line,melanocytes,mesenchyme,mucous,muscle,neural,olfactory,otic,paraxial_mesoderm,periderm,presomitic_mesoderm,somites,spinal_cord,vasculature
   7-9,0,0,0,0,0,0,0,0,0,0,12.79,0,0,9.32,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,7.07,0,0,0,0,0,0,0,0
  14-21,0.88,1.67,0,0,0,0,0,1.21,0,0,2.79,0,0,0,0,1.66,0.92,2.35,0

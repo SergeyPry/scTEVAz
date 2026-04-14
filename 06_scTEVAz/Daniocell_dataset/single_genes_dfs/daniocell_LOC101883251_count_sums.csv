@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,erythrocytes,eye,fin.epithelia,glial,gut,hatching.gland,ionocyte,iridophores,mesenchyme,mucous,mural.cell,muscle,neural,olfactory,otic,periderm,pgc,spinal.cord,xanthophores
+stage,axial,blastomeres,epidermis,erythrocytes,eye,fin_epithelia,glial,gut,hatching_gland,ionocyte,iridophores,mesenchyme,mucous,mural_cell,muscle,neural,olfactory,otic,periderm,pgc,spinal_cord,xanthophores
   3-4,9.89,33.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16.74,0,0,0
   5-6,0,28.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32.04,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.11,0,0,0,0,0,0

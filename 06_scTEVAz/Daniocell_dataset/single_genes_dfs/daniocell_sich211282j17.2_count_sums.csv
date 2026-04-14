@@ -1,4 +1,4 @@
-stage,epidermis,gut,liver,mural.cell,neural,periderm,vascular.smooth.muscle
+stage,epidermis,gut,liver,mural_cell,neural,periderm,vascular_smooth_muscle
  60-70,0,0,0,0,3.86,0,0
  72-82,1.2,0,0,0,0,0,0
  84-94,0,1.16,0,0,0,0.8,0

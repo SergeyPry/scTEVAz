@@ -1,4 +1,4 @@
-stage,Enterocyte,Epithelial.cell,Granulocyte,Hepatocyte,Immune.progenitor.cell,Intestinal.bulb.cell,Macrophage,Muscle.cell,Nephron.cell,Neurosecretory.cell,Pancreatic.cell
-21Day,0,0,0,0,0.369986860264282,0,0,0,0,0,0
-3Month,0,0.104017006644673,0.104017006644673,0.104017006644673,0,0.208034013289345,0.416068026578691,0.104017006644673,0.104017006644673,0,0.104017006644673
-22Month,0.136649431988133,0,0.546597727952532,0.136649431988133,0,0.409948295964399,0,0,0,0.136649431988133,0
+stage,Enterocyte,Epithelial_cell,Granulocyte,Hepatocyte,Immune_progenitor_cell,Intestinal_bulb_cell,Macrophage,Muscle_cell,Nephron_cell,Neurosecretory_cell,Pancreatic_cell
+21Day,0,0,0,0,0.37,0,0,0,0,0,0
+3Month,0,0.1,0.1,0.1,0,0.21,0.42,0.1,0.1,0,0.1
+22Month,0.14,0,0.55,0.14,0,0.41,0,0,0,0.14,0

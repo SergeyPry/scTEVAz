@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,eye,glial,hatching.gland,neural,notochord,paraxial.mesoderm,periderm,somites
+stage,blastomeres,endoderm,eye,glial,hatching_gland,neural,notochord,paraxial_mesoderm,periderm,somites
   3-4,129.05,0,0,0,0,0,0,0,9.75,0
   5-6,86.68,0,0,0,0,0,0,0,0,0
   7-9,0,0,23.98,0,0,60.25,3.99,18,0,0

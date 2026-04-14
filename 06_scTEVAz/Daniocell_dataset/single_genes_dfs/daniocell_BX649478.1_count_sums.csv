@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,glial,hatching.gland,immune,ionocyte,lateral.line,liver,mesenchyme,neural,notochord,olfactory,otic,paraxial.mesoderm,periderm,spinal.cord,vasculature
+stage,blastomeres,endoderm,epidermis,eye,glial,hatching_gland,immune,ionocyte,lateral_line,liver,mesenchyme,neural,notochord,olfactory,otic,paraxial_mesoderm,periderm,spinal_cord,vasculature
   3-4,31.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,17.31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,4.3,0,0,0,0,3.56,0,0,0,0,0,42.55,12.5,0,0,0,0,0,0

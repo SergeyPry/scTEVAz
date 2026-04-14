@@ -1,4 +1,4 @@
-stage,eye,glial,immune,mesenchyme,neural,olfactory,paraxial.mesoderm,somites,vasculature,visceral.smooth.muscle
+stage,eye,glial,immune,mesenchyme,neural,olfactory,paraxial_mesoderm,somites,vasculature,visceral_smooth_muscle
  10-12,0,0,0,0,0,0,3.98,0,0,0
  14-21,0,0,3.28,0,0.82,0,0,0,0,0
  24-34,0,0,26.68,0,0,0,0,0.6,0.81,0

@@ -1,6 +1,6 @@
-stage,Cardiomyocyte,Endothelial.cell,Epithelial.cell,Erythrocyte..Liver.,Erythroid.progenitor.cell,Goblet.cell,Granulocyte,Hepatocyte,Immune.cell,Immune.progenitor.cell,Intestinal.bulb.cell,Keratinocyte,Macrophage,Muscle.cell,Nephron.cell,Neural.cell,Neural.progenitor.cell,Spermatocyte,T.cell
-24hpf,0,0,0,0,0,0,0,0,0,0,0,0,4.08640457285017,0,0,0,0,0,0
-72hpf,0,1.06979114146608,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-21Day,0,0,0,0,0,0,1.33853308820331,0,0,8.03119852921984,0,0,1.33853308820331,0,0,1.33853308820331,1.33853308820331,0,0
-3Month,0.319949299554195,0,2.87954369598776,0.319949299554195,0.319949299554195,0,3.19949299554195,1.59974649777098,0.639898599108391,0,0.639898599108391,0.319949299554195,2.87954369598776,0.319949299554195,0.319949299554195,0,0,0.639898599108391,2.87954369598776
-22Month,0,0,0.546654651197433,0,0,0.546654651197433,0,2.73327325598717,0,0.546654651197433,0,0,1.6399639535923,0,0,0,0,0,0.546654651197433
+stage,Cardiomyocyte,Endothelial_cell,Epithelial_cell,Erythrocyte__Liver_,Erythroid_progenitor_cell,Goblet_cell,Granulocyte,Hepatocyte,Immune_cell,Immune_progenitor_cell,Intestinal_bulb_cell,Keratinocyte,Macrophage,Muscle_cell,Nephron_cell,Neural_cell,Neural_progenitor_cell,Spermatocyte,T_cell
+24hpf,0,0,0,0,0,0,0,0,0,0,0,0,4.09,0,0,0,0,0,0
+72hpf,0,1.07,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21Day,0,0,0,0,0,0,1.34,0,0,8.03,0,0,1.34,0,0,1.34,1.34,0,0
+3Month,0.32,0,2.88,0.32,0.32,0,3.2,1.6,0.64,0,0.64,0.32,2.88,0.32,0.32,0,0,0.64,2.88
+22Month,0,0,0.55,0,0,0.55,0,2.73,0,0.55,0,0,1.64,0,0,0,0,0,0.55

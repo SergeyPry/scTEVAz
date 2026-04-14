@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Granulosa.cell,Hepatocyte,Intestinal.bulb.cell,Macrophage,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Primordial.germ.cell
-24hpf,4.08640457285017,0,0,0,0,8.17280914570035,0,4.08640457285017,0
-72hpf,1.06979114146608,0,0,0,0,0,1.06979114146608,0,0
-22Month,0,0.546654651197433,3.2799279071846,0.546654651197433,1.09330930239487,0,0,0,0.546654651197433
+stage,Cardiomyocyte,Granulosa_cell,Hepatocyte,Intestinal_bulb_cell,Macrophage,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Primordial_germ_cell
+24hpf,4.09,0,0,0,0,8.17,0,4.09,0
+72hpf,1.07,0,0,0,0,0,1.07,0,0
+22Month,0,0.55,3.28,0.55,1.09,0,0,0,0.55

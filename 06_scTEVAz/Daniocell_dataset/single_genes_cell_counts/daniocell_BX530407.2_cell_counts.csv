@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,glial,liver,mesenchyme,neural,notochord,olfactory,paraxial.mesoderm,pericytes,pgc,spinal.cord,vascular.smooth.muscle
+stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,glial,liver,mesenchyme,neural,notochord,olfactory,paraxial_mesoderm,pericytes,pgc,spinal_cord,vascular_smooth_muscle
   3-4,0,224.02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.13,116.46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,5.26,0,5.26,0,0,0,0,0,0,60.46,2.63,0,13.14,0,0,0,0

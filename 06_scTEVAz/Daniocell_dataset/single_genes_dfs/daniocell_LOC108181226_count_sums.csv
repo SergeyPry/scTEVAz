@@ -1,4 +1,4 @@
-stage,eye,glial,immune,iridophores,melanocytes,mesenchyme,muscle,neural,pericytes,spinal.cord,vascular.smooth.muscle,vasculature
+stage,eye,glial,immune,iridophores,melanocytes,mesenchyme,muscle,neural,pericytes,spinal_cord,vascular_smooth_muscle,vasculature
   7-9,0,0,0,0,0,0,0,4.58,0,0,0,0
  24-34,0,0,0,0,0,0,0,0,0,0,0,1.1
  36-46,1.65,1.74,0,0,0,1.5,0.81,5.19,0,1.02,0,0

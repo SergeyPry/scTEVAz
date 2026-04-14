@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,hatching.gland,mesenchyme,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,periderm,somites,spinal.cord,taste
+stage,axial,blastomeres,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,hatching_gland,mesenchyme,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,periderm,somites,spinal_cord,taste
   3-4,0,21.26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,9.57,22.89,0,0,0,0,0,0,0,0,0,0,0,0,0,7.58,0,0,0
   7-9,0,0,0,0,0,0,0,7.43,0,0,59.05,3.65,0,0,6.57,0,0,0,0

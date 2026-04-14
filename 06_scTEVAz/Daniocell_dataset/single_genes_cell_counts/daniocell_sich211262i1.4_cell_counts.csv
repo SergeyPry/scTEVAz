@@ -1,4 +1,4 @@
-stage,erythrocytes,eye,fin.mesenchyme,glial,mesenchyme,muscle,neural,olfactory,spinal.cord,vasculature
+stage,erythrocytes,eye,fin_mesenchyme,glial,mesenchyme,muscle,neural,olfactory,spinal_cord,vasculature
  24-34,0,0,0,0,2.46,0.82,0,0,0,0
  36-46,0,0,0,0,5.64,0,2.42,0,0,0.81
  48-58,0,0.57,0,0,6.89,0,3.44,0.57,0,0

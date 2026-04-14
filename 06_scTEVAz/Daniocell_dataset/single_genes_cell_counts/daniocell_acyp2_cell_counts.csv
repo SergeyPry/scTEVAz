@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fast.muscle,fin.mesenchyme,glial,mesenchyme,muscle,neural,notochord,otic,paraxial.mesoderm,periderm,slow.muscle,vascular.smooth.muscle,vasculature,xanthophores
+stage,blastomeres,epidermis,eye,fast_muscle,fin_mesenchyme,glial,mesenchyme,muscle,neural,notochord,otic,paraxial_mesoderm,periderm,slow_muscle,vascular_smooth_muscle,vasculature,xanthophores
   3-4,39.53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,24.52,0,0,0,0,0,0,0,6.13,0,0,0,0,0,0,0,0
   7-9,0,0,2.63,0,0,0,0,0,0,0,0,2.63,0,0,0,0,0

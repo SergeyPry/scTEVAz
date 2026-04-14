@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Mesenchymal.cell,Neural.progenitor.cell,Osteoblast
-24hpf,0,4.08640457285017,40.8640457285017,0
-72hpf,1.06979114146608,0,0,0
-21Day,0,0,0,1.33853308820331
+stage,Cardiomyocyte,Mesenchymal_cell,Neural_progenitor_cell,Osteoblast
+24hpf,0,4.09,40.86,0
+72hpf,1.07,0,0,0
+21Day,0,0,0,1.34

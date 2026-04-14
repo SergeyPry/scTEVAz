@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,eye,glial,gut,immune,ionocyte,lateral.line,muscle,neural,notochord,paraxial.mesoderm,somites,spinal.cord
+stage,axial,blastomeres,epidermis,eye,glial,gut,immune,ionocyte,lateral_line,muscle,neural,notochord,paraxial_mesoderm,somites,spinal_cord
   3-4,12.63,54.23,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,11.77,0,0,0,0,0,0,4.22,3.25,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,6.77,0,8.87,0,0

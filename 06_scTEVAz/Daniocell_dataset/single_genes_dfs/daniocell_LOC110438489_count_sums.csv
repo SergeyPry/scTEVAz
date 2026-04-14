@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,glial,gut,iridophores,mesenchyme,muscle,neural,notochord,otic,slow.muscle,spinal.cord,vasculature
+stage,epidermis,erythrocytes,eye,glial,gut,iridophores,mesenchyme,muscle,neural,notochord,otic,slow_muscle,spinal_cord,vasculature
  14-21,0,1.06,0,0,0,0,0,0,2.31,0,0,0,3.01,0
  24-34,0.65,0,0,0,0,0,4.25,0,8.76,0,0,0,3.56,0
  36-46,0,0,1.42,0,0,0,0.81,0.65,7.88,1.69,0,0,5.48,0

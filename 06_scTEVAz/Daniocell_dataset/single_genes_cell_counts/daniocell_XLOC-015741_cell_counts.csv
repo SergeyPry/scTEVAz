@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fast.muscle,fin.mesenchyme,glial,gut,ionocyte,lateral.line,mesenchyme,muscle,neural,paraxial.mesoderm,somites,spinal.cord,vasculature
+stage,blastomeres,epidermis,eye,fast_muscle,fin_mesenchyme,glial,gut,ionocyte,lateral_line,mesenchyme,muscle,neural,paraxial_mesoderm,somites,spinal_cord,vasculature
   7-9,0,0,0,0,0,0,0,0,0,0,0,10.51,0,0,0,0
  10-12,3.15,0,3.15,0,0,0,0,0,0,0,0,6.29,6.29,0,0,0
  14-21,0,1,0,0,0,0,0,1,0,1,0,5,0,2,1,0

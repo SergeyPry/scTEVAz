@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,erythrocytes,eye,fin.epithelia,glial,gut,mesenchyme,neural,otic,paraxial.mesoderm,periderm,pgc,pronephros,spinal.cord
+stage,axial,blastomeres,endoderm,erythrocytes,eye,fin_epithelia,glial,gut,mesenchyme,neural,otic,paraxial_mesoderm,periderm,pgc,pronephros,spinal_cord
   3-4,26.36,540.3,0,0,0,0,0,0,0,0,0,0,65.89,0,0,0
   5-6,12.26,220.67,0,0,0,0,0,0,0,6.13,0,0,12.26,0,0,0
   7-9,0,0,2.63,0,2.63,0,0,0,0,15.77,0,5.26,0,2.63,0,0

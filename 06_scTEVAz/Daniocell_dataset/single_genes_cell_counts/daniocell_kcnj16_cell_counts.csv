@@ -1,4 +1,4 @@
-stage,eye,heart,immune,ionocyte,lateral.line,liver,mesenchyme,neural,olfactory,pronephros,xanthophores
+stage,eye,heart,immune,ionocyte,lateral_line,liver,mesenchyme,neural,olfactory,pronephros,xanthophores
  14-21,0,0,0,0,0,0,0,0,0,3,0
  24-34,0.82,0,0,0,0,0,0,0.82,0.82,8.21,0
  36-46,0,0,0,0,0,0,0,0,2.42,4.83,0

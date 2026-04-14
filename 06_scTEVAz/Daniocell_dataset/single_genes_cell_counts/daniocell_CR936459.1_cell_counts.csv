@@ -1,4 +1,4 @@
-stage,blastomeres,eye,fin.mesenchyme,immune,mesenchyme,muscle,neural,spinal.cord
+stage,blastomeres,eye,fin_mesenchyme,immune,mesenchyme,muscle,neural,spinal_cord
   7-9,0,0,0,0,0,0,2.63,0
  10-12,3.15,0,0,0,0,0,3.15,0
  24-34,0,0,0,0,0.82,0,0,0.82

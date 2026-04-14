@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,fast.muscle,gut,hatching.gland,lateral.line,neural,periderm,presomitic.mesoderm,spinal.cord
+stage,blastomeres,endoderm,epidermis,eye,fast_muscle,gut,hatching_gland,lateral_line,neural,periderm,presomitic_mesoderm,spinal_cord
   5-6,18.39,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,2.63,0,0,0,0,2.63,0,2.63,0,0,0
  14-21,0,0,0,0,0,1,0,0,0,0,1,0

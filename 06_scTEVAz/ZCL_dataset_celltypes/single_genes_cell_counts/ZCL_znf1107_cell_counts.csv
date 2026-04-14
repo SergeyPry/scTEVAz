@@ -1,4 +1,4 @@
-stage,Keratinocyte,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Retinal.pigment.epithelial.cell
+stage,Keratinocyte,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Retinal_pigment_epithelial_cell
 24hpf,0,1,0,2,0
-72hpf,0.281848056003223,0.563696112006446,1.40924028001612,1.40924028001612,0.281848056003223
-21Day,0.369986860264282,0.369986860264282,0.369986860264282,0,0
+72hpf,0.28,0.56,1.41,1.41,0.28
+21Day,0.37,0.37,0.37,0,0

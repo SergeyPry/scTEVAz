@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,glial,mesenchyme,muscle,neural,periderm,spinal.cord
+stage,epidermis,eye,fin_epithelia,glial,mesenchyme,muscle,neural,periderm,spinal_cord
  14-21,0,0,0,0,0,0,1,0,1
  24-34,0.82,0,0,0,0,0,0,4.1,0
  36-46,0,0,0,0,0,0.81,2.42,1.61,0.81

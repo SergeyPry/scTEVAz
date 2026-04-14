@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,glial,gut,immune,melanocytes,mesenchyme,mural.cell,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,periderm,presomitic.mesoderm,slow.muscle,somites,spinal.cord,vasculature
+stage,epidermis,eye,fast_muscle,glial,gut,immune,melanocytes,mesenchyme,mural_cell,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,periderm,presomitic_mesoderm,slow_muscle,somites,spinal_cord,vasculature
  14-21,1.78,0.82,0,0,0,0,0,2.26,0,1.64,6.16,2.17,0,0,0.87,0,1.88,0,1.82,3.58,0
  24-34,3.1,2.27,0,0,0,0,0,1.6,0,0,18.99,0,0.75,1.49,0,5.4,0,0,0,7.39,0.6
  36-46,0,0,0,0,0,0,0,0.68,0,0,4.89,0,0,0,0,6.12,0,0,0,2.01,0

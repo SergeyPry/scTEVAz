@@ -1,5 +1,5 @@
-stage,Epithelial.cell,Epithelial.cell..Brain.,Intestinal.bulb.cell,Keratinocyte,Macrophage,Neural.cell,Osteoblast,Primordial.germ.cell,T.cell
-72hpf,0,0,0,2.13958228293216,3.20937342439823,37.4426899513127,1.06979114146608,0,0
-21Day,0,0,0,1.33853308820331,0,41.4945257343025,0,0,0
-3Month,0.319949299554195,0.319949299554195,0.319949299554195,0,0.319949299554195,1.91969579732517,0,1.27979719821678,1.59974649777098
-22Month,0,0,0,0,0,0,0,2.73327325598717,0.546654651197433
+stage,Epithelial_cell,Epithelial_cell__Brain_,Intestinal_bulb_cell,Keratinocyte,Macrophage,Neural_cell,Osteoblast,Primordial_germ_cell,T_cell
+72hpf,0,0,0,2.14,3.21,37.44,1.07,0,0
+21Day,0,0,0,1.34,0,41.49,0,0,0
+3Month,0.32,0.32,0.32,0,0.32,1.92,0,1.28,1.6
+22Month,0,0,0,0,0,0,0,2.73,0.55

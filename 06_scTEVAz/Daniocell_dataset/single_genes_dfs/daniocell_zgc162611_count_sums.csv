@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,mesenchyme,neural,olfactory,paraxial.mesoderm,slow.muscle,spinal.cord
+stage,blastomeres,epidermis,eye,mesenchyme,neural,olfactory,paraxial_mesoderm,slow_muscle,spinal_cord
   3-4,11.17,0,0,0,0,0,0,0,0
   7-9,0,0,3.74,0,5.87,0,3.74,0,0
  14-21,0,0,0,0,2.39,0.87,0,0,0.82

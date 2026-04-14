@@ -1,4 +1,4 @@
-stage,epidermis,fin.epithelia,gut,immune,liver,mesenchyme,muscle,neural,periderm,pronephros,spinal.cord,vasculature
+stage,epidermis,fin_epithelia,gut,immune,liver,mesenchyme,muscle,neural,periderm,pronephros,spinal_cord,vasculature
  24-34,0.82,0,0,0,0,0,0,0.82,0,0,0,0.82
  36-46,1.61,0.81,0,0,0,0,0,0.81,0,0,0,0.81
  48-58,1.15,0.57,0,0,0,0,0,0,0,0,0.57,0

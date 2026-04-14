@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,immune,mesenchyme,mural.cell,neural,otic,periderm,vasculature
+stage,epidermis,eye,glial,immune,mesenchyme,mural_cell,neural,otic,periderm,vasculature
  24-34,0,0,0,0,0,0,0.94,0,0,0
  48-58,0,0,0,0,0.94,0,1.08,0,0,0
  60-70,0,0,0,0,0,0,2.83,0,0,0

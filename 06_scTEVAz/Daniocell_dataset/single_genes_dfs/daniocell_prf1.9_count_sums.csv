@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fast.muscle,fin.mesenchyme,glial,immune,lateral.line,mesenchyme,mucous,muscle,neural,slow.muscle,somites,spinal.cord,vascular.smooth.muscle,xanthophores
+stage,blastomeres,epidermis,eye,fast_muscle,fin_mesenchyme,glial,immune,lateral_line,mesenchyme,mucous,muscle,neural,slow_muscle,somites,spinal_cord,vascular_smooth_muscle,xanthophores
   3-4,14.84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,0.81,0.87,0,0,0

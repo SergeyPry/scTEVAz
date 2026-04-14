@@ -1,3 +1,3 @@
-stage,Cardiomyocyte,Epithelial.cell,Erythrocyte,Erythroid.progenitor.cell,Hepatocyte,Immune.progenitor.cell,Intestinal.bulb.cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal.cell,Muscle.cell,Neural.cell,Neural.progenitor.cell,Oligodendrocyte,Osteoblast,Pancreatic.cell,Radial.glia,Retinal.cone.cell,Retinal.pigment.epithelial.cell,T.cell
-72hpf,1.06979114146608,0,4.27916456586431,0,0,0,0,0,0,0,22.4656139707876,0,2.13958228293216,0,0,0,0,0,0,0,0
-21Day,9.36973161742315,22.7550624994562,12.0467977938298,4.01559926460992,4.01559926460992,1.33853308820331,4.01559926460992,1.33853308820331,8.03119852921984,1.33853308820331,108.421180144468,4.01559926460992,30.7862610286761,14.7238639702364,1.33853308820331,6.69266544101654,4.01559926460992,5.35413235281323,5.35413235281323,1.33853308820331,1.33853308820331
+stage,Cardiomyocyte,Epithelial_cell,Erythrocyte,Erythroid_progenitor_cell,Hepatocyte,Immune_progenitor_cell,Intestinal_bulb_cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal_cell,Muscle_cell,Neural_cell,Neural_progenitor_cell,Oligodendrocyte,Osteoblast,Pancreatic_cell,Radial_glia,Retinal_cone_cell,Retinal_pigment_epithelial_cell,T_cell
+72hpf,1.07,0,4.28,0,0,0,0,0,0,0,22.47,0,2.14,0,0,0,0,0,0,0,0
+21Day,9.37,22.76,12.05,4.02,4.02,1.34,4.02,1.34,8.03,1.34,108.42,4.02,30.79,14.72,1.34,6.69,4.02,5.35,5.35,1.34,1.34

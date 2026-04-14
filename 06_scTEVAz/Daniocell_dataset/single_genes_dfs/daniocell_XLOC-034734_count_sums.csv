@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,glial,gut,ionocyte,liver,mesenchyme,muscle,neural,olfactory,paraxial.mesoderm,periderm,presomitic.mesoderm,spinal.cord
+stage,axial,blastomeres,endoderm,epidermis,glial,gut,ionocyte,liver,mesenchyme,muscle,neural,olfactory,paraxial_mesoderm,periderm,presomitic_mesoderm,spinal_cord
   3-4,0,16.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.31,45.83,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,3.43,0,0,0,0,0,0,0,59.6,0,31.26,0,0,0

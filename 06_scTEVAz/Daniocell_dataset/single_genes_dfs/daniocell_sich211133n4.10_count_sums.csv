@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,eye,gut,mesenchyme,neural,paraxial.mesoderm,periderm
+stage,blastomeres,endoderm,eye,gut,mesenchyme,neural,paraxial_mesoderm,periderm
   3-4,14.15,0,0,0,0,0,0,0
   5-6,13.92,0,0,0,0,0,0,0
   7-9,0,3.44,10.5,0,0,5.66,9.28,4.34

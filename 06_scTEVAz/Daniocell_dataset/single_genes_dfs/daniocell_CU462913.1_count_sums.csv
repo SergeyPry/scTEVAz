@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,glial,mesenchyme,neural,olfactory,spinal.cord,vasculature
+stage,epidermis,erythrocytes,eye,glial,mesenchyme,neural,olfactory,spinal_cord,vasculature
  14-21,0,0,0,0,0,0.9,0,0,0
  24-34,0,0,0,0,0,19.36,0,0,0
  36-46,0,0,0,1.3,0,99.82,0,0,0

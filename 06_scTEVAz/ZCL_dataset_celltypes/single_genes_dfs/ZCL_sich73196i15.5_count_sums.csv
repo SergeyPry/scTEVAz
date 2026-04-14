@@ -1,4 +1,4 @@
-stage,Enterocyte,Erythrocyte,Ionocyte,Keratinocyte,Neural.cell,Neural.progenitor.cell,Primordial.germ.cell,T.cell
-72hpf,0,0,1.06979114146608,0,0,1.06979114146608,0,0
-21Day,1.33853308820331,4.01559926460992,0,1.33853308820331,1.33853308820331,0,0,0
-3Month,0,0,0,0,0,0,0.319949299554195,0.319949299554195
+stage,Enterocyte,Erythrocyte,Ionocyte,Keratinocyte,Neural_cell,Neural_progenitor_cell,Primordial_germ_cell,T_cell
+72hpf,0,0,1.07,0,0,1.07,0,0
+21Day,1.34,4.02,0,1.34,1.34,0,0,0
+3Month,0,0,0,0,0,0,0.32,0.32

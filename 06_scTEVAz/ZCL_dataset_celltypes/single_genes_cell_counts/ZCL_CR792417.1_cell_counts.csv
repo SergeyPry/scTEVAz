@@ -1,6 +1,6 @@
-stage,Endothelial.cell,Epithelial.cell,Granulosa.cell,Hepatocyte,Keratinocyte,Macrophage,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Pancreatic.cell,Retinal.cell,Retinal.pigment.epithelial.cell
+stage,Endothelial_cell,Epithelial_cell,Granulosa_cell,Hepatocyte,Keratinocyte,Macrophage,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Pancreatic_cell,Retinal_cell,Retinal_pigment_epithelial_cell
 24hpf,0,0,0,0,0,0,0,0,0,0,0,1
-72hpf,0,0,0,0,0,0,0,0.84554416800967,0,0,0,1.97293639202256
-21Day,0.369986860264282,0.369986860264282,0,0,0,0.369986860264282,0.739973720528564,1.10996058079285,0.739973720528564,0.739973720528564,0.369986860264282,10.7296189476642
-3Month,0,0,0,0.208034013289345,0.208034013289345,0,0,0,0,0,0,0.104017006644673
-22Month,0.136649431988133,0.273298863976266,0.136649431988133,0.546597727952532,0,0.136649431988133,0,0,0,0,0,0
+72hpf,0,0,0,0,0,0,0,0.85,0,0,0,1.97
+21Day,0.37,0.37,0,0,0,0.37,0.74,1.11,0.74,0.74,0.37,10.73
+3Month,0,0,0,0.21,0.21,0,0,0,0,0,0,0.1
+22Month,0.14,0.27,0.14,0.55,0,0.14,0,0,0,0,0,0

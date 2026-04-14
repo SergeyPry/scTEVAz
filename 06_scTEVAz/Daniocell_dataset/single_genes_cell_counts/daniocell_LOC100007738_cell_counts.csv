@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,exocrine.pancreas,eye,immune,neural,pericytes,pronephros
+stage,blastomeres,epidermis,exocrine_pancreas,eye,immune,neural,pericytes,pronephros
   5-6,6.13,0,0,0,0,0,0,0
   7-9,0,0,0,2.63,0,0,0,0
  14-21,0,1,0,1,0,2,0,1

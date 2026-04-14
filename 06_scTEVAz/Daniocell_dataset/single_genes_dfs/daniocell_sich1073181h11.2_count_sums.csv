@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,eye,fast.muscle,gut,heart,immune,liver,melanocytes,mesenchyme,mucous,mural.cell,muscle,neural,notochord,olfactory,periderm,slow.muscle,spinal.cord,taste,vascular.smooth.muscle,visceral.smooth.muscle
+stage,axial,blastomeres,epidermis,eye,fast_muscle,gut,heart,immune,liver,melanocytes,mesenchyme,mucous,mural_cell,muscle,neural,notochord,olfactory,periderm,slow_muscle,spinal_cord,taste,vascular_smooth_muscle,visceral_smooth_muscle
   3-4,0,136.19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11.29,0,0,0,0,0
   5-6,15.31,180.12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12.69,0,0,0,0,0
   7-9,7.23,0,0,24.16,0,0,0,0,0,0,0,0,0,0,38.6,17.93,0,0,0,0,0,0,0

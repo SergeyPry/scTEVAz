@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,glial,gut,immune,ionocyte,lateral.line,mesenchyme,muscle,neural,olfactory,otic,paraxial.mesoderm,periderm,spinal.cord,vasculature,xanthophores
+stage,blastomeres,epidermis,erythrocytes,eye,glial,gut,immune,ionocyte,lateral_line,mesenchyme,muscle,neural,olfactory,otic,paraxial_mesoderm,periderm,spinal_cord,vasculature,xanthophores
   5-6,27.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,15.47,0,0,5.05,0,0,0,0
  14-21,0,0,0,1.02,0,0,0,0,0,0,1.04,0.85,0,0,0,0,0,0,0

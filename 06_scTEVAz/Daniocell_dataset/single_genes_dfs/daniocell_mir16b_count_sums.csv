@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endocrine.pancreas,endoderm,epidermis,erythrocytes,eye,glial,hatching.gland,mesenchyme,mucous,muscle,neural,notochord,paraxial.mesoderm,periderm,pronephros,spinal.cord,vascular.smooth.muscle,vasculature
+stage,axial,blastomeres,endocrine_pancreas,endoderm,epidermis,erythrocytes,eye,glial,hatching_gland,mesenchyme,mucous,muscle,neural,notochord,paraxial_mesoderm,periderm,pronephros,spinal_cord,vascular_smooth_muscle,vasculature
   3-4,46.64,200.76,0,0,0,0,0,0,0,0,0,0,0,0,0,34.83,0,0,0,0
   5-6,0,216.32,0,0,0,0,0,0,17.77,0,0,0,0,0,0,0,0,0,0,0
   7-9,11.6,0,0,8.3,0,0,29.08,0,26.8,0,0,0,315.58,16.97,106.59,0,0,0,0,0

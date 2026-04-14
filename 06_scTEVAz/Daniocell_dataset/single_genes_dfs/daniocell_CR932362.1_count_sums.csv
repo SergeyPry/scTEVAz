@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,erythrocytes,eye,glial,gut,immune,ionocyte,mesenchyme,mucous,neural,paraxial.mesoderm,periderm,somites,spinal.cord,vasculature
+stage,endoderm,epidermis,erythrocytes,eye,glial,gut,immune,ionocyte,mesenchyme,mucous,neural,paraxial_mesoderm,periderm,somites,spinal_cord,vasculature
   7-9,0,0,0,0,0,0,0,0,0,0,0,5.73,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,64.84,4.22,0,0,0,0
  14-21,0.83,1.79,0,0,0,0,0,0,0,0,8.4,0,0,0.81,2.38,0

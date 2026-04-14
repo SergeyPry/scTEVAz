@@ -1,6 +1,6 @@
-stage,Cardiomyocyte,Epithelial.cell,Granulocyte,Hepatocyte,Intestinal.bulb.cell,Ionocyte,Keratinocyte,Macrophage,Nephron.cell,Neural.cell,Pancreatic.cell,Primordial.germ.cell,Spermatocyte
+stage,Cardiomyocyte,Epithelial_cell,Granulocyte,Hepatocyte,Intestinal_bulb_cell,Ionocyte,Keratinocyte,Macrophage,Nephron_cell,Neural_cell,Pancreatic_cell,Primordial_germ_cell,Spermatocyte
 24hpf,1,0,0,0,0,0,0,0,0,0,0,0,0
-72hpf,1.40924028001612,0.281848056003223,0,0,0,0,0,0,0,0,0.281848056003223,0,0
-21Day,1.84993430132141,0.369986860264282,0,0,0,0,0,0,0,0.369986860264282,0.369986860264282,0,0
-3Month,0.104017006644673,2.80845917940616,0.104017006644673,0.312051019934018,0.104017006644673,0.104017006644673,5.20085033223363,0.104017006644673,0.104017006644673,0,0.104017006644673,1.1441870730914,0.728119046512708
-22Month,0,0,0,0,0.273298863976266,0,0,0,0,0,0,0,0
+72hpf,1.41,0.28,0,0,0,0,0,0,0,0,0.28,0,0
+21Day,1.85,0.37,0,0,0,0,0,0,0,0.37,0.37,0,0
+3Month,0.1,2.81,0.1,0.31,0.1,0.1,5.2,0.1,0.1,0,0.1,1.14,0.73
+22Month,0,0,0,0,0.27,0,0,0,0,0,0,0,0

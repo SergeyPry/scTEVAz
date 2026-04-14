@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Erythrocyte,Goblet.cell,Hepatocyte,Immune.progenitor.cell,Intestinal.bulb.cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal.cell,Muscle.cell,Nephron.cell,Primordial.germ.cell,Smooth.muscle.cell
-21Day,0,0.369986860264282,0,0,0,0,0,1.10996058079285,0,0,0,0,0,0
-3Month,0.936153059802054,0,0.416068026578691,0.832136053157381,0.104017006644673,0.208034013289345,0.104017006644673,0,0.312051019934018,0.104017006644673,0.104017006644673,5.51290135216765,0.416068026578691,0.208034013289345
-22Month,0,0,0,0.409948295964399,0,0,0,0,0.273298863976266,0,0,0,0,0
+stage,Epithelial_cell,Erythrocyte,Goblet_cell,Hepatocyte,Immune_progenitor_cell,Intestinal_bulb_cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal_cell,Muscle_cell,Nephron_cell,Primordial_germ_cell,Smooth_muscle_cell
+21Day,0,0.37,0,0,0,0,0,1.11,0,0,0,0,0,0
+3Month,0.94,0,0.42,0.83,0.1,0.21,0.1,0,0.31,0.1,0.1,5.51,0.42,0.21
+22Month,0,0,0,0.41,0,0,0,0,0.27,0,0,0,0,0

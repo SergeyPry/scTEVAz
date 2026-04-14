@@ -1,4 +1,4 @@
-stage,eye,fin.epithelia,mesenchyme,neural,olfactory,periderm,spinal.cord
+stage,eye,fin_epithelia,mesenchyme,neural,olfactory,periderm,spinal_cord
  24-34,0,0,0,0.6,1.68,0,0.65
  36-46,0,0,0,1.36,0,0,0
  48-58,0.45,0,0,0.39,0,0,0

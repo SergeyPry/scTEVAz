@@ -1,4 +1,4 @@
-stage,eye,glial,mesenchyme,neural,paraxial.mesoderm,spinal.cord,visceral.smooth.muscle
+stage,eye,glial,mesenchyme,neural,paraxial_mesoderm,spinal_cord,visceral_smooth_muscle
   7-9,0,0,0,9.99,5.44,0,0
  14-21,0,0,0,0.93,0,0.84,0
  24-34,0.79,0,0,5.13,0,1.12,0

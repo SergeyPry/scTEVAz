@@ -1,4 +1,4 @@
-stage,erythrocytes,eye,heart,liver,mucous,muscle,neural,paraxial.mesoderm,periderm,somites,spinal.cord
+stage,erythrocytes,eye,heart,liver,mucous,muscle,neural,paraxial_mesoderm,periderm,somites,spinal_cord
  14-21,0,0,0,0,0,0.84,1.96,1.35,0,2.48,0
  24-34,1.09,0,1.02,0,0,0,1.85,0,0,0,1.35
  36-46,0,0.9,0,5.03,1.07,0,0,0,0,0,0

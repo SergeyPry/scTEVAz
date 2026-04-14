@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,glial,immune,lateral.line,mesenchyme,neural,notochord,otic,periderm,somites,spinal.cord,vasculature,visceral.smooth.muscle
+stage,epidermis,eye,fin_epithelia,glial,immune,lateral_line,mesenchyme,neural,notochord,otic,periderm,somites,spinal_cord,vasculature,visceral_smooth_muscle
  10-12,0,0,0,0,0,0,0,5.55,17.32,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,5.96,0,0,0,3.36,0.88,0,0
  24-34,0,0,0,0,0,0,0,3.66,0,0,0,0,3.29,1.03,0

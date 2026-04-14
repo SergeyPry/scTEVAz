@@ -1,6 +1,6 @@
-stage,Cardiomyocyte,Endothelial.cell,Enterocyte,Epithelial.cell,Erythrocyte,Erythroid.progenitor.cell,Goblet.cell,Granulocyte,Hepatocyte,Intestinal.bulb.cell,Keratinocyte,Macrophage,Mesenchymal.cell,Mesenchymal.cell..caudal.fin.,Mt.rich.cell,Muscle.cell,Neural.cell,Neural.progenitor.cell,Neurosecretory.cell,Osteoblast,Pancreatic.cell,Radial.glia,Retinal.cone.cell,Retinal.pigment.epithelial.cell,Spermatocyte,T.cell
+stage,Cardiomyocyte,Endothelial_cell,Enterocyte,Epithelial_cell,Erythrocyte,Erythroid_progenitor_cell,Goblet_cell,Granulocyte,Hepatocyte,Intestinal_bulb_cell,Keratinocyte,Macrophage,Mesenchymal_cell,Mesenchymal_cell__caudal_fin_,Mt_rich_cell,Muscle_cell,Neural_cell,Neural_progenitor_cell,Neurosecretory_cell,Osteoblast,Pancreatic_cell,Radial_glia,Retinal_cone_cell,Retinal_pigment_epithelial_cell,Spermatocyte,T_cell
 24hpf,15,0,0,3,0,0,0,0,0,0,0,1,4,0,0,0,0,88,0,0,0,0,0,1,0,0
-72hpf,1.40924028001612,0.281848056003223,0,0.84554416800967,0,0,0,0,0,0,0.563696112006446,0,0.563696112006446,0,0.281848056003223,0.281848056003223,25.9300211522965,9.30098584810637,0.84554416800967,0,0,1.40924028001612,0,0,0,0
-21Day,0.739973720528564,0.369986860264282,0,0.369986860264282,1.10996058079285,0.739973720528564,0,0,0.369986860264282,0.739973720528564,0.369986860264282,0,0,0,0,0,25.5290933582355,9.61965836687134,1.10996058079285,0.369986860264282,1.10996058079285,1.10996058079285,0.369986860264282,0,0,0
-3Month,0,0,0.104017006644673,0.104017006644673,0,0.104017006644673,0.104017006644673,0.104017006644673,0.208034013289345,0.312051019934018,0,0,0.104017006644673,0.104017006644673,0,0,0,0,0.520085033223363,0,0,0,0,0,0.208034013289345,0.104017006644673
-22Month,0,0,0,0.136649431988133,0,0,0,0.136649431988133,0.956546023916932,0.136649431988133,0,0.273298863976266,0,0,0,0,0,0,0,0.136649431988133,0,0,0,0,0,0
+72hpf,1.41,0.28,0,0.85,0,0,0,0,0,0,0.56,0,0.56,0,0.28,0.28,25.93,9.3,0.85,0,0,1.41,0,0,0,0
+21Day,0.74,0.37,0,0.37,1.11,0.74,0,0,0.37,0.74,0.37,0,0,0,0,0,25.53,9.62,1.11,0.37,1.11,1.11,0.37,0,0,0
+3Month,0,0,0.1,0.1,0,0.1,0.1,0.1,0.21,0.31,0,0,0.1,0.1,0,0,0,0,0.52,0,0,0,0,0,0.21,0.1
+22Month,0,0,0,0.14,0,0,0,0.14,0.96,0.14,0,0.27,0,0,0,0,0,0,0,0.14,0,0,0,0,0,0

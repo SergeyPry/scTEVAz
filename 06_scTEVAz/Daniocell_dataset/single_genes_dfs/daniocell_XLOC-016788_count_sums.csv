@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,mesenchyme,muscle,neural,paraxial.mesoderm,periderm,vasculature
+stage,blastomeres,epidermis,mesenchyme,muscle,neural,paraxial_mesoderm,periderm,vasculature
   5-6,8.11,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,3.69,0,0
  10-12,0,0,0,0,17.26,0,0,0

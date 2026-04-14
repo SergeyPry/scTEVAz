@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,endoderm,epidermis,erythrocytes,exocrine.pancreas,eye,fin.mesenchyme,glial,gut,heart,immune,mesenchyme,neural,periderm,spinal.cord,vasculature
+stage,endocrine_pancreas,endoderm,epidermis,erythrocytes,exocrine_pancreas,eye,fin_mesenchyme,glial,gut,heart,immune,mesenchyme,neural,periderm,spinal_cord,vasculature
  14-21,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  24-34,6.57,0,0,0,0,0,0,0,0,0,0,0,0.82,0,0.82,0
  36-46,6.45,0,0,0,0,0,0,0,0,0,0,0,0.81,0,0,0

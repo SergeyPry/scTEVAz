@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,mesenchyme,muscle,neural,notochord,paraxial.mesoderm,periderm,presomitic.mesoderm,slow.muscle,somites,spinal.cord,vasculature
+stage,endoderm,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,mesenchyme,muscle,neural,notochord,paraxial_mesoderm,periderm,presomitic_mesoderm,slow_muscle,somites,spinal_cord,vasculature
  10-12,0,0,0,0,0,0,0,0,3.15,0,3.15,0,0,0,0,0,0
  14-21,2,0,0,0,0,0,0,5,4,1,0,0,5,1,30,3,0
  24-34,0,0,0,0,0,0,0.82,6.57,4.1,0,0,0,0,0,1.64,2.46,0.82

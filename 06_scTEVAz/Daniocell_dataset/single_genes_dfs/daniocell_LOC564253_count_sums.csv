@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,mesenchyme,neural,notochord,paraxial.mesoderm,presomitic.mesoderm,somites,spinal.cord,vasculature
+stage,epidermis,eye,glial,mesenchyme,neural,notochord,paraxial_mesoderm,presomitic_mesoderm,somites,spinal_cord,vasculature
   7-9,0,0,0,0,4.16,0,5.39,0,0,0,0
  10-12,0,0,0,0,0,0,10.58,0,0,0,0
  14-21,0,0.86,0,0,2.68,1.73,0,0.93,0,1.47,0

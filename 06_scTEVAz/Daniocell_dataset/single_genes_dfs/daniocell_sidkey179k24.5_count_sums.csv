@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,immune,mesenchyme,neural,periderm,spinal.cord,vasculature
+stage,epidermis,eye,fin_epithelia,immune,mesenchyme,neural,periderm,spinal_cord,vasculature
  10-12,0,0,0,0,0,4.49,0,0,0
  14-21,0,0,0,0,0,0,6.79,0,0
  24-34,1.68,0,0,0,0,0,7.14,0,0

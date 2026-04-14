@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,fin.epithelia,glial,gut,immune,ionocyte,lateral.line,mesenchyme,mucous,neural,periderm,pronephros,spinal.cord,vasculature
+stage,blastomeres,epidermis,erythrocytes,eye,fin_epithelia,glial,gut,immune,ionocyte,lateral_line,mesenchyme,mucous,neural,periderm,pronephros,spinal_cord,vasculature
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,5.26,0,0,0,0
  14-21,0,1,0,0,0,0,0,0,6,0,0,0,2,0,0,0,0

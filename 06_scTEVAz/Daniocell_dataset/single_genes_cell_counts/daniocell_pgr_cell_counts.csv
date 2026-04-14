@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,epidermis,eye,glial,liver,mesenchyme,mural.cell,muscle,neural,paraxial.mesoderm,pronephros,somites,spinal.cord,vascular.smooth.muscle,visceral.smooth.muscle
+stage,blastomeres,endocrine_pancreas,epidermis,eye,glial,liver,mesenchyme,mural_cell,muscle,neural,paraxial_mesoderm,pronephros,somites,spinal_cord,vascular_smooth_muscle,visceral_smooth_muscle
   3-4,26.36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,5.26,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,3.15,0,0,0,0,0

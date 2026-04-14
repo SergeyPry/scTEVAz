@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,eye,fin.epithelia,fin.mesenchyme,gut,hatching.gland,ionocyte,lateral.line,mucous,muscle,neural,olfactory,otic,paraxial.mesoderm,periderm,presomitic.mesoderm,pronephros,taste
+stage,axial,blastomeres,epidermis,eye,fin_epithelia,fin_mesenchyme,gut,hatching_gland,ionocyte,lateral_line,mucous,muscle,neural,olfactory,otic,paraxial_mesoderm,periderm,presomitic_mesoderm,pronephros,taste
   3-4,10.58,116.05,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,0,156.93,0,0,0,0,0,0,0,0,0,0,7.09,0,0,0,8.58,0,0,0
   7-9,0,0,0,4.08,0,0,0,13.34,0,0,0,0,61.23,0,0,3.33,0,0,0,0

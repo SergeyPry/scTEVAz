@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,endoderm,neural,pronephros
+stage,endocrine_pancreas,endoderm,neural,pronephros
  14-21,0,1,0,0
  24-34,0,0,0,0.82
  48-58,0,0,0.57,0

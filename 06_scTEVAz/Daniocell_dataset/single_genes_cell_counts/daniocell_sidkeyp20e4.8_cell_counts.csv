@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,eye,hatching.gland,liver,neural,notochord,paraxial.mesoderm,periderm,pgc,pronephros,somites,spinal.cord
+stage,axial,blastomeres,endoderm,eye,hatching_gland,liver,neural,notochord,paraxial_mesoderm,periderm,pgc,pronephros,somites,spinal_cord
   3-4,382.16,5073.5,0,0,0,0,0,0,0,237.2,0,0,0,0
   5-6,281.96,3598.1,6.13,0,12.26,0,122.59,18.39,30.65,85.81,0,0,0,0
   7-9,34.17,65.72,89.38,102.52,63.09,0,1217.09,52.57,449.51,2.63,23.66,0,0,0

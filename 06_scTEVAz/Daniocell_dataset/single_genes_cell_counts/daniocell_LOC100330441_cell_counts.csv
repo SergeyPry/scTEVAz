@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,erythrocytes,eye,fin.mesenchyme,glial,gut,heart,immune,mesenchyme,muscle,neural,periderm,somites,spinal.cord,vasculature
+stage,blastomeres,endoderm,epidermis,erythrocytes,eye,fin_mesenchyme,glial,gut,heart,immune,mesenchyme,muscle,neural,periderm,somites,spinal_cord,vasculature
   3-4,105.42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,36.78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,2.63,0,0,0,0,0,0,0,0,0,0,2.63,0,0,0,0

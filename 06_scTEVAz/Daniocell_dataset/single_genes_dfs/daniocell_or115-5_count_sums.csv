@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.epithelia,iridophores,neural,otic,periderm
+stage,epidermis,erythrocytes,eye,fin_epithelia,iridophores,neural,otic,periderm
  14-21,1,0,0,0.95,0,0.92,0,3.33
  24-34,0,0,0,0,0,3.84,0,0.78
  36-46,0,0,8,0,0,4.31,0,0

@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,gut,heart,ionocyte,lateral.line,melanocytes,mesenchyme,neural,spinal.cord,taste,vasculature,xanthophores
+stage,epidermis,eye,glial,gut,heart,ionocyte,lateral_line,melanocytes,mesenchyme,neural,spinal_cord,taste,vasculature,xanthophores
  14-21,0,0,1.73,0,0,0,0,0,0,1.13,1.25,0,0,0
  24-34,0,0,0,0,0,2.47,0,0,7.09,6.39,0,0,0,0
  36-46,0,0.81,0,0,0,0,0,0,0,7.23,1.4,0,0,0

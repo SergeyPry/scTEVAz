@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,glial,immune,lateral.line,mesenchyme,neural,notochord,periderm,pronephros,spinal.cord
+stage,blastomeres,epidermis,erythrocytes,eye,glial,immune,lateral_line,mesenchyme,neural,notochord,periderm,pronephros,spinal_cord
   3-4,9.56,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,3.44,0,0,0,0
  14-21,0,0.95,0,0,0,0,0,1.13,0,0,0,0,0

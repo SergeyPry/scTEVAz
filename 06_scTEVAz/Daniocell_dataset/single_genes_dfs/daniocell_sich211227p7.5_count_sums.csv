@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,gut,immune,ionocyte,mesenchyme,mucous,muscle,neural,olfactory,otic,paraxial.mesoderm,pericytes,periderm,somites,spinal.cord,vasculature
+stage,axial,blastomeres,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,gut,immune,ionocyte,mesenchyme,mucous,muscle,neural,olfactory,otic,paraxial_mesoderm,pericytes,periderm,somites,spinal_cord,vasculature
   5-6,6.87,9.75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.88,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,0,4.8,0,0,0,0,0,0,0,0

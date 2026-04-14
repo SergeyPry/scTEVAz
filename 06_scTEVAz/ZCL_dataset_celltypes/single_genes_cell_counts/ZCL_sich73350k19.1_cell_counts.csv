@@ -1,4 +1,4 @@
-stage,Macrophage,Neural.cell
+stage,Macrophage,Neural_cell
 24hpf,1,1
-72hpf,0,0.281848056003223
-21Day,0,0.369986860264282
+72hpf,0,0.28
+21Day,0,0.37

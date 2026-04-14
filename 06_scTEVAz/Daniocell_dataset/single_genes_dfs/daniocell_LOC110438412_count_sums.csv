@@ -1,4 +1,4 @@
-stage,eye,glial,heart,mesenchyme,muscle,neural,olfactory,periderm,visceral.smooth.muscle
+stage,eye,glial,heart,mesenchyme,muscle,neural,olfactory,periderm,visceral_smooth_muscle
  14-21,0,0,0,0,0,1.92,0,0,0
  24-34,0,0,0,0,0,4.41,0,0,0
  36-46,0,0,0,0,0,2.58,0,0,0

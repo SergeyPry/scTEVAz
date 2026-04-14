@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,fast.muscle,fin.epithelia,glial,neural,paraxial.mesoderm,spinal.cord,taste
+stage,axial,blastomeres,endoderm,epidermis,fast_muscle,fin_epithelia,glial,neural,paraxial_mesoderm,spinal_cord,taste
   3-4,13.18,171.31,0,0,0,0,0,0,0,0,0
   5-6,6.13,110.33,0,0,0,0,0,0,0,0,0
   7-9,0,0,5.26,0,0,0,0,18.4,2.63,0,0

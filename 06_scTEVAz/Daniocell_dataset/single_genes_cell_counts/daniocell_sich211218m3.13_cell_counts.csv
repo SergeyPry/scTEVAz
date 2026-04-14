@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,glial,liver,mesenchyme,mucous,muscle,neural,olfactory,periderm,somites,spinal.cord,vasculature
+stage,epidermis,erythrocytes,eye,glial,liver,mesenchyme,mucous,muscle,neural,olfactory,periderm,somites,spinal_cord,vasculature
  14-21,0,0,0,0,0,0,0,1,1,0,0,1,0,0
  24-34,0,0,0,0,0,0,0,0,3.28,1.64,0,0,0,0
  36-46,0.81,0,0.81,1.61,0,0.81,0,0.81,8.86,1.61,0,0,4.03,0

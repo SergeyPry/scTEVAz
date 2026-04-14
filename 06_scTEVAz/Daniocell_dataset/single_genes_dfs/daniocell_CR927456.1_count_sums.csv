@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endocrine.pancreas,endoderm,exocrine.pancreas,eye,glial,gut,heart,ionocyte,mucous,neural,olfactory,otic,periderm
+stage,axial,blastomeres,endocrine_pancreas,endoderm,exocrine_pancreas,eye,glial,gut,heart,ionocyte,mucous,neural,olfactory,otic,periderm
   3-4,13.67,177.36,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,21.23,114.14,0,0,0,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,11.46,0,0,0

@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,erythrocytes,eye,glial,heart,mesenchyme,muscle,neural,notochord,paraxial.mesoderm,periderm,spinal.cord
+stage,axial,blastomeres,endoderm,erythrocytes,eye,glial,heart,mesenchyme,muscle,neural,notochord,paraxial_mesoderm,periderm,spinal_cord
   3-4,26.36,92.25,0,0,0,0,0,0,0,0,0,0,13.18,0
   5-6,0,73.56,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,5.26,0,0,0,0,0,0,31.54,0,5.26,0,0

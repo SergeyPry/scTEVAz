@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,glial,gut,iridophores,liver,mesenchyme,mural.cell,neural,otic,paraxial.mesoderm,pronephros,spinal.cord,vasculature
+stage,epidermis,eye,fin_epithelia,glial,gut,iridophores,liver,mesenchyme,mural_cell,neural,otic,paraxial_mesoderm,pronephros,spinal_cord,vasculature
  10-12,0,0,0,0,0,0,0,0,0,0,0,3.15,8.5,0,0
  24-34,0,0,0,0,0,0,0,0,0,5.58,0,0,0,1.15,0
  36-46,0,0,0,0,0,0,0,0,0,7.23,0.71,0,0,0.7,0

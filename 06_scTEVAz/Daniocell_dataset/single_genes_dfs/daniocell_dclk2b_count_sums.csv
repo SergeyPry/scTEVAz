@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endocrine.pancreas,epidermis,eye,fin.epithelia,glial,melanocytes,mesenchyme,mural.cell,neural,notochord,olfactory,otic,periderm,somites,spinal.cord,vasculature
+stage,axial,blastomeres,endocrine_pancreas,epidermis,eye,fin_epithelia,glial,melanocytes,mesenchyme,mural_cell,neural,notochord,olfactory,otic,periderm,somites,spinal_cord,vasculature
   7-9,3.24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  10-12,0,5.05,0,0,0,0,0,0,0,0,6.85,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,10.15,0.87,0,0,0,0,10.53,0

@@ -1,4 +1,4 @@
-stage,eye,fast.muscle,glial,mesenchyme,mural.cell,muscle,neural,olfactory,otic,periderm,spinal.cord,vasculature,xanthophores
+stage,eye,fast_muscle,glial,mesenchyme,mural_cell,muscle,neural,olfactory,otic,periderm,spinal_cord,vasculature,xanthophores
  14-21,0,0,0,0,0,0,0,0,1,0,1,0,0
  24-34,0,0,0,0,0,0,7.39,0,0,0,1.64,0,0
  36-46,0,0,0,0,0,0,21.75,0,0,0,8.86,0,0

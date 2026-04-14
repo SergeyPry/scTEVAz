@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,erythrocytes,eye,ionocyte,lateral.line,liver,mesenchyme,muscle,neural,olfactory,otic,periderm,spinal.cord,vasculature
+stage,endoderm,epidermis,erythrocytes,eye,ionocyte,lateral_line,liver,mesenchyme,muscle,neural,olfactory,otic,periderm,spinal_cord,vasculature
  10-12,0,0,0,0,0,0,0,0,0,6.29,0,0,0,0,0
  14-21,1,3,0,0,0,0,0,1,1,0,0,1,0,0,0
  24-34,0,0.82,0,0,0,0,0.82,0,0,0,0,0,1.64,0,0

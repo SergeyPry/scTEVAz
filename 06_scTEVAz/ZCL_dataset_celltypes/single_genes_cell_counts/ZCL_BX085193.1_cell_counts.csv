@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Granulocyte,Hepatocyte,Mesenchymal.cell,Mesenchymal.cell..caudal.fin.,Neural.cell,Primordial.germ.cell,Radial.glia,Spermatocyte
+stage,Epithelial_cell,Granulocyte,Hepatocyte,Mesenchymal_cell,Mesenchymal_cell__caudal_fin_,Neural_cell,Primordial_germ_cell,Radial_glia,Spermatocyte
 24hpf,0,0,0,1,0,0,0,0,0
-72hpf,0,0,0,0,0,0,0,0.281848056003223,0
-3Month,0.104017006644673,0.104017006644673,0.520085033223363,0.104017006644673,0.104017006644673,0.104017006644673,2.60042516611682,0,0.624102039868036
+72hpf,0,0,0,0,0,0,0,0.28,0
+3Month,0.1,0.1,0.52,0.1,0.1,0.1,2.6,0,0.62

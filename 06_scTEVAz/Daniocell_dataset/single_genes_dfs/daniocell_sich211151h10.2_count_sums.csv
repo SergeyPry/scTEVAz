@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,eye,fin.epithelia,heart,ionocyte,mesenchyme,mucous,mural.cell,neural,olfactory,otic,paraxial.mesoderm,periderm,pgc,spinal.cord
+stage,axial,blastomeres,epidermis,eye,fin_epithelia,heart,ionocyte,mesenchyme,mucous,mural_cell,neural,olfactory,otic,paraxial_mesoderm,periderm,pgc,spinal_cord
   3-4,12.66,195.49,0,0,0,0,0,0,0,0,0,0,0,0,484.09,0,0
   5-6,0,60.32,0,0,0,0,0,0,0,0,0,0,0,0,535.54,0,0
   7-9,0,0,0,3.21,0,0,0,0,0,0,53.45,0,0,10.48,185.85,0,0

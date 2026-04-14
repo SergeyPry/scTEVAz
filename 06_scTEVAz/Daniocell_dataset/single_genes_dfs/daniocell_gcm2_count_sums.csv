@@ -1,4 +1,4 @@
-stage,axial,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,gut,ionocyte,lateral.line,liver,mesenchyme,mucous,mural.cell,muscle,neural,olfactory,periderm,somites,spinal.cord,taste,vasculature,xanthophores
+stage,axial,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,gut,ionocyte,lateral_line,liver,mesenchyme,mucous,mural_cell,muscle,neural,olfactory,periderm,somites,spinal_cord,taste,vasculature,xanthophores
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,855.85,0,0,0,0,0,0,0
  14-21,0,2.72,0,0,0,0,0,289.27,0,0,0,22.81,0,0,5.71,0,10.68,0.82,0,0,0,0
  24-34,0,2.42,0,0.94,0,0,0,356.63,0,0,0,32.76,0,0,4.57,0,4.71,0,0,0,0,0

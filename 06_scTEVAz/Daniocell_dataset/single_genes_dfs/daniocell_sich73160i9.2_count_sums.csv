@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,erythrocytes,eye,fin.mesenchyme,glial,gut,immune,iridophores,mesenchyme,neural,vasculature
+stage,blastomeres,endocrine_pancreas,erythrocytes,eye,fin_mesenchyme,glial,gut,immune,iridophores,mesenchyme,neural,vasculature
   3-4,18.85,0,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,4.23,0
  14-21,0,0,1.13,0,0,0,0,2.02,0,0,0,0

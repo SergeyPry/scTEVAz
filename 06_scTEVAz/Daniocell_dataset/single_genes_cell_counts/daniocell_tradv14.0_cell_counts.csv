@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fast.muscle,glial,hatching.gland,heart,immune,ionocyte,lateral.line,mesenchyme,mucous,muscle,neural,olfactory,otic,periderm,slow.muscle,somites,vasculature
+stage,epidermis,erythrocytes,eye,fast_muscle,glial,hatching_gland,heart,immune,ionocyte,lateral_line,mesenchyme,mucous,muscle,neural,olfactory,otic,periderm,slow_muscle,somites,vasculature
  14-21,1,4,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,28,3,8
  24-34,0.82,0.82,1.64,0,0,0,0,0,0,0,0,0.82,0.82,0,0,0,0,4.1,0.82,28.73
  36-46,0,0,3.22,0,0,0.81,0.81,0,0,0,0.81,0,0,0,0.81,0,0,0.81,0,8.86

@@ -1,3 +1,3 @@
-stage,Epithelial.cell,Hepatocyte,Keratinocyte,Macrophage,Mesenchymal.cell,Muscle.cell,Nephron.cell,Primordial.germ.cell
-21Day,0,0,0,1.33853308820331,0,0,0,0
-3Month,2.87954369598776,0.319949299554195,0.959847898662586,0.639898599108391,0.319949299554195,2.23964509687937,0.319949299554195,0.319949299554195
+stage,Epithelial_cell,Hepatocyte,Keratinocyte,Macrophage,Mesenchymal_cell,Muscle_cell,Nephron_cell,Primordial_germ_cell
+21Day,0,0,0,1.34,0,0,0,0
+3Month,2.88,0.32,0.96,0.64,0.32,2.24,0.32,0.32

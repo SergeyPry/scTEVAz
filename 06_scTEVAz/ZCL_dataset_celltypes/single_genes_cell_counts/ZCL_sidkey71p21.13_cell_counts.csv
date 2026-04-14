@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Hepatocyte,Intestinal.bulb.cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal.cell,Neurosecretory.cell,Oligodendrocyte,Primordial.germ.cell
+stage,Epithelial_cell,Hepatocyte,Intestinal_bulb_cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal_cell,Neurosecretory_cell,Oligodendrocyte,Primordial_germ_cell
 24hpf,0,0,0,0,2,0,0,0,0,0
-21Day,1.10996058079285,0,0,0.739973720528564,0.739973720528564,0,0.369986860264282,0.369986860264282,0,0
-3Month,1.97632312624878,0.416068026578691,0.104017006644673,0,0.312051019934018,0.104017006644673,0.104017006644673,0.104017006644673,0.104017006644673,0.312051019934018
+21Day,1.11,0,0,0.74,0.74,0,0.37,0.37,0,0
+3Month,1.98,0.42,0.1,0,0.31,0.1,0.1,0.1,0.1,0.31

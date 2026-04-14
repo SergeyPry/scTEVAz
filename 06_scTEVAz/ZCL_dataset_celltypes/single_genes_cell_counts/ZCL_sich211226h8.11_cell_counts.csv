@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Endothelial.cell,Epithelial.cell,Goblet.cell,Granulocyte,Granulosa.cell,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal.cell,Neural.progenitor.cell,Neurosecretory.cell,Oocyte,Retinal.cell,Retinal.pigment.epithelial.cell,T.cell
+stage,Cardiomyocyte,Endothelial_cell,Epithelial_cell,Goblet_cell,Granulocyte,Granulosa_cell,Hepatocyte,Immune_cell,Intestinal_bulb_cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal_cell,Neural_progenitor_cell,Neurosecretory_cell,Oocyte,Retinal_cell,Retinal_pigment_epithelial_cell,T_cell
 24hpf,0,0,1,0,0,0,0,0,0,0,0,0,1,7,0,0,0,0,0
-72hpf,0.281848056003223,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-22Month,0,1.09319545590506,0.956546023916932,0.136649431988133,1.09319545590506,0.956546023916932,6.14922443946599,0.409948295964399,0.273298863976266,0.136649431988133,0.273298863976266,0.273298863976266,0.683247159940666,0,0.136649431988133,32.2492659491994,0.136649431988133,0.136649431988133,0.273298863976266
+72hpf,0.28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22Month,0,1.09,0.96,0.14,1.09,0.96,6.15,0.41,0.27,0.14,0.27,0.27,0.68,0,0.14,32.25,0.14,0.14,0.27

@@ -1,4 +1,4 @@
-stage,eye,fast.muscle,fin.mesenchyme,glial,mesenchyme,muscle,neural,periderm,slow.muscle,somites,spinal.cord,vasculature
+stage,eye,fast_muscle,fin_mesenchyme,glial,mesenchyme,muscle,neural,periderm,slow_muscle,somites,spinal_cord,vasculature
  14-21,0,0,0,0,0,0,0.98,0,0,1.33,0,0
  24-34,0,0.75,0,0,0,0,3.45,0,4.53,0.61,0,1.24
  36-46,0,4.99,0,0,0,1.58,0.92,0,0,0,0,0

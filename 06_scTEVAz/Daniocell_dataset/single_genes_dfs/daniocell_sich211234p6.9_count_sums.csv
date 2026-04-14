@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,fin.epithelia,glial,gut,heart,immune,iridophores,liver,mesenchyme,muscle,neural,otic,paraxial.mesoderm,periderm,presomitic.mesoderm,spinal.cord,taste,xanthophores
+stage,blastomeres,endoderm,epidermis,fin_epithelia,glial,gut,heart,immune,iridophores,liver,mesenchyme,muscle,neural,otic,paraxial_mesoderm,periderm,presomitic_mesoderm,spinal_cord,taste,xanthophores
   3-4,36.72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,7.82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,7.87,0,0,0,0,0,0,0,0,0,0,19.42,0,5.02,0,0,0,0,0

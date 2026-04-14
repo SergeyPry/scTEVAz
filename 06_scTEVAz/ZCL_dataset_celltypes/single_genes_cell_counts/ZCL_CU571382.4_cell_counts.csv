@@ -1,2 +1,2 @@
-stage,Endothelial.cell,Epithelial.cell,Goblet.cell,Hepatocyte,Immune.progenitor.cell,Intestinal.bulb.cell,Macrophage,Mt.rich.cell,Neurosecretory.cell,Primordial.germ.cell,T.cell
-22Month,0.136649431988133,0.136649431988133,0.273298863976266,0.136649431988133,0.409948295964399,0.136649431988133,5.05602898356092,0.136649431988133,0.136649431988133,0.273298863976266,0.409948295964399
+stage,Endothelial_cell,Epithelial_cell,Goblet_cell,Hepatocyte,Immune_progenitor_cell,Intestinal_bulb_cell,Macrophage,Mt_rich_cell,Neurosecretory_cell,Primordial_germ_cell,T_cell
+22Month,0.14,0.14,0.27,0.14,0.41,0.14,5.06,0.14,0.14,0.27,0.41

@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.mesenchyme,glial,immune,iridophores,lateral.line,mesenchyme,neural,otic,periderm,spinal.cord
+stage,epidermis,eye,fin_mesenchyme,glial,immune,iridophores,lateral_line,mesenchyme,neural,otic,periderm,spinal_cord
  24-34,0.6,0.61,0,0,0,0,0,0,0,10.26,0,0
  36-46,0,0,0,0,0,0,0.6,0,2.94,18.49,0,0
  48-58,1.56,0,0,0,0,0,0.79,1.86,5.39,8.87,0,0.9

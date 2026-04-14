@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,glial,gut,immune,ionocyte,neural,olfactory,somites,spinal.cord
+stage,epidermis,erythrocytes,eye,glial,gut,immune,ionocyte,neural,olfactory,somites,spinal_cord
  14-21,2.12,116.76,0,0,0,0,0.96,0.83,0,0,0
  24-34,0,162.62,0,0,0,0,3.8,8.06,0,0.92,5.54
  36-46,0,44.17,0,0,0,0,3.67,3.98,1.21,0,0

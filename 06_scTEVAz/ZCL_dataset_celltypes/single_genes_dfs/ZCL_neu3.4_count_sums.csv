@@ -1,5 +1,5 @@
-stage,Endothelial.cell,Enterocyte,Epithelial.cell,Goblet.cell,Granulocyte,Hepatocyte,Intestinal.bulb.cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal.cell,Primordial.germ.cell,Spermatocyte
-24hpf,0,0,0,0,0,0,0,0,0,4.08640457285017,0,0,0
-72hpf,0,0,1.06979114146608,0,0,0,0,1.06979114146608,0,0,0,0,0
-3Month,4.15934089420454,0,8.63863108796328,2.87954369598776,0.319949299554195,0.639898599108391,7.99873248885489,0,1.59974649777098,0,2.23964509687937,0.319949299554195,0.319949299554195
-22Month,0,0.546654651197433,1.09330930239487,0,0,1.6399639535923,0.546654651197433,0,1.09330930239487,0.546654651197433,1.09330930239487,0,0
+stage,Endothelial_cell,Enterocyte,Epithelial_cell,Goblet_cell,Granulocyte,Hepatocyte,Intestinal_bulb_cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal_cell,Primordial_germ_cell,Spermatocyte
+24hpf,0,0,0,0,0,0,0,0,0,4.09,0,0,0
+72hpf,0,0,1.07,0,0,0,0,1.07,0,0,0,0,0
+3Month,4.16,0,8.64,2.88,0.32,0.64,8,0,1.6,0,2.24,0.32,0.32
+22Month,0,0.55,1.09,0,0,1.64,0.55,0,1.09,0.55,1.09,0,0

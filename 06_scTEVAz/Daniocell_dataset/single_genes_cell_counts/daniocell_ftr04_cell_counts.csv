@@ -1,4 +1,4 @@
-stage,blastomeres,erythrocytes,eye,glial,heart,mesenchyme,muscle,neural,notochord,olfactory,otic,periderm,spinal.cord,vasculature,xanthophores
+stage,blastomeres,erythrocytes,eye,glial,heart,mesenchyme,muscle,neural,notochord,olfactory,otic,periderm,spinal_cord,vasculature,xanthophores
   5-6,6.13,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,1,1,2,1,0,0,0,0,0,0
  24-34,0,0,0,0,0,0,0,0.82,0,0,0,0,0,0.82,0

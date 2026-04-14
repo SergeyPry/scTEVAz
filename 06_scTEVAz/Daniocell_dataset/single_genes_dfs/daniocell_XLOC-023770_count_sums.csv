@@ -1,4 +1,4 @@
-stage,epidermis,fast.muscle,fin.epithelia,glial,mesenchyme,mural.cell,neural,paraxial.mesoderm,periderm,slow.muscle
+stage,epidermis,fast_muscle,fin_epithelia,glial,mesenchyme,mural_cell,neural,paraxial_mesoderm,periderm,slow_muscle
  24-34,0,0,0,0,0,0,0,0,19.08,0
  36-46,0,0,0,0,0,0,0,0,1.74,1.56
  48-58,0,0,0,0,0,0,0,4.77,0.56,3.42

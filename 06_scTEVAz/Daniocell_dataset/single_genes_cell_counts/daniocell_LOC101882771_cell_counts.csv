@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,iridophores,mesenchyme,neural,olfactory,otic,spinal.cord,taste,vascular.smooth.muscle,vasculature
+stage,epidermis,eye,glial,iridophores,mesenchyme,neural,olfactory,otic,spinal_cord,taste,vascular_smooth_muscle,vasculature
  14-21,0,0,1,0,0,0,0,1,0,0,0,0
  24-34,0,0.82,0,0,0,2.46,18.88,0,1.64,0,0,0.82
  36-46,0,0,0.81,0,0,1.61,12.09,0,0.81,0,0,0

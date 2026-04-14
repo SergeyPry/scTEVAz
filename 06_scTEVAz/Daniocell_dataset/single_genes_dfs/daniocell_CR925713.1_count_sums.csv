@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,mesenchyme,mural.cell,muscle,neural,notochord,spinal.cord,visceral.smooth.muscle
+stage,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,mesenchyme,mural_cell,muscle,neural,notochord,spinal_cord,visceral_smooth_muscle
  14-21,9.33,0,0,0,0,2.57,0,0,0,1.05,0,0
  24-34,3.34,1.67,0,0,0,2.12,0,0.63,9.79,0,1.88,0
  36-46,2.5,0,10.73,0,0,1.98,0,0,0,0,0,0

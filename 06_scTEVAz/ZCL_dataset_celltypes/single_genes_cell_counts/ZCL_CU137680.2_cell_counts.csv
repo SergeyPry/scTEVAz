@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Ionocyte,Keratinocyte,Neural.cell,Neural.progenitor.cell,Osteoblast
+stage,Epithelial_cell,Ionocyte,Keratinocyte,Neural_cell,Neural_progenitor_cell,Osteoblast
 24hpf,0,1,4,0,1,0
-72hpf,0,0,0.281848056003223,0.281848056003223,0.281848056003223,0.281848056003223
-21Day,0.739973720528564,0,0,0,0,0
+72hpf,0,0,0.28,0.28,0.28,0.28
+21Day,0.74,0,0,0,0,0

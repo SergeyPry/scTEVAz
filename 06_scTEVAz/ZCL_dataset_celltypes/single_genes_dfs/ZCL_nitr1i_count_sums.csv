@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Erythrocyte,Erythrocyte..Liver.,Goblet.cell,Granulocyte,Hepatocyte,Immune.cell,Immune.progenitor.cell,Intestinal.bulb.cell,Keratinocyte,Macrophage,Mesenchymal.cell,Nephron.cell,Neural.cell,Pancreatic.cell,Primordial.germ.cell,Retinal.cell,T.cell
-21Day,1.33853308820331,1.33853308820331,0,0,0,0,0,1.33853308820331,0,0,0,0,0,1.33853308820331,0,0,0,6.69266544101654
-3Month,0.639898599108391,0,1.27979719821678,0.319949299554195,0.319949299554195,2.23964509687937,0.319949299554195,0.319949299554195,0,1.27979719821678,0,0.639898599108391,0.319949299554195,0.319949299554195,0.959847898662586,0.319949299554195,0,61.4302655144055
-22Month,0,0,0,0,1.6399639535923,0.546654651197433,0,0,1.09330930239487,0,1.09330930239487,1.09330930239487,0,0,0,0,0.546654651197433,12.573056977541
+stage,Epithelial_cell,Erythrocyte,Erythrocyte__Liver_,Goblet_cell,Granulocyte,Hepatocyte,Immune_cell,Immune_progenitor_cell,Intestinal_bulb_cell,Keratinocyte,Macrophage,Mesenchymal_cell,Nephron_cell,Neural_cell,Pancreatic_cell,Primordial_germ_cell,Retinal_cell,T_cell
+21Day,1.34,1.34,0,0,0,0,0,1.34,0,0,0,0,0,1.34,0,0,0,6.69
+3Month,0.64,0,1.28,0.32,0.32,2.24,0.32,0.32,0,1.28,0,0.64,0.32,0.32,0.96,0.32,0,61.43
+22Month,0,0,0,0,1.64,0.55,0,0,1.09,0,1.09,1.09,0,0,0,0,0.55,12.57

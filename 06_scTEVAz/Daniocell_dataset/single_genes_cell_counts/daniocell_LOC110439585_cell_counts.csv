@@ -1,4 +1,4 @@
-stage,eye,glial,lateral.line,neural,somites,spinal.cord
+stage,eye,glial,lateral_line,neural,somites,spinal_cord
  14-21,0,1,0,1,1,1
  24-34,0,0,0,0.82,0,0.82
  36-46,0,0,0,0.81,0,0

@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,fin.epithelia,fin.mesenchyme,immune,mesenchyme,mural.cell,muscle,neural,spinal.cord
+stage,epidermis,eye,fast_muscle,fin_epithelia,fin_mesenchyme,immune,mesenchyme,mural_cell,muscle,neural,spinal_cord
  24-34,0,0,0,0,0,0,0,0,0,2.78,2.44
  36-46,35.91,0,0,8.76,2.07,0,0,0,0,0.57,0
  48-58,0,0,0,0,0,3.34,0,0,0,0.48,0.39

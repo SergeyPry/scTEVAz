@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,fin.epithelia,glial,gut,heart,immune,ionocyte,liver,melanocytes,mesenchyme,muscle,neural,olfactory,otic,periderm,spinal.cord,vasculature,visceral.smooth.muscle,xanthophores
+stage,endoderm,epidermis,eye,fin_epithelia,glial,gut,heart,immune,ionocyte,liver,melanocytes,mesenchyme,muscle,neural,olfactory,otic,periderm,spinal_cord,vasculature,visceral_smooth_muscle,xanthophores
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,2.63,0,0,0,0,0,0,0
  14-21,0,0,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,3,0,0,0
  24-34,0.82,0.82,1.64,0,0.82,0,0.82,0,0,0,0,0,0.82,8.21,0,0,0,1.64,0.82,0,1.64

@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,erythrocytes,eye,fin.epithelia,fin.mesenchyme,glial,immune,lateral.line,mesenchyme,neural,olfactory,paraxial.mesoderm,periderm,pronephros,slow.muscle,somites,spinal.cord,vasculature
+stage,axial,blastomeres,epidermis,erythrocytes,eye,fin_epithelia,fin_mesenchyme,glial,immune,lateral_line,mesenchyme,neural,olfactory,paraxial_mesoderm,periderm,pronephros,slow_muscle,somites,spinal_cord,vasculature
   3-4,39.53,1001.52,0,0,0,0,0,0,0,0,0,0,0,0,79.07,0,0,0,0,0
   5-6,24.52,147.11,0,0,0,0,0,0,0,0,0,6.13,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,2.63,0,5.26,0,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,fin.epithelia,fin.mesenchyme,glial,gut,mesenchyme,muscle,neural,otic,periderm,slow.muscle,somites,spinal.cord,vasculature
+stage,epidermis,eye,fast_muscle,fin_epithelia,fin_mesenchyme,glial,gut,mesenchyme,muscle,neural,otic,periderm,slow_muscle,somites,spinal_cord,vasculature
  14-21,0,0,0,0,0,0,0,0,0.95,0,0,0,14.24,3.07,0,0
  24-34,1.36,0,2.45,0,0,0,0,0,5.08,16.69,0,0,12.71,2.35,6.45,0
  36-46,0,2.58,15.45,0,0,1.18,0,2.54,3.3,16.34,0,0,6.45,3.05,13.16,0

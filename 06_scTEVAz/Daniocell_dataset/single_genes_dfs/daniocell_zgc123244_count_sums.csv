@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,fast.muscle,gut,lateral.line,liver,mesenchyme,muscle,neural,pericytes,periderm,pronephros,spinal.cord,taste,vascular.smooth.muscle,vasculature,xanthophores
+stage,endocrine_pancreas,epidermis,eye,fast_muscle,gut,lateral_line,liver,mesenchyme,muscle,neural,pericytes,periderm,pronephros,spinal_cord,taste,vascular_smooth_muscle,vasculature,xanthophores
  14-21,0,0,0,0,0,0,0,0,0,1.68,0,0,0,0.9,0,0,0,0
  24-34,0,0,0,0,0,0,0,0.65,0,5.52,0,0,0,0,0,0,0.98,0
  36-46,0,0,0,0,0,0,0,0,0.96,5.87,0,0,0,0,0,0,0,1.19

@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,eye,hatching.gland,ionocyte,liver,mesenchyme,mural.cell,neural,notochord,otic,paraxial.mesoderm,periderm,presomitic.mesoderm,pronephros,somites,spinal.cord,taste
+stage,axial,blastomeres,endoderm,eye,hatching_gland,ionocyte,liver,mesenchyme,mural_cell,neural,notochord,otic,paraxial_mesoderm,periderm,presomitic_mesoderm,pronephros,somites,spinal_cord,taste
   3-4,39.53,250.38,0,0,0,0,0,0,0,0,0,0,0,26.36,0,0,0,0,0
   5-6,18.39,159.37,0,0,0,0,0,0,0,6.13,0,0,0,0,0,0,0,0,0
   7-9,0,2.63,5.26,7.89,2.63,0,0,0,0,89.38,2.63,0,34.17,0,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fast.muscle,fin.mesenchyme,glial,iridophores,liver,mesenchyme,mural.cell,muscle,neural,olfactory,otic,periderm,pronephros,spinal.cord
+stage,epidermis,erythrocytes,eye,fast_muscle,fin_mesenchyme,glial,iridophores,liver,mesenchyme,mural_cell,muscle,neural,olfactory,otic,periderm,pronephros,spinal_cord
  14-21,0,1,0,0,0,0,0,0,0,0,1,2,0,0,0,0,1
  24-34,0.82,0,0,0,0,0.82,0,0.82,0,0,0,6.57,0,0,0,0,0
  36-46,0,0,0,0,0,0.81,0,0,1.61,0,0,9.67,0,0.81,0,0,3.22

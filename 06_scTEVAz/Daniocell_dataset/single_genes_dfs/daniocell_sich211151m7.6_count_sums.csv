@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,glial,gut,heart,iridophores,lateral.line,liver,mesenchyme,muscle,neural,notochord,otic,periderm,presomitic.mesoderm,pronephros,somites,spinal.cord,vascular.smooth.muscle,vasculature
+stage,endocrine_pancreas,epidermis,eye,glial,gut,heart,iridophores,lateral_line,liver,mesenchyme,muscle,neural,notochord,otic,periderm,presomitic_mesoderm,pronephros,somites,spinal_cord,vascular_smooth_muscle,vasculature
  14-21,0,0,0,0,0,0,0,0,0,1.03,0,0,0,0.91,0,1.17,0,0.92,0,0,0
  24-34,0,1.63,3.37,0,0.68,0,2.57,0,0,0,0.64,3.63,1.04,0,0,0,0,0,0,0,0
  36-46,0,0,0,0,0,0.75,0,0,0,0,0.81,2.74,0,0,0,0,2.03,0,1.86,0,1.02

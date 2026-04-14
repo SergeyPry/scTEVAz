@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,erythrocytes,eye,fast.muscle,fin.mesenchyme,glial,immune,lateral.line,liver,mesenchyme,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,presomitic.mesoderm,pronephros,somites,spinal.cord,vasculature
+stage,blastomeres,endoderm,epidermis,erythrocytes,eye,fast_muscle,fin_mesenchyme,glial,immune,lateral_line,liver,mesenchyme,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,presomitic_mesoderm,pronephros,somites,spinal_cord,vasculature
   5-6,12.26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,5.26,0,0,0,0,0,0,0,0,15.77,0,0,0,5.26,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,0,28.32,0,0,0,15.73,0,0,0,0,0

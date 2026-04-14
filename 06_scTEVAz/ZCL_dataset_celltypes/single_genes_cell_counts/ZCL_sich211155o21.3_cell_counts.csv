@@ -1,5 +1,5 @@
-stage,Cardiomyocyte,Erythroid.progenitor.cell,Keratinocyte,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Osteoblast,Primordial.germ.cell
+stage,Cardiomyocyte,Erythroid_progenitor_cell,Keratinocyte,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Osteoblast,Primordial_germ_cell
 24hpf,0,0,0,0,0,1,0,0
-72hpf,0,0,0,0,0,0.281848056003223,0,0
-21Day,0.369986860264282,0.369986860264282,0.739973720528564,0.369986860264282,0.369986860264282,0,0.369986860264282,0
-3Month,0,0,0,0,0,0,0,0.208034013289345
+72hpf,0,0,0,0,0,0.28,0,0
+21Day,0.37,0.37,0.74,0.37,0.37,0,0.37,0
+3Month,0,0,0,0,0,0,0,0.21

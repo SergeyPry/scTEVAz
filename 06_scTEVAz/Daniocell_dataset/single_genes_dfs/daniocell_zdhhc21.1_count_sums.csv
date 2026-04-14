@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,fin.epithelia,glial,gut,heart,immune,ionocyte,iridophores,lateral.line,liver,melanocytes,mesenchyme,mucous,muscle,neural,olfactory,otic,paraxial.mesoderm,pericytes,periderm,pronephros,spinal.cord,vasculature,visceral.smooth.muscle
+stage,endoderm,epidermis,eye,fin_epithelia,glial,gut,heart,immune,ionocyte,iridophores,lateral_line,liver,melanocytes,mesenchyme,mucous,muscle,neural,olfactory,otic,paraxial_mesoderm,pericytes,periderm,pronephros,spinal_cord,vasculature,visceral_smooth_muscle
  14-21,0.96,1.15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9.36,0,0,0.88,0,9.1,0,2.06,3.01,0
  24-34,0,0,1.57,0,0.94,0,0,0,0,0,0,0.95,0.62,0,0,0,29.69,0,0,0,0,28.32,0,6.39,1.52,0
  36-46,0,0.87,7.63,1.04,1.25,0.72,0,0,0,0,0,0,0,0.86,0,0,41.61,1.02,0,0,0,43.93,0,19.48,0,0

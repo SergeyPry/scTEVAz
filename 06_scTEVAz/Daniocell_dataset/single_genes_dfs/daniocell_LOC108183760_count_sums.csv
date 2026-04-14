@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,gut,immune,ionocyte,mesenchyme,mural.cell,muscle,neural,notochord,periderm,somites,spinal.cord,vasculature
+stage,epidermis,eye,glial,gut,immune,ionocyte,mesenchyme,mural_cell,muscle,neural,notochord,periderm,somites,spinal_cord,vasculature
  14-21,0,0.83,0,0,0,0,0,0,0,4.4,0.83,0,1.85,5.21,0
  24-34,0,3.04,0.99,0,0,0,0,0,0,8.55,0,0,0,1.41,0.63
  36-46,0,0,0,2.26,0,0,0.65,0,1.82,3.92,0,0,0,5.79,0

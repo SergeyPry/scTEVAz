@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,ionocyte,muscle,neural,otic,periderm,spinal.cord
+stage,epidermis,eye,glial,ionocyte,muscle,neural,otic,periderm,spinal_cord
  14-21,0.82,1.1,0,0,0,3.26,0,0,1.09
  24-34,0,2.49,0,0,0,0,0,0,4.94
  36-46,0,1.1,0,0,0,3.23,0,0,12.77

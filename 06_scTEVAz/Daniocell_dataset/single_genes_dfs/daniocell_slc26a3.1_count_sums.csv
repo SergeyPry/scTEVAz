@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,glial,gut,mesenchyme,neural,otic,pericytes,spinal.cord,visceral.smooth.muscle
+stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,glial,gut,mesenchyme,neural,otic,pericytes,spinal_cord,visceral_smooth_muscle
   3-4,11.6,20.14,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,3.58,0,0,0,0
  10-12,0,0,3.95,0,0,0,0,0,0,12.11,0,0,0,0

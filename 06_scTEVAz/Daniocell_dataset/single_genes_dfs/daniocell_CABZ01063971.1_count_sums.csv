@@ -1,4 +1,4 @@
-stage,blastomeres,eye,fin.mesenchyme,glial,mesenchyme,mucous,mural.cell,muscle,neural,olfactory,paraxial.mesoderm,spinal.cord,vasculature
+stage,blastomeres,eye,fin_mesenchyme,glial,mesenchyme,mucous,mural_cell,muscle,neural,olfactory,paraxial_mesoderm,spinal_cord,vasculature
   3-4,12.96,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,32.56,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,3.92,0,3.87,0,0

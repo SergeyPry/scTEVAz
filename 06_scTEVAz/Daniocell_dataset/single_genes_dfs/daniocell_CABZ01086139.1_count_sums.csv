@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,glial,immune,mesenchyme,muscle,neural,pericytes,spinal.cord,vasculature
+stage,epidermis,eye,fast_muscle,glial,immune,mesenchyme,muscle,neural,pericytes,spinal_cord,vasculature
  36-46,0,0.59,0,0,0,0,0,0.84,0,1.41,0
  48-58,0,0,0,2.13,0,0,0,4.11,0,0,0
  60-70,0,7.08,0,0,0,0,0,0,0,1.49,0

@@ -1,4 +1,4 @@
-stage,blastomeres,eye,fast.muscle,fin.epithelia,glial,gut,iridophores,liver,melanocytes,mesenchyme,neural,olfactory,otic,periderm,pronephros,spinal.cord,vascular.smooth.muscle,xanthophores
+stage,blastomeres,eye,fast_muscle,fin_epithelia,glial,gut,iridophores,liver,melanocytes,mesenchyme,neural,olfactory,otic,periderm,pronephros,spinal_cord,vascular_smooth_muscle,xanthophores
   3-4,39.53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,5.26,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,6.29,0,0,0,0,0,0,0

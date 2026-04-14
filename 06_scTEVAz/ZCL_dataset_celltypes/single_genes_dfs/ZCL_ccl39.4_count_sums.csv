@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Hepatocyte,Macrophage,Neural.progenitor.cell,Osteoblast,Primordial.germ.cell
-24hpf,0,0,4.08640457285017,12.2592137185505,0,0
-72hpf,1.06979114146608,0,0,0,1.06979114146608,0
-22Month,0,2.73327325598717,0,0,0,0.546654651197433
+stage,Epithelial_cell,Hepatocyte,Macrophage,Neural_progenitor_cell,Osteoblast,Primordial_germ_cell
+24hpf,0,0,4.09,12.26,0,0
+72hpf,1.07,0,0,0,1.07,0
+22Month,0,2.73,0,0,0,0.55

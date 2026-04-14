@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,epidermis,eye,fin.epithelia,glial,ionocyte,iridophores,lateral.line,liver,mesenchyme,mucous,muscle,neural,notochord,paraxial.mesoderm,periderm,slow.muscle,somites
+stage,blastomeres,endocrine_pancreas,epidermis,eye,fin_epithelia,glial,ionocyte,iridophores,lateral_line,liver,mesenchyme,mucous,muscle,neural,notochord,paraxial_mesoderm,periderm,slow_muscle,somites
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.63,0,0,0
  10-12,3.15,0,0,0,0,0,0,0,0,0,0,0,0,3.15,0,0,0,0,0
  14-21,0,0,11,0,0,0,1,0,0,0,0,0,1,0,0,0,5,1,3

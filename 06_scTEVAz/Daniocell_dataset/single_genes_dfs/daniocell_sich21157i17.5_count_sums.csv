@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,fin.mesenchyme,glial,gut,immune,ionocyte,lateral.line,liver,mesenchyme,muscle,neural,olfactory,otic,spinal.cord,vasculature
+stage,endocrine_pancreas,epidermis,eye,fin_mesenchyme,glial,gut,immune,ionocyte,lateral_line,liver,mesenchyme,muscle,neural,olfactory,otic,spinal_cord,vasculature
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,12.08,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,8.35,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,0,2.49,4.28,0,0

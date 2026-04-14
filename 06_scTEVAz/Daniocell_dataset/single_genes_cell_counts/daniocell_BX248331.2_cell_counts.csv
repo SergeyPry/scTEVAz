@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,erythrocytes,eye,fin.epithelia,glial,gut,hatching.gland,immune,lateral.line,liver,mesenchyme,mucous,muscle,neural,notochord,olfactory,otic,periderm,slow.muscle,spinal.cord,taste,xanthophores
+stage,axial,blastomeres,epidermis,erythrocytes,eye,fin_epithelia,glial,gut,hatching_gland,immune,lateral_line,liver,mesenchyme,mucous,muscle,neural,notochord,olfactory,otic,periderm,slow_muscle,spinal_cord,taste,xanthophores
   3-4,0,39.53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.13,42.91,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.13,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,2.63,0,0,0,0,0,0,5.26,0,0,0,0,0,0,0,0

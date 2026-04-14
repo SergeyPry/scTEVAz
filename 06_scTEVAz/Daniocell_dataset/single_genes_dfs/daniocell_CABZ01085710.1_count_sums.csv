@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,gut,mesenchyme,mural.cell,muscle,neural,otic,paraxial.mesoderm,pericytes,periderm,presomitic.mesoderm,spinal.cord,vasculature,visceral.smooth.muscle
+stage,blastomeres,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,gut,mesenchyme,mural_cell,muscle,neural,otic,paraxial_mesoderm,pericytes,periderm,presomitic_mesoderm,spinal_cord,vasculature,visceral_smooth_muscle
   3-4,23.63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,16.67,0,8.77,0,0,0,0,0,0
  14-21,0,0,0.99,0,0,0,0,0,0,0,0,0,0,0,0,1.22,2.13,0,0

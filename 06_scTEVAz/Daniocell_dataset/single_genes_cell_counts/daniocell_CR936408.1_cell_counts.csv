@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,mesenchyme,muscle,neural,otic,paraxial.mesoderm,periderm,pronephros,xanthophores
+stage,blastomeres,epidermis,eye,glial,mesenchyme,muscle,neural,otic,paraxial_mesoderm,periderm,pronephros,xanthophores
   5-6,12.26,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,2.63,2.63,0,0
  14-21,0,1,0,0,0,0,0,0,0,0,0,1

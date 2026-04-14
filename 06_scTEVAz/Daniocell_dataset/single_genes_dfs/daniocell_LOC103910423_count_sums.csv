@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.epithelia,glial,iridophores,lateral.line,mesenchyme,mural.cell,muscle,neural,notochord,otic,paraxial.mesoderm,presomitic.mesoderm,somites,spinal.cord,vasculature,xanthophores
+stage,blastomeres,epidermis,eye,fin_epithelia,glial,iridophores,lateral_line,mesenchyme,mural_cell,muscle,neural,notochord,otic,paraxial_mesoderm,presomitic_mesoderm,somites,spinal_cord,vasculature,xanthophores
   3-4,15.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,8.48,0,0,0,0,0,0,0,18.21,5.04,0,33.97,0,0,0,0,0
  10-12,0,0,9.15,0,0,0,0,0,0,0,0,0,0,36.34,0,0,0,0,0

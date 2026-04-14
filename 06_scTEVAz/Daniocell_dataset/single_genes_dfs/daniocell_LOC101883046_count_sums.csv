@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,eye,fin.mesenchyme,heart,mesenchyme,muscle,neural,paraxial.mesoderm,periderm,spinal.cord,vasculature
+stage,axial,blastomeres,endoderm,eye,fin_mesenchyme,heart,mesenchyme,muscle,neural,paraxial_mesoderm,periderm,spinal_cord,vasculature
   3-4,0,36.14,0,0,0,0,0,0,0,0,0,0,0
   5-6,9.25,23.06,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,5.46,6.99,0,0,0,0,23.45,3.87,0,0,0

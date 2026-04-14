@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Epithelial.cell,Hepatocyte,Neural.cell,Neural.progenitor.cell
-72hpf,1.40924028001612,0,0,0,0.563696112006446
-21Day,0,0.369986860264282,0,0.369986860264282,0
-22Month,0,0,0.273298863976266,0,0
+stage,Cardiomyocyte,Epithelial_cell,Hepatocyte,Neural_cell,Neural_progenitor_cell
+72hpf,1.41,0,0,0,0.56
+21Day,0,0.37,0,0.37,0
+22Month,0,0,0.27,0,0

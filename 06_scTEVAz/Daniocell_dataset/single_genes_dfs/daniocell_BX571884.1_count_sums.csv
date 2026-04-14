@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,fin.epithelia,gut,lateral.line,mucous,neural,otic,periderm,spinal.cord
+stage,blastomeres,epidermis,erythrocytes,fin_epithelia,gut,lateral_line,mucous,neural,otic,periderm,spinal_cord
   5-6,77.26,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,1.36,0,0
  24-34,0,0.63,0,0,0,0,0.96,3.61,0,0,0

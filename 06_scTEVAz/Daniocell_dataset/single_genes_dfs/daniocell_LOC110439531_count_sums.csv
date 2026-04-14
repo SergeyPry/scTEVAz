@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.epithelia,glial,mesenchyme,neural,olfactory,periderm,somites,spinal.cord,xanthophores
+stage,blastomeres,epidermis,eye,fin_epithelia,glial,mesenchyme,neural,olfactory,periderm,somites,spinal_cord,xanthophores
   3-4,10.64,0,0,0,0,0,0,0,0,0,0,0
   5-6,18.15,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,4.87,0,0,0,0,0

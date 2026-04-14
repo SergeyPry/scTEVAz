@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fast.muscle,glial,mesenchyme,muscle,neural,notochord,olfactory,periderm,presomitic.mesoderm,slow.muscle,somites,spinal.cord,visceral.smooth.muscle
+stage,epidermis,erythrocytes,eye,fast_muscle,glial,mesenchyme,muscle,neural,notochord,olfactory,periderm,presomitic_mesoderm,slow_muscle,somites,spinal_cord,visceral_smooth_muscle
  10-12,0,0,0,0,0,0,0,5.77,0,0,0,0,0,8.15,0,0
  14-21,2.46,0,1.13,0,0,1.84,3.3,0,10.29,0,3.32,12.81,186.31,435.6,1.87,0
  24-34,0.68,0,0,0,1.17,0,0,13.09,0,0,0.79,0,7.7,146.71,1.62,0

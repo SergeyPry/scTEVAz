@@ -1,4 +1,4 @@
-stage,Neural.progenitor.cell,Osteoblast,Radial.glia,Retinal.cell,Spermatocyte
+stage,Neural_progenitor_cell,Osteoblast,Radial_glia,Retinal_cell,Spermatocyte
 24hpf,2,0,0,0,0
-72hpf,0,0.281848056003223,0.281848056003223,0,0
-21Day,0,0,0,0.369986860264282,0.369986860264282
+72hpf,0,0.28,0.28,0,0
+21Day,0,0,0,0.37,0.37

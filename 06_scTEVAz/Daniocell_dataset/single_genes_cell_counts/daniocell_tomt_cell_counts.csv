@@ -1,4 +1,4 @@
-stage,blastomeres,erythrocytes,eye,glial,lateral.line,mesenchyme,mucous,neural,notochord,olfactory,otic,paraxial.mesoderm,presomitic.mesoderm,pronephros,somites,spinal.cord,vasculature
+stage,blastomeres,erythrocytes,eye,glial,lateral_line,mesenchyme,mucous,neural,notochord,olfactory,otic,paraxial_mesoderm,presomitic_mesoderm,pronephros,somites,spinal_cord,vasculature
   5-6,12.26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,2.63,0,0,0,15.77,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,6.29,3.15,0,0,18.88,0,0,0,0,0

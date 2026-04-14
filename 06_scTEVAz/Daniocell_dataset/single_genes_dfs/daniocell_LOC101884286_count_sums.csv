@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,gut,ionocyte,mesenchyme,mucous,muscle,neural,olfactory,otic,paraxial.mesoderm,periderm,slow.muscle,spinal.cord,vascular.smooth.muscle
+stage,epidermis,eye,fast_muscle,gut,ionocyte,mesenchyme,mucous,muscle,neural,olfactory,otic,paraxial_mesoderm,periderm,slow_muscle,spinal_cord,vascular_smooth_muscle
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,0,1.03,0,0
  24-34,0,0,0.72,0,0.59,0.75,0,0,2.87,0,0,0,0,0,0.6,0
  36-46,0,0,0,0,0,0,0,0,1.67,0,0,0,0,0,0,0

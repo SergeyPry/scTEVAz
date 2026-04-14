@@ -1,6 +1,6 @@
-stage,Epithelial.cell,Erythrocyte,Erythroid.progenitor.cell,Hepatocyte,Intestinal.bulb.cell,Macrophage,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Osteoblast,Primordial.germ.cell,Radial.glia,Spermatocyte
+stage,Epithelial_cell,Erythrocyte,Erythroid_progenitor_cell,Hepatocyte,Intestinal_bulb_cell,Macrophage,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Osteoblast,Primordial_germ_cell,Radial_glia,Spermatocyte
 24hpf,0,0,0,0,0,0,2,0,5,0,0,0,0
-72hpf,0,0.281848056003223,0,0,0,0,0.84554416800967,1.40924028001612,1.40924028001612,0.563696112006446,0,0.281848056003223,0
-21Day,0.739973720528564,3.32988174237854,0.369986860264282,0,0,0,1.47994744105713,1.47994744105713,0.369986860264282,0,0,0,0
-3Month,0.104017006644673,0,0,0.104017006644673,0,0,0,0,0,0,0,0,0.104017006644673
-22Month,0,0,0,0.819896591928799,0.273298863976266,0.136649431988133,0,0,0,0,0.409948295964399,0,0
+72hpf,0,0.28,0,0,0,0,0.85,1.41,1.41,0.56,0,0.28,0
+21Day,0.74,3.33,0.37,0,0,0,1.48,1.48,0.37,0,0,0,0
+3Month,0.1,0,0,0.1,0,0,0,0,0,0,0,0,0.1
+22Month,0,0,0,0.82,0.27,0.14,0,0,0,0,0.41,0,0

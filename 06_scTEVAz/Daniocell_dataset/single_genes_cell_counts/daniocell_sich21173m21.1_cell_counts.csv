@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,erythrocytes,eye,glial,gut,iridophores,mesenchyme,muscle,neural,otic,paraxial.mesoderm,pericytes,periderm,somites,spinal.cord
+stage,endocrine_pancreas,epidermis,erythrocytes,eye,glial,gut,iridophores,mesenchyme,muscle,neural,otic,paraxial_mesoderm,pericytes,periderm,somites,spinal_cord
  14-21,0,1,0,0,0,0,0,1,0,3,0,1,0,0,2,4
  24-34,0,0,0,0.82,0.82,0,0,0,0,4.1,0.82,0,0,0.82,0,2.46
  36-46,0,0,0,1.61,0,0,0,0,0,5.64,0.81,0,0,0.81,0,0.81

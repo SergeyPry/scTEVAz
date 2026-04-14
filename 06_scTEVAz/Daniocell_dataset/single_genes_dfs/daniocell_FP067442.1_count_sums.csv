@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.mesenchyme,glial,immune,iridophores,melanocytes,mesenchyme,mucous,muscle,neural,olfactory,otic,pericytes,spinal.cord,visceral.smooth.muscle,xanthophores
+stage,blastomeres,epidermis,eye,fin_mesenchyme,glial,immune,iridophores,melanocytes,mesenchyme,mucous,muscle,neural,olfactory,otic,pericytes,spinal_cord,visceral_smooth_muscle,xanthophores
   5-6,8.07,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,2.51,1.55,0,0,0.83,0,0
  24-34,0,0.81,0,0,0,0.71,0,0.65,3.75,0,0.83,1.57,0,0,0,3.02,0,0

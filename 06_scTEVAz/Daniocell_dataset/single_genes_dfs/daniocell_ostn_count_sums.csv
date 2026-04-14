@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,eye,fast.muscle,fin.mesenchyme,glial,mesenchyme,muscle,neural,notochord,paraxial.mesoderm,pronephros,spinal.cord,vasculature
+stage,blastomeres,endoderm,eye,fast_muscle,fin_mesenchyme,glial,mesenchyme,muscle,neural,notochord,paraxial_mesoderm,pronephros,spinal_cord,vasculature
   5-6,9.43,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,3.45,3.8,0,0,0,0,0,13.97,0,0,0,0,0
  10-12,3.15,0,0,0,0,0,0,0,31.55,0,12.6,0,0,0

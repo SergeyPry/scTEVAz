@@ -1,4 +1,4 @@
-stage,Hepatocyte,Immune.cell,Immune.progenitor.cell,Mesenchymal.cell,Neural.cell,Neurosecretory.cell,Retinal.pigment.epithelial.cell,T.cell
-72hpf,0,0,0,0,1.06979114146608,0,0,0
-21Day,0,0,2.67706617640661,2.67706617640661,0,0,0,0
-3Month,0.959847898662586,1.27979719821678,0,0,0,0.319949299554195,0.319949299554195,3.83939159465034
+stage,Hepatocyte,Immune_cell,Immune_progenitor_cell,Mesenchymal_cell,Neural_cell,Neurosecretory_cell,Retinal_pigment_epithelial_cell,T_cell
+72hpf,0,0,0,0,1.07,0,0,0
+21Day,0,0,2.68,2.68,0,0,0,0
+3Month,0.96,1.28,0,0,0,0.32,0.32,3.84

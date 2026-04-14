@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,gut,neural,spinal.cord
+stage,blastomeres,epidermis,erythrocytes,eye,gut,neural,spinal_cord
   5-6,9.08,0,0,0,0,0,0
  24-34,0,0.75,0,0.78,0,2.84,0.91
  36-46,0,0,0,0,0,6.38,1.51

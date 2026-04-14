@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,exocrine.pancreas,eye,fin.epithelia,glial,mesenchyme,mural.cell,muscle,neural,periderm,spinal.cord,vascular.smooth.muscle
+stage,blastomeres,endoderm,epidermis,exocrine_pancreas,eye,fin_epithelia,glial,mesenchyme,mural_cell,muscle,neural,periderm,spinal_cord,vascular_smooth_muscle
   5-6,25.66,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,4.33,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,1.18,0

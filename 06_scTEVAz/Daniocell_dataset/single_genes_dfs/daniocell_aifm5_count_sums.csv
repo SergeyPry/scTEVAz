@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,epidermis,eye,glial,gut,mesenchyme,muscle,neural,olfactory,periderm,pronephros,spinal.cord
+stage,blastomeres,endocrine_pancreas,epidermis,eye,glial,gut,mesenchyme,muscle,neural,olfactory,periderm,pronephros,spinal_cord
   3-4,25.86,0,0,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,10.28,0,0,0,0
  14-21,0,0,0,0.89,0,0,0,0,0.84,0,0,0,5.75

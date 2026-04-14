@@ -1,4 +1,4 @@
-stage,eye,glial,immune,mesenchyme,muscle,neural,paraxial.mesoderm,periderm,spinal.cord
+stage,eye,glial,immune,mesenchyme,muscle,neural,paraxial_mesoderm,periderm,spinal_cord
   7-9,0,0,0,0,0,12.82,3.81,0,0
  14-21,0,0,0,0,1.01,5.04,0,0,1.67
  24-34,0,0.7,0,0,0,2.32,0,0,0

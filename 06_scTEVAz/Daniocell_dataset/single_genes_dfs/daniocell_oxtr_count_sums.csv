@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,exocrine.pancreas,eye,glial,gut,hatching.gland,mesenchyme,mural.cell,neural,notochord,pronephros,spinal.cord,vascular.smooth.muscle
+stage,endocrine_pancreas,epidermis,exocrine_pancreas,eye,glial,gut,hatching_gland,mesenchyme,mural_cell,neural,notochord,pronephros,spinal_cord,vascular_smooth_muscle
  10-12,0,0,0,0,0,0,0,0,0,4.01,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,3.07,0,0,0
  24-34,0,0,0,0.62,0,0,0,4.67,0,0,0,0,0.87,0

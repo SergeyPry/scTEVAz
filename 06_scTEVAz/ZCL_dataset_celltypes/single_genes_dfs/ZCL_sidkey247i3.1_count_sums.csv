@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Epithelial.cell,Granulocyte,Intestinal.bulb.cell,Neural.progenitor.cell,Primordial.germ.cell
-24hpf,0,0,0,0,8.17280914570035,0
-72hpf,1.06979114146608,1.06979114146608,0,0,1.06979114146608,0
-22Month,0,0,0.546654651197433,1.6399639535923,0,1.6399639535923
+stage,Cardiomyocyte,Epithelial_cell,Granulocyte,Intestinal_bulb_cell,Neural_progenitor_cell,Primordial_germ_cell
+24hpf,0,0,0,0,8.17,0
+72hpf,1.07,1.07,0,0,1.07,0
+22Month,0,0,0.55,1.64,0,1.64

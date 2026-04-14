@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Hepatocyte,Neural.progenitor.cell,Osteoblast
-24hpf,0,0,4.08640457285017,0
-21Day,1.33853308820331,0,0,1.33853308820331
-22Month,0,1.6399639535923,0,0
+stage,Epithelial_cell,Hepatocyte,Neural_progenitor_cell,Osteoblast
+24hpf,0,0,4.09,0
+21Day,1.34,0,0,1.34
+22Month,0,1.64,0,0

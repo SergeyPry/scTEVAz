@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Endothelial.cell,Epithelial.cell,Erythrocyte,Keratinocyte,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Osteoblast,Radial.glia
+stage,Cardiomyocyte,Endothelial_cell,Epithelial_cell,Erythrocyte,Keratinocyte,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Osteoblast,Radial_glia
 24hpf,1,0,1,0,0,3,0,34,0,0
-72hpf,0,0,0,0.281848056003223,0,1.12739222401289,2.53663250402901,3.38217667203868,0.281848056003223,0.281848056003223
-21Day,0,0.369986860264282,0.369986860264282,0,0.369986860264282,0.369986860264282,0.369986860264282,1.47994744105713,0.369986860264282,0.369986860264282
+72hpf,0,0,0,0.28,0,1.13,2.54,3.38,0.28,0.28
+21Day,0,0.37,0.37,0,0.37,0.37,0.37,1.48,0.37,0.37

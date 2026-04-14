@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,fast.muscle,fin.mesenchyme,glial,gut,hatching.gland,heart,mesenchyme,mucous,muscle,neural,notochord,otic,paraxial.mesoderm,periderm,presomitic.mesoderm,slow.muscle,somites,spinal.cord,vasculature
+stage,endoderm,epidermis,eye,fast_muscle,fin_mesenchyme,glial,gut,hatching_gland,heart,mesenchyme,mucous,muscle,neural,notochord,otic,paraxial_mesoderm,periderm,presomitic_mesoderm,slow_muscle,somites,spinal_cord,vasculature
   7-9,0,0,9.66,0,0,0,0,0,0,0,0,0,17.89,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,6.95,0,0,0,0,4.03,0,0,5.07,0,0,0,0,0,0
  14-21,0,1.91,0,0,0,0,0,0,0,0,0,0,6.05,5.6,0,0,0,0.84,0,0,0,0

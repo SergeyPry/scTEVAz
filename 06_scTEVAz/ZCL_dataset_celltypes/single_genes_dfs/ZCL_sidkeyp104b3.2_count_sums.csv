@@ -1,3 +1,3 @@
-stage,Endothelial.cell,Enterocyte,Granulocyte,Hepatocyte,Macrophage,Mesenchymal.cell,T.cell
-3Month,0.319949299554195,0,0,0,0,0,0.319949299554195
-22Month,0,0.546654651197433,0.546654651197433,0.546654651197433,0.546654651197433,0.546654651197433,0
+stage,Endothelial_cell,Enterocyte,Granulocyte,Hepatocyte,Macrophage,Mesenchymal_cell,T_cell
+3Month,0.32,0,0,0,0,0,0.32
+22Month,0,0.55,0.55,0.55,0.55,0.55,0

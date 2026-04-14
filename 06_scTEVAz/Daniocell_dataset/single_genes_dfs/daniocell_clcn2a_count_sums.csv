@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,eye,glial,heart,ionocyte,iridophores,lateral.line,neural,notochord,otic,paraxial.mesoderm,spinal.cord
+stage,axial,blastomeres,epidermis,eye,glial,heart,ionocyte,iridophores,lateral_line,neural,notochord,otic,paraxial_mesoderm,spinal_cord
   3-4,0,51.65,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,13.42,104.84,0,0,0,0,0,0,0,44.24,0,0,0,0
   7-9,0,0,0,12.27,0,0,0,0,0,65.13,4.22,0,17.19,0

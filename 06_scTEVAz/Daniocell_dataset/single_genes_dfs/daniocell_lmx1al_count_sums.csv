@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.epithelia,glial,gut,immune,liver,mesenchyme,mural.cell,muscle,neural,otic,pericytes,periderm,spinal.cord,vascular.smooth.muscle
+stage,epidermis,erythrocytes,eye,fin_epithelia,glial,gut,immune,liver,mesenchyme,mural_cell,muscle,neural,otic,pericytes,periderm,spinal_cord,vascular_smooth_muscle
  14-21,0,0,0,0,1.23,0,0,0,0,0,0,4.72,0,0,0,6.36,0
  24-34,6.18,0,3.37,0,3.26,0,0,0,1.55,0,0,38.8,0,0,0,20.02,0
  36-46,0.68,0,1.91,0,10.78,0,0,0,10.09,0,0.8,230.04,0,0,0,12.77,0

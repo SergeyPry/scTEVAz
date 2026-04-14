@@ -1,4 +1,4 @@
-stage,epidermis,exocrine.pancreas,eye,fast.muscle,fin.epithelia,immune,ionocyte,iridophores,mesenchyme,neural,notochord,otic,periderm,slow.muscle,spinal.cord,vasculature
+stage,epidermis,exocrine_pancreas,eye,fast_muscle,fin_epithelia,immune,ionocyte,iridophores,mesenchyme,neural,notochord,otic,periderm,slow_muscle,spinal_cord,vasculature
   7-9,0,0,0,0,0,0,0,0,0,2.63,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,1,1,0,0,2,0,0
  24-34,0,0,0,0,0,0,0,0,0,0.82,0.82,0,0.82,0,0,0.82

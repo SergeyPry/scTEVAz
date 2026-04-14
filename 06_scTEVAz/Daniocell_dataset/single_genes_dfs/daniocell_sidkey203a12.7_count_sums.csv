@@ -1,4 +1,4 @@
-stage,axial,blastomeres,eye,gut,immune,liver,neural,notochord,otic,paraxial.mesoderm,periderm,vasculature
+stage,axial,blastomeres,eye,gut,immune,liver,neural,notochord,otic,paraxial_mesoderm,periderm,vasculature
   3-4,13.35,76.73,0,0,0,0,0,0,0,0,0,0
   5-6,11.05,113.76,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,4.53,0,0,0,44.03,10.16,0,33.97,0,0

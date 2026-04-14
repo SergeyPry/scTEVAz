@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,gut,immune,ionocyte,liver,mesenchyme,mucous,neural
+stage,epidermis,eye,fin_epithelia,gut,immune,ionocyte,liver,mesenchyme,mucous,neural
   7-9,0,0,0,0,0,0,0,0,0,9.19
  14-21,0,0,0,0,0,0.86,1.36,0,0,1.32
  24-34,0,0,0,0,0,0.74,3.01,0,0,0

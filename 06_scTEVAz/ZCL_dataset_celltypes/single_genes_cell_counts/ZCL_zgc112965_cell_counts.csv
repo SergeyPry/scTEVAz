@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Epithelial.cell,Granulocyte,Hepatocyte,Neural.cell,Neural.progenitor.cell,Primordial.germ.cell,Smooth.muscle.cell,Spermatocyte
+stage,Cardiomyocyte,Epithelial_cell,Granulocyte,Hepatocyte,Neural_cell,Neural_progenitor_cell,Primordial_germ_cell,Smooth_muscle_cell,Spermatocyte
 24hpf,3,0,0,0,1,1,0,0,0
-72hpf,0,0,0,0,0.281848056003223,0,0,0,0
-3Month,0,0.104017006644673,0.104017006644673,0.312051019934018,0,0,1.04017006644673,0.104017006644673,0.312051019934018
+72hpf,0,0,0,0,0.28,0,0,0,0
+3Month,0,0.1,0.1,0.31,0,0,1.04,0.1,0.31

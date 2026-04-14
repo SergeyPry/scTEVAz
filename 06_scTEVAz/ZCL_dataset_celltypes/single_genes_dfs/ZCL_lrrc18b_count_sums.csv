@@ -1,6 +1,6 @@
-stage,Cardiomyocyte,Epithelial.cell,Epithelial.cell..Brain.,Granulocyte,Hepatocyte,Immune.progenitor.cell,Ionocyte,Mesenchymal.cell,Muscle.cell,Neural.cell,Neural.progenitor.cell,Neurosecretory.cell,Oligodendrocyte
-24hpf,0,0,0,0,0,0,0,0,0,0,4.08640457285017,4.08640457285017,0
-72hpf,1.06979114146608,0,0,0,0,0,0,2.13958228293216,1.06979114146608,0,0,0,0
-21Day,0,0,0,0,0,0,0,5.35413235281323,0,0,0,1.33853308820331,0
-3Month,0,2.23964509687937,0,0,0.319949299554195,0,0.319949299554195,0.319949299554195,0,0,0,0.639898599108391,0
-22Month,0,2.18661860478973,0.546654651197433,0.546654651197433,1.6399639535923,0.546654651197433,0,0,0,0.546654651197433,0,0,0.546654651197433
+stage,Cardiomyocyte,Epithelial_cell,Epithelial_cell__Brain_,Granulocyte,Hepatocyte,Immune_progenitor_cell,Ionocyte,Mesenchymal_cell,Muscle_cell,Neural_cell,Neural_progenitor_cell,Neurosecretory_cell,Oligodendrocyte
+24hpf,0,0,0,0,0,0,0,0,0,0,4.09,4.09,0
+72hpf,1.07,0,0,0,0,0,0,2.14,1.07,0,0,0,0
+21Day,0,0,0,0,0,0,0,5.35,0,0,0,1.34,0
+3Month,0,2.24,0,0,0.32,0,0.32,0.32,0,0,0,0.64,0
+22Month,0,2.19,0.55,0.55,1.64,0.55,0,0,0,0.55,0,0,0.55

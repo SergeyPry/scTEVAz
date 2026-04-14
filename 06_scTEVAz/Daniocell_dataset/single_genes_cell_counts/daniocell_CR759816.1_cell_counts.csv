@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,exocrine.pancreas,eye,glial,gut,iridophores,mesenchyme,neural,otic,periderm,spinal.cord,visceral.smooth.muscle
+stage,blastomeres,epidermis,erythrocytes,exocrine_pancreas,eye,glial,gut,iridophores,mesenchyme,neural,otic,periderm,spinal_cord,visceral_smooth_muscle
   7-9,2.63,0,0,0,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,3.15,0,0,0,0
  14-21,0,0,0,0,0,1,0,0,0,2,0,0,1,0

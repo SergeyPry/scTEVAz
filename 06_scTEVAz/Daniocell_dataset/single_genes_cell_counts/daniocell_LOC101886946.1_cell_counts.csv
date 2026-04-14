@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,erythrocytes,eye,glial,melanocytes,mesenchyme,neural,olfactory,otic,slow.muscle,spinal.cord,vascular.smooth.muscle,vasculature
+stage,endoderm,epidermis,erythrocytes,eye,glial,melanocytes,mesenchyme,neural,olfactory,otic,slow_muscle,spinal_cord,vascular_smooth_muscle,vasculature
  14-21,1,2,1,0,0,0,0,6,0,0,0,0,0,0
  24-34,0,0,0,0,0.82,0,0,3.28,0.82,0,0,0,0,0
  36-46,0,0,0,0,0,0,0.81,8.06,0,0,0,0,0,0

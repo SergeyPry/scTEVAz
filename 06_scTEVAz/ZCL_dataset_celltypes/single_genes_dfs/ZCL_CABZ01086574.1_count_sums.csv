@@ -1,5 +1,5 @@
-stage,Epithelial.cell,Erythrocyte,Hepatocyte,Keratinocyte,Neural.cell,Neural.progenitor.cell,Osteoblast,Radial.glia
-24hpf,0,0,0,0,0,8.17280914570035,0,0
-72hpf,1.06979114146608,1.06979114146608,0,1.06979114146608,31.0239431025163,1.06979114146608,1.06979114146608,1.06979114146608
-21Day,0,0,0,0,5.35413235281323,0,0,0
-22Month,0,0,1.09330930239487,0,0,0,0,0
+stage,Epithelial_cell,Erythrocyte,Hepatocyte,Keratinocyte,Neural_cell,Neural_progenitor_cell,Osteoblast,Radial_glia
+24hpf,0,0,0,0,0,8.17,0,0
+72hpf,1.07,1.07,0,1.07,31.02,1.07,1.07,1.07
+21Day,0,0,0,0,5.35,0,0,0
+22Month,0,0,1.09,0,0,0,0,0

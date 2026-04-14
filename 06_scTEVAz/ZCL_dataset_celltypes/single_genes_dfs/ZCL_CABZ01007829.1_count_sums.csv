@@ -1,4 +1,4 @@
-stage,Erythrocyte,Erythroid.progenitor.cell,Ionocyte,Neural.progenitor.cell,Osteoblast
-24hpf,0,0,0,4.08640457285017,4.08640457285017
-72hpf,0,0,1.06979114146608,1.06979114146608,0
-21Day,1.33853308820331,1.33853308820331,0,0,0
+stage,Erythrocyte,Erythroid_progenitor_cell,Ionocyte,Neural_progenitor_cell,Osteoblast
+24hpf,0,0,0,4.09,4.09
+72hpf,0,0,1.07,1.07,0
+21Day,1.34,1.34,0,0,0

@@ -1,4 +1,4 @@
-stage,erythrocytes,eye,glial,mesenchyme,mural.cell,neural,pericytes,periderm,spinal.cord
+stage,erythrocytes,eye,glial,mesenchyme,mural_cell,neural,pericytes,periderm,spinal_cord
  14-21,0,0,0,0,0,0,0,0,2.38
  24-34,0,0,0,0,0,4.53,0,2.5,0
  36-46,0,1.92,0,0,0,25.76,0,0,2.07

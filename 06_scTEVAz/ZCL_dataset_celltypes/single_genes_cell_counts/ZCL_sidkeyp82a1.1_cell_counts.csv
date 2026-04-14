@@ -1,5 +1,5 @@
-stage,Endothelial.cell,Epithelial.cell,Hepatocyte,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Oligodendrocyte,Radial.glia
+stage,Endothelial_cell,Epithelial_cell,Hepatocyte,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Oligodendrocyte,Radial_glia
 24hpf,0,0,0,0,0,1,0,0
-72hpf,0,0,0,0.281848056003223,0.84554416800967,0.281848056003223,0.281848056003223,0.281848056003223
-21Day,0,0.369986860264282,0,0,0.739973720528564,0.739973720528564,0,0
-22Month,0.136649431988133,0,0.136649431988133,0.136649431988133,0,0,0,0
+72hpf,0,0,0,0.28,0.85,0.28,0.28,0.28
+21Day,0,0.37,0,0,0.74,0.74,0,0
+22Month,0.14,0,0.14,0.14,0,0,0,0

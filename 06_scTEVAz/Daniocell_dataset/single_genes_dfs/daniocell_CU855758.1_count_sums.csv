@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,glial,gut,hatching.gland,lateral.line,mesenchyme,muscle,neural,notochord,paraxial.mesoderm,periderm,somites,spinal.cord
+stage,blastomeres,endoderm,epidermis,eye,glial,gut,hatching_gland,lateral_line,mesenchyme,muscle,neural,notochord,paraxial_mesoderm,periderm,somites,spinal_cord
   3-4,36.21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,47.17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,3.42,0,0,0,68.55,3.59,32.5,0,0,0

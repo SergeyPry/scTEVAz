@@ -1,4 +1,4 @@
-stage,exocrine.pancreas,eye,glial,mesenchyme,neural,pericytes,spinal.cord,vasculature
+stage,exocrine_pancreas,eye,glial,mesenchyme,neural,pericytes,spinal_cord,vasculature
  14-21,0,0,0,0,1,0,0,0
  24-34,0,0,0,0,1.64,0,1.64,0
  36-46,0,0,0,0,8.06,0,2.42,0

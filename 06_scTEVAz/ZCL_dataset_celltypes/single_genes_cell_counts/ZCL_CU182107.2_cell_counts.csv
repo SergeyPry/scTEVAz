@@ -1,3 +1,3 @@
-stage,Epithelial.cell,Erythrocyte,Goblet.cell,Granulocyte,Hepatocyte,Immune.progenitor.cell,Ionocyte,Keratinocyte,Macrophage,Pancreatic.cell,T.cell
-21Day,1.84993430132141,0.739973720528564,0,0,0,0.369986860264282,0.369986860264282,0.369986860264282,0.369986860264282,0.369986860264282,0.739973720528564
-22Month,0.409948295964399,0,0.273298863976266,0.136649431988133,0.409948295964399,0,0,0,0,0,0
+stage,Epithelial_cell,Erythrocyte,Goblet_cell,Granulocyte,Hepatocyte,Immune_progenitor_cell,Ionocyte,Keratinocyte,Macrophage,Pancreatic_cell,T_cell
+21Day,1.85,0.74,0,0,0,0.37,0.37,0.37,0.37,0.37,0.74
+22Month,0.41,0,0.27,0.14,0.41,0,0,0,0,0,0

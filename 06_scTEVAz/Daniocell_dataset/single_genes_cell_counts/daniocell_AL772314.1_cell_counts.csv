@@ -1,4 +1,4 @@
-stage,axial,blastomeres,eye,fin.mesenchyme,glial,gut,ionocyte,iridophores,mesenchyme,mural.cell,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,spinal.cord,vascular.smooth.muscle,xanthophores
+stage,axial,blastomeres,eye,fin_mesenchyme,glial,gut,ionocyte,iridophores,mesenchyme,mural_cell,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,spinal_cord,vascular_smooth_muscle,xanthophores
   5-6,0,12.26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,2.63,0,0,0,0,0,0,0,0,0,0,2.63,0,0,0,2.63,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,3.15,3.15,0,0,0,0,0,0

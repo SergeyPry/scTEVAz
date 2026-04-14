@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,ionocyte,mesenchyme,muscle,neural
+stage,epidermis,eye,fin_epithelia,ionocyte,mesenchyme,muscle,neural
  14-21,1,0,0,0,0,0,0
  48-58,0,0,0.57,0,0,0,0.57
  60-70,0,0,0,0,0.98,0,1.96

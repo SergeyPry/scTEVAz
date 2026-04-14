@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fast.muscle,glial,immune,ionocyte,mesenchyme,neural,olfactory,otic,spinal.cord,vasculature
+stage,epidermis,erythrocytes,eye,fast_muscle,glial,immune,ionocyte,mesenchyme,neural,olfactory,otic,spinal_cord,vasculature
  14-21,0,0,0,0,0,0,0,0,7,0,0,4,0
  24-34,0,0,0.82,0,0,0,0.82,0.82,12.31,0,0.82,3.28,0
  36-46,0,0,4.83,0,0.81,0,0,0,15.31,0,0,4.83,0

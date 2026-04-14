@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,fin.epithelia,glial,heart,iridophores,liver,mesenchyme,muscle,neural,otic,paraxial.mesoderm,periderm,somites,vasculature
+stage,axial,blastomeres,endoderm,epidermis,eye,fin_epithelia,glial,heart,iridophores,liver,mesenchyme,muscle,neural,otic,paraxial_mesoderm,periderm,somites,vasculature
   3-4,13.18,105.42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,18.39,116.46,0,0,0,0,0,0,0,0,0,0,6.13,0,6.13,0,0,0
   7-9,0,0,7.89,0,0,0,0,0,0,0,0,0,5.26,0,65.72,0,0,0

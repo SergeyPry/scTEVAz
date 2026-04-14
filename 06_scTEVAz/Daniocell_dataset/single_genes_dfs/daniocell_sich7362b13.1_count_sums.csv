@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endocrine.pancreas,endoderm,epidermis,eye,glial,gut,mesenchyme,neural,olfactory,otic,periderm,spinal.cord,taste,vascular.smooth.muscle,vasculature,visceral.smooth.muscle
+stage,axial,blastomeres,endocrine_pancreas,endoderm,epidermis,eye,glial,gut,mesenchyme,neural,olfactory,otic,periderm,spinal_cord,taste,vascular_smooth_muscle,vasculature,visceral_smooth_muscle
   7-9,4.39,5.88,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,6.8,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,2.27,0,0,1.5,1.44,0,0,0,0

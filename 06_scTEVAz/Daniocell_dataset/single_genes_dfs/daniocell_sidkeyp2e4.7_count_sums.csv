@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,fast.muscle,glial,gut,ionocyte,liver,mesenchyme,neural,olfactory,otic,paraxial.mesoderm,periderm,presomitic.mesoderm,spinal.cord
+stage,blastomeres,endoderm,epidermis,eye,fast_muscle,glial,gut,ionocyte,liver,mesenchyme,neural,olfactory,otic,paraxial_mesoderm,periderm,presomitic_mesoderm,spinal_cord
   3-4,55.47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,7.01,0,0,0,0,0,0,31.11,0,0,0,0,0,0
  10-12,3.32,5.23,0,6.97,0,0,0,0,0,0,8.2,0,0,15.95,0,0,0

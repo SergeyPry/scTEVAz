@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,epidermis,eye,glial,hatching.gland,muscle,neural,olfactory,periderm,somites
+stage,blastomeres,endocrine_pancreas,epidermis,eye,glial,hatching_gland,muscle,neural,olfactory,periderm,somites
   3-4,0,0,0,0,0,0,0,0,0,14.16,0
   5-6,12.33,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,7.73,0,0,0

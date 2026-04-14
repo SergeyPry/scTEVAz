@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,mesenchyme,neural,paraxial.mesoderm,spinal.cord
+stage,epidermis,eye,glial,mesenchyme,neural,paraxial_mesoderm,spinal_cord
  14-21,0,0,0,0,1,1,0
  24-34,0,0,0,0,0.82,0,1.64
  36-46,0,0.81,0,0.81,0.81,0,0

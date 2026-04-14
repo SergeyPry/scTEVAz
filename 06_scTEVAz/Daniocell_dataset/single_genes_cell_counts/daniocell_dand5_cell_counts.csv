@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,gut,mesenchyme,neural,notochord,olfactory,paraxial.mesoderm,presomitic.mesoderm,somites,spinal.cord
+stage,epidermis,eye,glial,gut,mesenchyme,neural,notochord,olfactory,paraxial_mesoderm,presomitic_mesoderm,somites,spinal_cord
   7-9,0,0,0,0,0,0,0,0,2.63,0,0,0
  10-12,0,0,0,0,0,9.44,0,0,0,0,0,0
  14-21,1,0,0,0,1,3,14,0,18,6,0,3

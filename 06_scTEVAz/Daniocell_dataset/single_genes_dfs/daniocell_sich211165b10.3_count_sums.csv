@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fast.muscle,glial,hatching.gland,heart,immune,iridophores,liver,melanocytes,mesenchyme,muscle,neural,paraxial.mesoderm,periderm,presomitic.mesoderm,slow.muscle,somites,spinal.cord,vasculature,xanthophores
+stage,blastomeres,epidermis,eye,fast_muscle,glial,hatching_gland,heart,immune,iridophores,liver,melanocytes,mesenchyme,muscle,neural,paraxial_mesoderm,periderm,presomitic_mesoderm,slow_muscle,somites,spinal_cord,vasculature,xanthophores
   3-4,52.86,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,28.8,0,0,0,0,0,0,0,0,0,0,0,0,0,8.57,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,8.08,0,0,0,0,0,0,0,3.93,0,0,0,0,0,0,0,0

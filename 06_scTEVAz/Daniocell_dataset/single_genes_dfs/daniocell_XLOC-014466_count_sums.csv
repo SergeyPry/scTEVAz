@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,glial,gut,iridophores,mesenchyme,neural,olfactory,paraxial.mesoderm,periderm,pronephros,spinal.cord,vascular.smooth.muscle
+stage,epidermis,eye,fin_epithelia,glial,gut,iridophores,mesenchyme,neural,olfactory,paraxial_mesoderm,periderm,pronephros,spinal_cord,vascular_smooth_muscle
   5-6,0,0,0,0,0,0,0,0,0,7.98,0,0,0,0
   7-9,0,0,0,0,0,0,0,23.28,0,3.45,0,0,0,0
  10-12,0,4.57,0,0,0,0,0,9.91,0,4.58,0,0,0,0

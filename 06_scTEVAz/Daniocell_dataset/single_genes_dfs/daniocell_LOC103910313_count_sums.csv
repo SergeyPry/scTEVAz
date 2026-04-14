@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,mesenchyme,muscle,neural,pgc,slow.muscle,somites,spinal.cord
+stage,epidermis,eye,glial,mesenchyme,muscle,neural,pgc,slow_muscle,somites,spinal_cord
   7-9,0,0,0,0,0,0,7.7,0,0,0
  10-12,0,0,0,0,0,0,0,0,4.75,0
  14-21,0,0,0,0,1.27,0,0,7.99,4.98,2.16

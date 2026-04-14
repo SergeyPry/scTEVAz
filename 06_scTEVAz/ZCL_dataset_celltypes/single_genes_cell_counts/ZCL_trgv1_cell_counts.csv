@@ -1,2 +1,2 @@
-stage,Immune.progenitor.cell,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell
-21Day,2.58990802184998,0.369986860264282,0.739973720528564,0.369986860264282
+stage,Immune_progenitor_cell,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell
+21Day,2.59,0.37,0.74,0.37

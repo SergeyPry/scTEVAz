@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,glial,gut,heart,ionocyte,mesenchyme,neural,otic,paraxial.mesoderm,periderm,spinal.cord,vasculature
+stage,endocrine_pancreas,epidermis,eye,glial,gut,heart,ionocyte,mesenchyme,neural,otic,paraxial_mesoderm,periderm,spinal_cord,vasculature
   7-9,0,0,0,0,0,0,0,0,0,0,2.63,0,0,0
  14-21,0,0,0,0,0,1,0,0,1,0,0,0,0,1
  24-34,0,0.82,0,0,0,0,0,0,2.46,0,0,0,0,0

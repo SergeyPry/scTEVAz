@@ -1,4 +1,4 @@
-stage,blastomeres,exocrine.pancreas,eye,fin.epithelia,glial,mesenchyme,muscle,neural,otic,periderm,spinal.cord,vasculature
+stage,blastomeres,exocrine_pancreas,eye,fin_epithelia,glial,mesenchyme,muscle,neural,otic,periderm,spinal_cord,vasculature
   3-4,27.51,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.16,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,32.39,0,0,0,0

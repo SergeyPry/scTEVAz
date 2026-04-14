@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,glial,gut,immune,liver,mesenchyme,mural.cell,muscle,neural,notochord,olfactory,spinal.cord,vasculature,xanthophores
+stage,epidermis,erythrocytes,eye,glial,gut,immune,liver,mesenchyme,mural_cell,muscle,neural,notochord,olfactory,spinal_cord,vasculature,xanthophores
   7-9,0,0,0,0,0,0,0,0,0,0,9.57,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,14.96,0,0,0,0
  14-21,0,0,1.19,0.85,0,0,0,0,0,0,9.43,0,0,0.89,0,0

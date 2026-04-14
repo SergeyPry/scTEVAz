@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,eye,hatching.gland,mesenchyme,neural,olfactory,otic,spinal.cord
+stage,endocrine_pancreas,eye,hatching_gland,mesenchyme,neural,olfactory,otic,spinal_cord
  48-58,0,0,0.57,0,0.57,0,0,0
  60-70,0,0,0,0,0.98,0,0,0.98
  72-82,0,0,0,0.98,0,0,0,0

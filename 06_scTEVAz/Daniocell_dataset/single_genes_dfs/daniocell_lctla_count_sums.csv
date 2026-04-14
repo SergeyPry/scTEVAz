@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,fin.mesenchyme,glial,hatching.gland,heart,immune,ionocyte,liver,mesenchyme,neural,otic,paraxial.mesoderm,periderm,presomitic.mesoderm,spinal.cord,vascular.smooth.muscle,vasculature
+stage,axial,blastomeres,endoderm,epidermis,eye,fin_mesenchyme,glial,hatching_gland,heart,immune,ionocyte,liver,mesenchyme,neural,otic,paraxial_mesoderm,periderm,presomitic_mesoderm,spinal_cord,vascular_smooth_muscle,vasculature
   3-4,0,19.12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,14.79,263.43,0,0,0,0,0,0,0,0,0,0,0,0,0,6.91,0,0,0,0,0
   7-9,4.29,8.95,11.06,0,4.18,0,0,36.83,0,0,0,0,0,146.33,0,36,5.76,0,0,0,0

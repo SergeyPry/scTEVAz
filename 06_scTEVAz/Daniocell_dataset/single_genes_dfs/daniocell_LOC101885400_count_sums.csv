@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,glial,hatching.gland,mesenchyme,muscle,neural,olfactory,paraxial.mesoderm,periderm,spinal.cord,vasculature
+stage,blastomeres,epidermis,erythrocytes,eye,glial,hatching_gland,mesenchyme,muscle,neural,olfactory,paraxial_mesoderm,periderm,spinal_cord,vasculature
   3-4,10.8,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,30.83,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,5.77,0,0,31.92,0,10.26,0,0,0

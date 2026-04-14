@@ -1,4 +1,4 @@
-stage,erythrocytes,eye,glial,liver,mesenchyme,mural.cell,neural,notochord,olfactory,pronephros,spinal.cord,vasculature
+stage,erythrocytes,eye,glial,liver,mesenchyme,mural_cell,neural,notochord,olfactory,pronephros,spinal_cord,vasculature
   7-9,0,0,0,0,0,0,3.83,0,0,0,0,0
  10-12,0,0,0,0,0,0,6.01,13.83,0,0,0,0
  14-21,0.8,0,0,0,0,0,3.36,0,0,0,0.81,0

@@ -1,4 +1,4 @@
-stage,eye,glial,mesenchyme,neural,olfactory,paraxial.mesoderm,somites,spinal.cord,xanthophores
+stage,eye,glial,mesenchyme,neural,olfactory,paraxial_mesoderm,somites,spinal_cord,xanthophores
  10-12,0,0,0,0,0,12.03,0,0,0
  24-34,0,0,0,1.27,1.06,0,1.12,0,0
  36-46,0,0,0,1.98,0,0,0,0.63,0

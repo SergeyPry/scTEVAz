@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,erythrocytes,glial,mesenchyme,muscle,neural,notochord,olfactory,spinal.cord
+stage,blastomeres,endoderm,erythrocytes,glial,mesenchyme,muscle,neural,notochord,olfactory,spinal_cord
   3-4,25.49,0,0,0,0,0,0,0,0,0
   7-9,0,3.42,0,0,0,0,13.46,0,0,0
  10-12,0,0,0,0,0,0,16.33,0,0,0

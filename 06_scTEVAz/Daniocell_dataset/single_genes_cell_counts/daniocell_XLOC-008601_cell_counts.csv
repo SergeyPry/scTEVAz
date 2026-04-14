@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,fin.mesenchyme,glial,gut,immune,lateral.line,mesenchyme,muscle,neural,otic,paraxial.mesoderm,pericytes,periderm,slow.muscle,somites,spinal.cord,visceral.smooth.muscle
+stage,epidermis,eye,fast_muscle,fin_mesenchyme,glial,gut,immune,lateral_line,mesenchyme,muscle,neural,otic,paraxial_mesoderm,pericytes,periderm,slow_muscle,somites,spinal_cord,visceral_smooth_muscle
   7-9,0,0,0,0,0,0,0,0,0,0,2.63,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,1,0,0,0,1,4,0,1,0,0,0,2,2,0
  24-34,0.82,1.64,0,0,0,0,0,0,0,1.64,5.75,0.82,0,0,0,0,0,1.64,0

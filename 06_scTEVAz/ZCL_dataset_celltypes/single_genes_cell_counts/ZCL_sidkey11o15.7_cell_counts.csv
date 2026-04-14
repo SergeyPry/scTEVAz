@@ -1,3 +1,3 @@
-stage,Epithelial.cell,Goblet.cell,Hepatocyte,Ionocyte
-21Day,0.369986860264282,0,0,0
-3Month,0,0.104017006644673,0.104017006644673,0.104017006644673
+stage,Epithelial_cell,Goblet_cell,Hepatocyte,Ionocyte
+21Day,0.37,0,0,0
+3Month,0,0.1,0.1,0.1

@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,eye,gut,liver,melanocytes,mesenchyme,neural,periderm,pronephros,spinal.cord,xanthophores
+stage,endocrine_pancreas,eye,gut,liver,melanocytes,mesenchyme,neural,periderm,pronephros,spinal_cord,xanthophores
   3-4,0,0,0,0,0,0,0,13.18,0,0,0
  14-21,0,0,0,0,0,0,2,0,0,1,1
  24-34,0,0,0.82,0,0.82,0.82,4.93,0,0,0,0.82

@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,mesenchyme,muscle,neural,presomitic.mesoderm,slow.muscle,somites,spinal.cord,vasculature
+stage,epidermis,eye,fast_muscle,mesenchyme,muscle,neural,presomitic_mesoderm,slow_muscle,somites,spinal_cord,vasculature
  14-21,0,0,0,0,2,0,4,6,16,0,0
  24-34,0,0,0,0,1.64,0,0,0,0,0,0.82
  36-46,0,0,1.61,0.81,0,1.61,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Hatching.gland,Keratinocyte,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Osteoblast,Radial.glia
-24hpf,4.08640457285017,4.08640457285017,4.08640457285017,4.08640457285017,0,24.518427437101,0,0
-72hpf,0,0,0,0,13.907284839059,0,2.13958228293216,0
-21Day,0,0,0,5.35413235281323,5.35413235281323,0,0,1.33853308820331
+stage,Epithelial_cell,Hatching_gland,Keratinocyte,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Osteoblast,Radial_glia
+24hpf,4.09,4.09,4.09,4.09,0,24.52,0,0
+72hpf,0,0,0,0,13.91,0,2.14,0
+21Day,0,0,0,5.35,5.35,0,0,1.34

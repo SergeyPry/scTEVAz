@@ -1,4 +1,4 @@
-stage,Hepatocyte,Intestinal.bulb.cell,Macrophage,Neural.cell,Neural.progenitor.cell,Primordial.germ.cell,Smooth.muscle.cell,Spermatocyte
-24hpf,0,0,0,0,4.08640457285017,0,0,0
-72hpf,0,0,0,1.06979114146608,0,0,0,0
-3Month,0.319949299554195,0.639898599108391,0.639898599108391,0,0,20.7967044710227,0.959847898662586,23.9961974665647
+stage,Hepatocyte,Intestinal_bulb_cell,Macrophage,Neural_cell,Neural_progenitor_cell,Primordial_germ_cell,Smooth_muscle_cell,Spermatocyte
+24hpf,0,0,0,0,4.09,0,0,0
+72hpf,0,0,0,1.07,0,0,0,0
+3Month,0.32,0.64,0.64,0,0,20.8,0.96,24

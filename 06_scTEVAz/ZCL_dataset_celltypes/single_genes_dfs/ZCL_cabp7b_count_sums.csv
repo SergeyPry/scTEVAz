@@ -1,3 +1,3 @@
-stage,Epithelial.cell,Keratinocyte,Neural.cell,Neurosecretory.cell,Oligodendrocyte
-72hpf,0,1.06979114146608,23.5354051122537,1.06979114146608,0
-21Day,1.33853308820331,0,9.36973161742315,0,1.33853308820331
+stage,Epithelial_cell,Keratinocyte,Neural_cell,Neurosecretory_cell,Oligodendrocyte
+72hpf,0,1.07,23.54,1.07,0
+21Day,1.34,0,9.37,0,1.34

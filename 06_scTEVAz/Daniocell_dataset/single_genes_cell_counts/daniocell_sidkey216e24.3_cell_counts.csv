@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endocrine.pancreas,endoderm,epidermis,eye,hatching.gland,mesenchyme,muscle,neural,notochord,paraxial.mesoderm,periderm,pgc,presomitic.mesoderm,slow.muscle,somites,spinal.cord
+stage,axial,blastomeres,endocrine_pancreas,endoderm,epidermis,eye,hatching_gland,mesenchyme,muscle,neural,notochord,paraxial_mesoderm,periderm,pgc,presomitic_mesoderm,slow_muscle,somites,spinal_cord
   3-4,52.71,316.27,0,0,0,0,0,0,0,0,0,0,13.18,0,0,0,0,0
   5-6,6.13,196.15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,7.89,0,5.26,0,2.63,2.63,0,0,55.2,0,21.03,0,2.63,0,0,0,0

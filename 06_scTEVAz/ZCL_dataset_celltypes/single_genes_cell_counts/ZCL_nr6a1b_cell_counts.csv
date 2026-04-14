@@ -1,5 +1,5 @@
-stage,Enterocyte,Epithelial.cell,Keratinocyte,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Osteoblast,Radial.glia,Retinal.cone.cell
+stage,Enterocyte,Epithelial_cell,Keratinocyte,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Osteoblast,Radial_glia,Retinal_cone_cell
 24hpf,0,0,0,1,0,2,0,0,0
-72hpf,0,0,0,0,1.12739222401289,0.281848056003223,0.563696112006446,0,0.281848056003223
-21Day,0,0.369986860264282,0,0.369986860264282,0,0,0.369986860264282,0.369986860264282,0
-3Month,0.104017006644673,0.104017006644673,0.104017006644673,0,0,0,0,0,0
+72hpf,0,0,0,0,1.13,0.28,0.56,0,0.28
+21Day,0,0.37,0,0.37,0,0,0.37,0.37,0
+3Month,0.1,0.1,0.1,0,0,0,0,0,0

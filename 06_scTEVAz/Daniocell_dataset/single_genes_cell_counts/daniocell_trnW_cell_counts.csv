@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,gut,hatching.gland,iridophores,mesenchyme,neural,notochord,otic,paraxial.mesoderm,periderm,presomitic.mesoderm,pronephros
+stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,gut,hatching_gland,iridophores,mesenchyme,neural,notochord,otic,paraxial_mesoderm,periderm,presomitic_mesoderm,pronephros
   3-4,65.89,513.94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,30.65,649.74,0,0,0,0,0,0,0,0,18.39,0,0,6.13,18.39,0,0
   7-9,7.89,18.4,39.43,0,0,31.54,0,21.03,0,0,323.33,18.4,0,107.78,0,0,0

@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,exocrine.pancreas,eye,fast.muscle,glial,gut,hatching.gland,immune,lateral.line,liver,mesenchyme,mucous,muscle,neural,pericytes,periderm,presomitic.mesoderm,pronephros,somites,spinal.cord,taste,vascular.smooth.muscle,vasculature
+stage,blastomeres,endoderm,epidermis,exocrine_pancreas,eye,fast_muscle,glial,gut,hatching_gland,immune,lateral_line,liver,mesenchyme,mucous,muscle,neural,pericytes,periderm,presomitic_mesoderm,pronephros,somites,spinal_cord,taste,vascular_smooth_muscle,vasculature
   3-4,21.89,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,12.17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,5.71,0,0,0,0,0,0,5.65,0,0,0,0,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,exocrine.pancreas,eye,glial,gut,immune,ionocyte,mesenchyme,mucous,muscle,neural,otic,periderm,presomitic.mesoderm,pronephros,somites,spinal.cord,vascular.smooth.muscle,vasculature
+stage,epidermis,erythrocytes,exocrine_pancreas,eye,glial,gut,immune,ionocyte,mesenchyme,mucous,muscle,neural,otic,periderm,presomitic_mesoderm,pronephros,somites,spinal_cord,vascular_smooth_muscle,vasculature
   7-9,0,0,0,2.63,0,0,0,0,0,0,0,7.89,0,0,0,0,0,0,0,0
  10-12,0,0,0,3.15,0,0,0,0,0,0,0,6.29,0,0,0,0,0,0,0,0
  14-21,0,1,0,0,0,0,0,0,0,0,1,1,0,0,3,0,0,0,0,0

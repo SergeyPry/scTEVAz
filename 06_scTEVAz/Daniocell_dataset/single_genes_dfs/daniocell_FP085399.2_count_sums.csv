@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,immune,melanocytes,mesenchyme,mural.cell,neural,paraxial.mesoderm,spinal.cord,xanthophores
+stage,epidermis,eye,glial,immune,melanocytes,mesenchyme,mural_cell,neural,paraxial_mesoderm,spinal_cord,xanthophores
   7-9,0,0,0,0,0,0,0,0,7.62,0,0
  14-21,0,0.84,0,0,0,0.84,0,1.56,0,6.45,0
  24-34,0,3.58,0,0,5.37,1.67,0,0.67,0,0.96,0

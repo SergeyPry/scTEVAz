@@ -1,4 +1,4 @@
-stage,epidermis,fin.epithelia,ionocyte,liver,neural,periderm,somites,spinal.cord
+stage,epidermis,fin_epithelia,ionocyte,liver,neural,periderm,somites,spinal_cord
  14-21,0,0,0,0,0,0,3.51,0
  60-70,0,0,0,0,0,0.62,0,0
  72-82,0,0,0,0,0.88,0.53,0,0.81

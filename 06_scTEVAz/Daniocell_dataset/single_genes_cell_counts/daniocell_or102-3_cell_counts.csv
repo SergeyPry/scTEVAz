@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,glial,mesenchyme,muscle,neural,olfactory,otic,spinal.cord,vasculature
+stage,epidermis,eye,fast_muscle,glial,mesenchyme,muscle,neural,olfactory,otic,spinal_cord,vasculature
  14-21,0,0,0,0,0,0,0,0,0,1,0
  24-34,0,0,0,0,0,0,1.64,0,0,0,0
  36-46,0,0,0,0,0,0,0,0,0,0.81,0

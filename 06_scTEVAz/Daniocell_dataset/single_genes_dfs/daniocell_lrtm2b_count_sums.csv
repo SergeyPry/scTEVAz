@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,mesenchyme,mucous,mural.cell,neural,periderm,spinal.cord
+stage,epidermis,eye,glial,mesenchyme,mucous,mural_cell,neural,periderm,spinal_cord
  14-21,0,0,0,0,0,0,1.94,0,3.52
  24-34,0,0,0,0,0,0,2.16,0,11.41
  36-46,0,0,0,0,0,0,2.68,0,0

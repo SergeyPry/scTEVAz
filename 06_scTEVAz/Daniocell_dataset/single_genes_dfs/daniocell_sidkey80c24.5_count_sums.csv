@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,heart,immune,ionocyte,mesenchyme,mural.cell,neural,vasculature
+stage,epidermis,erythrocytes,eye,heart,immune,ionocyte,mesenchyme,mural_cell,neural,vasculature
  14-21,1.27,0.89,0,0,0,0.95,0.82,0,0.8,1.05
  24-34,0,0,0.65,0,0,0,0,0,0,11.75
  36-46,0,0,0,0,0,0,0,0,0.55,3.12

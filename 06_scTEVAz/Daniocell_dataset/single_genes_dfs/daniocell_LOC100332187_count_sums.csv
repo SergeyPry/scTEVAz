@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,erythrocytes,eye,glial,gut,heart,immune,ionocyte,iridophores,liver,mesenchyme,muscle,neural,otic,paraxial.mesoderm,periderm,presomitic.mesoderm,pronephros,spinal.cord,vascular.smooth.muscle,vasculature
+stage,axial,blastomeres,epidermis,erythrocytes,eye,glial,gut,heart,immune,ionocyte,iridophores,liver,mesenchyme,muscle,neural,otic,paraxial_mesoderm,periderm,presomitic_mesoderm,pronephros,spinal_cord,vascular_smooth_muscle,vasculature
   5-6,0,20.71,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.14,0,0,0,0,0,0
  14-21,0,0,1.12,0.98,0,0,0,0,0,0,0,0,0,2.47,6.95,0,0,0,0.86,1.13,0,0,13.72

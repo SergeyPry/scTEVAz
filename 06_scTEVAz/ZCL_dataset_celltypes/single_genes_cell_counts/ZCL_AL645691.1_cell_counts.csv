@@ -1,3 +1,3 @@
-stage,Cardiomyocyte,Erythrocyte,Keratinocyte,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell
+stage,Cardiomyocyte,Erythrocyte,Keratinocyte,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell
 24hpf,1,0,0,3,1,5
-72hpf,0,0.281848056003223,0.281848056003223,0,0,0.281848056003223
+72hpf,0,0.28,0.28,0,0,0.28

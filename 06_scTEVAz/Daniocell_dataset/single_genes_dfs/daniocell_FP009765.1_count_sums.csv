@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,eye,glial,immune,mesenchyme,mural.cell,muscle,neural,periderm,slow.muscle
+stage,axial,blastomeres,epidermis,eye,glial,immune,mesenchyme,mural_cell,muscle,neural,periderm,slow_muscle
   3-4,0,112.82,0,0,0,0,0,0,0,0,0,0
   5-6,6.49,74.07,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,5.21,1.25,0,0,0.85,0,0,0,0,0

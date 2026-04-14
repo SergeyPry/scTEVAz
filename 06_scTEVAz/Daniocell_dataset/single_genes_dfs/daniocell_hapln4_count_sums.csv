@@ -1,4 +1,4 @@
-stage,axial,blastomeres,eye,glial,hatching.gland,ionocyte,iridophores,mesenchyme,muscle,neural,otic,paraxial.mesoderm,periderm,pgc,presomitic.mesoderm,spinal.cord,vasculature
+stage,axial,blastomeres,eye,glial,hatching_gland,ionocyte,iridophores,mesenchyme,muscle,neural,otic,paraxial_mesoderm,periderm,pgc,presomitic_mesoderm,spinal_cord,vasculature
   3-4,338.14,8467.11,0,0,0,0,0,0,0,0,0,0,372.68,0,0,0,0
   5-6,129.32,2687.57,0,0,17.2,0,0,0,0,158.79,0,9.5,15.48,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,54.1,0,14.46,0,5.18,0,0,0

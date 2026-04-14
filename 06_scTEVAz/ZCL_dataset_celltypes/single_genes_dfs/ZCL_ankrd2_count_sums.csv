@@ -1,3 +1,3 @@
-stage,Cardiomyocyte,Immune.cell,Immune.progenitor.cell
-72hpf,1.06979114146608,0,0
-22Month,0,0.546654651197433,0.546654651197433
+stage,Cardiomyocyte,Immune_cell,Immune_progenitor_cell
+72hpf,1.07,0,0
+22Month,0,0.55,0.55

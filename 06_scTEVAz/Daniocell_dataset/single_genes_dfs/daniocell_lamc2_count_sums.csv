@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,endoderm,epidermis,eye,fin.epithelia,glial,gut,hatching.gland,immune,ionocyte,mesenchyme,mucous,neural,notochord,olfactory,otic,periderm,spinal.cord,taste,vasculature
+stage,blastomeres,endocrine_pancreas,endoderm,epidermis,eye,fin_epithelia,glial,gut,hatching_gland,immune,ionocyte,mesenchyme,mucous,neural,notochord,olfactory,otic,periderm,spinal_cord,taste,vasculature
   3-4,16.51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,11.2,0,0,0,0,0,0,0,0,0,0,0,0
  10-12,10.85,0,3.45,0,0,0,0,0,7.19,0,0,0,0,52.68,0,0,0,0,0,0,0

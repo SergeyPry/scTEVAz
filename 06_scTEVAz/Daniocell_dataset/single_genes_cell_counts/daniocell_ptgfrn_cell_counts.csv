@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,glial,gut,liver,mesenchyme,muscle,neural,paraxial.mesoderm,periderm,spinal.cord,xanthophores
+stage,epidermis,eye,fin_epithelia,glial,gut,liver,mesenchyme,muscle,neural,paraxial_mesoderm,periderm,spinal_cord,xanthophores
  14-21,0,0,0,0,0,1,0,0,3,1,0,1,0
  24-34,0.82,0.82,0,0,0.82,0,0,0.82,12.31,0,0.82,4.93,0.82
  36-46,0.81,0.81,0,0.81,0,0,0.81,1.61,5.64,0,0.81,0,0

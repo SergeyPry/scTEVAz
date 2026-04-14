@@ -1,4 +1,4 @@
-stage,Erythrocyte,Primordial.germ.cell,Spermatocyte
-21Day,0.369986860264282,0.739973720528564,0
-3Month,0,1.87230611960411,0.624102039868036
-22Month,0,0.409948295964399,0
+stage,Erythrocyte,Primordial_germ_cell,Spermatocyte
+21Day,0.37,0.74,0
+3Month,0,1.87,0.62
+22Month,0,0.41,0

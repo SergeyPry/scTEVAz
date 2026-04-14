@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,fin.epithelia,glial,gut,mesenchyme,muscle,neural,olfactory,periderm,somites
+stage,axial,blastomeres,epidermis,fin_epithelia,glial,gut,mesenchyme,muscle,neural,olfactory,periderm,somites
   3-4,11.62,35.94,0,0,0,0,0,0,0,0,0,0
   5-6,6.88,0,0,0,0,0,0,0,0,0,10.99,0
  14-21,0,0,1.19,0,0,0,0,0,0,0,3.08,1.67

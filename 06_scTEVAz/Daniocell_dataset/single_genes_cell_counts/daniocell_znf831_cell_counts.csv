@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,erythrocytes,eye,glial,gut,immune,iridophores,liver,mesenchyme,muscle,neural,otic,paraxial.mesoderm,presomitic.mesoderm,spinal.cord,vasculature
+stage,axial,blastomeres,epidermis,erythrocytes,eye,glial,gut,immune,iridophores,liver,mesenchyme,muscle,neural,otic,paraxial_mesoderm,presomitic_mesoderm,spinal_cord,vasculature
   3-4,0,26.36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.13,18.39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,2.63,0,2.63,0,0,0

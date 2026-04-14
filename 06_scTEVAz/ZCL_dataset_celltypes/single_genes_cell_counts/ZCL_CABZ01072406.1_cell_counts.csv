@@ -1,5 +1,5 @@
-stage,Cardiomyocyte,Epithelial.cell,Granulocyte,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Mesenchymal.cell,Mesenchymal.cell..caudal.fin.,Muscle.cell,Neural.cell,Neural.progenitor.cell,Pancreatic.cell,Radial.glia,Retinal.pigment.epithelial.cell
-72hpf,0,0,0,0,0,0,0,0,0,1.40924028001612,0,0,0,0
-21Day,0,0,0,0,0,0,0,0,0,0.739973720528564,0.739973720528564,0,0.369986860264282,0.369986860264282
-3Month,0,0.208034013289345,0,0.728119046512708,0.208034013289345,0.104017006644673,0,0.104017006644673,0.104017006644673,0,0,0.104017006644673,0,0
-22Month,0.136649431988133,0.409948295964399,0.136649431988133,0.956546023916932,0,0,0.136649431988133,0,0,0,0,0,0,0
+stage,Cardiomyocyte,Epithelial_cell,Granulocyte,Hepatocyte,Immune_cell,Intestinal_bulb_cell,Mesenchymal_cell,Mesenchymal_cell__caudal_fin_,Muscle_cell,Neural_cell,Neural_progenitor_cell,Pancreatic_cell,Radial_glia,Retinal_pigment_epithelial_cell
+72hpf,0,0,0,0,0,0,0,0,0,1.41,0,0,0,0
+21Day,0,0,0,0,0,0,0,0,0,0.74,0.74,0,0.37,0.37
+3Month,0,0.21,0,0.73,0.21,0.1,0,0.1,0.1,0,0,0.1,0,0
+22Month,0.14,0.41,0.14,0.96,0,0,0.14,0,0,0,0,0,0,0

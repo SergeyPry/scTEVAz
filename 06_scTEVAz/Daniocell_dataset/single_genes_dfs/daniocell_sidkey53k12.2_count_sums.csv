@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,exocrine.pancreas,eye,glial,immune,mesenchyme,muscle,neural,notochord,periderm,spinal.cord,vasculature,xanthophores
+stage,epidermis,erythrocytes,exocrine_pancreas,eye,glial,immune,mesenchyme,muscle,neural,notochord,periderm,spinal_cord,vasculature,xanthophores
  14-21,0,0,0,0,0,0.95,0,0,0,0,2.34,0,0,0
  24-34,0,0,0,0,0,26.33,0,0,0,0,0,0,0,0
  36-46,0,0,0,0,0,56.51,0,1.16,1.38,0,0,0,0,0

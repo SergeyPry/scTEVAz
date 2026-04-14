@@ -1,5 +1,5 @@
-stage,Cardiomyocyte,Epithelial.cell,Hepatocyte,Mesenchymal.cell,Muscle.cell,Neural.cell,Neural.progenitor.cell,Neurosecretory.cell,Osteoblast,Retinal.cell,Retinal.cone.cell
-24hpf,0,4.08640457285017,0,4.08640457285017,0,0,12.2592137185505,0,4.08640457285017,0,0
-72hpf,0,0,0,0,0,18.1864494049233,1.06979114146608,0,6.41874684879647,0,0
-21Day,1.33853308820331,1.33853308820331,0,6.69266544101654,2.67706617640661,12.0467977938298,1.33853308820331,1.33853308820331,1.33853308820331,1.33853308820331,1.33853308820331
-22Month,0,0,0.546654651197433,0.546654651197433,0,0,0,0,0,0,0
+stage,Cardiomyocyte,Epithelial_cell,Hepatocyte,Mesenchymal_cell,Muscle_cell,Neural_cell,Neural_progenitor_cell,Neurosecretory_cell,Osteoblast,Retinal_cell,Retinal_cone_cell
+24hpf,0,4.09,0,4.09,0,0,12.26,0,4.09,0,0
+72hpf,0,0,0,0,0,18.19,1.07,0,6.42,0,0
+21Day,1.34,1.34,0,6.69,2.68,12.05,1.34,1.34,1.34,1.34,1.34
+22Month,0,0,0.55,0.55,0,0,0,0,0,0,0

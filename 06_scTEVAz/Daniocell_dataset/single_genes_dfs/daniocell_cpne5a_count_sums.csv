@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.mesenchyme,glial,gut,mesenchyme,neural,otic,spinal.cord,vasculature,xanthophores
+stage,epidermis,erythrocytes,eye,fin_mesenchyme,glial,gut,mesenchyme,neural,otic,spinal_cord,vasculature,xanthophores
  24-34,0,0,0,0,0,0,0,13.83,0,10,0.76,0
  36-46,0,0,0.88,0,0,0,0,27.84,0,13.98,1.92,0
  48-58,0,0,6.77,0,0,0,0,30.83,0,1.98,0,5.04

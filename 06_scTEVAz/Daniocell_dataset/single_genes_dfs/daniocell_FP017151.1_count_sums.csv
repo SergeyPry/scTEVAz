@@ -1,4 +1,4 @@
-stage,eye,glial,mesenchyme,mural.cell,neural,otic,periderm,pronephros,spinal.cord,vasculature
+stage,eye,glial,mesenchyme,mural_cell,neural,otic,periderm,pronephros,spinal_cord,vasculature
  14-21,0,0,0,0,1.87,0,0,1.76,0,0
  24-34,0,0,0.94,0,12.32,0,0,0,0,0.73
  36-46,0,0,0,0,3.7,0,0,0,0.84,0.86

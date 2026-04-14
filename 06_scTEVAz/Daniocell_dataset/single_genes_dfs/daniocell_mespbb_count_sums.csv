@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,eye,mesenchyme,neural,notochord,paraxial.mesoderm,presomitic.mesoderm,pronephros,slow.muscle,somites
+stage,axial,blastomeres,endoderm,eye,mesenchyme,neural,notochord,paraxial_mesoderm,presomitic_mesoderm,pronephros,slow_muscle,somites
   3-4,10.32,356.95,0,0,0,0,0,0,0,0,0,0
   5-6,15.51,198.96,0,0,0,89.07,0,0,0,0,0,0
   7-9,6.46,13.19,22.95,0,0,103.83,0,400.58,0,0,0,0

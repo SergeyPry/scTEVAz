@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,glial,hatching.gland,iridophores,liver,mesenchyme,mural.cell,muscle,neural,notochord,olfactory,paraxial.mesoderm,periderm,presomitic.mesoderm,spinal.cord
+stage,axial,blastomeres,endoderm,epidermis,eye,glial,hatching_gland,iridophores,liver,mesenchyme,mural_cell,muscle,neural,notochord,olfactory,paraxial_mesoderm,periderm,presomitic_mesoderm,spinal_cord
   3-4,0,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.13,30.65,0,0,0,0,6.13,0,0,0,0,0,24.52,0,0,0,0,0,0
   7-9,5.26,0,5.26,0,0,0,0,0,0,0,0,0,13.14,5.26,0,26.29,0,0,0

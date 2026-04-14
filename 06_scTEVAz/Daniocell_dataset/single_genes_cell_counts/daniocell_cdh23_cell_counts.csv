@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,exocrine.pancreas,eye,fast.muscle,glial,gut,immune,lateral.line,liver,mesenchyme,mucous,muscle,neural,otic,pericytes,periderm,pronephros,spinal.cord
+stage,endoderm,epidermis,exocrine_pancreas,eye,fast_muscle,glial,gut,immune,lateral_line,liver,mesenchyme,mucous,muscle,neural,otic,pericytes,periderm,pronephros,spinal_cord
  14-21,1,1,0,0,0,0,0,0,0,0,1,0,0,5,0,0,0,1,0
  24-34,0,0,0,0,0,0,0,0,0,0,0.82,0,0,9.03,0.82,0,0,0,2.46
  36-46,0,0,0,0,0.81,0,0,0.81,0,0,1.61,0,0.81,8.06,0,0,0,0,2.42

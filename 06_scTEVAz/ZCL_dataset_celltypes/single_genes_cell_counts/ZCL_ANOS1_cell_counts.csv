@@ -1,6 +1,6 @@
-stage,Epithelial.cell,Epithelial.cell..Brain.,Goblet.cell,Granulocyte,Hepatocyte,Intestinal.bulb.cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal.cell,Neural.progenitor.cell,Osteoblast,Primordial.germ.cell,Spermatocyte
+stage,Epithelial_cell,Epithelial_cell__Brain_,Goblet_cell,Granulocyte,Hepatocyte,Intestinal_bulb_cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal_cell,Neural_progenitor_cell,Osteoblast,Primordial_germ_cell,Spermatocyte
 24hpf,1,0,0,0,0,0,0,0,0,0,4,0,0,0
-72hpf,0,0,0,0,0,0,0.281848056003223,0,0,0.281848056003223,0.281848056003223,0.281848056003223,0,0
-21Day,1.47994744105713,0,0,0,0,0,0,0,0,0.739973720528564,0,0.369986860264282,0,0
-3Month,0.312051019934018,0.104017006644673,0.104017006644673,0.104017006644673,0.104017006644673,0,0,0.104017006644673,0,0.624102039868036,0,0,0.312051019934018,0.312051019934018
-22Month,0,0,0,0,1.09319545590506,0.136649431988133,0,0,0.136649431988133,0.409948295964399,0,0,0.136649431988133,0
+72hpf,0,0,0,0,0,0,0.28,0,0,0.28,0.28,0.28,0,0
+21Day,1.48,0,0,0,0,0,0,0,0,0.74,0,0.37,0,0
+3Month,0.31,0.1,0.1,0.1,0.1,0,0,0.1,0,0.62,0,0,0.31,0.31
+22Month,0,0,0,0,1.09,0.14,0,0,0.14,0.41,0,0,0.14,0

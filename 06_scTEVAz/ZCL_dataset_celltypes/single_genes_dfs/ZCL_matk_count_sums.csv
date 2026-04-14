@@ -1,6 +1,6 @@
-stage,Enterocyte,Epithelial.cell,Erythrocyte..Liver.,Erythroid.progenitor.cell,Goblet.cell,Granulocyte,Hepatocyte,Immune.cell,Keratinocyte,Macrophage,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Neurosecretory.cell,Osteoblast,Primordial.germ.cell,Spermatocyte,T.cell
-24hpf,0,0,0,0,0,0,0,0,0,36.7776411556516,0,0,12.2592137185505,0,0,0,0,0
-72hpf,0,0,0,0,0,0,0,0,0,3.20937342439823,0,0,0,0,0,0,0,0
-21Day,1.33853308820331,0,0,0,0,0,0,0,0,6.69266544101654,1.33853308820331,1.33853308820331,0,0,1.33853308820331,0,0,0
-3Month,0,0.319949299554195,0,0.319949299554195,0.319949299554195,7.35883388974649,0.959847898662586,4.79923949331293,0.319949299554195,11.8381240835052,0.319949299554195,0,0,0.319949299554195,0,0.639898599108391,0.319949299554195,1.59974649777098
-22Month,0,0.546654651197433,0.546654651197433,0,0,15.3063302335281,5.46654651197433,2.18661860478973,0,10.9330930239487,1.09330930239487,0,0,0,0,0,0.546654651197433,1.6399639535923
+stage,Enterocyte,Epithelial_cell,Erythrocyte__Liver_,Erythroid_progenitor_cell,Goblet_cell,Granulocyte,Hepatocyte,Immune_cell,Keratinocyte,Macrophage,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Neurosecretory_cell,Osteoblast,Primordial_germ_cell,Spermatocyte,T_cell
+24hpf,0,0,0,0,0,0,0,0,0,36.78,0,0,12.26,0,0,0,0,0
+72hpf,0,0,0,0,0,0,0,0,0,3.21,0,0,0,0,0,0,0,0
+21Day,1.34,0,0,0,0,0,0,0,0,6.69,1.34,1.34,0,0,1.34,0,0,0
+3Month,0,0.32,0,0.32,0.32,7.36,0.96,4.8,0.32,11.84,0.32,0,0,0.32,0,0.64,0.32,1.6
+22Month,0,0.55,0.55,0,0,15.31,5.47,2.19,0,10.93,1.09,0,0,0,0,0,0.55,1.64

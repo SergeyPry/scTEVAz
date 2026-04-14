@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Hepatocyte,Immune.progenitor.cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal.cell,Muscle.cell,Osteoblast,T.cell
-72hpf,0,0,0,0,0,0,0.281848056003223,0,0,0
-21Day,0.739973720528564,0,0.369986860264282,0.369986860264282,18.4993430132141,0.369986860264282,0.369986860264282,0.369986860264282,0.369986860264282,0
-3Month,0,0.104017006644673,0,0,0,0,0.208034013289345,0,0,0.104017006644673
+stage,Epithelial_cell,Hepatocyte,Immune_progenitor_cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal_cell,Muscle_cell,Osteoblast,T_cell
+72hpf,0,0,0,0,0,0,0.28,0,0,0
+21Day,0.74,0,0.37,0.37,18.5,0.37,0.37,0.37,0.37,0
+3Month,0,0.1,0,0,0,0,0.21,0,0,0.1

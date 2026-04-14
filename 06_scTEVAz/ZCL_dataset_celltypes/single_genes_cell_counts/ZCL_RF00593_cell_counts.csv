@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Intestinal.bulb.cell,Mesenchymal.cell,Neural.progenitor.cell,Retinal.cell
+stage,Cardiomyocyte,Intestinal_bulb_cell,Mesenchymal_cell,Neural_progenitor_cell,Retinal_cell
 24hpf,0,0,1,1,0
-21Day,0.369986860264282,0,0,0.739973720528564,0
-22Month,0,0.136649431988133,0,0,0.136649431988133
+21Day,0.37,0,0,0.74,0
+22Month,0,0.14,0,0,0.14

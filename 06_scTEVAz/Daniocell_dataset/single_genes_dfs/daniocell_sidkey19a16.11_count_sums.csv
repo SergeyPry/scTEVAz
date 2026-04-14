@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,glial,gut,immune,mesenchyme,neural,notochord,paraxial.mesoderm,spinal.cord,vasculature
+stage,axial,blastomeres,endoderm,glial,gut,immune,mesenchyme,neural,notochord,paraxial_mesoderm,spinal_cord,vasculature
   3-4,0,59.02,0,0,0,0,0,0,0,0,0,0
   5-6,18.33,43.74,0,0,0,0,0,0,0,0,0,0
   7-9,9.83,0,3.54,0,0,0,0,4.34,4.27,7.03,0,0

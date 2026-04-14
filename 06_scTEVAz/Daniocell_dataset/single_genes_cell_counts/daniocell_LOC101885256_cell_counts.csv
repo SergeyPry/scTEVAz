@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.epithelia,glial,gut,heart,immune,iridophores,mesenchyme,muscle,neural,notochord,olfactory,pericytes,periderm,slow.muscle,spinal.cord,visceral.smooth.muscle
+stage,epidermis,erythrocytes,eye,fin_epithelia,glial,gut,heart,immune,iridophores,mesenchyme,muscle,neural,notochord,olfactory,pericytes,periderm,slow_muscle,spinal_cord,visceral_smooth_muscle
  14-21,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
  24-34,0,0,3.28,0,2.46,0,0,0,0,0,0,128.05,0,0,0,0,0,12.31,0
  36-46,0,0,74.93,0,60.43,0,0,0,0,0.81,0,758.13,0.81,0,0,0,0,130.52,0

@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,fin.epithelia,fin.mesenchyme,glial,gut,hatching.gland,liver,mesenchyme,mural.cell,neural,olfactory,presomitic.mesoderm,pronephros,spinal.cord,vascular.smooth.muscle
+stage,blastomeres,epidermis,erythrocytes,eye,fin_epithelia,fin_mesenchyme,glial,gut,hatching_gland,liver,mesenchyme,mural_cell,neural,olfactory,presomitic_mesoderm,pronephros,spinal_cord,vascular_smooth_muscle
   3-4,67.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,24.38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,11.52,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,glial,immune,mesenchyme,muscle,neural,otic,pronephros,spinal.cord
+stage,epidermis,erythrocytes,eye,glial,immune,mesenchyme,muscle,neural,otic,pronephros,spinal_cord
  24-34,0,0,0,0,0,0,0,1.64,0,0.82,0.82
  36-46,0,0,0,0,0,0.81,0,9.67,0,0,3.22
  48-58,0,0,0.57,0,0,0,1.15,2.87,1.15,0.57,1.72

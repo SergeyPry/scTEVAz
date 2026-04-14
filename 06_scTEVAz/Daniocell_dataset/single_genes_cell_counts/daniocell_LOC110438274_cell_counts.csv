@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,glial,heart,mesenchyme,muscle,neural,periderm,spinal.cord,vascular.smooth.muscle,visceral.smooth.muscle
+stage,epidermis,eye,fin_epithelia,glial,heart,mesenchyme,muscle,neural,periderm,spinal_cord,vascular_smooth_muscle,visceral_smooth_muscle
  14-21,0,0,0,0,0,0,0,1,0,0,0,0
  24-34,0,13.13,0,1.64,0,0,0.82,169.92,0,19.7,0,0
  36-46,0.81,68.48,0,14.5,0,0,0,253.79,0.81,65.26,0,0

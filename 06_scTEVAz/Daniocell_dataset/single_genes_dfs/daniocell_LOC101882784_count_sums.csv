@@ -1,4 +1,4 @@
-stage,erythrocytes,eye,fin.mesenchyme,liver,mesenchyme,neural,otic,periderm,spinal.cord,vasculature
+stage,erythrocytes,eye,fin_mesenchyme,liver,mesenchyme,neural,otic,periderm,spinal_cord,vasculature
  14-21,0,0,0,0,0,1.41,0,0,0,0
  24-34,0,0,0,0,0,0,0,0,2.42,1.6
  60-70,0,11.04,0.84,1.41,0,0,0,2.58,5.49,0

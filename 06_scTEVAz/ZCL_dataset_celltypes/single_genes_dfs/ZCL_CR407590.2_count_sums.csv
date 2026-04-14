@@ -1,6 +1,6 @@
-stage,Cardiomyocyte,Endothelial.cell,Enterocyte,Epithelial.cell,Epithelial.cell..Brain.,Erythrocyte,Erythroid.progenitor.cell,Goblet.cell,Granulocyte,Hepatocyte,Immune.cell,Immune.progenitor.cell,Intestinal.bulb.cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal.cell,Muscle.cell,Nephron.cell,Neural.cell,Neural.progenitor.cell,Neurosecretory.cell,Oligodendrocyte,Osteoblast,Pancreatic.cell,Primordial.germ.cell,Retinal.cone.cell,Smooth.muscle.cell,Spermatocyte,T.cell
-24hpf,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8.17280914570035,0,0,0,0,0,0,0,0,0
-72hpf,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.27916456586431,0,0,0,2.13958228293216,0,0,0,0,0,0,0,0,0,0
-21Day,9.36973161742315,2.67706617640661,1.33853308820331,10.7082647056265,1.33853308820331,6.69266544101654,1.33853308820331,0,0,0,0,34.801860293286,4.01559926460992,17.400930146643,9.36973161742315,40.1559926460992,22.7550624994562,1.33853308820331,0,26.7706617640661,1.33853308820331,0,2.67706617640661,4.01559926460992,16.0623970584397,0,1.33853308820331,0,0,792.411588216358
-3Month,0.319949299554195,0,0,5.11918879286713,0,0,0,0.959847898662586,6.39898599108391,6.07903669152971,4.47929019375874,0.319949299554195,1.91969579732517,1.27979719821678,0.639898599108391,13.117921281722,4.47929019375874,0,0.319949299554195,0,0,0.639898599108391,0,0,1.59974649777098,0.959847898662586,0,1.59974649777098,2.55959439643356,268.757411625524
-22Month,0,0,0,0,0,0,0,0,3.2799279071846,4.9198918607769,0,0.546654651197433,0.546654651197433,0,0.546654651197433,9.8397837215538,0,0,0,0.546654651197433,0,0,0,0,0,0,0,0,0,49.7455732589664
+stage,Cardiomyocyte,Endothelial_cell,Enterocyte,Epithelial_cell,Epithelial_cell__Brain_,Erythrocyte,Erythroid_progenitor_cell,Goblet_cell,Granulocyte,Hepatocyte,Immune_cell,Immune_progenitor_cell,Intestinal_bulb_cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal_cell,Muscle_cell,Nephron_cell,Neural_cell,Neural_progenitor_cell,Neurosecretory_cell,Oligodendrocyte,Osteoblast,Pancreatic_cell,Primordial_germ_cell,Retinal_cone_cell,Smooth_muscle_cell,Spermatocyte,T_cell
+24hpf,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8.17,0,0,0,0,0,0,0,0,0
+72hpf,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.28,0,0,0,2.14,0,0,0,0,0,0,0,0,0,0
+21Day,9.37,2.68,1.34,10.71,1.34,6.69,1.34,0,0,0,0,34.8,4.02,17.4,9.37,40.16,22.76,1.34,0,26.77,1.34,0,2.68,4.02,16.06,0,1.34,0,0,792.41
+3Month,0.32,0,0,5.12,0,0,0,0.96,6.4,6.08,4.48,0.32,1.92,1.28,0.64,13.12,4.48,0,0.32,0,0,0.64,0,0,1.6,0.96,0,1.6,2.56,268.76
+22Month,0,0,0,0,0,0,0,0,3.28,4.92,0,0.55,0.55,0,0.55,9.84,0,0,0,0.55,0,0,0,0,0,0,0,0,0,49.75

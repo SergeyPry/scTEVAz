@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,glial,heart,immune,lateral.line,mesenchyme,muscle,neural,olfactory,otic,periderm,spinal.cord,xanthophores
+stage,endoderm,epidermis,eye,glial,heart,immune,lateral_line,mesenchyme,muscle,neural,olfactory,otic,periderm,spinal_cord,xanthophores
   7-9,0,0,0,0,0,0,0,0,0,5.74,0,0,0,0,0
  14-21,0,0,1.41,0,0,0,0,0,0,1.29,0,0,0,0.83,0
  24-34,0,3.35,0.82,0,0,0,0,0,0,41.03,0,0,0,3.83,0

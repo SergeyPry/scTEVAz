@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,glial,gut,lateral.line,liver,mesenchyme,mural.cell,muscle,neural,notochord,olfactory,otic,periderm,spinal.cord
+stage,epidermis,eye,fin_epithelia,glial,gut,lateral_line,liver,mesenchyme,mural_cell,muscle,neural,notochord,olfactory,otic,periderm,spinal_cord
  14-21,1.82,0,0,0,0,0,0,0.92,0,0,5.93,0,0,0.97,0,4.07
  24-34,0,2.27,0,0,0,0,0,0,0,0,33.99,0,0,1.99,0,9.38
  36-46,0,3.08,0,4.49,0,0,5.5,11.86,0,0,19.29,0.69,0,0,0,5.49

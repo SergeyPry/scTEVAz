@@ -1,5 +1,5 @@
-stage,Epithelial.cell,Erythrocyte,Hepatocyte,Neural.cell,Neural.progenitor.cell,Radial.glia
+stage,Epithelial_cell,Erythrocyte,Hepatocyte,Neural_cell,Neural_progenitor_cell,Radial_glia
 24hpf,0,0,0,0,3,0
-72hpf,0.281848056003223,0.281848056003223,0,0.84554416800967,0,0.281848056003223
-21Day,0,0,0,0.739973720528564,0,0
-3Month,0,0,0.104017006644673,0,0,0
+72hpf,0.28,0.28,0,0.85,0,0.28
+21Day,0,0,0,0.74,0,0
+3Month,0,0,0.1,0,0,0

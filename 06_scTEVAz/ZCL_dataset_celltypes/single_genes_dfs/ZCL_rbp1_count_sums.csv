@@ -1,4 +1,4 @@
-stage,Hepatocyte,Intestinal.bulb.cell,Neural.cell,Retinal.cell,Retinal.cone.cell
-72hpf,0,0,1.06979114146608,4.27916456586431,2.13958228293216
-3Month,0.959847898662586,0.959847898662586,0,0,0
-22Month,1.6399639535923,0,0,0,0
+stage,Hepatocyte,Intestinal_bulb_cell,Neural_cell,Retinal_cell,Retinal_cone_cell
+72hpf,0,0,1.07,4.28,2.14
+3Month,0.96,0.96,0,0,0
+22Month,1.64,0,0,0,0

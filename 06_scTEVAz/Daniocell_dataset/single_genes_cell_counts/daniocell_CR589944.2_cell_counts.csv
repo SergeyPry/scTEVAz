@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,eye,fin.epithelia,glial,hatching.gland,ionocyte,iridophores,mesenchyme,muscle,neural,notochord,paraxial.mesoderm,periderm,somites,spinal.cord,taste,vasculature,visceral.smooth.muscle
+stage,axial,blastomeres,epidermis,eye,fin_epithelia,glial,hatching_gland,ionocyte,iridophores,mesenchyme,muscle,neural,notochord,paraxial_mesoderm,periderm,somites,spinal_cord,taste,vasculature,visceral_smooth_muscle
   3-4,0,13.18,0,0,0,0,0,0,0,0,0,0,0,0,13.18,0,0,0,0,0
   5-6,6.13,122.59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,5.26,2.63,0,2.63,0,0,5.26,0,0,0,0,55.2,2.63,7.89,0,0,0,0,0,0

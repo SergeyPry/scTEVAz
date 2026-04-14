@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,fin.epithelia,fin.mesenchyme,glial,heart,ionocyte,lateral.line,liver,melanocytes,mesenchyme,muscle,neural,notochord,otic,periderm,presomitic.mesoderm,somites,spinal.cord,vascular.smooth.muscle,vasculature,xanthophores
+stage,epidermis,eye,fast_muscle,fin_epithelia,fin_mesenchyme,glial,heart,ionocyte,lateral_line,liver,melanocytes,mesenchyme,muscle,neural,notochord,otic,periderm,presomitic_mesoderm,somites,spinal_cord,vascular_smooth_muscle,vasculature,xanthophores
  14-21,2.09,2.46,0,0,0,0,0,0,0,0,0,5.18,0,2.04,0.87,0,0,1.03,1.54,1.71,0,0,0
  24-34,2.95,1.56,0,0,1.25,0,1.37,0,0,0,3.78,2.61,6.13,25.17,0,0,0,0,1.54,8.21,0,1.26,0
  36-46,3.3,1.15,0,0,1.41,0.69,0,0,0.74,0,0,8.17,3.99,20.08,2.02,0,0,0,0,6.94,0,0,0

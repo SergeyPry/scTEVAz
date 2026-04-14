@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,fin.epithelia,glial,lateral.line,mesenchyme,mural.cell,neural,otic,spinal.cord,vasculature
+stage,blastomeres,endoderm,epidermis,eye,fin_epithelia,glial,lateral_line,mesenchyme,mural_cell,neural,otic,spinal_cord,vasculature
   3-4,13.26,0,0,0,0,0,0,0,0,0,0,0,0
  24-34,0,0,17.53,0,0,0,0,0,0,0,0,0,3.28
  36-46,0,0,8.09,0,0,0,1.17,0,0,0,0,0,0

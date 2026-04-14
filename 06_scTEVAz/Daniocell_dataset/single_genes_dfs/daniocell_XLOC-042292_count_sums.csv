@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,glial,immune,mesenchyme,mural.cell,muscle,neural,olfactory,paraxial.mesoderm,periderm,presomitic.mesoderm,somites,spinal.cord,taste,vasculature
+stage,axial,blastomeres,endoderm,epidermis,eye,glial,immune,mesenchyme,mural_cell,muscle,neural,olfactory,paraxial_mesoderm,periderm,presomitic_mesoderm,somites,spinal_cord,taste,vasculature
   3-4,11.43,46.37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,0,62.68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,8.23,0,0,0,0,0,12.86,0,3.26,0,0,0,0,0,0

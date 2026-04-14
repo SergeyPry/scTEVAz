@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,eye,glial,hatching.gland,mesenchyme,neural,notochord,paraxial.mesoderm,spinal.cord
+stage,blastomeres,endoderm,eye,glial,hatching_gland,mesenchyme,neural,notochord,paraxial_mesoderm,spinal_cord
   3-4,89.14,0,0,0,0,0,0,0,0,0
   5-6,56.29,0,0,0,0,0,7.66,0,0,0
   7-9,0,7.52,10.18,0,6.42,0,44.87,3.59,23.57,0

@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,glial,hatching.gland,immune,lateral.line,mesenchyme,mural.cell,muscle,neural,notochord,paraxial.mesoderm,taste,vasculature
+stage,blastomeres,epidermis,erythrocytes,eye,glial,hatching_gland,immune,lateral_line,mesenchyme,mural_cell,muscle,neural,notochord,paraxial_mesoderm,taste,vasculature
   3-4,26.36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,36.78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,5.26,0,0,0,0,0,0,0,21.03,0,0,0,0

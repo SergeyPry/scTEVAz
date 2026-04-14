@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,erythrocytes,eye,glial,gut,lateral.line,mesenchyme,muscle,neural,olfactory,otic,pericytes,periderm,spinal.cord,vascular.smooth.muscle,vasculature,xanthophores
+stage,blastomeres,endoderm,epidermis,erythrocytes,eye,glial,gut,lateral_line,mesenchyme,muscle,neural,olfactory,otic,pericytes,periderm,spinal_cord,vascular_smooth_muscle,vasculature,xanthophores
   3-4,28.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,8.77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,5.46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

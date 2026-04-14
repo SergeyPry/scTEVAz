@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,fin.epithelia,glial,gut,ionocyte,iridophores,lateral.line,liver,mesenchyme,muscle,neural,otic,periderm,pgc,pronephros,slow.muscle,spinal.cord,taste,vascular.smooth.muscle,vasculature
+stage,epidermis,eye,fast_muscle,fin_epithelia,glial,gut,ionocyte,iridophores,lateral_line,liver,mesenchyme,muscle,neural,otic,periderm,pgc,pronephros,slow_muscle,spinal_cord,taste,vascular_smooth_muscle,vasculature
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,6.82,0,0,0,0,0,0,0,0,0
  14-21,0,0.81,0,0,0,0,0,0,0,0,0.83,0,1.2,0,0,0,0,0.8,0.94,0,0,0
  24-34,0,0.97,0,0,2.73,1.01,0,0,0,0,0.68,0,15.02,2.21,0,0,0,0,3.89,0,0,4.03

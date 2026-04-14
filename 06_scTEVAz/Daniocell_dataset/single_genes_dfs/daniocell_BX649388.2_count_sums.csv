@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fast.muscle,glial,gut,hatching.gland,heart,mesenchyme,muscle,neural,olfactory,otic,paraxial.mesoderm,somites,spinal.cord,vasculature,visceral.smooth.muscle
+stage,blastomeres,epidermis,eye,fast_muscle,glial,gut,hatching_gland,heart,mesenchyme,muscle,neural,olfactory,otic,paraxial_mesoderm,somites,spinal_cord,vasculature,visceral_smooth_muscle
   3-4,35.54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,21.08,0,0,0,0,0,0,0,0,0,0,0,0,9.89,0,0,0,0
   7-9,0,0,0,0,0,0,3.42,0,0,0,7.61,0,0,4.51,0,0,0,0

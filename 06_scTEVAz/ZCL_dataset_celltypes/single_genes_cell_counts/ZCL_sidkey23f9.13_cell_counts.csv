@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Hepatocyte,Keratinocyte,Neural.cell,Neural.progenitor.cell,Osteoblast,Primordial.germ.cell,Spermatocyte
+stage,Epithelial_cell,Hepatocyte,Keratinocyte,Neural_cell,Neural_progenitor_cell,Osteoblast,Primordial_germ_cell,Spermatocyte
 24hpf,0,0,0,0,1,0,0,0
-72hpf,0,0,0,0.281848056003223,0.563696112006446,0.281848056003223,0,0
-3Month,0.104017006644673,0.104017006644673,0.104017006644673,0,0.208034013289345,0,2.60042516611682,8.00930951163979
+72hpf,0,0,0,0.28,0.56,0.28,0,0
+3Month,0.1,0.1,0.1,0,0.21,0,2.6,8.01

@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,erythrocytes,exocrine.pancreas,eye,gut,heart,immune,ionocyte,liver,mesenchyme,mural.cell,neural,pericytes,periderm,pronephros,spinal.cord,vascular.smooth.muscle,visceral.smooth.muscle
+stage,blastomeres,endoderm,epidermis,erythrocytes,exocrine_pancreas,eye,gut,heart,immune,ionocyte,liver,mesenchyme,mural_cell,neural,pericytes,periderm,pronephros,spinal_cord,vascular_smooth_muscle,visceral_smooth_muscle
   5-6,6.13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,2.63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0

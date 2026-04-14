@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,gut,mesenchyme,mucous,neural,periderm
+stage,epidermis,eye,fin_epithelia,gut,mesenchyme,mucous,neural,periderm
  24-34,0,0,0,0,0,0,1.64,2.46
  36-46,0,0,0,0,0,0,0.81,1.61
  48-58,0,0,0,0,0,0,0.57,1.15

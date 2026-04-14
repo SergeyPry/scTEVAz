@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,erythrocytes,eye,fast.muscle,glial,gut,immune,ionocyte,liver,mesenchyme,mucous,neural,periderm,pronephros,spinal.cord,taste,vascular.smooth.muscle,vasculature,visceral.smooth.muscle,xanthophores
+stage,endoderm,epidermis,erythrocytes,eye,fast_muscle,glial,gut,immune,ionocyte,liver,mesenchyme,mucous,neural,periderm,pronephros,spinal_cord,taste,vascular_smooth_muscle,vasculature,visceral_smooth_muscle,xanthophores
  14-21,1,0,0,0,0,0,0,0,18,0,0,1,1,0,0,0,0,0,0,0,0
  24-34,0,0,0.82,0.82,0,0,0,0,33.66,0.82,0.82,5.75,0.82,0,0.82,0,0,0,0,0,0
  36-46,0,0,0,0,0,0,0,0,8.06,1.61,0,2.42,0,0,0,0,0,0,0,0,0

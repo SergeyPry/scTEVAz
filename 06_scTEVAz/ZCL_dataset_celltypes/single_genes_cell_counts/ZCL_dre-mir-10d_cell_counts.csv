@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Pancreatic.cell
+stage,Cardiomyocyte,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Pancreatic_cell
 24hpf,1,1,0,5,0
-72hpf,0,0,2.25478444802579,0.281848056003223,0
-21Day,0.369986860264282,0,0,0,0.369986860264282
+72hpf,0,0,2.25,0.28,0
+21Day,0.37,0,0,0,0.37

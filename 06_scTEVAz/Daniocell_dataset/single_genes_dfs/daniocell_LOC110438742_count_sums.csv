@@ -1,4 +1,4 @@
-stage,blastomeres,eye,glial,gut,ionocyte,liver,mesenchyme,muscle,neural,notochord,periderm,presomitic.mesoderm,somites,spinal.cord
+stage,blastomeres,eye,glial,gut,ionocyte,liver,mesenchyme,muscle,neural,notochord,periderm,presomitic_mesoderm,somites,spinal_cord
   3-4,11.82,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,8.35,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,3.35,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,blastomeres,eye,glial,immune,mesenchyme,neural,olfactory,otic,paraxial.mesoderm,pericytes,periderm,pronephros,spinal.cord,taste,vasculature
+stage,blastomeres,eye,glial,immune,mesenchyme,neural,olfactory,otic,paraxial_mesoderm,pericytes,periderm,pronephros,spinal_cord,taste,vasculature
   3-4,43.67,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,45.38,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,6.18,0,0,0,0,0,0,0,0,0

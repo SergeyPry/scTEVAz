@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,fast.muscle,fin.mesenchyme,glial,mesenchyme,mural.cell,muscle,neural,pericytes,presomitic.mesoderm,slow.muscle,somites,vasculature,xanthophores
+stage,blastomeres,epidermis,erythrocytes,eye,fast_muscle,fin_mesenchyme,glial,mesenchyme,mural_cell,muscle,neural,pericytes,presomitic_mesoderm,slow_muscle,somites,vasculature,xanthophores
   3-4,26.36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,3,0,2,0,0,1,5,4,0,0
  24-34,0,0,0,0,1.64,0,0,1.64,0,6.57,1.64,0,0,4.93,13.13,0.82,0

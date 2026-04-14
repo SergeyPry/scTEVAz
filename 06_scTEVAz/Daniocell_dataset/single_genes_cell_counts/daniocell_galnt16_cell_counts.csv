@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,fin.mesenchyme,glial,gut,liver,mesenchyme,muscle,neural,notochord,olfactory,paraxial.mesoderm,periderm,pgc,spinal.cord
+stage,axial,blastomeres,endoderm,epidermis,eye,fin_mesenchyme,glial,gut,liver,mesenchyme,muscle,neural,notochord,olfactory,paraxial_mesoderm,periderm,pgc,spinal_cord
   3-4,26.36,474.41,0,0,0,0,0,0,0,0,0,0,0,0,0,13.18,0,0
   5-6,6.13,226.8,0,0,0,0,0,0,0,0,0,0,0,0,6.13,0,0,0
   7-9,2.63,0,5.26,0,5.26,0,0,0,0,0,0,26.29,0,0,2.63,0,2.63,0

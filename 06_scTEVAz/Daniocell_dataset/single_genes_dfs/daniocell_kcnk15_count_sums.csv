@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,glial,gut,lateral.line,liver,mesenchyme,mural.cell,muscle,neural,olfactory,otic,spinal.cord,vascular.smooth.muscle
+stage,blastomeres,epidermis,erythrocytes,eye,glial,gut,lateral_line,liver,mesenchyme,mural_cell,muscle,neural,olfactory,otic,spinal_cord,vascular_smooth_muscle
   3-4,12.36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,1.07,0,0,0,0,0,0,0,0,7.15,0,0,8.54,0
  24-34,0,0,0,3.67,0,0,0,0,0.71,0,0,93.59,0,0,46.09,0

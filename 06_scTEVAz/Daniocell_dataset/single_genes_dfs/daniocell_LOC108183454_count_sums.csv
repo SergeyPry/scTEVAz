@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,glial,immune,lateral.line,mesenchyme,neural,olfactory,periderm,spinal.cord,taste
+stage,epidermis,eye,fast_muscle,glial,immune,lateral_line,mesenchyme,neural,olfactory,periderm,spinal_cord,taste
  14-21,0,0,0,0,0,0,0,1.22,0,0,0,0
  24-34,0,0,0,0,0.71,0,0,0,0,0.78,0,0
  36-46,0,0,0,0,0,0,0,0.78,0,0,0,0

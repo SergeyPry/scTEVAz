@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.mesenchyme,glial,heart,immune,ionocyte,lateral.line,mesenchyme,mural.cell,muscle,neural,notochord,olfactory,otic,periderm,spinal.cord,taste,vascular.smooth.muscle
+stage,epidermis,eye,fin_mesenchyme,glial,heart,immune,ionocyte,lateral_line,mesenchyme,mural_cell,muscle,neural,notochord,olfactory,otic,periderm,spinal_cord,taste,vascular_smooth_muscle
  14-21,0,0,0,0,0,0,0,0,1.44,0,0.99,0,0,0,0,0,0,0,0
  24-34,0.6,0,0,0,0,0,0,0,1.65,0,0,2.76,0,1.38,0,0,0,0,0
  36-46,0.55,0,0,0,0,0,0,0,14.23,0,0,0,0,0,0,0,1.17,0,0

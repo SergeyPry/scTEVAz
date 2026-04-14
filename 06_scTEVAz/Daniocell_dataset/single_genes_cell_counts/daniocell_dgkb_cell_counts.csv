@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,glial,gut,hatching.gland,immune,iridophores,mesenchyme,muscle,neural,notochord,otic,paraxial.mesoderm,presomitic.mesoderm,pronephros,slow.muscle,somites,spinal.cord,vasculature
+stage,epidermis,erythrocytes,eye,glial,gut,hatching_gland,immune,iridophores,mesenchyme,muscle,neural,notochord,otic,paraxial_mesoderm,presomitic_mesoderm,pronephros,slow_muscle,somites,spinal_cord,vasculature
  14-21,4,19,0,1,1,1,0,0,9,10,9,5,0,3,174,2,4,66,1,0
  24-34,0,0,0,0,0,0,0,0,0,0,1.64,0,0,0,0,0,0,0.82,0,0
  36-46,0,0,0,0,0,0,0,0,0,0,4.83,0,0,0,0,0,0,0,0.81,0

@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,exocrine.pancreas,eye,glial,gut,immune,ionocyte,lateral.line,mesenchyme,muscle,neural,periderm,spinal.cord,vasculature
+stage,blastomeres,endoderm,epidermis,exocrine_pancreas,eye,glial,gut,immune,ionocyte,lateral_line,mesenchyme,muscle,neural,periderm,spinal_cord,vasculature
   5-6,6.84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,2.88,0,3.76,1.35,0,0
  24-34,0,0.6,0,0,0,0,0,0.87,0,0,0,2,6.96,0,1.86,0

@@ -1,6 +1,6 @@
-stage,Cardiomyocyte,Epithelial.cell,Erythrocyte,Goblet.cell,Keratinocyte,Mesenchymal.cell,Muscle.cell,Neural.cell,Neural.progenitor.cell,Osteoblast,Primordial.germ.cell,Radial.glia,Retinal.cone.cell,T.cell
+stage,Cardiomyocyte,Epithelial_cell,Erythrocyte,Goblet_cell,Keratinocyte,Mesenchymal_cell,Muscle_cell,Neural_cell,Neural_progenitor_cell,Osteoblast,Primordial_germ_cell,Radial_glia,Retinal_cone_cell,T_cell
 24hpf,0,0,0,0,1,3,0,1,1,0,0,0,0,0
-72hpf,0,0.563696112006446,0,0,0,3.6640247280419,0,0.563696112006446,0.281848056003223,5.07326500805802,0,0.563696112006446,0,0
-21Day,1.84993430132141,1.47994744105713,1.10996058079285,0,0,5.54980290396423,1.10996058079285,0.369986860264282,1.10996058079285,0.369986860264282,0,0.369986860264282,0.369986860264282,0
-3Month,0,0.520085033223363,0,0.104017006644673,0,0,0.104017006644673,0,0,0,0.104017006644673,0,0,0.104017006644673
-22Month,0,0,0,0,0,0.409948295964399,0,0,0,0,0,0.546597727952532,0,0
+72hpf,0,0.56,0,0,0,3.66,0,0.56,0.28,5.07,0,0.56,0,0
+21Day,1.85,1.48,1.11,0,0,5.55,1.11,0.37,1.11,0.37,0,0.37,0.37,0
+3Month,0,0.52,0,0.1,0,0,0.1,0,0,0,0.1,0,0,0.1
+22Month,0,0,0,0,0,0.41,0,0,0,0,0,0.55,0,0

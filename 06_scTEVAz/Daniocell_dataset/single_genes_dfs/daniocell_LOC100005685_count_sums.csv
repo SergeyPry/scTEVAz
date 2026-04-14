@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,ionocyte,mucous,mural.cell,neural,periderm,pronephros,spinal.cord
+stage,epidermis,eye,glial,ionocyte,mucous,mural_cell,neural,periderm,pronephros,spinal_cord
  14-21,0.81,0,0,0,0,0,4.4,0,1.64,0
  24-34,0.61,0,0,0,0,0,3.77,0,1.04,0.89
  36-46,0,0,0,0,0,0,8.07,0,9.05,0

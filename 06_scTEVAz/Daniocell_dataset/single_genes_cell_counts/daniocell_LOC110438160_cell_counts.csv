@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,iridophores,melanocytes,mesenchyme,neural,paraxial.mesoderm,somites,spinal.cord,vasculature
+stage,blastomeres,epidermis,eye,glial,iridophores,melanocytes,mesenchyme,neural,paraxial_mesoderm,somites,spinal_cord,vasculature
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0
   5-6,12.26,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,1,0,0,0,0,0,8,1,1,2,0

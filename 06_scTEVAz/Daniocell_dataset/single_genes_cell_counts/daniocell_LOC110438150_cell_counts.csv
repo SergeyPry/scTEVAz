@@ -1,4 +1,4 @@
-stage,erythrocytes,eye,glial,mesenchyme,muscle,neural,paraxial.mesoderm,periderm,presomitic.mesoderm,somites
+stage,erythrocytes,eye,glial,mesenchyme,muscle,neural,paraxial_mesoderm,periderm,presomitic_mesoderm,somites
   7-9,0,0,0,0,0,2.63,2.63,0,0,0
  14-21,0,0,0,0,1,6,0,0,2,1
  24-34,0.82,0,0,0,0,0,0,3.28,0,0

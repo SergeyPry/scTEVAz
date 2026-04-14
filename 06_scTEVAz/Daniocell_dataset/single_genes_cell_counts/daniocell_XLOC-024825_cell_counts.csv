@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,immune,iridophores,liver,mesenchyme,neural,paraxial.mesoderm,periderm,vascular.smooth.muscle,xanthophores
+stage,endoderm,epidermis,eye,immune,iridophores,liver,mesenchyme,neural,paraxial_mesoderm,periderm,vascular_smooth_muscle,xanthophores
   7-9,0,0,0,0,0,0,0,0,2.63,0,0,0
  14-21,0,0,0,0,0,0,1,0,0,1,0,0
  24-34,0.82,0.82,0,0,0,0,3.28,1.64,0,0,0,0

@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Granulocyte,Hepatocyte,Immune.cell,Ionocyte,Keratinocyte,Mesenchymal.cell,Mesenchymal.cell..caudal.fin.,Neural.progenitor.cell,Oligodendrocyte,Osteoblast,Primordial.germ.cell,Spermatocyte
-72hpf,1.06979114146608,0,0,0,0,0,0,0,1.06979114146608,0,1.06979114146608,0,0
-3Month,0.319949299554195,0.319949299554195,0.639898599108391,0.319949299554195,0,0.639898599108391,0,1.27979719821678,0,0.319949299554195,0,7.67878318930069,1.59974649777098
-22Month,0,0,0.546654651197433,0,0.546654651197433,0,0.546654651197433,0,0,0,0,0,0
+stage,Epithelial_cell,Granulocyte,Hepatocyte,Immune_cell,Ionocyte,Keratinocyte,Mesenchymal_cell,Mesenchymal_cell__caudal_fin_,Neural_progenitor_cell,Oligodendrocyte,Osteoblast,Primordial_germ_cell,Spermatocyte
+72hpf,1.07,0,0,0,0,0,0,0,1.07,0,1.07,0,0
+3Month,0.32,0.32,0.64,0.32,0,0.64,0,1.28,0,0.32,0,7.68,1.6
+22Month,0,0,0.55,0,0.55,0,0.55,0,0,0,0,0,0

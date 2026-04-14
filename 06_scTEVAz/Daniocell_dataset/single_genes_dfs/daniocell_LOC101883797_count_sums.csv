@@ -1,4 +1,4 @@
-stage,blastomeres,eye,glial,iridophores,neural,notochord,paraxial.mesoderm,periderm,presomitic.mesoderm,spinal.cord
+stage,blastomeres,eye,glial,iridophores,neural,notochord,paraxial_mesoderm,periderm,presomitic_mesoderm,spinal_cord
   5-6,20.42,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,8.17,0,8.96,0,0,0
  10-12,0,0,0,0,7.18,3.1,0,0,0,0

@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,endoderm,epidermis,eye,glial,gut,liver,mesenchyme,muscle,neural,spinal.cord,vasculature
+stage,blastomeres,endocrine_pancreas,endoderm,epidermis,eye,glial,gut,liver,mesenchyme,muscle,neural,spinal_cord,vasculature
   5-6,17.66,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,28.43,0,0
  10-12,0,0,0,0,3.68,0,0,0,0,0,18.14,0,0

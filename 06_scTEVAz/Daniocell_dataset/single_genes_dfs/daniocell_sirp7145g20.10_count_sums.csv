@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,glial,ionocyte,melanocytes,mesenchyme,mucous,muscle,neural,notochord,olfactory,otic,pericytes,periderm,somites,spinal.cord
+stage,epidermis,eye,fin_epithelia,glial,ionocyte,melanocytes,mesenchyme,mucous,muscle,neural,notochord,olfactory,otic,pericytes,periderm,somites,spinal_cord
   7-9,0,0,0,0,0,0,0,0,0,3.57,0,0,0,0,0,0,0
  10-12,0,4.67,0,0,0,0,0,0,0,7.75,0,0,0,0,0,0,0
  14-21,3.05,0,0,1.18,0,0,0,0,0.83,13.36,0,0,0,0,0,1.82,1.97

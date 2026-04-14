@@ -1,4 +1,4 @@
-stage,blastomeres,eye,glial,gut,hatching.gland,mesenchyme,neural,paraxial.mesoderm,pronephros,spinal.cord
+stage,blastomeres,eye,glial,gut,hatching_gland,mesenchyme,neural,paraxial_mesoderm,pronephros,spinal_cord
   3-4,16.65,0,0,0,0,0,0,0,0,0
   5-6,86.22,0,0,0,0,0,31.67,0,0,0
   7-9,0,3.49,0,0,0,0,0,0,0,0

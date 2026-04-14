@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,erythrocytes,eye,fin.epithelia,glial,gut,immune,ionocyte,iridophores,mesenchyme,mucous,muscle,neural,olfactory,otic,periderm,pgc,somites,spinal.cord,taste
+stage,endocrine_pancreas,epidermis,erythrocytes,eye,fin_epithelia,glial,gut,immune,ionocyte,iridophores,mesenchyme,mucous,muscle,neural,olfactory,otic,periderm,pgc,somites,spinal_cord,taste
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,4.79,0,0,0,0,0,0,0
  14-21,0,5.65,0,0,0,0,0,0,0,0,0,0,0,7.22,1.84,0,0,0,0.96,10.38,0
  24-34,0,0,0,0,0,0,0,0,1.21,0,0,0,0,28.44,2.21,0.74,0,0,1.25,11.94,0

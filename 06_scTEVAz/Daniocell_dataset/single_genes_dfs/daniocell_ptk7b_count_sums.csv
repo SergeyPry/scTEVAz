@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,iridophores,mesenchyme,mural.cell,neural,periderm,pgc,pronephros,spinal.cord,vasculature,xanthophores
+stage,epidermis,eye,glial,iridophores,mesenchyme,mural_cell,neural,periderm,pgc,pronephros,spinal_cord,vasculature,xanthophores
   7-9,0,0,0,0,0,0,8.5,0,7.87,0,0,0,0
  10-12,0,0,0,0,0,0,3.55,0,0,0,0,0,0
  24-34,0,0,1.02,0,0,0,3.87,0,0,0,0,0,0.62

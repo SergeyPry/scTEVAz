@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.mesenchyme,glial,gut,iridophores,mesenchyme,neural,otic,spinal.cord
+stage,epidermis,eye,fin_mesenchyme,glial,gut,iridophores,mesenchyme,neural,otic,spinal_cord
  14-21,3,0,0,0,0,0,0,0,1,0
  24-34,0,0,0,0,0,0,0,1.64,0,0.82
  36-46,0,0,0,0,0,0,0,1.61,0,0

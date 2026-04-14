@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,epidermis,erythrocytes,eye,glial,liver,mesenchyme,neural,olfactory,periderm,spinal.cord,xanthophores
+stage,blastomeres,endocrine_pancreas,epidermis,erythrocytes,eye,glial,liver,mesenchyme,neural,olfactory,periderm,spinal_cord,xanthophores
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,1,4,0,0,1,0
  24-34,0,0.82,0,0,0,0,0,0,22.16,0,0,3.28,0

@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,fin.epithelia,glial,gut,hatching.gland,ionocyte,lateral.line,liver,mesenchyme,neural,otic,paraxial.mesoderm,periderm,spinal.cord,taste
+stage,endoderm,epidermis,eye,fin_epithelia,glial,gut,hatching_gland,ionocyte,lateral_line,liver,mesenchyme,neural,otic,paraxial_mesoderm,periderm,spinal_cord,taste
   5-6,0,0,0,0,0,0,6.13,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,2.63,0,0,0,0,7.89,0,0,0,0,0
  10-12,3.15,0,0,0,0,0,0,0,0,0,0,34.62,0,3.15,0,0,0

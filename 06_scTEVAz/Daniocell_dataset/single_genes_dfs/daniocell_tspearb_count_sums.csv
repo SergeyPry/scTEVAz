@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,fin.epithelia,fin.mesenchyme,gut,ionocyte,lateral.line,mesenchyme,mucous,mural.cell,muscle,neural,notochord,paraxial.mesoderm,periderm,pronephros,somites,spinal.cord,taste,vascular.smooth.muscle,vasculature
+stage,blastomeres,epidermis,erythrocytes,eye,fin_epithelia,fin_mesenchyme,gut,ionocyte,lateral_line,mesenchyme,mucous,mural_cell,muscle,neural,notochord,paraxial_mesoderm,periderm,pronephros,somites,spinal_cord,taste,vascular_smooth_muscle,vasculature
   3-4,22.21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,76.55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,9.2,0,0,0,0,0,0,0,0,0,26.83,0,8.53,0,0,0,0,0,0,0

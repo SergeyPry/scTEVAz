@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,erythrocytes,eye,fast.muscle,fin.epithelia,glial,hatching.gland,heart,ionocyte,lateral.line,mesenchyme,muscle,neural,notochord,olfactory,pericytes,periderm,presomitic.mesoderm,pronephros,somites,spinal.cord,vasculature
+stage,endocrine_pancreas,epidermis,erythrocytes,eye,fast_muscle,fin_epithelia,glial,hatching_gland,heart,ionocyte,lateral_line,mesenchyme,muscle,neural,notochord,olfactory,pericytes,periderm,presomitic_mesoderm,pronephros,somites,spinal_cord,vasculature
  14-21,0,12.63,10.4,11.65,0,0,0,1.02,1.66,0,0,3.86,1.06,92.54,0,1.03,0,0,4.89,1.14,5.44,26.23,0.96
  24-34,0.96,0.59,22.08,0.62,0,1.38,0,0,0,0.66,0,1.14,0,70.56,1.45,0,0,1.24,0,0,0,11.78,19.93
  36-46,0,15.95,0,5.15,0,0,0,0,0,1.63,0.72,6.38,0,21.63,0,0,0,5.52,0,0,0,10.17,1.01

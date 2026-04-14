@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,fin.mesenchyme,glial,gut,immune,mesenchyme,mucous,muscle,neural,notochord,paraxial.mesoderm,periderm,pgc,pronephros,somites,spinal.cord,taste,vascular.smooth.muscle,vasculature,visceral.smooth.muscle
+stage,blastomeres,endoderm,epidermis,eye,fin_mesenchyme,glial,gut,immune,mesenchyme,mucous,muscle,neural,notochord,paraxial_mesoderm,periderm,pgc,pronephros,somites,spinal_cord,taste,vascular_smooth_muscle,vasculature,visceral_smooth_muscle
   3-4,9.46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,54.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,5.3,0,0,0,0,0,0,0,0,0,0,10.02,3.56,6.11,0,0,0,0,0,0,0,0,0

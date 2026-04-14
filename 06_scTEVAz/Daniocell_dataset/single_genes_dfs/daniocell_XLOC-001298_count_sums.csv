@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,fast.muscle,glial,heart,mesenchyme,mural.cell,muscle,neural,otic,paraxial.mesoderm,periderm,slow.muscle,somites,spinal.cord,taste,vasculature,xanthophores
+stage,blastomeres,epidermis,erythrocytes,eye,fast_muscle,glial,heart,mesenchyme,mural_cell,muscle,neural,otic,paraxial_mesoderm,periderm,slow_muscle,somites,spinal_cord,taste,vasculature,xanthophores
   7-9,3.7,0,0,0,0,0,0,0,0,0,6.45,0,3.26,0,0,0,0,0,0,0
  14-21,0,0.83,0,0,0,1.2,0,0,0,0,0,0,0,0.96,1.98,2,0,0,0,0
  24-34,0,0,0,0.91,2.15,1.38,1.94,1.02,0,2,7.25,0,0,1.63,0.99,1.51,1.69,0,0,0

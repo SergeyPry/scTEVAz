@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,gut,mesenchyme,neural,otic,paraxial.mesoderm,periderm,spinal.cord,taste,vascular.smooth.muscle,visceral.smooth.muscle
+stage,epidermis,eye,glial,gut,mesenchyme,neural,otic,paraxial_mesoderm,periderm,spinal_cord,taste,vascular_smooth_muscle,visceral_smooth_muscle
   7-9,0,0,0,0,0,0,0,2.63,0,0,0,0,0
  10-12,0,0,0,0,0,3.15,0,3.15,0,0,0,0,0
  24-34,0,0,0,0,0,6.57,0,0,0,4.1,0,0,0

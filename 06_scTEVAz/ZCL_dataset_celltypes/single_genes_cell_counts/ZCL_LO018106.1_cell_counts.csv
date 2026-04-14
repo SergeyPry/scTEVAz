@@ -1,6 +1,6 @@
-stage,Granulocyte,Hepatocyte,Immune.cell,Immune.progenitor.cell,Macrophage,Neural.cell,Osteoblast,Spermatocyte,T.cell
+stage,Granulocyte,Hepatocyte,Immune_cell,Immune_progenitor_cell,Macrophage,Neural_cell,Osteoblast,Spermatocyte,T_cell
 24hpf,0,0,0,0,4,0,0,0,0
-72hpf,0,0,0,0,0,0.281848056003223,0.281848056003223,0,0
-21Day,0,0,0,0.369986860264282,0.369986860264282,0,0,0,0.369986860264282
-3Month,0,0,0.104017006644673,0,0.104017006644673,0,0,0.104017006644673,0
-22Month,0.136649431988133,0.273298863976266,0,0,0.273298863976266,0,0,0,0
+72hpf,0,0,0,0,0,0.28,0.28,0,0
+21Day,0,0,0,0.37,0.37,0,0,0,0.37
+3Month,0,0,0.1,0,0.1,0,0,0.1,0
+22Month,0.14,0.27,0,0,0.27,0,0,0,0

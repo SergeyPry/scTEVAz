@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,fast.muscle,fin.mesenchyme,glial,gut,immune,ionocyte,lateral.line,liver,melanocytes,mesenchyme,muscle,neural,olfactory,otic,pericytes,pronephros,spinal.cord,taste,vascular.smooth.muscle,vasculature
+stage,endocrine_pancreas,epidermis,eye,fast_muscle,fin_mesenchyme,glial,gut,immune,ionocyte,lateral_line,liver,melanocytes,mesenchyme,muscle,neural,olfactory,otic,pericytes,pronephros,spinal_cord,taste,vascular_smooth_muscle,vasculature
  14-21,2.79,0,0,0,0,0,0,0,0,0,0,0,0,0,7.35,0,0,0,0,5.8,0,0,0
  24-34,1.71,0.98,0.77,0,0,1.06,0,0,0,0,0,0,1.05,0,76.28,0,0,0,0,16.85,0,0,0
  36-46,0,0,18.41,0,0,6.38,0,0,0,0,0,0,8.47,0,157.88,0,0,0,0,36.62,0,0,0

@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fast.muscle,fin.mesenchyme,glial,gut,immune,ionocyte,mesenchyme,muscle,neural,olfactory,periderm,spinal.cord,taste
+stage,epidermis,erythrocytes,eye,fast_muscle,fin_mesenchyme,glial,gut,immune,ionocyte,mesenchyme,muscle,neural,olfactory,periderm,spinal_cord,taste
  36-46,0,0,0.81,0,0,0,0,0,0,0,0,0.81,0,0,0,0
  48-58,0,0,31.56,0,0,0,0,0,0,0,0,1.72,0,0,1.15,0
  60-70,0,0,74.6,0,0,0,0,0,0,0,0,1.96,0,0,0,0

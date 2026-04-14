@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,fin.epithelia,fin.mesenchyme,glial,gut,ionocyte,iridophores,lateral.line,liver,mesenchyme,mucous,mural.cell,muscle,neural,notochord,olfactory,otic,pericytes,presomitic.mesoderm,slow.muscle,somites,spinal.cord,taste,vasculature
+stage,epidermis,eye,fast_muscle,fin_epithelia,fin_mesenchyme,glial,gut,ionocyte,iridophores,lateral_line,liver,mesenchyme,mucous,mural_cell,muscle,neural,notochord,olfactory,otic,pericytes,presomitic_mesoderm,slow_muscle,somites,spinal_cord,taste,vasculature
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8.4,0,0,0,0,0,0,0,0,0
  14-21,0.81,0,0,0.87,0,0,0,1.18,0,0,0,1.14,0,0,1.66,0,14.09,0,0,0,2.83,1.53,9.65,5.67,0,0
  24-34,17.45,0,0,2.5,0.72,7.04,0,6.18,0,1.37,0,1.03,0,0,1.8,1.81,8.89,2.25,5.91,0,0,0,2.13,11.43,0,0

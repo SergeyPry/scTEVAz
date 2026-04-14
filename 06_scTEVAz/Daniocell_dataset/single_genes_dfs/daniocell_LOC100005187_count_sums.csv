@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,ionocyte,iridophores,melanocytes,mesenchyme,muscle,neural,spinal.cord,vasculature,xanthophores
+stage,epidermis,eye,glial,ionocyte,iridophores,melanocytes,mesenchyme,muscle,neural,spinal_cord,vasculature,xanthophores
  14-21,0,0,0,0,0,0,0,0,1.4,0,0,0
  24-34,0,0,0,0,0,0,0,0,5.98,4.85,0,0
  36-46,0,0,0,0,0,0.71,0.72,0,37.72,2.97,0.57,0

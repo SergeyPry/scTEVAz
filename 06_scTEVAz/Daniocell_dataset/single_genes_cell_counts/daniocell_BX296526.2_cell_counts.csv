@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,gut,ionocyte,melanocytes,mesenchyme,mucous,muscle,neural,otic,periderm,spinal.cord,xanthophores
+stage,epidermis,eye,glial,gut,ionocyte,melanocytes,mesenchyme,mucous,muscle,neural,otic,periderm,spinal_cord,xanthophores
   3-4,0,0,0,0,0,0,0,0,0,0,0,13.18,0,0
  14-21,0,0,0,0,0,0,0,0,1,1,0,0,0,0
  24-34,0.82,0,0,0,0,4.1,0,0,0,4.1,0,8.21,0.82,0.82

@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,exocrine.pancreas,eye,hatching.gland,immune,melanocytes,mesenchyme,neural,notochord,paraxial.mesoderm,periderm,pgc,spinal.cord,vascular.smooth.muscle,visceral.smooth.muscle,xanthophores
+stage,axial,blastomeres,endoderm,exocrine_pancreas,eye,hatching_gland,immune,melanocytes,mesenchyme,neural,notochord,paraxial_mesoderm,periderm,pgc,spinal_cord,vascular_smooth_muscle,visceral_smooth_muscle,xanthophores
   3-4,79.07,777.5,0,0,0,0,0,0,0,0,0,0,13.18,0,0,0,0,0
   5-6,110.33,1078.82,0,0,0,0,0,0,0,0,0,6.13,0,0,0,0,0,0
   7-9,5.26,2.63,5.26,0,0,2.63,0,0,0,28.92,2.63,13.14,0,2.63,0,0,0,0

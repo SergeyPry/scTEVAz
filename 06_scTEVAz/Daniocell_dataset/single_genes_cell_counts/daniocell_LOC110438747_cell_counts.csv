@@ -1,4 +1,4 @@
-stage,glial,neural,olfactory,periderm,spinal.cord,vasculature
+stage,glial,neural,olfactory,periderm,spinal_cord,vasculature
  24-34,0,0,0.82,0,0,0
  36-46,0,0.81,0,0,0.81,0
  60-70,0.98,0,0,0,0.98,0

@@ -1,4 +1,4 @@
-stage,eye,fast.muscle,neural,slow.muscle
+stage,eye,fast_muscle,neural,slow_muscle
  36-46,0,1.61,0.81,0
  60-70,0.98,0.98,0,0
  72-82,0.98,0,0,0

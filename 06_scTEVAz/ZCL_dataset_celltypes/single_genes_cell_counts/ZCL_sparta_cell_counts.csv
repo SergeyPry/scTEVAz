@@ -1,6 +1,6 @@
-stage,Epithelial.cell,Erythrocyte,Goblet.cell,Granulocyte,Granulosa.cell,Hepatocyte,Intestinal.bulb.cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal.cell,Muscle.cell,Neural.cell,Neural.progenitor.cell,Neurosecretory.cell,Osteoblast,Pancreatic.cell,Primordial.germ.cell,Radial.glia,Smooth.muscle.cell,Spermatocyte,T.cell
+stage,Epithelial_cell,Erythrocyte,Goblet_cell,Granulocyte,Granulosa_cell,Hepatocyte,Intestinal_bulb_cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal_cell,Muscle_cell,Neural_cell,Neural_progenitor_cell,Neurosecretory_cell,Osteoblast,Pancreatic_cell,Primordial_germ_cell,Radial_glia,Smooth_muscle_cell,Spermatocyte,T_cell
 24hpf,0,0,0,0,0,0,0,0,9,0,1,0,0,2,0,0,0,0,0,0,0,0
-72hpf,0.281848056003223,0,0,0,0,0,0,0,33.5399186643836,0,1.12739222401289,0,1.40924028001612,3.38217667203868,0,0.563696112006446,0,0,0,0,0,0
-21Day,8.13971092581421,0.369986860264282,0,0,0,0,0,0,24.4191327774426,0,1.47994744105713,0.369986860264282,0,0.739973720528564,0,0,1.10996058079285,0,0.369986860264282,0,0,0
-3Month,10.817768691046,0,0.312051019934018,0.104017006644673,0,0.936153059802054,0.208034013289345,0.520085033223363,0.416068026578691,0.312051019934018,0,0,0.104017006644673,0,0,0,0.104017006644673,1.35222108638074,0,0.104017006644673,6.34503740532503,0.104017006644673
-22Month,0,0,0,0,0.136649431988133,1.50314375186946,0,0,0,0,0.409948295964399,0,0,0,0.136649431988133,0,0,0.956546023916932,0,0,0,0
+72hpf,0.28,0,0,0,0,0,0,0,33.54,0,1.13,0,1.41,3.38,0,0.56,0,0,0,0,0,0
+21Day,8.14,0.37,0,0,0,0,0,0,24.42,0,1.48,0.37,0,0.74,0,0,1.11,0,0.37,0,0,0
+3Month,10.82,0,0.31,0.1,0,0.94,0.21,0.52,0.42,0.31,0,0,0.1,0,0,0,0.1,1.35,0,0.1,6.35,0.1
+22Month,0,0,0,0,0.14,1.5,0,0,0,0,0.41,0,0,0,0.14,0,0,0.96,0,0,0,0

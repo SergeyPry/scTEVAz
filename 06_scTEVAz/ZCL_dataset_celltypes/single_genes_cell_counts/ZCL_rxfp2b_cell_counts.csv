@@ -1,5 +1,5 @@
-stage,Granulocyte,Granulosa.cell,Hepatocyte,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Osteoblast,Radial.glia,Retinal.cell
+stage,Granulocyte,Granulosa_cell,Hepatocyte,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Osteoblast,Radial_glia,Retinal_cell
 24hpf,0,0,0,0,0,1,0,0,0
-72hpf,0,0,0,0.281848056003223,0.84554416800967,0.563696112006446,0.281848056003223,0,0
-21Day,0,0,0,0,1.10996058079285,0,0,0,0
-22Month,0.136649431988133,0.136649431988133,0.273298863976266,0,0,0,0,0.136649431988133,0.136649431988133
+72hpf,0,0,0,0.28,0.85,0.56,0.28,0,0
+21Day,0,0,0,0,1.11,0,0,0,0
+22Month,0.14,0.14,0.27,0,0,0,0,0.14,0.14

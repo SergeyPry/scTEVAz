@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,fast.muscle,fin.epithelia,glial,gut,hatching.gland,immune,ionocyte,lateral.line,mesenchyme,mucous,muscle,neural,olfactory,otic,periderm,presomitic.mesoderm,pronephros,slow.muscle,somites,spinal.cord,taste
+stage,endocrine_pancreas,epidermis,eye,fast_muscle,fin_epithelia,glial,gut,hatching_gland,immune,ionocyte,lateral_line,mesenchyme,mucous,muscle,neural,olfactory,otic,periderm,presomitic_mesoderm,pronephros,slow_muscle,somites,spinal_cord,taste
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.81,0.89,0.91,1.46,1.05,2.87,0
  24-34,0,0,0,0.72,0,0.84,0,0,0,1.29,0.96,0,0,0,18.14,5.83,1.44,7.69,0,0,2.3,0.78,1.92,0
  36-46,0,0.6,2.1,0,0,0,0,0,0,1.34,0,0.6,0.68,3.44,31.42,6.29,0.76,23.19,0,0,3.17,0,8.43,0

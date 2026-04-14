@@ -1,4 +1,4 @@
-stage,Epithelial.cell..Brain.,Keratinocyte,Macrophage,Neural.cell,Oligodendrocyte,T.cell
-72hpf,0.563696112006446,0.281848056003223,0,2.53663250402901,0,0
-21Day,0,0,0,0.369986860264282,0.369986860264282,0
-3Month,0,0,0.104017006644673,0,0,0.208034013289345
+stage,Epithelial_cell__Brain_,Keratinocyte,Macrophage,Neural_cell,Oligodendrocyte,T_cell
+72hpf,0.56,0.28,0,2.54,0,0
+21Day,0,0,0,0.37,0.37,0
+3Month,0,0,0.1,0,0,0.21

@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Mesenchymal.cell,Neural.cell
+stage,Cardiomyocyte,Mesenchymal_cell,Neural_cell
 24hpf,0,1,0
-72hpf,0.281848056003223,0,1.97293639202256
-21Day,0.369986860264282,0,1.47994744105713
+72hpf,0.28,0,1.97
+21Day,0.37,0,1.48

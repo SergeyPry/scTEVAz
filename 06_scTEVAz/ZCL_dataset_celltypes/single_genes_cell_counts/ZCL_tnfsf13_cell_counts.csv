@@ -1,4 +1,4 @@
-stage,Endothelial.cell,Epithelial.cell,Hepatocyte,Immune.progenitor.cell,Intestinal.bulb.cell,Keratinocyte,Mesenchymal.cell,Neural.progenitor.cell
+stage,Endothelial_cell,Epithelial_cell,Hepatocyte,Immune_progenitor_cell,Intestinal_bulb_cell,Keratinocyte,Mesenchymal_cell,Neural_progenitor_cell
 24hpf,0,0,0,0,0,0,0,1
-21Day,0.369986860264282,0,0,0.369986860264282,0,0.369986860264282,0.369986860264282,0
-22Month,0,0.136649431988133,0.273298863976266,0,0.273298863976266,0,0,0
+21Day,0.37,0,0,0.37,0,0.37,0.37,0
+22Month,0,0.14,0.27,0,0.27,0,0,0

@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,glial,gut,iridophores,lateral.line,mesenchyme,neural,notochord,olfactory,spinal.cord,vascular.smooth.muscle
+stage,blastomeres,epidermis,erythrocytes,eye,glial,gut,iridophores,lateral_line,mesenchyme,neural,notochord,olfactory,spinal_cord,vascular_smooth_muscle
   3-4,14.68,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,7.34,0,0,0,0
  14-21,0,0.99,0,0,0,0,0,0,0,0.97,0,0,0,0

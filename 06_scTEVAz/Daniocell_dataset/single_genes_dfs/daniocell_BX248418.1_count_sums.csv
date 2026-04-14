@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,endoderm,epidermis,erythrocytes,eye,fast.muscle,mesenchyme,muscle,neural,paraxial.mesoderm,periderm,presomitic.mesoderm,somites,spinal.cord,taste
+stage,blastomeres,endocrine_pancreas,endoderm,epidermis,erythrocytes,eye,fast_muscle,mesenchyme,muscle,neural,paraxial_mesoderm,periderm,presomitic_mesoderm,somites,spinal_cord,taste
   5-6,6.93,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,8.56,3.52,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,13.76,17.83,0,0,0,0,0

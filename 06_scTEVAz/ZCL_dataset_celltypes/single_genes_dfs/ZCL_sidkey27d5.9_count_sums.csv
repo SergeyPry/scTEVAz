@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Goblet.cell,Granulocyte,Hepatocyte,Immune.cell,Ionocyte,Keratinocyte,Mesenchymal.cell..caudal.fin.,Muscle.cell,Nephron.cell,Neural.cell,Neurosecretory.cell,Primordial.germ.cell,Smooth.muscle.cell,Spermatocyte
-72hpf,0,0,0,0,0,0,0,0,0,0,1.06979114146608,0,0,0,0
-21Day,0,0,0,0,0,0,0,0,0,0,0,0,2.67706617640661,0,0
-3Month,1.91969579732517,0.319949299554195,0.639898599108391,0.959847898662586,0.639898599108391,0.319949299554195,0.319949299554195,0.639898599108391,0.319949299554195,0.319949299554195,0,1.91969579732517,18.5570593741433,0.319949299554195,18.8770086736975
+stage,Epithelial_cell,Goblet_cell,Granulocyte,Hepatocyte,Immune_cell,Ionocyte,Keratinocyte,Mesenchymal_cell__caudal_fin_,Muscle_cell,Nephron_cell,Neural_cell,Neurosecretory_cell,Primordial_germ_cell,Smooth_muscle_cell,Spermatocyte
+72hpf,0,0,0,0,0,0,0,0,0,0,1.07,0,0,0,0
+21Day,0,0,0,0,0,0,0,0,0,0,0,0,2.68,0,0
+3Month,1.92,0.32,0.64,0.96,0.64,0.32,0.32,0.64,0.32,0.32,0,1.92,18.56,0.32,18.88

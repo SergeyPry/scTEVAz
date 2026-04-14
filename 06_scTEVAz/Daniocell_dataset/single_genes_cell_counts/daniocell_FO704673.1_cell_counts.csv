@@ -1,4 +1,4 @@
-stage,axial,blastomeres,erythrocytes,eye,fast.muscle,fin.epithelia,glial,heart,ionocyte,lateral.line,melanocytes,mesenchyme,muscle,neural,otic,periderm,slow.muscle,somites,spinal.cord,vasculature
+stage,axial,blastomeres,erythrocytes,eye,fast_muscle,fin_epithelia,glial,heart,ionocyte,lateral_line,melanocytes,mesenchyme,muscle,neural,otic,periderm,slow_muscle,somites,spinal_cord,vasculature
   3-4,0,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.13,61.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,7.89,0,0,0,0,0,0

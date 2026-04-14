@@ -1,5 +1,5 @@
-stage,Epithelial.cell,Goblet.cell,Hepatocyte,Macrophage,Mesenchymal.cell,Mt.rich.cell
-72hpf,1.06979114146608,0,0,1.06979114146608,1.06979114146608,1.06979114146608
-21Day,0,0,0,0,1.33853308820331,0
-3Month,0.319949299554195,0.319949299554195,0.319949299554195,0,0,0
-22Month,0,0.546654651197433,0.546654651197433,0,0,0
+stage,Epithelial_cell,Goblet_cell,Hepatocyte,Macrophage,Mesenchymal_cell,Mt_rich_cell
+72hpf,1.07,0,0,1.07,1.07,1.07
+21Day,0,0,0,0,1.34,0
+3Month,0.32,0.32,0.32,0,0,0
+22Month,0,0.55,0.55,0,0,0

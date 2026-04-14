@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,fin.epithelia,glial,gut,hatching.gland,immune,ionocyte,iridophores,lateral.line,liver,melanocytes,mesenchyme,mucous,muscle,neural,notochord,olfactory,otic,periderm,spinal.cord,taste,vascular.smooth.muscle,vasculature,visceral.smooth.muscle
+stage,endoderm,epidermis,eye,fin_epithelia,glial,gut,hatching_gland,immune,ionocyte,iridophores,lateral_line,liver,melanocytes,mesenchyme,mucous,muscle,neural,notochord,olfactory,otic,periderm,spinal_cord,taste,vascular_smooth_muscle,vasculature,visceral_smooth_muscle
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.63,0,0,0,0,0
  14-21,3,17,0,0,0,0,0,0,2,0,0,0,0,1,0,0,1,0,1,0,4,0,0,0,0,0
  24-34,4.93,19.7,0.82,0.82,0,1.64,0,0,2.46,0,0,0.82,0,0.82,0.82,0,4.1,0,0.82,0.82,51.71,0.82,0,0,0,0

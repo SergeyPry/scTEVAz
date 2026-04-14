@@ -1,4 +1,4 @@
-stage,epidermis,exocrine.pancreas,eye,gut,liver,neural,pronephros,spinal.cord
+stage,epidermis,exocrine_pancreas,eye,gut,liver,neural,pronephros,spinal_cord
  14-21,0,0,0,0,0,0,0,1
  24-34,0,0,0,0,0,0,1.64,0
  36-46,0,0,0,0.81,0,0.81,1.61,0

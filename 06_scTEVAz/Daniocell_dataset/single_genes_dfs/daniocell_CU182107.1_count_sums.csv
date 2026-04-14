@@ -1,4 +1,4 @@
-stage,eye,fin.mesenchyme,ionocyte,lateral.line,mesenchyme,neural,periderm,spinal.cord
+stage,eye,fin_mesenchyme,ionocyte,lateral_line,mesenchyme,neural,periderm,spinal_cord
  24-34,0,0,0,0,0,0.76,0,0
  36-46,0,0,0,0,1.21,0,0.98,0
  48-58,0,0,1.82,0,0,2.21,0,0.77

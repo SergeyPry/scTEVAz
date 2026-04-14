@@ -1,4 +1,4 @@
-stage,Ionocyte,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Pancreatic.cell
+stage,Ionocyte,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Pancreatic_cell
 24hpf,0,1,0,3,0
-72hpf,0.281848056003223,0,0.281848056003223,0.281848056003223,0
-3Month,0,0,0,0,0.104017006644673
+72hpf,0.28,0,0.28,0.28,0
+3Month,0,0,0,0,0.1

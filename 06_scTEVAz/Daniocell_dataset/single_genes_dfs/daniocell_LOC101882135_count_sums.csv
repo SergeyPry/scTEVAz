@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fast.muscle,fin.epithelia,glial,ionocyte,mucous,mural.cell,muscle,neural,olfactory,periderm,presomitic.mesoderm,slow.muscle,somites,spinal.cord
+stage,epidermis,erythrocytes,eye,fast_muscle,fin_epithelia,glial,ionocyte,mucous,mural_cell,muscle,neural,olfactory,periderm,presomitic_mesoderm,slow_muscle,somites,spinal_cord
  14-21,0,0,0,0,0,0,0,0,0,0,0.96,0,0,0.92,0,4.81,0
  24-34,0,0,0,0,0,0,0,0,0,0.79,0,2.44,0,0,1.19,0,0
  36-46,0,0,1.19,1.87,0,0,0,0,0,0,2.44,0,0,0,0,0,0.63

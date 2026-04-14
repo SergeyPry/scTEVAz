@@ -1,6 +1,6 @@
-stage,Hepatocyte,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Osteoblast,Primordial.germ.cell
-24hpf,0,0,0,32.6912365828014,0,0
-72hpf,0,0,13.907284839059,1.06979114146608,1.06979114146608,0
-21Day,0,0,4.01559926460992,0,0,0
-3Month,0,0,0,0,0,0.639898599108391
-22Month,1.09330930239487,0.546654651197433,0,0,0,4.37323720957947
+stage,Hepatocyte,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Osteoblast,Primordial_germ_cell
+24hpf,0,0,0,32.69,0,0
+72hpf,0,0,13.91,1.07,1.07,0
+21Day,0,0,4.02,0,0,0
+3Month,0,0,0,0,0,0.64
+22Month,1.09,0.55,0,0,0,4.37

@@ -1,4 +1,4 @@
-stage,epidermis,eye,ionocyte,mesenchyme,mucous,neural,otic,paraxial.mesoderm,periderm,somites
+stage,epidermis,eye,ionocyte,mesenchyme,mucous,neural,otic,paraxial_mesoderm,periderm,somites
   7-9,0,2.63,0,0,0,23.66,0,2.63,5.26,0
  10-12,0,3.15,0,0,0,59.79,0,6.29,3.15,0
  14-21,0,0,1,1,0,2,0,0,9,1

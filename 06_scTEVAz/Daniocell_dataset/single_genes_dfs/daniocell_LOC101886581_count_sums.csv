@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,glial,immune,neural,olfactory,otic,paraxial.mesoderm,spinal.cord
+stage,endoderm,epidermis,eye,glial,immune,neural,olfactory,otic,paraxial_mesoderm,spinal_cord
   7-9,0,0,4.08,0,0,4.47,0,0,3.64,0
  10-12,7.2,0,0,0,0,0,0,0,0,0
  24-34,0,0.71,0,0,0,0,1.4,0,0,0

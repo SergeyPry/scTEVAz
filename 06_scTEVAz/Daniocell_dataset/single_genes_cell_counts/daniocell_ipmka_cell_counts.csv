@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,endoderm,eye,glial,gut,hatching.gland,liver,melanocytes,mesenchyme,neural,otic,paraxial.mesoderm,periderm,spinal.cord
+stage,blastomeres,endocrine_pancreas,endoderm,eye,glial,gut,hatching_gland,liver,melanocytes,mesenchyme,neural,otic,paraxial_mesoderm,periderm,spinal_cord
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,2.63,0,0,0,0,0,0,0,2.63,0,5.26,7.89,0
  10-12,0,0,0,3.15,0,0,3.15,0,0,0,6.29,0,3.15,0,0

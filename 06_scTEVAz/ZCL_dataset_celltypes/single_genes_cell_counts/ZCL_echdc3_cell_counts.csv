@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Hepatocyte,Mesenchymal.cell,Neural.cell,Pancreatic.cell
-72hpf,0,0,0.281848056003223,0.563696112006446,0
-21Day,0.739973720528564,0,0,0,0
-3Month,0,0.312051019934018,0,0,0.104017006644673
+stage,Epithelial_cell,Hepatocyte,Mesenchymal_cell,Neural_cell,Pancreatic_cell
+72hpf,0,0,0.28,0.56,0
+21Day,0.74,0,0,0,0
+3Month,0,0.31,0,0,0.1

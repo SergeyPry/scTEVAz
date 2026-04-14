@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,immune,iridophores,liver,melanocytes,mesenchyme,muscle,neural,notochord,otic,paraxial.mesoderm,periderm,presomitic.mesoderm,pronephros,spinal.cord,xanthophores
+stage,blastomeres,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,immune,iridophores,liver,melanocytes,mesenchyme,muscle,neural,notochord,otic,paraxial_mesoderm,periderm,presomitic_mesoderm,pronephros,spinal_cord,xanthophores
   5-6,6.93,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,12.81,0,0,0,0,0,0,0,0,0,8.04,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,8.02,0,0,6.59,0,0,0,0,0

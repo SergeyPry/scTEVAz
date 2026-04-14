@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Epithelial.cell,Epithelial.cell..Brain.,Erythrocyte,Immune.progenitor.cell,Keratinocyte,Macrophage,Mesenchymal.cell,Muscle.cell,Neural.cell,Neural.progenitor.cell,Pancreatic.cell,Radial.glia
+stage,Cardiomyocyte,Epithelial_cell,Epithelial_cell__Brain_,Erythrocyte,Immune_progenitor_cell,Keratinocyte,Macrophage,Mesenchymal_cell,Muscle_cell,Neural_cell,Neural_progenitor_cell,Pancreatic_cell,Radial_glia
 24hpf,0,0,0,0,0,0,0,1,0,0,3,0,0
-72hpf,0,0,0,0,0,0.281848056003223,0.281848056003223,0.281848056003223,0,1.12739222401289,0.563696112006446,0,0
-21Day,0.369986860264282,0.369986860264282,0.369986860264282,0.369986860264282,0.369986860264282,0,0,0.369986860264282,0.369986860264282,0,0,0.369986860264282,0.369986860264282
+72hpf,0,0,0,0,0,0.28,0.28,0.28,0,1.13,0.56,0,0
+21Day,0.37,0.37,0.37,0.37,0.37,0,0,0.37,0.37,0,0,0.37,0.37

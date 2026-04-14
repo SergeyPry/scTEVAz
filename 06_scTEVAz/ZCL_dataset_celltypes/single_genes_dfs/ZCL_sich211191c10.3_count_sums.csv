@@ -1,4 +1,4 @@
-stage,Endothelial.cell,Epithelial.cell,Granulocyte,Immune.cell,Ionocyte,Macrophage,Mesenchymal.cell,Muscle.cell,T.cell
-24hpf,0,0,0,0,0,4.08640457285017,0,0,0
-21Day,0,0,0,0,0,2.67706617640661,5.35413235281323,0,4.01559926460992
-3Month,0.319949299554195,0.319949299554195,1.91969579732517,2.55959439643356,0.319949299554195,0,0.319949299554195,0.319949299554195,3.19949299554195
+stage,Endothelial_cell,Epithelial_cell,Granulocyte,Immune_cell,Ionocyte,Macrophage,Mesenchymal_cell,Muscle_cell,T_cell
+24hpf,0,0,0,0,0,4.09,0,0,0
+21Day,0,0,0,0,0,2.68,5.35,0,4.02
+3Month,0.32,0.32,1.92,2.56,0.32,0,0.32,0.32,3.2

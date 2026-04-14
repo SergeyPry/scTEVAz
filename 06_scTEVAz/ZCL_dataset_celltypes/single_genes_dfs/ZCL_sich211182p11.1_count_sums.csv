@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Hepatocyte,Immune.cell,Immune.progenitor.cell,Ionocyte,Keratinocyte,Neural.cell
-21Day,4.01559926460992,0,0,0,4.01559926460992,6.69266544101654,1.33853308820331
-3Month,2.23964509687937,0.319949299554195,0,0.319949299554195,0,0,0.319949299554195
-22Month,0,0.546654651197433,0.546654651197433,0,0,0,0
+stage,Epithelial_cell,Hepatocyte,Immune_cell,Immune_progenitor_cell,Ionocyte,Keratinocyte,Neural_cell
+21Day,4.02,0,0,0,4.02,6.69,1.34
+3Month,2.24,0.32,0,0.32,0,0,0.32
+22Month,0,0.55,0.55,0,0,0,0

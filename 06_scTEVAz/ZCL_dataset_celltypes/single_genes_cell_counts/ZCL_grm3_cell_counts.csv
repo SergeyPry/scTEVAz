@@ -1,5 +1,5 @@
-stage,Cardiomyocyte,Erythrocyte,Hepatocyte,Intestinal.bulb.cell,Ionocyte,Mesenchymal.cell,Mesenchymal.cell..caudal.fin.,Neural.cell,Neural.progenitor.cell,Neurosecretory.cell,Osteoblast,Radial.glia,T.cell
-72hpf,0.563696112006446,0.281848056003223,0,0,0,0,0,1.40924028001612,0.84554416800967,0,0,2.25478444802579,0
-21Day,0,0,0,0,0,0,0,0.739973720528564,1.47994744105713,0,0.739973720528564,1.47994744105713,0
-3Month,0,0,0.312051019934018,0.104017006644673,0.104017006644673,0.312051019934018,0.312051019934018,0,0.104017006644673,0.104017006644673,0,0.104017006644673,0
-22Month,0,0,1.09319545590506,0,0,0.273298863976266,0,0,0,0,0,0,0.136649431988133
+stage,Cardiomyocyte,Erythrocyte,Hepatocyte,Intestinal_bulb_cell,Ionocyte,Mesenchymal_cell,Mesenchymal_cell__caudal_fin_,Neural_cell,Neural_progenitor_cell,Neurosecretory_cell,Osteoblast,Radial_glia,T_cell
+72hpf,0.56,0.28,0,0,0,0,0,1.41,0.85,0,0,2.25,0
+21Day,0,0,0,0,0,0,0,0.74,1.48,0,0.74,1.48,0
+3Month,0,0,0.31,0.1,0.1,0.31,0.31,0,0.1,0.1,0,0.1,0
+22Month,0,0,1.09,0,0,0.27,0,0,0,0,0,0,0.14

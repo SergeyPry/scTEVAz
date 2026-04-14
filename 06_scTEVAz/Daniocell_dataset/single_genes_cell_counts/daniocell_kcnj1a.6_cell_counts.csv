@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,glial,gut,immune,ionocyte,liver,mesenchyme,mucous,muscle,neural,periderm,spinal.cord,vasculature
+stage,epidermis,eye,fin_epithelia,glial,gut,immune,ionocyte,liver,mesenchyme,mucous,muscle,neural,periderm,spinal_cord,vasculature
  14-21,1,0,0,0,0,0,20,0,0,5,1,0,1,0,0
  24-34,0.82,0,0.82,0,0,0,75.52,0,0.82,22.16,0,6.57,0.82,0,0.82
  36-46,1.61,1.61,0.81,0.81,0,0,42.7,0,0.81,8.86,0,9.67,0.81,1.61,0

@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,endoderm,eye,glial,gut,hatching.gland,immune,lateral.line,mesenchyme,mucous,muscle,neural,olfactory,otic,paraxial.mesoderm,periderm,presomitic.mesoderm,pronephros,somites,spinal.cord,taste,vasculature
+stage,blastomeres,endocrine_pancreas,endoderm,eye,glial,gut,hatching_gland,immune,lateral_line,mesenchyme,mucous,muscle,neural,olfactory,otic,paraxial_mesoderm,periderm,presomitic_mesoderm,pronephros,somites,spinal_cord,taste,vasculature
   3-4,32.55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12.76,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,9.53,0,0,0,0,0,95.24,0,0,3.15,0,0,0,0,0,0,0

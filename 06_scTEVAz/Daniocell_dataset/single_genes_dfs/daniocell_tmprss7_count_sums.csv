@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,eye,glial,gut,lateral.line,mesenchyme,mural.cell,neural,notochord,olfactory,otic,periderm,pronephros,spinal.cord
+stage,axial,blastomeres,epidermis,eye,glial,gut,lateral_line,mesenchyme,mural_cell,neural,notochord,olfactory,otic,periderm,pronephros,spinal_cord
   3-4,0,13.63,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.86,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,6.45,0,0,0,0,0,0

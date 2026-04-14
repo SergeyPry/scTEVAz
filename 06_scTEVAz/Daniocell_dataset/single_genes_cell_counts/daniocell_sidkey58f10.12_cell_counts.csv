@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,endoderm,epidermis,eye,fast.muscle,glial,gut,immune,ionocyte,iridophores,liver,mesenchyme,muscle,neural,pericytes,periderm,pronephros,somites,spinal.cord
+stage,blastomeres,endocrine_pancreas,endoderm,epidermis,eye,fast_muscle,glial,gut,immune,ionocyte,iridophores,liver,mesenchyme,muscle,neural,pericytes,periderm,pronephros,somites,spinal_cord
   7-9,2.63,0,0,0,0,0,0,0,0,0,0,0,0,0,2.63,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
  24-34,0,0,0,0,0.82,0,0,0,0,0.82,0,2.46,0,0,2.46,0,0,0.82,0,0

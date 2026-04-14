@@ -1,3 +1,3 @@
-stage,Immune.progenitor.cell,Mesenchymal.cell,Muscle.cell
-72hpf,0,0.281848056003223,0
-21Day,0.369986860264282,0,0.369986860264282
+stage,Immune_progenitor_cell,Mesenchymal_cell,Muscle_cell
+72hpf,0,0.28,0
+21Day,0.37,0,0.37

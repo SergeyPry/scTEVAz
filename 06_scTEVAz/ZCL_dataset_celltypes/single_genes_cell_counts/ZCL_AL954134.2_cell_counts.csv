@@ -1,5 +1,5 @@
-stage,Cardiomyocyte,Endothelial.cell,Epithelial.cell,Granulocyte,Granulosa.cell,Hatching.gland,Immune.cell,Intestinal.bulb.cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Osteoblast,Radial.glia,Retinal.pigment.epithelial.cell
+stage,Cardiomyocyte,Endothelial_cell,Epithelial_cell,Granulocyte,Granulosa_cell,Hatching_gland,Immune_cell,Intestinal_bulb_cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Osteoblast,Radial_glia,Retinal_pigment_epithelial_cell
 24hpf,32,0,117,0,0,3,0,0,8,163,6,70,57,647,6,0,2
-72hpf,0.281848056003223,0.563696112006446,0.281848056003223,0,0,0,0,0,0,0,0.281848056003223,0,1.12739222401289,1.40924028001612,0.281848056003223,0.281848056003223,0
-21Day,0,0,1.47994744105713,0,0,0,0,0,0,1.10996058079285,0,1.84993430132141,1.84993430132141,0.739973720528564,0,0.369986860264282,0
-22Month,0,0,0,0.136649431988133,0.136649431988133,0,0.136649431988133,0.273298863976266,0,0,0.136649431988133,0,0,0,0,0,0
+72hpf,0.28,0.56,0.28,0,0,0,0,0,0,0,0.28,0,1.13,1.41,0.28,0.28,0
+21Day,0,0,1.48,0,0,0,0,0,0,1.11,0,1.85,1.85,0.74,0,0.37,0
+22Month,0,0,0,0.14,0.14,0,0.14,0.27,0,0,0.14,0,0,0,0,0,0

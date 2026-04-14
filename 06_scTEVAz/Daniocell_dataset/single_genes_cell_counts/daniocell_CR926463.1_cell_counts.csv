@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,erythrocytes,eye,glial,hatching.gland,lateral.line,mesenchyme,muscle,neural,notochord,olfactory,otic,periderm,presomitic.mesoderm,slow.muscle,spinal.cord,visceral.smooth.muscle,xanthophores
+stage,endoderm,epidermis,erythrocytes,eye,glial,hatching_gland,lateral_line,mesenchyme,muscle,neural,notochord,olfactory,otic,periderm,presomitic_mesoderm,slow_muscle,spinal_cord,visceral_smooth_muscle,xanthophores
   7-9,0,0,0,0,0,2.63,0,0,0,2.63,2.63,0,0,0,0,0,0,0,0
  10-12,3.15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,1,9,1,0,0,0,0,1,1,6,0,1,0,1,2,1,7,0,0

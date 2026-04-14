@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,erythrocytes,eye,glial,gut,ionocyte,lateral.line,melanocytes,mesenchyme,muscle,neural,notochord,olfactory,otic,pericytes,periderm,spinal.cord,taste
+stage,endoderm,epidermis,erythrocytes,eye,glial,gut,ionocyte,lateral_line,melanocytes,mesenchyme,muscle,neural,notochord,olfactory,otic,pericytes,periderm,spinal_cord,taste
  14-21,0,0,0,0,0,0,0,0,0,0,1.14,3.17,0,0,0,0,0,0,0
  24-34,0,0,0,0,0,0,0,0,0,0.86,0.81,9.89,0,0,1.09,0,7.43,2.99,0
  36-46,0,1,0,0.82,0,1.33,0,0,0,0.65,0.6,2.95,0,0,0,0,2.06,1.65,0

@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,gut,heart,immune,mesenchyme,mural.cell,muscle,neural,notochord,paraxial.mesoderm,pericytes,periderm,spinal.cord,vascular.smooth.muscle,vasculature,visceral.smooth.muscle
+stage,blastomeres,epidermis,eye,glial,gut,heart,immune,mesenchyme,mural_cell,muscle,neural,notochord,paraxial_mesoderm,pericytes,periderm,spinal_cord,vascular_smooth_muscle,vasculature,visceral_smooth_muscle
   3-4,10.04,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,14.87,0,12.63,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,1.28,0,0,0,0,0,0,0,0

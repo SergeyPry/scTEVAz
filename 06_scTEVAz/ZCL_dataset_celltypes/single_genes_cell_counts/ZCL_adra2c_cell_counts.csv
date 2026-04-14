@@ -1,5 +1,5 @@
-stage,Epithelial.cell,Erythrocyte,Hepatocyte,Keratinocyte,Neural.cell
+stage,Epithelial_cell,Erythrocyte,Hepatocyte,Keratinocyte,Neural_cell
 24hpf,1,0,0,0,1
-72hpf,0,0,0,0.281848056003223,2.81848056003223
-21Day,0,0.369986860264282,0,0,3.32988174237854
-22Month,0.136649431988133,0,0.273298863976266,0,0
+72hpf,0,0,0,0.28,2.82
+21Day,0,0.37,0,0,3.33
+22Month,0.14,0,0.27,0,0

@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,glial,ionocyte,lateral.line,mesenchyme,muscle,neural,olfactory,otic,paraxial.mesoderm,pronephros,spinal.cord
+stage,blastomeres,endoderm,epidermis,eye,glial,ionocyte,lateral_line,mesenchyme,muscle,neural,olfactory,otic,paraxial_mesoderm,pronephros,spinal_cord
   3-4,15.08,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,17.33,0,0,11.98,0,0
  10-12,0,7.71,0,7.72,0,0,0,0,0,0,0,0,0,0,0

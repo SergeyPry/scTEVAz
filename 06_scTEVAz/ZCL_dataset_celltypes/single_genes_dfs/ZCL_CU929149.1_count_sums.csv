@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Hepatocyte,Immune.cell,Immune.progenitor.cell,Intestinal.bulb.cell,Keratinocyte,T.cell
-21Day,0,0,0,8.03119852921984,0,0,4.01559926460992
-3Month,0.639898599108391,0.319949299554195,0.319949299554195,0,0,0.639898599108391,0.959847898662586
-22Month,0,1.6399639535923,0,0,0.546654651197433,0,1.09330930239487
+stage,Epithelial_cell,Hepatocyte,Immune_cell,Immune_progenitor_cell,Intestinal_bulb_cell,Keratinocyte,T_cell
+21Day,0,0,0,8.03,0,0,4.02
+3Month,0.64,0.32,0.32,0,0,0.64,0.96
+22Month,0,1.64,0,0,0.55,0,1.09

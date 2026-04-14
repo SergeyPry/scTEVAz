@@ -1,4 +1,4 @@
-stage,axial,blastomeres,eye,fin.mesenchyme,immune,neural,notochord,olfactory,periderm,slow.muscle,somites
+stage,axial,blastomeres,eye,fin_mesenchyme,immune,neural,notochord,olfactory,periderm,slow_muscle,somites
   3-4,0,44.02,0,0,0,0,0,0,0,0,0
   5-6,12.55,6.56,0,0,0,0,0,0,11.07,0,0
   7-9,0,0,0,0,0,13.63,4.91,0,0,0,0

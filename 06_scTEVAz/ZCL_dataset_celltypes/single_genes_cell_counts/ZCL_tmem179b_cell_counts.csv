@@ -1,6 +1,6 @@
-stage,Epithelial.cell,Erythrocyte,Goblet.cell,Hatching.gland,Hepatocyte,Intestinal.bulb.cell,Keratinocyte,Macrophage,Mesenchymal.cell,Muscle.cell,Neural.cell,Pancreatic.cell,Primordial.germ.cell,Spermatocyte
+stage,Epithelial_cell,Erythrocyte,Goblet_cell,Hatching_gland,Hepatocyte,Intestinal_bulb_cell,Keratinocyte,Macrophage,Mesenchymal_cell,Muscle_cell,Neural_cell,Pancreatic_cell,Primordial_germ_cell,Spermatocyte
 24hpf,0,0,0,1,0,0,0,0,1,0,0,0,0,0
-72hpf,0,0,0,0,0,0,1.97293639202256,0,0.281848056003223,0,10.7102261281225,0,0,0
-21Day,0,0.369986860264282,0,0,0,0,0,0,0.369986860264282,0.369986860264282,6.2897766244928,0.369986860264282,0,0
-3Month,0.208034013289345,0,0.104017006644673,0,0.208034013289345,0,0,0.104017006644673,0,0,0.208034013289345,0,0.832136053157381,0.312051019934018
-22Month,0,0,0,0,0.136649431988133,0.136649431988133,0,0,0,0,0.273298863976266,0,0.819896591928799,0
+72hpf,0,0,0,0,0,0,1.97,0,0.28,0,10.71,0,0,0
+21Day,0,0.37,0,0,0,0,0,0,0.37,0.37,6.29,0.37,0,0
+3Month,0.21,0,0.1,0,0.21,0,0,0.1,0,0,0.21,0,0.83,0.31
+22Month,0,0,0,0,0.14,0.14,0,0,0,0,0.27,0,0.82,0

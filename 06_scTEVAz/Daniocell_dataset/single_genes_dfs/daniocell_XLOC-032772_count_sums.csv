@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,fin.epithelia,mural.cell,neural,otic,paraxial.mesoderm,periderm,presomitic.mesoderm,somites,spinal.cord
+stage,blastomeres,endoderm,fin_epithelia,mural_cell,neural,otic,paraxial_mesoderm,periderm,presomitic_mesoderm,somites,spinal_cord
   5-6,16.11,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,14.75,0,48.42,0,0,0,0
  10-12,0,3.34,0,0,127.71,0,59.36,0,0,3.24,0

@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.mesenchyme,glial,mesenchyme,muscle,neural
+stage,epidermis,eye,fin_mesenchyme,glial,mesenchyme,muscle,neural
  24-34,0,0,0,0,1.51,0,0
  36-46,0,0,0,0,0.58,0,1.28
  48-58,0,0.66,0,0,0,0,0

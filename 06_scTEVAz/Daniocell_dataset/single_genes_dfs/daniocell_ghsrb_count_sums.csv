@@ -1,4 +1,4 @@
-stage,eye,glial,lateral.line,mesenchyme,mucous,muscle,neural,olfactory,somites,spinal.cord
+stage,eye,glial,lateral_line,mesenchyme,mucous,muscle,neural,olfactory,somites,spinal_cord
   7-9,0,0,0,0,0,0,3.62,0,0,0
  10-12,5.17,0,0,0,0,0,14.25,0,0,0
  14-21,0,0,0,0,0,0,9.39,0,0.82,4.72

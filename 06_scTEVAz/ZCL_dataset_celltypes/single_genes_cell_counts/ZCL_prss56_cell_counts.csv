@@ -1,3 +1,3 @@
-stage,Hepatocyte,Intestinal.bulb.cell,Radial.glia
-3Month,0.208034013289345,0,0.104017006644673
-22Month,0.273298863976266,0.136649431988133,0
+stage,Hepatocyte,Intestinal_bulb_cell,Radial_glia
+3Month,0.21,0,0.1
+22Month,0.27,0.14,0

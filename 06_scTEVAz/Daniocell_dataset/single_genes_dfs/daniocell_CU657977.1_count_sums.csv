@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,mesenchyme,muscle,neural,paraxial.mesoderm,spinal.cord
+stage,epidermis,eye,glial,mesenchyme,muscle,neural,paraxial_mesoderm,spinal_cord
   7-9,0,0,0,0,0,5.71,0,0
  10-12,0,0,0,0,0,19.69,16.35,0
  14-21,0,0.82,0,0,0,0,0,0

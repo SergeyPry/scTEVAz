@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,glial,mesenchyme,neural,notochord,olfactory,otic,spinal.cord
+stage,blastomeres,epidermis,erythrocytes,eye,glial,mesenchyme,neural,notochord,olfactory,otic,spinal_cord
   5-6,8.38,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,4.69,0,0,0,0
  14-21,0,0,0,0,0,0,0.86,0,0,0,0

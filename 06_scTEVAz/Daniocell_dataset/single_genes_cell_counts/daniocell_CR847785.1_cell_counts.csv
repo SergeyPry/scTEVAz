@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fast.muscle,fin.epithelia,gut,immune,iridophores,mesenchyme,neural,paraxial.mesoderm,periderm,slow.muscle,taste,vasculature
+stage,epidermis,erythrocytes,eye,fast_muscle,fin_epithelia,gut,immune,iridophores,mesenchyme,neural,paraxial_mesoderm,periderm,slow_muscle,taste,vasculature
  10-12,0,0,0,0,0,0,0,0,0,3.15,3.15,0,0,0,0
  14-21,0,1,0,0,0,0,0,0,1,0,0,11,0,0,0
  24-34,0,0,0.82,0,0,0,0.82,0,0,2.46,0,33.66,0.82,0,0

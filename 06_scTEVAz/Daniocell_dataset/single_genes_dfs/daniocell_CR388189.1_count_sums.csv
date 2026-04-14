@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,hatching.gland,immune,mesenchyme,muscle,neural,paraxial.mesoderm,periderm
+stage,blastomeres,epidermis,eye,glial,hatching_gland,immune,mesenchyme,muscle,neural,paraxial_mesoderm,periderm
   3-4,10.18,0,0,0,0,0,0,0,0,0,0
   5-6,118.97,0,0,0,0,0,0,0,0,0,8.01
   7-9,0,0,3.56,0,6.42,0,0,0,16.14,11.13,0

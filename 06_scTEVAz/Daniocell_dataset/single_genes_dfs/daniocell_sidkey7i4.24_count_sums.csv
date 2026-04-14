@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,glial,gut,immune,ionocyte,mesenchyme,mural.cell,neural,paraxial.mesoderm,periderm
+stage,blastomeres,endoderm,epidermis,eye,glial,gut,immune,ionocyte,mesenchyme,mural_cell,neural,paraxial_mesoderm,periderm
   3-4,35.35,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,43.46,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,3.85,3.95,3.51

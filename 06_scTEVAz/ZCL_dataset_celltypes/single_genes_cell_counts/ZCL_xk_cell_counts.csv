@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Ionocyte,Neural.cell
+stage,Epithelial_cell,Ionocyte,Neural_cell
 24hpf,0,1,0
-72hpf,0,0,0.281848056003223
-3Month,0.208034013289345,0,0.104017006644673
+72hpf,0,0,0.28
+3Month,0.21,0,0.1

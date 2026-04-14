@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,glial,lateral.line,mesenchyme,neural,spinal.cord
+stage,epidermis,eye,fin_epithelia,glial,lateral_line,mesenchyme,neural,spinal_cord
  24-34,0,0,0,0,0,0,0.61,1.06
  36-46,0,0,0,0,0,0,0.9,0
  48-58,0,0,0,0,0,0,8.24,0.52

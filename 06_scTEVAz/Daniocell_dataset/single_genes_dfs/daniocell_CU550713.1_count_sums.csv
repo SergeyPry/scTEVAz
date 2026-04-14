@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,eye,fast.muscle,glial,liver,neural,periderm,slow.muscle,vasculature
+stage,endocrine_pancreas,eye,fast_muscle,glial,liver,neural,periderm,slow_muscle,vasculature
  36-46,0,0,0,0,0,0,0,1.04,0
  48-58,0,0,0.51,0,0,0,0,3.46,0
  60-70,0,1.14,0,0,0,4.22,0,0,0

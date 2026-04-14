@@ -1,4 +1,4 @@
-stage,axial,endocrine.pancreas,endoderm,epidermis,exocrine.pancreas,eye,glial,gut,immune,ionocyte,lateral.line,liver,melanocytes,mesenchyme,mural.cell,neural,notochord,pericytes,periderm,pronephros,spinal.cord,taste,vasculature,xanthophores
+stage,axial,endocrine_pancreas,endoderm,epidermis,exocrine_pancreas,eye,glial,gut,immune,ionocyte,lateral_line,liver,melanocytes,mesenchyme,mural_cell,neural,notochord,pericytes,periderm,pronephros,spinal_cord,taste,vasculature,xanthophores
   7-9,20.96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.96,0,0,0,0,0,0,0
  10-12,0,0,11.56,0,0,0,0,0,0,0,0,0,0,0,0,0,24.36,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0.81,0,0,0,0,0,5.46,3.89,0,0,0,0,0,1.55,0

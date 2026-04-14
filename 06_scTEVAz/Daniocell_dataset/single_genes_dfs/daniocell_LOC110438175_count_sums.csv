@@ -1,4 +1,4 @@
-stage,endoderm,eye,fin.epithelia,gut,mesenchyme,muscle,neural,notochord,paraxial.mesoderm,somites
+stage,endoderm,eye,fin_epithelia,gut,mesenchyme,muscle,neural,notochord,paraxial_mesoderm,somites
   7-9,0,0,0,0,0,0,0,5.26,34.35,0
  10-12,0,0,0,0,0,0,0,15.37,39.67,0
  14-21,0.91,0,0,0,0,2.06,0,0,0,9.25

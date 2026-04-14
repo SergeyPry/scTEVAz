@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Erythrocyte,Hepatocyte,Neural.progenitor.cell,Smooth.muscle.cell
+stage,Epithelial_cell,Erythrocyte,Hepatocyte,Neural_progenitor_cell,Smooth_muscle_cell
 24hpf,0,0,0,1,0
-21Day,0,0.369986860264282,0,0,0
-3Month,0.312051019934018,0,0.104017006644673,0,0.104017006644673
+21Day,0,0.37,0,0,0
+3Month,0.31,0,0.1,0,0.1

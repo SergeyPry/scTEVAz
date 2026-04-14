@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,exocrine.pancreas,eye,fin.mesenchyme,lateral.line,mesenchyme,neural,otic,presomitic.mesoderm,somites,spinal.cord
+stage,blastomeres,endoderm,exocrine_pancreas,eye,fin_mesenchyme,lateral_line,mesenchyme,neural,otic,presomitic_mesoderm,somites,spinal_cord
   7-9,4.44,0,0,0,0,0,0,6.78,0,0,0,0
  10-12,0,10.2,0,5.31,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,15.97,0,0.83,0.82,0

@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,exocrine.pancreas,eye,fin.epithelia,glial,gut,liver,mesenchyme,muscle,neural,periderm,somites,spinal.cord,vasculature
+stage,blastomeres,epidermis,exocrine_pancreas,eye,fin_epithelia,glial,gut,liver,mesenchyme,muscle,neural,periderm,somites,spinal_cord,vasculature
   3-4,15.83,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,5.06,0,0,0,0,0,0,4.05,0,0,0,0
  14-21,0,1.03,0,0,0,0,0,0,1.4,1.58,1.03,0,0,0.88,0

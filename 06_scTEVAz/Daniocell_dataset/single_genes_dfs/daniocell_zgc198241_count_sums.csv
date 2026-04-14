@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fast.muscle,gut,hatching.gland,liver,mesenchyme,muscle,neural,periderm
+stage,blastomeres,epidermis,eye,fast_muscle,gut,hatching_gland,liver,mesenchyme,muscle,neural,periderm
   3-4,24.08,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,3.27,0,0,0,0,0
  24-34,0,0,0,0,0,0,0,0,0.61,0,0

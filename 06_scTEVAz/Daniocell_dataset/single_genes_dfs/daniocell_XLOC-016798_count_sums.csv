@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,heart,ionocyte,mesenchyme,mucous,muscle,neural,otic,paraxial.mesoderm
+stage,blastomeres,epidermis,eye,glial,heart,ionocyte,mesenchyme,mucous,muscle,neural,otic,paraxial_mesoderm
   3-4,28.9,0,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,38.26,0,8.37
  14-21,0,0,0,0,0,32.87,4.11,0,7.02,1.29,0,0

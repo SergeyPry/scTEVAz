@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,fin.mesenchyme,glial,gut,immune,lateral.line,liver,mesenchyme,mural.cell,neural,periderm,vasculature
+stage,endocrine_pancreas,epidermis,eye,fin_mesenchyme,glial,gut,immune,lateral_line,liver,mesenchyme,mural_cell,neural,periderm,vasculature
   7-9,0,0,0,0,0,0,0,0,0,0,0,9.24,0,0
  24-34,0,0,0,0,0,0.69,0,0,0,0,0,0,0,0
  36-46,0,0,0,0,0,0,0,0,0,0,0,0,0,0.68

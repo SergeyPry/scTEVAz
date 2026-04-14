@@ -1,4 +1,4 @@
-stage,Hepatocyte,Immune.progenitor.cell,Neural.progenitor.cell,Primordial.germ.cell,T.cell
-72hpf,0,0,1.06979114146608,0,0
-3Month,0,0,0,0.319949299554195,0.319949299554195
-22Month,0.546654651197433,0.546654651197433,0,0,0
+stage,Hepatocyte,Immune_progenitor_cell,Neural_progenitor_cell,Primordial_germ_cell,T_cell
+72hpf,0,0,1.07,0,0
+3Month,0,0,0,0.32,0.32
+22Month,0.55,0.55,0,0,0

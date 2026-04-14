@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Epithelial.cell,Keratinocyte,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Osteoblast
-24hpf,4.08640457285017,0,0,0,0,36.7776411556516,0
-72hpf,0,1.06979114146608,2.13958228293216,1.06979114146608,0,0,0
-21Day,0,0,0,0,2.67706617640661,0,1.33853308820331
+stage,Cardiomyocyte,Epithelial_cell,Keratinocyte,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Osteoblast
+24hpf,4.09,0,0,0,0,36.78,0
+72hpf,0,1.07,2.14,1.07,0,0,0
+21Day,0,0,0,0,2.68,0,1.34

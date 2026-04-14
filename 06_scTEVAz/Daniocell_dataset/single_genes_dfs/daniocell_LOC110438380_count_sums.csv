@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,erythrocytes,eye,glial,hatching.gland,immune,mesenchyme,neural,spinal.cord
+stage,endocrine_pancreas,erythrocytes,eye,glial,hatching_gland,immune,mesenchyme,neural,spinal_cord
   7-9,0,0,0,0,4.77,0,0,0,0
  24-34,0,0,0,0,0,0,0,8.54,1.81
  36-46,0,0,4.48,1.24,0,0,0,25.3,5.71

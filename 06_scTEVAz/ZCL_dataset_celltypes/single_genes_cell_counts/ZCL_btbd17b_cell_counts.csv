@@ -1,5 +1,5 @@
-stage,Cardiomyocyte,Epithelial.cell,Intestinal.bulb.cell,Keratinocyte,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,T.cell
+stage,Cardiomyocyte,Epithelial_cell,Intestinal_bulb_cell,Keratinocyte,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,T_cell
 24hpf,1,0,0,0,1,0,10,0
-72hpf,0,0,0,0,0.281848056003223,1.69108833601934,0,0
-21Day,0,0,0,0.369986860264282,1.10996058079285,4.80982918343567,0.369986860264282,0.369986860264282
-22Month,0,0.136649431988133,0.136649431988133,0,0,0,0,0
+72hpf,0,0,0,0,0.28,1.69,0,0
+21Day,0,0,0,0.37,1.11,4.81,0.37,0.37
+22Month,0,0.14,0.14,0,0,0,0,0

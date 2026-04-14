@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,erythrocytes,exocrine.pancreas,eye,glial,gut,lateral.line,mesenchyme,muscle,neural,olfactory,periderm,slow.muscle,somites,spinal.cord,vasculature
+stage,axial,blastomeres,endoderm,epidermis,erythrocytes,exocrine_pancreas,eye,glial,gut,lateral_line,mesenchyme,muscle,neural,olfactory,periderm,slow_muscle,somites,spinal_cord,vasculature
   3-4,0,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,2.63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,1,0,0,0,0,0,0,0,0,4,0,0,3,1,0,0

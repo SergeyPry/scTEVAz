@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,exocrine.pancreas,eye,glial,iridophores,mesenchyme,neural,olfactory,otic,periderm,spinal.cord,vasculature
+stage,epidermis,erythrocytes,exocrine_pancreas,eye,glial,iridophores,mesenchyme,neural,olfactory,otic,periderm,spinal_cord,vasculature
  14-21,0,0,0,0,0,0.87,0.95,0,0,0,0,0,0
  24-34,0,0,0,0.83,0,0,0,6.82,1.36,0,0,0,0
  36-46,0,0,0,0,0,0,0,4.68,0,0,2.35,0,0

@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,fast.muscle,fin.epithelia,glial,gut,hatching.gland,mesenchyme,muscle,neural,olfactory,otic,spinal.cord,vasculature
+stage,axial,blastomeres,endoderm,epidermis,eye,fast_muscle,fin_epithelia,glial,gut,hatching_gland,mesenchyme,muscle,neural,olfactory,otic,spinal_cord,vasculature
   3-4,0,12.24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,6.37,0,0,0,0,0,0,0,0,3.82,0,0,14.03,0,0,0,0
  14-21,0,0,0.96,0,0,0,0,0,0,0,0,0,12.46,0,0,5.41,0

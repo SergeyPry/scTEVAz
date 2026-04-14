@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,fin.epithelia,fin.mesenchyme,glial,iridophores,mesenchyme,mucous,muscle,neural,periderm,spinal.cord
+stage,blastomeres,epidermis,fin_epithelia,fin_mesenchyme,glial,iridophores,mesenchyme,mucous,muscle,neural,periderm,spinal_cord
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,2,0,0
  36-46,0,0,0,0,0,0.81,0.81,0,0,0,0,1.61

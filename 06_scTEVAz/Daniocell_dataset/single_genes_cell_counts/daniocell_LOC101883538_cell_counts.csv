@@ -1,4 +1,4 @@
-stage,eye,glial,immune,lateral.line,neural,olfactory,otic,spinal.cord
+stage,eye,glial,immune,lateral_line,neural,olfactory,otic,spinal_cord
  14-21,0,0,0,0,1,0,0,0
  24-34,0,0,0,0,6.57,0,0,0.82
  36-46,0,0,0,0,9.67,0,0,0

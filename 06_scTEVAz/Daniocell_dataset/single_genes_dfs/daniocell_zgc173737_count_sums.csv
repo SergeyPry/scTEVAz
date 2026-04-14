@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,fin.mesenchyme,gut,hatching.gland,immune,ionocyte,lateral.line,mesenchyme,mucous,neural,notochord,olfactory,otic,periderm,taste
+stage,blastomeres,epidermis,fin_mesenchyme,gut,hatching_gland,immune,ionocyte,lateral_line,mesenchyme,mucous,neural,notochord,olfactory,otic,periderm,taste
   3-4,77.66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,46.88,0,0,0,0,0,0,0,0,0,0,0,0,0,26.15,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,5.22,0,0,0,0

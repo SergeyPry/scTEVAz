@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,glial,lateral.line,liver,mesenchyme,muscle,neural,olfactory,otic,periderm,spinal.cord
+stage,endocrine_pancreas,epidermis,eye,glial,lateral_line,liver,mesenchyme,muscle,neural,olfactory,otic,periderm,spinal_cord
  14-21,0,0,0,0,0,0,1.14,0.87,1.77,0,0,0,1.15
  24-34,0,0,0.79,0,0,0,0,0,7.21,0,0,0,0.61
  36-46,0,0,0,0.96,0,0,0,0,3.08,0,0,0,3.13

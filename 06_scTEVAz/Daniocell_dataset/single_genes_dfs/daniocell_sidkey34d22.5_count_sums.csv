@@ -1,4 +1,4 @@
-stage,epidermis,eye,hatching.gland,heart,immune,mesenchyme,mural.cell,neural,olfactory,vascular.smooth.muscle,vasculature
+stage,epidermis,eye,hatching_gland,heart,immune,mesenchyme,mural_cell,neural,olfactory,vascular_smooth_muscle,vasculature
  10-12,0,0,8.04,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,1.02,0,0,0,0,0,0
  24-34,0,0,0,0,4.51,0,0,1.45,0,0,0

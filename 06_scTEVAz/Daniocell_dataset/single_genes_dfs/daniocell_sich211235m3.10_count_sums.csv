@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,fin.mesenchyme,glial,hatching.gland,immune,ionocyte,lateral.line,mesenchyme,mural.cell,muscle,neural,otic,paraxial.mesoderm,periderm,spinal.cord,vasculature
+stage,axial,blastomeres,endoderm,epidermis,eye,fin_mesenchyme,glial,hatching_gland,immune,ionocyte,lateral_line,mesenchyme,mural_cell,muscle,neural,otic,paraxial_mesoderm,periderm,spinal_cord,vasculature
   3-4,0,268.41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38.86,0,0
   5-6,0,120.08,0,0,0,0,0,0,0,0,0,0,0,0,25.16,0,0,20.44,0,0
   7-9,13.59,0,0,0,11.11,0,0,0,0,0,0,0,0,0,85.09,0,0,5.78,0,0

@@ -1,6 +1,6 @@
-stage,Epithelial.cell,Hepatocyte,Intestinal.bulb.cell,Keratinocyte,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Osteoblast,Primordial.germ.cell,Retinal.cell,Spermatocyte
-24hpf,8.17280914570035,0,0,4.08640457285017,0,0,0,0,0,0,0
-72hpf,0,0,0,0,1.06979114146608,7.48853799026255,2.13958228293216,1.06979114146608,0,0,0
-21Day,0,0,0,0,0,0,0,0,0,2.67706617640661,0
-3Month,0.639898599108391,1.91969579732517,0,0,0,0.639898599108391,0,0,0.959847898662586,0,0.319949299554195
-22Month,0,0.546654651197433,0.546654651197433,0,0,0,0,0,0,0,0
+stage,Epithelial_cell,Hepatocyte,Intestinal_bulb_cell,Keratinocyte,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Osteoblast,Primordial_germ_cell,Retinal_cell,Spermatocyte
+24hpf,8.17,0,0,4.09,0,0,0,0,0,0,0
+72hpf,0,0,0,0,1.07,7.49,2.14,1.07,0,0,0
+21Day,0,0,0,0,0,0,0,0,0,2.68,0
+3Month,0.64,1.92,0,0,0,0.64,0,0,0.96,0,0.32
+22Month,0,0.55,0.55,0,0,0,0,0,0,0,0

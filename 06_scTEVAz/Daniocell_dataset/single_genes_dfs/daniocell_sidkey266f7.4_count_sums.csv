@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,fin.epithelia,immune,lateral.line,mesenchyme,mucous,spinal.cord,taste
+stage,blastomeres,epidermis,erythrocytes,fin_epithelia,immune,lateral_line,mesenchyme,mucous,spinal_cord,taste
   3-4,11.61,0,0,0,0,0,0,0,0,0
  24-34,0,0,0,0,0,0,0,0.95,0,0
  36-46,0,1.44,0,0,0,0,0,0,0,0

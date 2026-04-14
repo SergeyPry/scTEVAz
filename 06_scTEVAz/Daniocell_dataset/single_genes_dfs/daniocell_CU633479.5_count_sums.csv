@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,erythrocytes,eye,fast.muscle,hatching.gland,liver,mesenchyme,muscle,neural,periderm,slow.muscle,taste
+stage,blastomeres,endoderm,epidermis,erythrocytes,eye,fast_muscle,hatching_gland,liver,mesenchyme,muscle,neural,periderm,slow_muscle,taste
   5-6,6.92,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,3.56,0,0,0,0,0,0,0
  10-12,0,5.52,0,0,0,0,0,0,0,0,7.05,0,0,0

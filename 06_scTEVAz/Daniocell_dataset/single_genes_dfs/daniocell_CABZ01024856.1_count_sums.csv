@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,fast.muscle,fin.mesenchyme,glial,mesenchyme,muscle,neural,paraxial.mesoderm,periderm,presomitic.mesoderm,pronephros,somites,spinal.cord
+stage,axial,blastomeres,endoderm,epidermis,eye,fast_muscle,fin_mesenchyme,glial,mesenchyme,muscle,neural,paraxial_mesoderm,periderm,presomitic_mesoderm,pronephros,somites,spinal_cord
   3-4,10.53,274.3,0,0,0,0,0,0,0,0,0,0,30.78,0,0,0,0
   5-6,7.05,161.35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,11.59,0,0,10.07,0,0,0,0,0,20.42,17.39,0,0,0,0,0

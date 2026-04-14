@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,gut,heart,melanocytes,mesenchyme,muscle,neural,notochord,otic,pericytes,periderm,pgc,pronephros,slow.muscle,somites,spinal.cord,vasculature,xanthophores
+stage,blastomeres,epidermis,eye,glial,gut,heart,melanocytes,mesenchyme,muscle,neural,notochord,otic,pericytes,periderm,pgc,pronephros,slow_muscle,somites,spinal_cord,vasculature,xanthophores
   3-4,12.79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,3.12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0.92,0.89,0,0.82,0,0,0.83,0,9.44,1.84,0,0,0,1.53,0,1.53,0.95,8.33,0,0

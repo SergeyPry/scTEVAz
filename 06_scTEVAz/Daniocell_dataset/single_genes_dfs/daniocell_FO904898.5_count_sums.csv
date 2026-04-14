@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,gut,immune,melanocytes,mesenchyme,mucous,muscle,neural,olfactory,somites,vasculature,xanthophores
+stage,epidermis,eye,fin_epithelia,gut,immune,melanocytes,mesenchyme,mucous,muscle,neural,olfactory,somites,vasculature,xanthophores
   7-9,0,0,0,0,0,0,0,0,0,14.65,0,0,0,0
  14-21,1.48,0,0,0,0,0,0,0,0,0,0,0.92,0,0
  24-34,2.35,0,0,0,0,0,0,0,0,3.45,0,0,0,0

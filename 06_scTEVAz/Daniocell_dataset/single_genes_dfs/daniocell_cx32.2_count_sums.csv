@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,erythrocytes,eye,glial,gut,heart,immune,liver,mesenchyme,muscle,neural,otic,periderm,spinal.cord,vasculature,visceral.smooth.muscle
+stage,endoderm,epidermis,erythrocytes,eye,glial,gut,heart,immune,liver,mesenchyme,muscle,neural,otic,periderm,spinal_cord,vasculature,visceral_smooth_muscle
   7-9,0,0,0,0,0,0,0,0,0,0,0,10.84,0,0,0,0,0
  10-12,8.35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,23.99,0,0,0,9.37,0,0,1.86,0,0

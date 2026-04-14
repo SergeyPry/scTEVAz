@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fast.muscle,fin.epithelia,gut,immune,ionocyte,liver,mesenchyme,neural,periderm,vasculature
+stage,epidermis,erythrocytes,eye,fast_muscle,fin_epithelia,gut,immune,ionocyte,liver,mesenchyme,neural,periderm,vasculature
  14-21,0,0,0,0,0,0,4,0,0,0,0,0,0
  24-34,0,0,0,0,0,0,30.37,0,0,0,0,0,0.82
  36-46,0,0.81,0,0,0,0,37.06,0,0,0,1.61,0,0

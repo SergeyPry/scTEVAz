@@ -1,4 +1,4 @@
-stage,erythrocytes,eye,fin.mesenchyme,glial,immune,ionocyte,iridophores,lateral.line,mesenchyme,muscle,neural,notochord,olfactory,otic,periderm,pronephros,spinal.cord,vascular.smooth.muscle,vasculature
+stage,erythrocytes,eye,fin_mesenchyme,glial,immune,ionocyte,iridophores,lateral_line,mesenchyme,muscle,neural,notochord,olfactory,otic,periderm,pronephros,spinal_cord,vascular_smooth_muscle,vasculature
  14-21,0,0,0,0,0,0.9,0,0,0,0,0,0,0,0,0,0,1.88,0,0
  24-34,0,0,0,0,0,3.23,0,0,0,0,0,13.42,0,2.91,0.64,0,1.89,0,0
  36-46,0,0,0.62,4.96,0,0,0,0,0,0,1.21,14.29,1.25,0,0,0,2.55,0,0

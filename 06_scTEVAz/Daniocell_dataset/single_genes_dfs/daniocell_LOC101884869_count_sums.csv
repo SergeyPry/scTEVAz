@@ -1,4 +1,4 @@
-stage,axial,epidermis,erythrocytes,eye,fin.mesenchyme,glial,hatching.gland,heart,ionocyte,mesenchyme,muscle,neural,olfactory,otic,periderm,presomitic.mesoderm,somites,spinal.cord,vasculature
+stage,axial,epidermis,erythrocytes,eye,fin_mesenchyme,glial,hatching_gland,heart,ionocyte,mesenchyme,muscle,neural,olfactory,otic,periderm,presomitic_mesoderm,somites,spinal_cord,vasculature
   7-9,3.32,0,0,5.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,2.15,0,0,0,0,0,0,0,0,0,11.97,0,0,0,1.31,1.33,3.33,0
  24-34,0,0,0,0,0,0,0,0,0,7.15,1.2,10.54,1.92,0,2.45,0,0,4.16,1.08

@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,fast.muscle,fin.epithelia,ionocyte,mesenchyme,mucous,mural.cell,muscle,neural,paraxial.mesoderm,periderm,slow.muscle,vasculature,visceral.smooth.muscle
+stage,blastomeres,epidermis,erythrocytes,eye,fast_muscle,fin_epithelia,ionocyte,mesenchyme,mucous,mural_cell,muscle,neural,paraxial_mesoderm,periderm,slow_muscle,vasculature,visceral_smooth_muscle
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,6.29,3.15,0,0,0,0
  24-34,0,0,0,0.82,0,0,0,0.82,0,0,0.82,0.82,0,7.39,0,0,0

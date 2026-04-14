@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,exocrine.pancreas,eye,fast.muscle,hatching.gland,ionocyte,iridophores,mesenchyme,muscle,neural,notochord,paraxial.mesoderm,periderm,presomitic.mesoderm,pronephros
+stage,blastomeres,endoderm,epidermis,exocrine_pancreas,eye,fast_muscle,hatching_gland,ionocyte,iridophores,mesenchyme,muscle,neural,notochord,paraxial_mesoderm,periderm,presomitic_mesoderm,pronephros
   5-6,28.76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,10.14,0,0,0,0,4.54,0,0,0,0,31.88,0,7.63,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,8.29,0,5.2,0,0,19.91

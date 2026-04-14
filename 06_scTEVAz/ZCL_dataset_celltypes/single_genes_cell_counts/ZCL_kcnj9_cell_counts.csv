@@ -1,4 +1,4 @@
-stage,Goblet.cell,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell
-72hpf,0,0,0,0,0,2.25478444802579,0.84554416800967
-21Day,0,0,0,0,0,0.739973720528564,0
-22Month,0.136649431988133,0.546597727952532,0.273298863976266,0.136649431988133,0.136649431988133,0,0
+stage,Goblet_cell,Hepatocyte,Immune_cell,Intestinal_bulb_cell,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell
+72hpf,0,0,0,0,0,2.25,0.85
+21Day,0,0,0,0,0,0.74,0
+22Month,0.14,0.55,0.27,0.14,0.14,0,0

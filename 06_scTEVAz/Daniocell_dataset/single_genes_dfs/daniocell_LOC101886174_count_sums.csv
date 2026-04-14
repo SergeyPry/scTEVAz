@@ -1,4 +1,4 @@
-stage,endoderm,eye,glial,gut,melanocytes,mesenchyme,muscle,neural,otic,spinal.cord,vasculature,visceral.smooth.muscle
+stage,endoderm,eye,glial,gut,melanocytes,mesenchyme,muscle,neural,otic,spinal_cord,vasculature,visceral_smooth_muscle
  24-34,0.7,0,0,0,0,0,0.68,11.86,0,0,0,0
  36-46,0,0,0,0,0,0,0,0,0.97,0,0,0
  48-58,0,0,1.72,0,0.53,1.38,0.41,13.62,0,0.47,0,0

@@ -1,4 +1,4 @@
-stage,Endothelial.cell,Hepatocyte,Immune.progenitor.cell,Keratinocyte,Neural.cell
-21Day,0,0,0.369986860264282,0.369986860264282,0.369986860264282
-3Month,0.104017006644673,0.104017006644673,0,0,0
-22Month,0,0.409948295964399,0,0,0
+stage,Endothelial_cell,Hepatocyte,Immune_progenitor_cell,Keratinocyte,Neural_cell
+21Day,0,0,0.37,0.37,0.37
+3Month,0.1,0.1,0,0,0
+22Month,0,0.41,0,0,0

@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,glial,gut,liver,mesenchyme,muscle,neural,periderm,somites
+stage,epidermis,eye,fin_epithelia,glial,gut,liver,mesenchyme,muscle,neural,periderm,somites
   7-9,0,0,0,0,0,0,0,0,2.63,0,0
  14-21,0,1,0,0,0,0,0,0,3,1,2
  24-34,0,0,0,0,0,0,0,0,1.64,0,0

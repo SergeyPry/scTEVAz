@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.mesenchyme,glial,mesenchyme,muscle,neural,notochord,periderm,presomitic.mesoderm,spinal.cord,vascular.smooth.muscle,vasculature,xanthophores
+stage,epidermis,eye,fin_mesenchyme,glial,mesenchyme,muscle,neural,notochord,periderm,presomitic_mesoderm,spinal_cord,vascular_smooth_muscle,vasculature,xanthophores
   7-9,0,0,0,0,0,0,19.15,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,10.73,10.22,0,0,0,0,0,0
  14-21,4.1,0,0,0,0,0,3.42,0,0,2.07,0,0,0,0

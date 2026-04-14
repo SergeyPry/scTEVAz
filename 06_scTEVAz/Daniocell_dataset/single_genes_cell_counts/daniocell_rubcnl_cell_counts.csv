@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,fin.epithelia,fin.mesenchyme,glial,immune,lateral.line,mesenchyme,mucous,muscle,neural,otic,paraxial.mesoderm,periderm,pronephros,spinal.cord
+stage,blastomeres,epidermis,erythrocytes,eye,fin_epithelia,fin_mesenchyme,glial,immune,lateral_line,mesenchyme,mucous,muscle,neural,otic,paraxial_mesoderm,periderm,pronephros,spinal_cord
   5-6,12.26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,10.51,0,2.63,0,0,0
  10-12,3.15,0,0,3.15,0,0,0,0,0,0,0,0,12.59,0,3.15,0,0,0

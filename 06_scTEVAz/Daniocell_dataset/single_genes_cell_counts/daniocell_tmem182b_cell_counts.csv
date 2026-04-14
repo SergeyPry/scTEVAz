@@ -1,4 +1,4 @@
-stage,erythrocytes,eye,fast.muscle,immune,mesenchyme,muscle,neural,otic,periderm,slow.muscle,spinal.cord
+stage,erythrocytes,eye,fast_muscle,immune,mesenchyme,muscle,neural,otic,periderm,slow_muscle,spinal_cord
  14-21,0,0,0,0,0,0,0,0,0,2,0
  24-34,0,1.64,0,0,0.82,1.64,2.46,0,0,1.64,0
  36-46,0,0,1.61,0,0,0,2.42,0.81,0,0.81,0

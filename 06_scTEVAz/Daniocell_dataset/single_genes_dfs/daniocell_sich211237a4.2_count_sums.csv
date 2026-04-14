@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,erythrocytes,eye,fast.muscle,fin.epithelia,glial,gut,immune,ionocyte,lateral.line,mesenchyme,mucous,mural.cell,muscle,neural,periderm,spinal.cord,vasculature
+stage,endoderm,epidermis,erythrocytes,eye,fast_muscle,fin_epithelia,glial,gut,immune,ionocyte,lateral_line,mesenchyme,mucous,mural_cell,muscle,neural,periderm,spinal_cord,vasculature
  14-21,0.87,0,0,0,0,0,0,0,0,0,0,1.1,0,0,0,0.99,0.8,0.82,0
  24-34,0,0,0,0,0,0,0,0.64,0,0,0,1.32,0,0,0,4.96,13.08,0,0
  36-46,0,0,0,1.38,0,0,1.72,0,0,0,0,0,0,0,0,3.77,52.63,0,0

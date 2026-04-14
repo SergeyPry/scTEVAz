@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,lateral.line,mesenchyme,muscle,neural,olfactory,periderm,presomitic.mesoderm,somites,spinal.cord
+stage,epidermis,eye,fin_epithelia,lateral_line,mesenchyme,muscle,neural,olfactory,periderm,presomitic_mesoderm,somites,spinal_cord
  14-21,1.63,0,0,0,0.82,0,4.65,0,0,0.82,0.91,2.29
  24-34,0,0,0,0,0.86,0,14.34,0,0.66,0,0,1.27
  36-46,0,0,0,0,0,0,1.16,0,0,0,0,0

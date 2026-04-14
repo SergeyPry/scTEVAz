@@ -1,4 +1,4 @@
-stage,blastomeres,erythrocytes,exocrine.pancreas,eye,heart,mucous,notochord,paraxial.mesoderm,periderm,pronephros,vasculature
+stage,blastomeres,erythrocytes,exocrine_pancreas,eye,heart,mucous,notochord,paraxial_mesoderm,periderm,pronephros,vasculature
   3-4,24.28,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,10.77,0,0,0
  14-21,0,1.1,0,0,0,0,0,0,0,0,0

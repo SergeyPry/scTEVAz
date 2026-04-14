@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,fin.mesenchyme,glial,liver,melanocytes,mesenchyme,neural,otic,paraxial.mesoderm,periderm,vasculature
+stage,axial,blastomeres,endoderm,epidermis,eye,fin_mesenchyme,glial,liver,melanocytes,mesenchyme,neural,otic,paraxial_mesoderm,periderm,vasculature
   3-4,13.18,39.53,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,0,55.17,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,2.63,0,7.89,0,0,0,0,0,36.8,0,5.26,0,0

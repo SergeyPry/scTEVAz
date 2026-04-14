@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,exocrine.pancreas,eye,fin.mesenchyme,glial,heart,mesenchyme,muscle,neural,notochord,olfactory,paraxial.mesoderm,periderm,presomitic.mesoderm,somites,spinal.cord,vasculature
+stage,epidermis,erythrocytes,exocrine_pancreas,eye,fin_mesenchyme,glial,heart,mesenchyme,muscle,neural,notochord,olfactory,paraxial_mesoderm,periderm,presomitic_mesoderm,somites,spinal_cord,vasculature
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,6.29,0,0,0,0,0
  14-21,2,0,0,1,0,0,0,1,1,6,1,0,0,0,4,1,2,1
  24-34,0,0,0,0,0,0,0,1.64,0.82,13.95,0.82,0,0,2.46,0,0.82,2.46,0.82

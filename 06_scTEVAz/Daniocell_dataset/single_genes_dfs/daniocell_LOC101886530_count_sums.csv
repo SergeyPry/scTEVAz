@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,epidermis,erythrocytes,eye,fast.muscle,fin.mesenchyme,glial,gut,hatching.gland,heart,immune,mesenchyme,mural.cell,muscle,neural,olfactory,otic,periderm,slow.muscle,somites,spinal.cord,taste,vasculature,visceral.smooth.muscle
+stage,blastomeres,endocrine_pancreas,epidermis,erythrocytes,eye,fast_muscle,fin_mesenchyme,glial,gut,hatching_gland,heart,immune,mesenchyme,mural_cell,muscle,neural,olfactory,otic,periderm,slow_muscle,somites,spinal_cord,taste,vasculature,visceral_smooth_muscle
   3-4,14.65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,3.82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.52,0,0,0,0,1.02,0,0,0,0

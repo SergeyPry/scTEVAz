@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,eye,fast.muscle,glial,heart,ionocyte,liver,mesenchyme,muscle,neural,notochord,pericytes,periderm,pronephros,slow.muscle,somites,spinal.cord,vasculature,visceral.smooth.muscle,xanthophores
+stage,axial,blastomeres,endoderm,eye,fast_muscle,glial,heart,ionocyte,liver,mesenchyme,muscle,neural,notochord,pericytes,periderm,pronephros,slow_muscle,somites,spinal_cord,vasculature,visceral_smooth_muscle,xanthophores
   5-6,0,13.73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,6.78,0,0,0,0,0,0,0,0,0,0,7.36,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,3.17,1.13,0,6.95,0,1.23,1.75,0,0,0,0

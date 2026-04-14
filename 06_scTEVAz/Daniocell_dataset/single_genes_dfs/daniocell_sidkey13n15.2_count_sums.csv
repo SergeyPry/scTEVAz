@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,fin.epithelia,glial,gut,hatching.gland,iridophores,lateral.line,melanocytes,mesenchyme,neural,olfactory,otic,spinal.cord
+stage,blastomeres,endoderm,epidermis,eye,fin_epithelia,glial,gut,hatching_gland,iridophores,lateral_line,melanocytes,mesenchyme,neural,olfactory,otic,spinal_cord
   3-4,19.64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,15.77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,3.38,0,0,0,0,0,8.95,0,0,0,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,erythrocytes,eye,fast.muscle,glial,hatching.gland,heart,liver,mesenchyme,mucous,mural.cell,muscle,neural,notochord,olfactory,otic,periderm,presomitic.mesoderm,slow.muscle,somites,spinal.cord,vasculature,xanthophores
+stage,endoderm,epidermis,erythrocytes,eye,fast_muscle,glial,hatching_gland,heart,liver,mesenchyme,mucous,mural_cell,muscle,neural,notochord,olfactory,otic,periderm,presomitic_mesoderm,slow_muscle,somites,spinal_cord,vasculature,xanthophores
  14-21,0,4.18,0,0,0,0,0,0,0,1.9,0,0,2.07,40.94,0.82,0,0,0,1.93,0,1.72,5.5,0,0
  24-34,0,0,0,0.59,0,0,0,0,0,4.21,0,0,0,16.32,0,0,1.33,0,0,0.66,0,0.87,1.51,0
  36-46,0,0,0,2.68,0,0,0,0,0,0.64,0,0,0,14.15,0,0.63,0,0,0,0,0,0.72,0,0

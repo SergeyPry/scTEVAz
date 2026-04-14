@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,erythrocytes,eye,glial,gut,heart,immune,ionocyte,liver,mesenchyme,mucous,neural,olfactory,periderm,spinal.cord,taste,vasculature
+stage,endoderm,epidermis,erythrocytes,eye,glial,gut,heart,immune,ionocyte,liver,mesenchyme,mucous,neural,olfactory,periderm,spinal_cord,taste,vasculature
  10-12,3.15,0,0,0,0,0,0,0,0,0,0,0,3.15,0,0,0,0,0
  24-34,0,0,0.82,0,0,0,0,3.28,1.64,0,0,0.82,0,0,0,0.82,0,0.82
  36-46,0,0,0,0,0,0,0,0.81,0,0,0,0,4.03,0,0.81,0,0,0.81

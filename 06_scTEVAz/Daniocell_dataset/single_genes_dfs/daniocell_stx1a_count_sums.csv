@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,exocrine.pancreas,eye,fast.muscle,glial,iridophores,liver,mesenchyme,muscle,neural,notochord,olfactory,paraxial.mesoderm,pericytes,spinal.cord,vasculature,xanthophores
+stage,endoderm,epidermis,exocrine_pancreas,eye,fast_muscle,glial,iridophores,liver,mesenchyme,muscle,neural,notochord,olfactory,paraxial_mesoderm,pericytes,spinal_cord,vasculature,xanthophores
   7-9,0,0,0,4,0,0,0,0,0,0,23.24,0,0,3.29,0,0,0,0
  10-12,5.93,0,0,5.55,0,0,0,0,0,0,66.38,13.66,0,4.98,0,0,0,0
  14-21,0,2.06,0,0,0,0,0,0,0,0,1.32,0,0,0,0,0,0,0

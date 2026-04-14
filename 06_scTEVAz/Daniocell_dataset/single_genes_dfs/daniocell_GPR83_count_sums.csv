@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,erythrocytes,exocrine.pancreas,eye,glial,immune,mesenchyme,neural,spinal.cord
+stage,endocrine_pancreas,erythrocytes,exocrine_pancreas,eye,glial,immune,mesenchyme,neural,spinal_cord
  24-34,0,0.6,0,2.37,0,0,0,7.35,0
  36-46,0,0,0,0,0,0,0,16.84,0
  48-58,0,0,0,4.38,0,0,0,17.87,1.62

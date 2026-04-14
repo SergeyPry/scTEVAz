@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.mesenchyme,liver,mesenchyme,mural.cell,muscle,neural,notochord,paraxial.mesoderm,pericytes,periderm,spinal.cord
+stage,epidermis,erythrocytes,eye,fin_mesenchyme,liver,mesenchyme,mural_cell,muscle,neural,notochord,paraxial_mesoderm,pericytes,periderm,spinal_cord
  10-12,0,0,0,0,0,0,0,0,0,8.53,4.98,0,0,0
  14-21,0,1.02,0,0,0,0,0,1.14,0,0,0,0,0,0
  24-34,0,0,0,0,0,0,0,1.03,0,0,0,0,0,0

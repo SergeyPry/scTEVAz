@@ -1,4 +1,4 @@
-stage,blastomeres,exocrine.pancreas,eye,glial,melanocytes,mesenchyme,mural.cell,muscle,neural,paraxial.mesoderm,pericytes,pronephros,visceral.smooth.muscle
+stage,blastomeres,exocrine_pancreas,eye,glial,melanocytes,mesenchyme,mural_cell,muscle,neural,paraxial_mesoderm,pericytes,pronephros,visceral_smooth_muscle
   3-4,11.28,0,0,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,4.98,0,0,0
  14-21,0,0,0,0,0,0,0,0.88,0,0,0,0,0

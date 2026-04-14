@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,erythrocytes,exocrine.pancreas,eye,glial,hatching.gland,immune,liver,mesenchyme,neural,periderm,spinal.cord,taste,vascular.smooth.muscle,vasculature,visceral.smooth.muscle
+stage,axial,blastomeres,epidermis,erythrocytes,exocrine_pancreas,eye,glial,hatching_gland,immune,liver,mesenchyme,neural,periderm,spinal_cord,taste,vascular_smooth_muscle,vasculature,visceral_smooth_muscle
   3-4,0,42.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,28.41,112.17,0,0,0,0,0,0,0,0,0,7.78,0,0,0,0,0,0
   7-9,0,5.63,0,0,0,0,0,13.19,0,0,0,12.98,0,0,0,0,0,0

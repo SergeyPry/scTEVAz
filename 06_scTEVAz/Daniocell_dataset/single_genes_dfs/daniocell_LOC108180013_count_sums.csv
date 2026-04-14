@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.epithelia,fin.mesenchyme,glial,mesenchyme,mural.cell,muscle,neural,pericytes,presomitic.mesoderm,spinal.cord,vascular.smooth.muscle,vasculature,visceral.smooth.muscle
+stage,epidermis,erythrocytes,eye,fin_epithelia,fin_mesenchyme,glial,mesenchyme,mural_cell,muscle,neural,pericytes,presomitic_mesoderm,spinal_cord,vascular_smooth_muscle,vasculature,visceral_smooth_muscle
   7-9,0,0,0,0,0,0,0,0,0,8.68,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,7.69,0,0,0,0,0,0
  14-21,0.9,4.17,0,0,0,0,0,0,0,7.86,0,1.3,0.97,0,0,0

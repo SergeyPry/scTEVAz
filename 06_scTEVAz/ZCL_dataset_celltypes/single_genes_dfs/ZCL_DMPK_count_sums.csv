@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Epithelial.cell,Goblet.cell,Hepatocyte,Intestinal.bulb.cell,Macrophage,Mesenchymal.cell,Muscle.cell
-24hpf,4.08640457285017,0,0,0,0,0,0,0
-3Month,0,0.319949299554195,0.639898599108391,2.23964509687937,0.319949299554195,1.27979719821678,0.319949299554195,0
-22Month,0,0,1.09330930239487,1.09330930239487,0,0.546654651197433,0,0.546654651197433
+stage,Cardiomyocyte,Epithelial_cell,Goblet_cell,Hepatocyte,Intestinal_bulb_cell,Macrophage,Mesenchymal_cell,Muscle_cell
+24hpf,4.09,0,0,0,0,0,0,0
+3Month,0,0.32,0.64,2.24,0.32,1.28,0.32,0
+22Month,0,0,1.09,1.09,0,0.55,0,0.55

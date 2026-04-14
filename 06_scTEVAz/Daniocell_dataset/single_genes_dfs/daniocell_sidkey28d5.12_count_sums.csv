@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,eye,gut,liver,mesenchyme,mucous,neural,paraxial.mesoderm,periderm,taste,vascular.smooth.muscle
+stage,axial,blastomeres,epidermis,eye,gut,liver,mesenchyme,mucous,neural,paraxial_mesoderm,periderm,taste,vascular_smooth_muscle
   3-4,23.95,288.62,0,0,0,0,0,0,0,0,23.8,0,0
   5-6,0,70.3,0,0,0,0,0,0,0,0,7.22,0,0
   7-9,0,0,0,0,0,0,0,0,0,9.33,0,0,0

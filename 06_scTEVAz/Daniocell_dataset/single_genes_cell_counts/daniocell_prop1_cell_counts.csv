@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,glial,ionocyte,lateral.line,mesenchyme,muscle,neural,olfactory,periderm,slow.muscle,spinal.cord
+stage,endocrine_pancreas,epidermis,eye,glial,ionocyte,lateral_line,mesenchyme,muscle,neural,olfactory,periderm,slow_muscle,spinal_cord
  14-21,0,4,0,0,0,0,0,0,5,0,0,0,0
  24-34,0,8.21,0.82,0,0.82,0.82,0,0,5.75,1.64,0,0,0.82
  36-46,0,1.61,0.81,0,0,0,0.81,0,7.25,0.81,0,0,0

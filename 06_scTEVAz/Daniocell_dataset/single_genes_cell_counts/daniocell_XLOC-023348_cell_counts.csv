@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,glial,lateral.line,liver,mesenchyme,neural,notochord,olfactory,pronephros,spinal.cord,xanthophores
+stage,epidermis,eye,fin_epithelia,glial,lateral_line,liver,mesenchyme,neural,notochord,olfactory,pronephros,spinal_cord,xanthophores
  14-21,0,0,0,0,0,4,0,0,0,0,1,0,0
  24-34,0,0,0,0,0,5.75,0,1.64,0.82,0,7.39,0.82,0
  36-46,0,0.81,0,0,0,0.81,0,0,0.81,0.81,4.03,0.81,0.81

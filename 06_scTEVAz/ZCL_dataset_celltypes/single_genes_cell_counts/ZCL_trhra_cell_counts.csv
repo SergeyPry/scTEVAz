@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Intestinal.bulb.cell,Mesenchymal.cell,Neural.cell,Osteoblast
+stage,Epithelial_cell,Intestinal_bulb_cell,Mesenchymal_cell,Neural_cell,Osteoblast
 24hpf,2,0,0,0,0
-72hpf,0,0,0.281848056003223,1.12739222401289,0.281848056003223
-21Day,0,0.369986860264282,0,0.369986860264282,0
+72hpf,0,0,0.28,1.13,0.28
+21Day,0,0.37,0,0.37,0

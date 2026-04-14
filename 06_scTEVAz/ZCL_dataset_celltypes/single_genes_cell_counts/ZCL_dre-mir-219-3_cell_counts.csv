@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Immune.progenitor.cell,Neural.progenitor.cell
+stage,Cardiomyocyte,Immune_progenitor_cell,Neural_progenitor_cell
 24hpf,1,0,26
-72hpf,0,0,0.563696112006446
-21Day,0,0.369986860264282,0
+72hpf,0,0,0.56
+21Day,0,0.37,0

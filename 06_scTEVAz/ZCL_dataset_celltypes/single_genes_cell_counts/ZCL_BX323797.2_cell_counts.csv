@@ -1,2 +1,2 @@
-stage,Immune.cell,Keratinocyte,Neural.cell,Primordial.germ.cell,Spermatocyte
-3Month,0.104017006644673,0.104017006644673,0.104017006644673,0.416068026578691,2.18435713953813
+stage,Immune_cell,Keratinocyte,Neural_cell,Primordial_germ_cell,Spermatocyte
+3Month,0.1,0.1,0.1,0.42,2.18

@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.epithelia,hatching.gland,lateral.line,mesenchyme,muscle,neural,paraxial.mesoderm,periderm,presomitic.mesoderm,somites,spinal.cord,vasculature
+stage,blastomeres,epidermis,eye,fin_epithelia,hatching_gland,lateral_line,mesenchyme,muscle,neural,paraxial_mesoderm,periderm,presomitic_mesoderm,somites,spinal_cord,vasculature
   3-4,26.36,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,55.17,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,2.63,0,5.26,0,0,0,0,0,13.14,13.14,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,endoderm,eye,mesenchyme,mural.cell,neural,notochord,paraxial.mesoderm,spinal.cord
+stage,endoderm,eye,mesenchyme,mural_cell,neural,notochord,paraxial_mesoderm,spinal_cord
   7-9,0,0,0,0,18.42,4.41,3.68,0
  10-12,3.62,0,0,0,11.05,0,0,0
  24-34,0,0,0,0,0,0,0,0.69

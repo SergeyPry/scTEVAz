@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,glial,heart,mesenchyme,muscle,neural,notochord,otic,paraxial.mesoderm,pronephros,spinal.cord
+stage,blastomeres,endoderm,epidermis,eye,glial,heart,mesenchyme,muscle,neural,notochord,otic,paraxial_mesoderm,pronephros,spinal_cord
   3-4,120.27,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,56.36,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,7.42,0,0,6.7,0,0,0,0,20.98,4.51,0,15.29,0,0

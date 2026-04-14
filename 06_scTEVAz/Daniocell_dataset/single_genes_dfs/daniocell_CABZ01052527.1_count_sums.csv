@@ -1,4 +1,4 @@
-stage,epidermis,exocrine.pancreas,eye,immune,mesenchyme,neural,notochord,paraxial.mesoderm,periderm,spinal.cord,vasculature
+stage,epidermis,exocrine_pancreas,eye,immune,mesenchyme,neural,notochord,paraxial_mesoderm,periderm,spinal_cord,vasculature
   7-9,0,0,0,0,0,16.44,0,4.12,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,1.18,3.7
  24-34,2.23,0,0,0,0,0.81,0,0,0,2.58,4.06

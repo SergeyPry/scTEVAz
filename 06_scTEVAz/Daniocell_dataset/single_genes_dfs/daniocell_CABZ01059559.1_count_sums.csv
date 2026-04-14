@@ -1,4 +1,4 @@
-stage,endoderm,eye,glial,gut,mesenchyme,mural.cell,neural,notochord,otic,paraxial.mesoderm,pericytes,pgc,somites,spinal.cord,vasculature
+stage,endoderm,eye,glial,gut,mesenchyme,mural_cell,neural,notochord,otic,paraxial_mesoderm,pericytes,pgc,somites,spinal_cord,vasculature
   7-9,3.47,0,0,0,0,0,8.14,0,0,0,0,0,0,0,0
  10-12,6.9,0,0,0,0,0,31.95,7.15,0,15.14,0,3.03,0,0,0
  14-21,0,0,0,0,2.2,0,2.92,0,0,0,0,0,2.18,1.89,0

@@ -1,5 +1,5 @@
-stage,Epithelial.cell,Erythrocyte..Liver.,Hepatocyte,Immune.cell,Ionocyte,Keratinocyte,Mesenchymal.cell..caudal.fin.,Mt.rich.cell,T.cell
+stage,Epithelial_cell,Erythrocyte__Liver_,Hepatocyte,Immune_cell,Ionocyte,Keratinocyte,Mesenchymal_cell__caudal_fin_,Mt_rich_cell,T_cell
 24hpf,0,0,0,0,0,1,0,0,0
-72hpf,0,0,0,0,0,1.12739222401289,0,0,0
-21Day,0.369986860264282,0,0,0,0.369986860264282,1.47994744105713,0,0,0
-22Month,0.136649431988133,0.136649431988133,0.136649431988133,0.136649431988133,0,0,0.136649431988133,0.273298863976266,0.136649431988133
+72hpf,0,0,0,0,0,1.13,0,0,0
+21Day,0.37,0,0,0,0.37,1.48,0,0,0
+22Month,0.14,0.14,0.14,0.14,0,0,0.14,0.27,0.14

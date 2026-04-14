@@ -1,4 +1,4 @@
-stage,blastomeres,eye,gut,muscle,neural,olfactory,paraxial.mesoderm,periderm,somites,spinal.cord
+stage,blastomeres,eye,gut,muscle,neural,olfactory,paraxial_mesoderm,periderm,somites,spinal_cord
   7-9,0,0,0,0,14.5,0,4.19,0,0,0
  10-12,5.93,0,0,0,25.14,0,10.17,0,0,0
  14-21,0,0,0,0,1.3,0,0,0,0.88,0

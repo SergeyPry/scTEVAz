@@ -1,6 +1,6 @@
-stage,Epithelial.cell,Erythrocyte,Immune.cell,Keratinocyte,Mesenchymal.cell,Osteoblast
+stage,Epithelial_cell,Erythrocyte,Immune_cell,Keratinocyte,Mesenchymal_cell,Osteoblast
 24hpf,0,0,0,1,0,0
-72hpf,0,0.563696112006446,0,0.563696112006446,0,0
-21Day,1.84993430132141,0,0,0,0,0
-3Month,1.04017006644673,0,0.104017006644673,0,0,0
-22Month,0,0,0,0,0.136649431988133,0.136649431988133
+72hpf,0,0.56,0,0.56,0,0
+21Day,1.85,0,0,0,0,0
+3Month,1.04,0,0.1,0,0,0
+22Month,0,0,0,0,0.14,0.14

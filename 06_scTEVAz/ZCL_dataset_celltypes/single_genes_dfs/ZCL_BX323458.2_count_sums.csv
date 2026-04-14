@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Epithelial.cell,Immune.progenitor.cell,Mesenchymal.cell,Neural.progenitor.cell
-24hpf,0,0,0,0,4.08640457285017
-72hpf,1.06979114146608,0,0,2.13958228293216,0
-21Day,1.33853308820331,1.33853308820331,1.33853308820331,0,0
+stage,Cardiomyocyte,Epithelial_cell,Immune_progenitor_cell,Mesenchymal_cell,Neural_progenitor_cell
+24hpf,0,0,0,0,4.09
+72hpf,1.07,0,0,2.14,0
+21Day,1.34,1.34,1.34,0,0

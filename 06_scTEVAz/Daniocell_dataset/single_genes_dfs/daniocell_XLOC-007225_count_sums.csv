@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,eye,glial,gut,ionocyte,neural,somites,spinal.cord
+stage,endocrine_pancreas,eye,glial,gut,ionocyte,neural,somites,spinal_cord
  10-12,0,9.91,0,0,0,14.14,0,0
  14-21,0,0,0,0.85,0,3.24,1,2.88
  24-34,0,0,0,0,0,3.73,0,0

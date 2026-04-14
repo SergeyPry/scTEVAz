@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,glial,gut,immune,iridophores,lateral.line,melanocytes,mesenchyme,mural.cell,muscle,neural,olfactory,periderm,somites,spinal.cord,vasculature
+stage,epidermis,erythrocytes,eye,glial,gut,immune,iridophores,lateral_line,melanocytes,mesenchyme,mural_cell,muscle,neural,olfactory,periderm,somites,spinal_cord,vasculature
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0
  24-34,0,0,0,0.82,0,0,0,0,0,0,0,0.82,4.1,0.82,0,0.82,0.82,0
  36-46,0.81,0,0,0.81,0,0,0,0,0,0,0,0,2.42,0,0.81,0,0,0

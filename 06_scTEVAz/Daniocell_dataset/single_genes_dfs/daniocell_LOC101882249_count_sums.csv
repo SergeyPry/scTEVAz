@@ -1,4 +1,4 @@
-stage,eye,liver,mesenchyme,neural,olfactory,periderm,spinal.cord,vasculature,visceral.smooth.muscle
+stage,eye,liver,mesenchyme,neural,olfactory,periderm,spinal_cord,vasculature,visceral_smooth_muscle
  14-21,0,0,0,1.34,0,0,0,0,0
  24-34,0,0,0,3.08,0,0,0.72,0,0
  36-46,0,0,0,3.19,0,0,1.43,0,0

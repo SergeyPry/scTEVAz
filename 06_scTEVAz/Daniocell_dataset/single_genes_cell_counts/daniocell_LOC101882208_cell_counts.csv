@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,erythrocytes,eye,fin.mesenchyme,gut,hatching.gland,immune,ionocyte,lateral.line,mesenchyme,mucous,muscle,neural,notochord,otic,paraxial.mesoderm,periderm,spinal.cord,taste,xanthophores
+stage,axial,blastomeres,epidermis,erythrocytes,eye,fin_mesenchyme,gut,hatching_gland,immune,ionocyte,lateral_line,mesenchyme,mucous,muscle,neural,notochord,otic,paraxial_mesoderm,periderm,spinal_cord,taste,xanthophores
   3-4,13.18,263.56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26.36,0,0,0
   5-6,24.52,190.02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,2.63,0,0,0,0,0,0,0,0,0,0,0,0,0,15.77,0,0,10.51,0,0,0,0

@@ -1,4 +1,4 @@
-stage,eye,glial,ionocyte,melanocytes,mesenchyme,neural,olfactory,otic,paraxial.mesoderm,spinal.cord
+stage,eye,glial,ionocyte,melanocytes,mesenchyme,neural,olfactory,otic,paraxial_mesoderm,spinal_cord
  10-12,0,0,0,0,0,11.86,0,0,0,0
  14-21,0,0,0,0,0,0.86,0,0,0.87,0
  24-34,0,0,0,0,2.09,7.39,0.62,0,0,1.79

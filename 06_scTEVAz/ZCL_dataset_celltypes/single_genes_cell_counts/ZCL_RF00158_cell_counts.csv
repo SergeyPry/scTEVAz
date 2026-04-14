@@ -1,5 +1,5 @@
-stage,Epithelial.cell,Granulocyte,Granulosa.cell,Hepatocyte,Mesenchymal.cell,Mt.rich.cell,Neural.progenitor.cell
+stage,Epithelial_cell,Granulocyte,Granulosa_cell,Hepatocyte,Mesenchymal_cell,Mt_rich_cell,Neural_progenitor_cell
 24hpf,0,0,0,0,0,0,1
-72hpf,0,0,0,0,0.281848056003223,0,0.84554416800967
-21Day,0,0,0,0,0,0,0.369986860264282
-22Month,0.136649431988133,0.136649431988133,0.136649431988133,0.683247159940666,0,0.409948295964399,0
+72hpf,0,0,0,0,0.28,0,0.85
+21Day,0,0,0,0,0,0,0.37
+22Month,0.14,0.14,0.14,0.68,0,0.41,0

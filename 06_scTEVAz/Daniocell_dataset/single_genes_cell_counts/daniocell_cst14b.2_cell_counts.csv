@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,erythrocytes,eye,fast.muscle,fin.epithelia,glial,gut,hatching.gland,heart,immune,ionocyte,liver,mesenchyme,mural.cell,muscle,neural,notochord,paraxial.mesoderm,periderm,spinal.cord,vasculature
+stage,endoderm,epidermis,erythrocytes,eye,fast_muscle,fin_epithelia,glial,gut,hatching_gland,heart,immune,ionocyte,liver,mesenchyme,mural_cell,muscle,neural,notochord,paraxial_mesoderm,periderm,spinal_cord,vasculature
   7-9,0,0,0,0,0,0,0,0,2.63,0,0,0,0,0,0,0,2.63,0,0,0,0,0
  14-21,0,1,1,0,0,0,0,0,0,0,13,0,7,0,0,2,1,0,1,0,0,0
  24-34,0.82,0,6.57,1.64,0,0.82,0,0,0,0.82,34.48,0,6.57,2.46,0,2.46,27.09,0.82,0,4.93,4.93,1.64

@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,fast.muscle,glial,gut,heart,immune,iridophores,liver,mesenchyme,mural.cell,muscle,neural,notochord,paraxial.mesoderm,pronephros,slow.muscle,somites,spinal.cord,vasculature,visceral.smooth.muscle,xanthophores
+stage,endocrine_pancreas,epidermis,eye,fast_muscle,glial,gut,heart,immune,iridophores,liver,mesenchyme,mural_cell,muscle,neural,notochord,paraxial_mesoderm,pronephros,slow_muscle,somites,spinal_cord,vasculature,visceral_smooth_muscle,xanthophores
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.26,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,0,6.29,0,0,0,0,0,0,0,0,0
  14-21,0,0,1,0,1,0,1,0,0,0,2,0,1,4,0,0,1,6,2,11,0,0,0

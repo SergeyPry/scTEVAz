@@ -1,5 +1,5 @@
-stage,Hepatocyte,Intestinal.bulb.cell,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Primordial.germ.cell,Retinal.cone.cell,Spermatocyte
+stage,Hepatocyte,Intestinal_bulb_cell,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Primordial_germ_cell,Retinal_cone_cell,Spermatocyte
 24hpf,0,0,0,0,13,0,0,0
-72hpf,0,0,0,2.53663250402901,1.12739222401289,0,0,0
-21Day,0,0,0,0.369986860264282,1.47994744105713,0,0.369986860264282,0
-3Month,0.104017006644673,0.104017006644673,0.104017006644673,0,0,0.624102039868036,0,0.312051019934018
+72hpf,0,0,0,2.54,1.13,0,0,0
+21Day,0,0,0,0.37,1.48,0,0.37,0
+3Month,0.1,0.1,0.1,0,0,0.62,0,0.31

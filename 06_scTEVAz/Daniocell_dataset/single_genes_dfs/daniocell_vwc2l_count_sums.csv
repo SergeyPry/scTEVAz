@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,glial,immune,mesenchyme,neural,spinal.cord
+stage,endocrine_pancreas,epidermis,eye,glial,immune,mesenchyme,neural,spinal_cord
  14-21,1.38,0,0,0,0,0,0,0
  24-34,0,0,0,0,0,0,3.17,1.86
  36-46,0,0,0.88,0,0,0,12.12,2.84

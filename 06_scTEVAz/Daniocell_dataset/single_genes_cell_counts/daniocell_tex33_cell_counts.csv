@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,eye,lateral.line,mesenchyme,neural,notochord,otic,vasculature
+stage,blastomeres,endocrine_pancreas,eye,lateral_line,mesenchyme,neural,notochord,otic,vasculature
   3-4,13.18,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,2.63,2.63,0,0
  24-34,0,0,0,0,0,0.82,0,3.28,0

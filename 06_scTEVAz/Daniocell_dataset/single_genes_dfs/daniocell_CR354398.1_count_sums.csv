@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,glial,heart,ionocyte,iridophores,mesenchyme,neural,otic,periderm,spinal.cord,vasculature,xanthophores
+stage,epidermis,erythrocytes,eye,glial,heart,ionocyte,iridophores,mesenchyme,neural,otic,periderm,spinal_cord,vasculature,xanthophores
  14-21,0,0,0,0,1.15,0,0,0,0,0,0,0,0,0
  24-34,0.74,0,0,1.06,0,0,0,2.05,3.13,0,1.31,3.31,2.02,0
  36-46,0.98,0,0,0,0,0,0,0,4.12,6.74,2.07,5.49,0,0

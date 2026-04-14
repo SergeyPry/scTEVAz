@@ -1,5 +1,5 @@
-stage,Endothelial.cell,Hepatocyte,Osteoblast,Retinal.cell,T.cell
-72hpf,0,0,3.20937342439823,0,0
-21Day,0,0,0,1.33853308820331,1.33853308820331
-3Month,0,0,0,0,0.959847898662586
-22Month,0.546654651197433,1.6399639535923,0,0,0.546654651197433
+stage,Endothelial_cell,Hepatocyte,Osteoblast,Retinal_cell,T_cell
+72hpf,0,0,3.21,0,0
+21Day,0,0,0,1.34,1.34
+3Month,0,0,0,0,0.96
+22Month,0.55,1.64,0,0,0.55

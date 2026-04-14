@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.epithelia,glial,mesenchyme,mural.cell,neural,spinal.cord
+stage,blastomeres,epidermis,eye,fin_epithelia,glial,mesenchyme,mural_cell,neural,spinal_cord
   3-4,9.85,0,0,0,0,0,0,0,0
   5-6,8.78,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,1.63,0

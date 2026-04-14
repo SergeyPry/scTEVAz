@@ -1,4 +1,4 @@
-stage,Granulosa.cell,Hepatocyte,Intestinal.bulb.cell,Keratinocyte,Neural.progenitor.cell
+stage,Granulosa_cell,Hepatocyte,Intestinal_bulb_cell,Keratinocyte,Neural_progenitor_cell
 24hpf,0,0,0,0,2
-72hpf,0,0,0,0.281848056003223,0
-22Month,1.91309204783386,0.683247159940666,0.136649431988133,0,0
+72hpf,0,0,0,0.28,0
+22Month,1.91,0.68,0.14,0,0

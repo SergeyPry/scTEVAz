@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,glial,gut,mesenchyme,mural.cell,muscle,neural,vasculature
+stage,blastomeres,epidermis,glial,gut,mesenchyme,mural_cell,muscle,neural,vasculature
   3-4,14.32,0,0,0,0,0,0,0,0
   5-6,53.13,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,27.46,0

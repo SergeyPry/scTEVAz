@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,epidermis,eye,neural,spinal.cord,vasculature,xanthophores
+stage,blastomeres,endocrine_pancreas,epidermis,eye,neural,spinal_cord,vasculature,xanthophores
   3-4,13.18,0,0,0,0,0,0,0
  14-21,0,0,0,0,2,0,0,0
  24-34,0,0,0,0,0,0.82,0,0

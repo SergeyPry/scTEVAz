@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,glial,heart,immune,mesenchyme,mural.cell,muscle,neural,otic,vasculature
+stage,blastomeres,epidermis,erythrocytes,eye,glial,heart,immune,mesenchyme,mural_cell,muscle,neural,otic,vasculature
   3-4,66.03,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,1.01,0,0
  24-34,0,0,0,0,0,1,0,0,0,0,0,0,1.26

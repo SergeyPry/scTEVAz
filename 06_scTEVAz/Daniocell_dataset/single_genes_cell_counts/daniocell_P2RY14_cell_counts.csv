@@ -1,4 +1,4 @@
-stage,epidermis,fin.mesenchyme,immune,mesenchyme,mural.cell,neural,spinal.cord,vasculature
+stage,epidermis,fin_mesenchyme,immune,mesenchyme,mural_cell,neural,spinal_cord,vasculature
  14-21,1,0,1,0,0,0,0,0
  24-34,0,0,0,0,0,0,0,2.46
  36-46,0,0.81,2.42,0,0,0,0,3.22

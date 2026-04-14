@@ -1,3 +1,3 @@
-stage,Hepatocyte,Immune.cell,Muscle.cell,Neurosecretory.cell,Spermatocyte
-3Month,0.208034013289345,1.45623809302542,0.104017006644673,0.104017006644673,0.312051019934018
-22Month,0,0.273298863976266,0,0,0
+stage,Hepatocyte,Immune_cell,Muscle_cell,Neurosecretory_cell,Spermatocyte
+3Month,0.21,1.46,0.1,0.1,0.31
+22Month,0,0.27,0,0,0

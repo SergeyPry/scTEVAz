@@ -1,4 +1,4 @@
-stage,Erythrocyte,Intestinal.bulb.cell,Keratinocyte,Neural.cell,Neural.progenitor.cell
+stage,Erythrocyte,Intestinal_bulb_cell,Keratinocyte,Neural_cell,Neural_progenitor_cell
 24hpf,0,0,0,0,8
-72hpf,0,0,0.281848056003223,3.94587278404512,1.97293639202256
-21Day,0.369986860264282,0.369986860264282,0,3.32988174237854,0.369986860264282
+72hpf,0,0,0.28,3.95,1.97
+21Day,0.37,0.37,0,3.33,0.37

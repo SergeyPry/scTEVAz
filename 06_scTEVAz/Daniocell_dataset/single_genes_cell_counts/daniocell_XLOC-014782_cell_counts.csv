@@ -1,4 +1,4 @@
-stage,axial,blastomeres,eye,glial,mesenchyme,neural,olfactory,paraxial.mesoderm,periderm,pronephros,spinal.cord,vascular.smooth.muscle,vasculature
+stage,axial,blastomeres,eye,glial,mesenchyme,neural,olfactory,paraxial_mesoderm,periderm,pronephros,spinal_cord,vascular_smooth_muscle,vasculature
   3-4,13.18,105.42,0,0,0,0,0,0,0,0,0,0,0
   5-6,18.39,232.93,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,2.63,0,0,36.8,0,7.89,0,0,0,0,0

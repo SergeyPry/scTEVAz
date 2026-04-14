@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,gut,mesenchyme,neural,periderm,spinal.cord,vasculature
+stage,epidermis,eye,glial,gut,mesenchyme,neural,periderm,spinal_cord,vasculature
  24-34,0,0,0,0,0,0,0,0.82,0
  36-46,0,0,0,0,0.81,0.81,0,0.81,0
  48-58,0,0,0.57,0,0.57,0.57,0,0,0

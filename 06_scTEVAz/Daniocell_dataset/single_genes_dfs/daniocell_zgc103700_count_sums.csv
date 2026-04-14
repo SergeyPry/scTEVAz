@@ -1,4 +1,4 @@
-stage,eye,fin.epithelia,immune,mesenchyme,neural,notochord,periderm,spinal.cord
+stage,eye,fin_epithelia,immune,mesenchyme,neural,notochord,periderm,spinal_cord
  24-34,1.18,0,0,0,1.38,0,1.03,2.35
  36-46,0,0,0,0,2.17,0,0,0
  48-58,0.44,0,0,0,0,0,0,1.19

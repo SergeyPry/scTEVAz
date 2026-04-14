@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Hepatocyte,Mesenchymal.cell,Nephron.cell,Neural.progenitor.cell,Primordial.germ.cell,Radial.glia,Spermatocyte
+stage,Epithelial_cell,Hepatocyte,Mesenchymal_cell,Nephron_cell,Neural_progenitor_cell,Primordial_germ_cell,Radial_glia,Spermatocyte
 24hpf,0,0,0,0,5,0,0,0
-72hpf,0,0,0.281848056003223,0,0.563696112006446,0,0.281848056003223,0
-3Month,0.208034013289345,0.520085033223363,0.208034013289345,0.312051019934018,0,3.84862924585289,0,1.35222108638074
+72hpf,0,0,0.28,0,0.56,0,0.28,0
+3Month,0.21,0.52,0.21,0.31,0,3.85,0,1.35

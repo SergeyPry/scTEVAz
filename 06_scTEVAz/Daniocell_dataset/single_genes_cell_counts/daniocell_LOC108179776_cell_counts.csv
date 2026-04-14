@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,glial,gut,liver,mesenchyme,muscle,neural,otic,periderm,pronephros,somites,spinal.cord
+stage,epidermis,eye,fast_muscle,glial,gut,liver,mesenchyme,muscle,neural,otic,periderm,pronephros,somites,spinal_cord
  14-21,1,0,0,0,0,0,0,0,0,0,0,0,1,0
  24-34,0,0,0,0,0,0,0,0,0.82,0,0,0,0,0
  36-46,0,0,0,0,0,0,0,0,0,0,1.61,0,0,0.81

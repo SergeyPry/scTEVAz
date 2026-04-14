@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.mesenchyme,glial,gut,immune,ionocyte,iridophores,melanocytes,mesenchyme,muscle,neural,olfactory,otic,pericytes,periderm,spinal.cord,taste,vasculature,xanthophores
+stage,epidermis,erythrocytes,eye,fin_mesenchyme,glial,gut,immune,ionocyte,iridophores,melanocytes,mesenchyme,muscle,neural,olfactory,otic,pericytes,periderm,spinal_cord,taste,vasculature,xanthophores
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,15.14,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,11.96,0,0,0,0,0,0,0,0
  24-34,0.76,0,0,0,0,0,0,0,0,0,1.56,0,8.45,0,0,0,0,0,0,1.17,138.5

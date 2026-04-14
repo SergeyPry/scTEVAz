@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,fin.epithelia,glial,immune,ionocyte,mesenchyme,neural,periderm,slow.muscle,spinal.cord
+stage,blastomeres,epidermis,fin_epithelia,glial,immune,ionocyte,mesenchyme,neural,periderm,slow_muscle,spinal_cord
   3-4,13.18,0,0,0,0,0,0,0,0,0,0
   5-6,6.13,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,2.63,0,0,0

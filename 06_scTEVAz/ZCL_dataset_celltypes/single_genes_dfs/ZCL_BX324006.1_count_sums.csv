@@ -1,4 +1,4 @@
-stage,Granulocyte,Hepatocyte,Keratinocyte,Macrophage,Mesenchymal.cell..caudal.fin.,Mt.rich.cell,Neural.progenitor.cell,Radial.glia
-24hpf,0,0,0,0,0,0,4.08640457285017,0
-72hpf,0,0,0,0,0,0,0,1.06979114146608
-22Month,0.546654651197433,5.46654651197433,0.546654651197433,1.6399639535923,0.546654651197433,0.546654651197433,0,0
+stage,Granulocyte,Hepatocyte,Keratinocyte,Macrophage,Mesenchymal_cell__caudal_fin_,Mt_rich_cell,Neural_progenitor_cell,Radial_glia
+24hpf,0,0,0,0,0,0,4.09,0
+72hpf,0,0,0,0,0,0,0,1.07
+22Month,0.55,5.47,0.55,1.64,0.55,0.55,0,0

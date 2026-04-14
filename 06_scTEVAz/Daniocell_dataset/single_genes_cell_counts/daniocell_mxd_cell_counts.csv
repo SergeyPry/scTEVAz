@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,gut,immune,mesenchyme,mucous,muscle,neural,olfactory,paraxial.mesoderm,spinal.cord,taste,vasculature,xanthophores
+stage,blastomeres,epidermis,eye,glial,gut,immune,mesenchyme,mucous,muscle,neural,olfactory,paraxial_mesoderm,spinal_cord,taste,vasculature,xanthophores
   3-4,184.49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,36.78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,2.63,0,0,0,0

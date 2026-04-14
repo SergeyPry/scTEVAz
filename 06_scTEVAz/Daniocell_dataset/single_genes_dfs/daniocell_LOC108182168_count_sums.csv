@@ -1,4 +1,4 @@
-stage,eye,lateral.line,mesenchyme,muscle,neural,periderm,somites,spinal.cord
+stage,eye,lateral_line,mesenchyme,muscle,neural,periderm,somites,spinal_cord
  14-21,0,0,0,0,1.14,0,2.67,1.01
  24-34,0,0,0,0,0,0,0,0.67
  36-46,0,0.67,0,0.59,0,0,0,0

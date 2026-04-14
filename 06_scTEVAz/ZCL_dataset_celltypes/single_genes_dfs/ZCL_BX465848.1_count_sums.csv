@@ -1,5 +1,5 @@
-stage,Epithelial.cell,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Macrophage,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell
-24hpf,4.08640457285017,0,0,0,0,0,0,8.17280914570035
-72hpf,0,0,0,0,0,0,1.06979114146608,0
-21Day,0,0,0,0,0,1.33853308820331,1.33853308820331,1.33853308820331
-22Month,0,2.18661860478973,0.546654651197433,1.09330930239487,0.546654651197433,1.09330930239487,0,0
+stage,Epithelial_cell,Hepatocyte,Immune_cell,Intestinal_bulb_cell,Macrophage,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell
+24hpf,4.09,0,0,0,0,0,0,8.17
+72hpf,0,0,0,0,0,0,1.07,0
+21Day,0,0,0,0,0,1.34,1.34,1.34
+22Month,0,2.19,0.55,1.09,0.55,1.09,0,0

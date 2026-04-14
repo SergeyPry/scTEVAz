@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,eye,fin.epithelia,glial,heart,mesenchyme,muscle,neural,olfactory,paraxial.mesoderm,periderm,pronephros,spinal.cord
+stage,blastomeres,endoderm,eye,fin_epithelia,glial,heart,mesenchyme,muscle,neural,olfactory,paraxial_mesoderm,periderm,pronephros,spinal_cord
   3-4,9.47,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,15.53,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,10.83,0,0,0,0,0

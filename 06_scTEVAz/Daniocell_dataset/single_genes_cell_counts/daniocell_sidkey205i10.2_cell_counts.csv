@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,fin.epithelia,heart,immune,ionocyte,mesenchyme,muscle,neural,periderm,vasculature
+stage,blastomeres,epidermis,fin_epithelia,heart,immune,ionocyte,mesenchyme,muscle,neural,periderm,vasculature
   3-4,13.18,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,3,0
  24-34,0,0,0,0,0,0,0,0,0,0.82,0.82

@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,glial,ionocyte,mesenchyme,mucous,neural,olfactory,otic,paraxial.mesoderm,slow.muscle,spinal.cord,vasculature
+stage,epidermis,eye,fin_epithelia,glial,ionocyte,mesenchyme,mucous,neural,olfactory,otic,paraxial_mesoderm,slow_muscle,spinal_cord,vasculature
   7-9,0,0,0,0,0,0,0,0,0,0,5.76,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,3.62,0,0,0
  14-21,2.09,0,0,1,0,1.1,0,0,1.04,1.07,0.9,0,0,0

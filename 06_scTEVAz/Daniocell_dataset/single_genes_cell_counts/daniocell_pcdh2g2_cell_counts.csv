@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,glial,mesenchyme,muscle,neural,spinal.cord,vasculature,xanthophores
+stage,endocrine_pancreas,epidermis,eye,glial,mesenchyme,muscle,neural,spinal_cord,vasculature,xanthophores
  14-21,0,0,0,0,0,0,1,0,0,0
  24-34,0,0,0,0,0,0,5.75,0,0,0
  36-46,0,0,0,0,0.81,0,4.03,0,0,0

@@ -1,4 +1,4 @@
-stage,immune,lateral.line,liver,mesenchyme,neural,olfactory,paraxial.mesoderm,spinal.cord,vasculature
+stage,immune,lateral_line,liver,mesenchyme,neural,olfactory,paraxial_mesoderm,spinal_cord,vasculature
   7-9,0,0,0,0,2.63,0,0,0,0
  10-12,0,0,0,0,12.59,0,3.15,0,0
  24-34,0.82,0.82,0,0.82,3.28,0.82,0,0.82,1.64

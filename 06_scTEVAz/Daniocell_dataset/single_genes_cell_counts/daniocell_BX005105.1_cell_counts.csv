@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,exocrine.pancreas,eye,fin.mesenchyme,glial,gut,immune,ionocyte,liver,mesenchyme,mucous,mural.cell,muscle,neural,notochord,periderm,pronephros,spinal.cord,vasculature
+stage,epidermis,erythrocytes,exocrine_pancreas,eye,fin_mesenchyme,glial,gut,immune,ionocyte,liver,mesenchyme,mucous,mural_cell,muscle,neural,notochord,periderm,pronephros,spinal_cord,vasculature
  14-21,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
  24-34,2.46,2.46,0,0,0,0,0,1.64,0,0,0.82,0,0,0,0.82,0,0,0,0,1.64
  36-46,1.61,0,0,0,0,0,0,0,0,0,0.81,0,0,0.81,0,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,fast.muscle,fin.epithelia,glial,gut,lateral.line,mesenchyme,mural.cell,muscle,neural,notochord,slow.muscle,somites,spinal.cord,taste,vascular.smooth.muscle
+stage,endoderm,epidermis,eye,fast_muscle,fin_epithelia,glial,gut,lateral_line,mesenchyme,mural_cell,muscle,neural,notochord,slow_muscle,somites,spinal_cord,taste,vascular_smooth_muscle
  14-21,0.83,8.68,0,0,0,0,0,0,0,0,0,26.32,0,0.99,0.98,35.96,0,0
  24-34,0,0,1.81,0,0,1.71,0,0,20.26,0,0.63,143.04,1.41,0,0.74,117.82,0,0
  36-46,0,0,0,0,0,4.39,0,0,95.63,0,0,107.22,0.56,0,0,126.3,0,0

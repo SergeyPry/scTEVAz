@@ -1,4 +1,4 @@
-stage,exocrine.pancreas,eye,fast.muscle,glial,liver,mesenchyme,mural.cell,muscle,neural,olfactory,periderm,presomitic.mesoderm,somites,spinal.cord
+stage,exocrine_pancreas,eye,fast_muscle,glial,liver,mesenchyme,mural_cell,muscle,neural,olfactory,periderm,presomitic_mesoderm,somites,spinal_cord
  14-21,0,0,0,0,0,0,0,0,3,0,0,1,1,0
  24-34,0,2.46,0,0.82,0.82,0,0,0,4.93,0,0,0,0,0.82
  36-46,0,0,0,0,0,0.81,0,0.81,4.03,0.81,0.81,0,0,0

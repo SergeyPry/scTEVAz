@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,erythrocytes,eye,fast.muscle,fin.epithelia,fin.mesenchyme,glial,gut,immune,ionocyte,lateral.line,mesenchyme,mucous,muscle,neural,notochord,olfactory,paraxial.mesoderm,periderm,pronephros,spinal.cord,taste,vasculature
+stage,endocrine_pancreas,epidermis,erythrocytes,eye,fast_muscle,fin_epithelia,fin_mesenchyme,glial,gut,immune,ionocyte,lateral_line,mesenchyme,mucous,muscle,neural,notochord,olfactory,paraxial_mesoderm,periderm,pronephros,spinal_cord,taste,vasculature
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.63,0,0,0,0,0
  14-21,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
  24-34,0,10.67,0,0,0,0,0,0.82,0,0.82,0,0,0,0.82,0,2.46,0.82,0,0,0,0,1.64,0,0

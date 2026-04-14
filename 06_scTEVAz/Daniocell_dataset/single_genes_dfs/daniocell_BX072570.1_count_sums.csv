@@ -1,4 +1,4 @@
-stage,axial,blastomeres,eye,glial,mesenchyme,neural,paraxial.mesoderm,periderm,presomitic.mesoderm,somites,spinal.cord
+stage,axial,blastomeres,eye,glial,mesenchyme,neural,paraxial_mesoderm,periderm,presomitic_mesoderm,somites,spinal_cord
   3-4,9.67,220.82,0,0,0,0,0,24.55,0,0,0
   5-6,0,74.58,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,9.02,7.29,0,0,0,0

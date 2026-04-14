@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,eye,fin.mesenchyme,glial,hatching.gland,iridophores,neural,notochord,otic,paraxial.mesoderm,periderm,spinal.cord,vasculature
+stage,axial,blastomeres,epidermis,eye,fin_mesenchyme,glial,hatching_gland,iridophores,neural,notochord,otic,paraxial_mesoderm,periderm,spinal_cord,vasculature
   3-4,26.36,158.14,0,0,0,0,0,0,0,0,0,0,13.18,0,0
   5-6,6.13,24.52,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,2.63,0,0,0,0,0,5.26,0,2.63,0,0,0,0,0,0

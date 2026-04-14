@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,fin.epithelia,melanocytes,mesenchyme,neural,periderm
+stage,epidermis,erythrocytes,fin_epithelia,melanocytes,mesenchyme,neural,periderm
  14-21,2.14,0.95,0,0,0,0,0.89
  24-34,0,0,0,0,0.93,0.74,1.01
  36-46,0,0,0,0,0,3.55,0

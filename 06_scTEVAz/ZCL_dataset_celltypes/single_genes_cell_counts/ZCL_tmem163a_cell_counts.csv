@@ -1,5 +1,5 @@
-stage,Epithelial.cell,Goblet.cell,Hepatocyte,Immune.cell,Macrophage,Neural.cell,Retinal.cell,T.cell
-72hpf,0,0,0,0,0,1.12739222401289,0,0
-21Day,0,0,0,0,0,0.369986860264282,0.369986860264282,0
-3Month,0.104017006644673,0,0.104017006644673,0,0,0,0,0
-22Month,0,0.136649431988133,0.683247159940666,0.136649431988133,0.136649431988133,0,0,0.136649431988133
+stage,Epithelial_cell,Goblet_cell,Hepatocyte,Immune_cell,Macrophage,Neural_cell,Retinal_cell,T_cell
+72hpf,0,0,0,0,0,1.13,0,0
+21Day,0,0,0,0,0,0.37,0.37,0
+3Month,0.1,0,0.1,0,0,0,0,0
+22Month,0,0.14,0.68,0.14,0.14,0,0,0.14

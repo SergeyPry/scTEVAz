@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,gut,hatching.gland,immune,ionocyte,lateral.line,mesenchyme,muscle,neural,otic,paraxial.mesoderm,periderm,pronephros,spinal.cord,visceral.smooth.muscle
+stage,axial,blastomeres,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,gut,hatching_gland,immune,ionocyte,lateral_line,mesenchyme,muscle,neural,otic,paraxial_mesoderm,periderm,pronephros,spinal_cord,visceral_smooth_muscle
   3-4,77.11,903.96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19.87,0,0,0
   5-6,34.28,488.86,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,3.47,0,0,0,0,4.94,0,0,0,0,0,30.2,0,12.37,0,0,0,0

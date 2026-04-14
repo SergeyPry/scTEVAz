@@ -1,5 +1,5 @@
-stage,Cardiomyocyte,Epithelial.cell,Granulosa.cell,Mesenchymal.cell..caudal.fin.,Muscle.cell
+stage,Cardiomyocyte,Epithelial_cell,Granulosa_cell,Mesenchymal_cell__caudal_fin_,Muscle_cell
 24hpf,1,0,0,0,0
-72hpf,5.91880917606769,0,0,0,0.281848056003223
-21Day,5.91978976422852,0.369986860264282,0,0,0
-3Month,0,0,0.208034013289345,0.104017006644673,0
+72hpf,5.92,0,0,0,0.28
+21Day,5.92,0.37,0,0,0
+3Month,0,0,0.21,0.1,0

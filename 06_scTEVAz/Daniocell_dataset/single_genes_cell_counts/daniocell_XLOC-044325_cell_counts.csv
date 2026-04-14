@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,erythrocytes,eye,fin.epithelia,fin.mesenchyme,glial,gut,heart,immune,melanocytes,mesenchyme,muscle,neural,notochord,otic,pericytes,somites,spinal.cord,vascular.smooth.muscle,vasculature,visceral.smooth.muscle,xanthophores
+stage,endoderm,epidermis,erythrocytes,eye,fin_epithelia,fin_mesenchyme,glial,gut,heart,immune,melanocytes,mesenchyme,muscle,neural,notochord,otic,pericytes,somites,spinal_cord,vascular_smooth_muscle,vasculature,visceral_smooth_muscle,xanthophores
  14-21,1,1,0,1,0,0,1,0,0,0,0,1,0,16,1,0,0,3,6,0,0,0,0
  24-34,0,0.82,0,2.46,0,0,0,0,0,0,0,0.82,0,23.8,0,0,0,0,6.57,0,0,0,0.82
  36-46,0,0,0,3.22,0,0,0.81,0,0,0,0,2.42,0,24.98,0,0.81,0,0,3.22,0,0.81,0,0

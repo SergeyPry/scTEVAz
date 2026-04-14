@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Erythrocyte..Liver.,Granulocyte,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Keratinocyte,Macrophage,Muscle.cell,Primordial.germ.cell
-21Day,0,0,4.01559926460992,0,1.33853308820331,0,1.33853308820331,0,0,0
-3Month,0.319949299554195,0.319949299554195,5.75908739197552,0.959847898662586,10.8782761848426,0.319949299554195,0.639898599108391,0.319949299554195,0.319949299554195,0.959847898662586
-22Month,0,0,13.1197116287384,0.546654651197433,3.82658255838203,0,0,1.09330930239487,0.546654651197433,0
+stage,Epithelial_cell,Erythrocyte__Liver_,Granulocyte,Hepatocyte,Immune_cell,Intestinal_bulb_cell,Keratinocyte,Macrophage,Muscle_cell,Primordial_germ_cell
+21Day,0,0,4.02,0,1.34,0,1.34,0,0,0
+3Month,0.32,0.32,5.76,0.96,10.88,0.32,0.64,0.32,0.32,0.96
+22Month,0,0,13.12,0.55,3.83,0,0,1.09,0.55,0

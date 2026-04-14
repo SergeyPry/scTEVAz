@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endocrine.pancreas,epidermis,eye,fin.mesenchyme,glial,gut,iridophores,lateral.line,liver,mesenchyme,mural.cell,muscle,neural,olfactory,paraxial.mesoderm,periderm,pronephros,spinal.cord,taste,vascular.smooth.muscle,vasculature
+stage,axial,blastomeres,endocrine_pancreas,epidermis,eye,fin_mesenchyme,glial,gut,iridophores,lateral_line,liver,mesenchyme,mural_cell,muscle,neural,olfactory,paraxial_mesoderm,periderm,pronephros,spinal_cord,taste,vascular_smooth_muscle,vasculature
   3-4,20.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17.06,0,0,0,0,0
   5-6,0,50.02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.99,0,0,0,0,0,0,0,0

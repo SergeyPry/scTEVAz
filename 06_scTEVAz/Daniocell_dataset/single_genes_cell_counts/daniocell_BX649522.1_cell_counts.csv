@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,gut,hatching.gland,ionocyte,mesenchyme,mucous,neural,periderm,taste
+stage,blastomeres,epidermis,eye,gut,hatching_gland,ionocyte,mesenchyme,mucous,neural,periderm,taste
   5-6,6.13,0,0,0,6.13,0,0,0,0,0,0
  24-34,0,0,0,0,0,0.82,0,9.85,1.64,0,0
  36-46,0,0.81,0,0,0,0.81,0,14.5,0.81,0.81,0

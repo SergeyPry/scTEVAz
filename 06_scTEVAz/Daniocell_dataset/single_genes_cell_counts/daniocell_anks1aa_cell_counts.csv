@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,iridophores,lateral.line,melanocytes,mesenchyme,neural,notochord,paraxial.mesoderm,periderm,somites,spinal.cord,taste
+stage,axial,blastomeres,endoderm,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,iridophores,lateral_line,melanocytes,mesenchyme,neural,notochord,paraxial_mesoderm,periderm,somites,spinal_cord,taste
   3-4,13.18,184.49,0,0,0,0,0,0,0,0,0,0,0,0,0,13.18,0,0,0
   5-6,6.13,165.5,0,0,0,0,0,0,0,0,0,0,0,0,0,12.26,0,0,0
   7-9,5.26,0,2.63,0,2.63,0,0,0,0,0,0,0,28.92,2.63,10.51,0,0,0,0

@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,erythrocytes,eye,fin.epithelia,glial,gut,melanocytes,mesenchyme,mural.cell,muscle,neural,olfactory,otic,pericytes,pronephros,spinal.cord,vasculature,xanthophores
+stage,endocrine_pancreas,epidermis,erythrocytes,eye,fin_epithelia,glial,gut,melanocytes,mesenchyme,mural_cell,muscle,neural,olfactory,otic,pericytes,pronephros,spinal_cord,vasculature,xanthophores
  14-21,0,2.42,0,0,0,0,1.2,0,0,0,0,4.51,0,0,0,0,0.88,0,0
  24-34,0,1.97,0,0,1.07,0,0,0,0.79,0,0.85,51.74,0.77,0,0,0,6.54,0,0
  36-46,0,1.16,0,3.89,0.69,0.83,0,0,0,0,0.71,187.72,0,0,0,0,9.02,0,0

@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Mesenchymal.cell
+stage,Cardiomyocyte,Mesenchymal_cell
 24hpf,1,0
-72hpf,0.84554416800967,0
-21Day,2.58990802184998,0.369986860264282
+72hpf,0.85,0
+21Day,2.59,0.37

@@ -1,4 +1,4 @@
-stage,eye,glial,mesenchyme,neural,notochord,periderm,presomitic.mesoderm,spinal.cord
+stage,eye,glial,mesenchyme,neural,notochord,periderm,presomitic_mesoderm,spinal_cord
  14-21,0,0,0,0,0,0,0.88,0.98
  24-34,0,0,0,2.78,0,0,0,1.27
  36-46,1.57,0,0,2.48,0.77,0,0,0

@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,fin.epithelia,glial,gut,ionocyte,mucous,neural,paraxial.mesoderm,periderm,somites
+stage,blastomeres,epidermis,erythrocytes,eye,fin_epithelia,glial,gut,ionocyte,mucous,neural,paraxial_mesoderm,periderm,somites
   3-4,0,0,0,0,0,0,0,0,0,0,0,29.03,0
   5-6,28.75,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,7.82,4.89,3.31,0

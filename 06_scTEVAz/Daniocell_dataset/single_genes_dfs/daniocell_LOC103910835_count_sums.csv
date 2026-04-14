@@ -1,4 +1,4 @@
-stage,eye,glial,hatching.gland,immune,mesenchyme,neural,pronephros,spinal.cord
+stage,eye,glial,hatching_gland,immune,mesenchyme,neural,pronephros,spinal_cord
  14-21,0,0,0,0,0,0,0,0.88
  24-34,0,0,0,0,1.16,1.86,0,0.85
  36-46,1.03,0,0,0,0,0,0,0

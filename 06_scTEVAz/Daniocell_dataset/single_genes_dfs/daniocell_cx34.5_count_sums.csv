@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,exocrine.pancreas,eye,glial,iridophores,liver,mesenchyme,neural,pericytes,spinal.cord
+stage,blastomeres,endoderm,exocrine_pancreas,eye,glial,iridophores,liver,mesenchyme,neural,pericytes,spinal_cord
   3-4,15.55,0,0,0,0,0,0,0,0,0,0
   7-9,0,5.02,0,0,0,0,0,0,3.28,0,0
  14-21,0,0,0,0,0,0,0,0,0.96,0,0

@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,erythrocytes,exocrine.pancreas,eye,glial,gut,immune,ionocyte,lateral.line,liver,mesenchyme,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,periderm,pronephros,somites,vascular.smooth.muscle,vasculature,xanthophores
+stage,endoderm,epidermis,erythrocytes,exocrine_pancreas,eye,glial,gut,immune,ionocyte,lateral_line,liver,mesenchyme,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,periderm,pronephros,somites,vascular_smooth_muscle,vasculature,xanthophores
   7-9,0,0,0,0,7.31,0,0,0,0,0,0,0,0,0,4.43,0,0,3.96,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,0,8.48,0,0,0,7.47,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.48,2.37,0,0,0

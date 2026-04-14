@@ -1,6 +1,6 @@
-stage,Cardiomyocyte,Epithelial.cell,Goblet.cell,Hatching.gland,Hepatocyte,Intestinal.bulb.cell,Ionocyte,Mesenchymal.cell,Mt.rich.cell,Neural.cell,Neural.progenitor.cell,Osteoblast,Primordial.germ.cell,Radial.glia,Retinal.cell,Retinal.cone.cell,T.cell
+stage,Cardiomyocyte,Epithelial_cell,Goblet_cell,Hatching_gland,Hepatocyte,Intestinal_bulb_cell,Ionocyte,Mesenchymal_cell,Mt_rich_cell,Neural_cell,Neural_progenitor_cell,Osteoblast,Primordial_germ_cell,Radial_glia,Retinal_cell,Retinal_cone_cell,T_cell
 24hpf,0,0,0,2,0,0,0,0,0,1,4,0,0,0,0,0,0
-72hpf,0,0,0,0,0,0,0,0,0.563696112006446,3.38217667203868,0,0,0,0,0.84554416800967,0.281848056003223,0
-21Day,0.369986860264282,0,0,0,0,0,0,0,0,2.95989488211426,0,0.369986860264282,0,0.369986860264282,2.95989488211426,7.76972406554993,0.369986860264282
-3Month,0,0.208034013289345,0.208034013289345,0,1.1441870730914,0.104017006644673,0.104017006644673,0.208034013289345,0,0,0,0,0,0,0,0,0.312051019934018
-22Month,0,0.136649431988133,0,0,0.409948295964399,0.136649431988133,0,0,0,0,0,0,0.136649431988133,0,0,0,0
+72hpf,0,0,0,0,0,0,0,0,0.56,3.38,0,0,0,0,0.85,0.28,0
+21Day,0.37,0,0,0,0,0,0,0,0,2.96,0,0.37,0,0.37,2.96,7.77,0.37
+3Month,0,0.21,0.21,0,1.14,0.1,0.1,0.21,0,0,0,0,0,0,0,0,0.31
+22Month,0,0.14,0,0,0.41,0.14,0,0,0,0,0,0,0.14,0,0,0,0

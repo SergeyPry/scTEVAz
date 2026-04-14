@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,glial,gut,heart,iridophores,lateral.line,mesenchyme,mural.cell,muscle,neural,olfactory,periderm,slow.muscle,spinal.cord,xanthophores
+stage,epidermis,eye,fast_muscle,glial,gut,heart,iridophores,lateral_line,mesenchyme,mural_cell,muscle,neural,olfactory,periderm,slow_muscle,spinal_cord,xanthophores
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,0,1.6,0,0,0
  24-34,0.6,0,0,0,0,0.67,0,0,0,0,0,2.45,0,0,0,0.96,0
  36-46,0,0,6.23,0,0,0,0,0,0,0,0,3.4,0,0,0,0,0

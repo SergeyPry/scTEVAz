@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,mucous,neural,olfactory,otic,periderm
+stage,epidermis,eye,fin_epithelia,mucous,neural,olfactory,otic,periderm
  24-34,0,0,0,0.69,0,0,0,0
  36-46,0,0,0,0,1.77,0,0,0.73
  48-58,0,0,0,0,2.01,0,0,0

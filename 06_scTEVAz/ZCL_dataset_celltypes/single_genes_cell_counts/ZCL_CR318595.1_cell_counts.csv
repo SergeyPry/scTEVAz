@@ -1,4 +1,4 @@
-stage,Mesenchymal.cell,Neural.progenitor.cell,Spermatocyte
+stage,Mesenchymal_cell,Neural_progenitor_cell,Spermatocyte
 24hpf,7,1,0
-21Day,0.369986860264282,0,0
-3Month,0,0,0.208034013289345
+21Day,0.37,0,0
+3Month,0,0,0.21

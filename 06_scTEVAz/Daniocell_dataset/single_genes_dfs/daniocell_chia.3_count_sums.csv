@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,eye,glial,gut,liver,mesenchyme,muscle,neural,paraxial.mesoderm,pericytes,periderm,slow.muscle,somites,spinal.cord,taste,vasculature
+stage,blastomeres,endoderm,eye,glial,gut,liver,mesenchyme,muscle,neural,paraxial_mesoderm,pericytes,periderm,slow_muscle,somites,spinal_cord,taste,vasculature
   3-4,35.53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,38.16,0,0,0,0,0,0,0,7.43,0,0,0,0,0,0,0,0
   7-9,0,3.79,0,0,0,0,0,0,23.13,20.21,0,0,0,0,0,0,0

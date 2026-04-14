@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.epithelia,fin.mesenchyme,glial,gut,heart,immune,liver,mesenchyme,muscle,neural,notochord,otic,periderm,spinal.cord,vasculature,xanthophores
+stage,epidermis,erythrocytes,eye,fin_epithelia,fin_mesenchyme,glial,gut,heart,immune,liver,mesenchyme,muscle,neural,notochord,otic,periderm,spinal_cord,vasculature,xanthophores
  14-21,0,3.76,0,0,0,0,0,0.84,1.04,0,0,0,0,0,0,0,0,5.49,0
  24-34,0,0.62,0,0,0.78,0,0,0,10.52,0,0,0,5.56,0,1.28,0,2.46,51.65,0
  36-46,0.79,0,0,0,0,0,0,2.43,29.73,0,6.31,0,3.53,0,0,6.82,0,5.81,0

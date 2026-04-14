@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Erythrocyte,Keratinocyte,Mesenchymal.cell,Muscle.cell,Neural.cell,Neural.progenitor.cell,Osteoblast
+stage,Cardiomyocyte,Erythrocyte,Keratinocyte,Mesenchymal_cell,Muscle_cell,Neural_cell,Neural_progenitor_cell,Osteoblast
 24hpf,1,0,0,0,0,1,5,0
-72hpf,0.281848056003223,0,0,0.563696112006446,0,1.40924028001612,1.40924028001612,0.281848056003223
-21Day,0,0.739973720528564,0.369986860264282,2.21992116158569,0.369986860264282,1.10996058079285,0.369986860264282,0.739973720528564
+72hpf,0.28,0,0,0.56,0,1.41,1.41,0.28
+21Day,0,0.74,0.37,2.22,0.37,1.11,0.37,0.74

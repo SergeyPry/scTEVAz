@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,exocrine.pancreas,eye,glial,heart,melanocytes,mesenchyme,muscle,neural,pericytes,presomitic.mesoderm,slow.muscle,somites,spinal.cord,vascular.smooth.muscle
+stage,epidermis,erythrocytes,exocrine_pancreas,eye,glial,heart,melanocytes,mesenchyme,muscle,neural,pericytes,presomitic_mesoderm,slow_muscle,somites,spinal_cord,vascular_smooth_muscle
  14-21,0,0,0,0,0,4,0,12,1,2,0,1,27,8,1,0
  24-34,0.82,0,0,0,0,12.31,0,19.7,1.64,4.93,0,0,1.64,0,0,0
  36-46,0,0,0,0,0,10.47,0,9.67,0,1.61,0,0,0,0,0,0

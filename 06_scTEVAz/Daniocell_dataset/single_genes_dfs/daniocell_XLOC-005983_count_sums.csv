@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,fin.mesenchyme,glial,hatching.gland,immune,lateral.line,melanocytes,mesenchyme,mucous,neural,notochord,olfactory,spinal.cord
+stage,endocrine_pancreas,epidermis,eye,fin_mesenchyme,glial,hatching_gland,immune,lateral_line,melanocytes,mesenchyme,mucous,neural,notochord,olfactory,spinal_cord
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,0,2.93,0
  24-34,0,0,0,0,0,0,0,0,0,0,0,3.41,0,0,0
  36-46,0,0,0,0,0,0,0,0,0,0,0,30.34,0,0,3.1

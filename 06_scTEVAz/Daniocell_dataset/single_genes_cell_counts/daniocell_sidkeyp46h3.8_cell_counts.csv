@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,erythrocytes,eye,fin.epithelia,gut,hatching.gland,iridophores,liver,mesenchyme,neural,notochord,paraxial.mesoderm,periderm,pgc,presomitic.mesoderm,pronephros,somites,spinal.cord
+stage,axial,blastomeres,endoderm,erythrocytes,eye,fin_epithelia,gut,hatching_gland,iridophores,liver,mesenchyme,neural,notochord,paraxial_mesoderm,periderm,pgc,presomitic_mesoderm,pronephros,somites,spinal_cord
   3-4,619.36,11543.87,0,0,0,0,0,0,0,0,0,0,0,0,448.05,0,0,0,0,0
   5-6,257.44,3242.58,6.13,0,0,0,0,18.39,0,0,0,147.11,6.13,24.52,73.56,0,0,0,0,0
   7-9,26.29,13.14,15.77,0,34.17,0,0,18.4,0,0,0,383.79,23.66,123.55,0,21.03,0,0,0,0

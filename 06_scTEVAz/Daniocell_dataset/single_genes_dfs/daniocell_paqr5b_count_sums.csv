@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,fin.epithelia,fin.mesenchyme,glial,gut,immune,ionocyte,lateral.line,liver,mesenchyme,mucous,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,periderm,pronephros,slow.muscle,somites,spinal.cord,taste,vasculature,xanthophores
+stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,fin_epithelia,fin_mesenchyme,glial,gut,immune,ionocyte,lateral_line,liver,mesenchyme,mucous,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,periderm,pronephros,slow_muscle,somites,spinal_cord,taste,vasculature,xanthophores
   3-4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44.93,0,0,0,0,0,0,0
   5-6,21.48,37.15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,230.4,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,10.98,0,0,0,0,0,0,0,0,0,0,0,55.39,0,0,0,32.19,91.37,0,0,0,0,0,0,0

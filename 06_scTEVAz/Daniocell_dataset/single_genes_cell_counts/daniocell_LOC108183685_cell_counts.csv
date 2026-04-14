@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,gut,mesenchyme,muscle,neural,otic,periderm,presomitic.mesoderm,somites,spinal.cord,taste,visceral.smooth.muscle
+stage,epidermis,erythrocytes,eye,gut,mesenchyme,muscle,neural,otic,periderm,presomitic_mesoderm,somites,spinal_cord,taste,visceral_smooth_muscle
  14-21,0,1,1,0,0,2,4,0,0,3,2,4,0,0
  24-34,0,0,0.82,0,0.82,0,7.39,0,1.64,0,0,1.64,0,0
  36-46,0,0,0.81,0,0,0.81,0.81,0,0,0,0,0.81,0,0

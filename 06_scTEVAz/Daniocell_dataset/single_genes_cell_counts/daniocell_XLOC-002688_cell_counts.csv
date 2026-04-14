@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,erythrocytes,eye,fin.epithelia,fin.mesenchyme,lateral.line,mesenchyme,mucous,muscle,neural,notochord,otic,paraxial.mesoderm,periderm,spinal.cord
+stage,endoderm,epidermis,erythrocytes,eye,fin_epithelia,fin_mesenchyme,lateral_line,mesenchyme,mucous,muscle,neural,notochord,otic,paraxial_mesoderm,periderm,spinal_cord
   7-9,0,0,0,0,0,0,0,0,0,0,2.63,0,0,0,0,0
  10-12,3.15,0,0,0,0,0,0,0,0,0,22.03,0,0,3.15,0,0
  14-21,0,17,0,0,0,0,0,2,0,0,0,2,0,0,3,1

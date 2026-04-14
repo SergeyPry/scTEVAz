@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.mesenchyme,glial,gut,immune,melanocytes,mesenchyme,neural,otic,periderm,presomitic.mesoderm,spinal.cord,vasculature,visceral.smooth.muscle,xanthophores
+stage,epidermis,erythrocytes,eye,fin_mesenchyme,glial,gut,immune,melanocytes,mesenchyme,neural,otic,periderm,presomitic_mesoderm,spinal_cord,vasculature,visceral_smooth_muscle,xanthophores
  14-21,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
  24-34,0.82,0,0.82,0,0,0,0,0,2.46,4.93,0,0,0,1.64,0.82,0,0
  36-46,0,0,0.81,0,0,0,0,0,0,7.25,0,0,0,0.81,0,0,0

@@ -1,4 +1,4 @@
-stage,axial,epidermis,exocrine.pancreas,eye,fin.epithelia,glial,gut,mesenchyme,muscle,neural,notochord,otic,periderm,spinal.cord,vasculature
+stage,axial,epidermis,exocrine_pancreas,eye,fin_epithelia,glial,gut,mesenchyme,muscle,neural,notochord,otic,periderm,spinal_cord,vasculature
  14-21,0,1,0,0,0,0,0,0,0,0,0,6,0,0,0
  24-34,0,0,0,0,0.82,0,0,0,0.82,0.82,0,27.09,0,0,0
  36-46,0,0,0,0,0,0,0,0,0,0.81,0,16.11,0,0,0

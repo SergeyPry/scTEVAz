@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,hatching.gland,ionocyte,lateral.line,mesenchyme,mucous,mural.cell,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,periderm,pronephros,spinal.cord,taste,vasculature,visceral.smooth.muscle
+stage,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,hatching_gland,ionocyte,lateral_line,mesenchyme,mucous,mural_cell,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,periderm,pronephros,spinal_cord,taste,vasculature,visceral_smooth_muscle
   3-4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16.25,0,0,0,0,0
  14-21,5.57,0,0,0,0,0,0,0,1.04,0.93,0,2.11,1.79,0,0,0,0.89,45.14,0,0,0,0,0
  24-34,0,0,0,0,0,0,0,0,2.06,0,0,1.37,9.33,0.83,0,1.36,0,24.43,0,1.95,0,0,0

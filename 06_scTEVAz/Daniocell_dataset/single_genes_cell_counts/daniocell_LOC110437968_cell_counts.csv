@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,glial,gut,iridophores,lateral.line,mesenchyme,neural,olfactory,otic,periderm,presomitic.mesoderm,spinal.cord,vasculature
+stage,endoderm,epidermis,eye,glial,gut,iridophores,lateral_line,mesenchyme,neural,olfactory,otic,periderm,presomitic_mesoderm,spinal_cord,vasculature
  14-21,0,0,0,0,0,0,0,0,1,1,2,0,1,2,0
  24-34,0.82,0.82,0,0,0,0,0.82,0,4.1,0,0,0,0,3.28,0.82
  36-46,0,0,2.42,0,0,0,0,0,4.83,0,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,erythrocytes,eye,fin.epithelia,glial,gut,immune,ionocyte,iridophores,mesenchyme,mucous,neural,periderm,somites,xanthophores
+stage,blastomeres,endoderm,epidermis,erythrocytes,eye,fin_epithelia,glial,gut,immune,ionocyte,iridophores,mesenchyme,mucous,neural,periderm,somites,xanthophores
   3-4,26.36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,2.63,0,0,0,0,0,0,0,0,0,0,0,2.63,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,1,0

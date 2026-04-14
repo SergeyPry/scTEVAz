@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,glial,mesenchyme,neural,notochord,otic,paraxial.mesoderm,periderm,somites,spinal.cord
+stage,epidermis,eye,fast_muscle,glial,mesenchyme,neural,notochord,otic,paraxial_mesoderm,periderm,somites,spinal_cord
   7-9,0,0,0,0,0,0,0,0,5.26,0,0,0
  14-21,0,0,0,0,0,1,0,0,0,0,1,0
  24-34,0.82,0,0,0,0.82,0.82,0.82,0,0,0,0,0

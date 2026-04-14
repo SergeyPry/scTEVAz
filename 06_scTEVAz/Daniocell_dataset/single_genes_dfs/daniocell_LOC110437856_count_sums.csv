@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,fin.epithelia,immune,ionocyte,melanocytes,mesenchyme,mucous,muscle,neural,notochord,paraxial.mesoderm,periderm,xanthophores
+stage,axial,blastomeres,endoderm,epidermis,eye,fin_epithelia,immune,ionocyte,melanocytes,mesenchyme,mucous,muscle,neural,notochord,paraxial_mesoderm,periderm,xanthophores
   3-4,0,25.37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.8,272.05,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,4.17,0,0,0,0,0,0,0,0,0,27.56,0,6.71,0,0

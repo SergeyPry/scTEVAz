@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,epidermis,glial,gut,ionocyte,neural,paraxial.mesoderm,slow.muscle
+stage,blastomeres,endocrine_pancreas,epidermis,glial,gut,ionocyte,neural,paraxial_mesoderm,slow_muscle
   3-4,12.36,0,0,0,0,0,0,0,0
   5-6,22.65,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,11.79,14.06,0

@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fast.muscle,fin.mesenchyme,glial,gut,immune,ionocyte,iridophores,melanocytes,mesenchyme,mucous,mural.cell,muscle,neural,olfactory,paraxial.mesoderm,periderm,slow.muscle,somites,spinal.cord,vascular.smooth.muscle,vasculature,visceral.smooth.muscle,xanthophores
+stage,epidermis,erythrocytes,eye,fast_muscle,fin_mesenchyme,glial,gut,immune,ionocyte,iridophores,melanocytes,mesenchyme,mucous,mural_cell,muscle,neural,olfactory,paraxial_mesoderm,periderm,slow_muscle,somites,spinal_cord,vascular_smooth_muscle,vasculature,visceral_smooth_muscle,xanthophores
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.72,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8.77,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,1.12,0,0,0,0,0,0,0,0,2.58,0.81,0,0,0,0

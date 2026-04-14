@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.mesenchyme,glial,ionocyte,iridophores,mesenchyme,neural,notochord,olfactory,otic,periderm,pronephros,spinal.cord,taste
+stage,epidermis,eye,fin_mesenchyme,glial,ionocyte,iridophores,mesenchyme,neural,notochord,olfactory,otic,periderm,pronephros,spinal_cord,taste
   7-9,0,0,0,0,0,0,0,0,5.81,0,0,0,0,0,0
  14-21,0,0.96,0,0,0,0,0.83,0,0,0,0,0,0,0,0
  24-34,0,0,0,0,0,0,0.64,1.81,0,0,0,0,0,1.13,0

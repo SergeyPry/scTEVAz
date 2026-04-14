@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,erythrocytes,eye,fin.epithelia,glial,gut,hatching.gland,heart,ionocyte,lateral.line,liver,mesenchyme,mucous,muscle,neural,olfactory,periderm,slow.muscle,spinal.cord,vascular.smooth.muscle,vasculature
+stage,endoderm,epidermis,erythrocytes,eye,fin_epithelia,glial,gut,hatching_gland,heart,ionocyte,lateral_line,liver,mesenchyme,mucous,muscle,neural,olfactory,periderm,slow_muscle,spinal_cord,vascular_smooth_muscle,vasculature
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.15,0,6.29,0,0,0,0
  14-21,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,57,0,1,0,0
  24-34,0,0.82,0.82,0.82,0,0,0.82,0,0,0,0.82,0,0.82,0,0,5.75,0,169.1,0.82,1.64,0,0

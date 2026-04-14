@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endocrine.pancreas,endoderm,epidermis,erythrocytes,eye,glial,gut,iridophores,liver,mesenchyme,mural.cell,muscle,neural,paraxial.mesoderm,periderm,spinal.cord
+stage,axial,blastomeres,endocrine_pancreas,endoderm,epidermis,erythrocytes,eye,glial,gut,iridophores,liver,mesenchyme,mural_cell,muscle,neural,paraxial_mesoderm,periderm,spinal_cord
   3-4,26.36,342.63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,0,85.81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,2.63,0,2.63,0,0,0,0,0,0,0,0,0,0,2.63,2.63,0,0

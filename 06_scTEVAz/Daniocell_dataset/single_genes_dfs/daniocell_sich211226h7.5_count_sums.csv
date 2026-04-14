@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,erythrocytes,eye,fin.epithelia,glial,ionocyte,mucous,neural,periderm,spinal.cord
+stage,axial,blastomeres,epidermis,erythrocytes,eye,fin_epithelia,glial,ionocyte,mucous,neural,periderm,spinal_cord
   3-4,17.01,29.84,0,0,0,0,0,0,0,0,0,0
  36-46,0,0,0,0,0,0,0,0.58,0,1.02,0,1.09
  48-58,0,0,0,0,5.66,0,0,0,0,0,0,0

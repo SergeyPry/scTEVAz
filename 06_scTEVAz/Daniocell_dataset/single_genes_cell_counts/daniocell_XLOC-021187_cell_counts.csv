@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,erythrocytes,eye,gut,heart,immune,melanocytes,mesenchyme,muscle,neural,otic,periderm,spinal.cord,taste,vasculature
+stage,blastomeres,endoderm,epidermis,erythrocytes,eye,gut,heart,immune,melanocytes,mesenchyme,muscle,neural,otic,periderm,spinal_cord,taste,vasculature
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,2.63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

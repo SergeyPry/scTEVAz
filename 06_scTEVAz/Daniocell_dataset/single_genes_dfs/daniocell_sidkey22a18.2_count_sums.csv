@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,gut,heart,immune,ionocyte,mesenchyme,mucous,muscle,neural,paraxial.mesoderm,pericytes,periderm,slow.muscle,spinal.cord,taste,vasculature
+stage,blastomeres,endoderm,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,gut,heart,immune,ionocyte,mesenchyme,mucous,muscle,neural,paraxial_mesoderm,pericytes,periderm,slow_muscle,spinal_cord,taste,vasculature
   5-6,27.68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9.15,0,0,0,0,0,0
   7-9,0,5.59,0,7.94,0,0,0,0,0,0,0,0,0,0,103.48,16.78,0,0,0,0,0,0
  10-12,0,0,0,3.35,0,0,0,0,0,0,0,0,0,0,22.5,0,0,6.22,0,0,0,0

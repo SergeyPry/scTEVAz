@@ -1,4 +1,4 @@
-stage,Goblet.cell,Granulocyte,Hepatocyte,Intestinal.bulb.cell,Mesenchymal.cell
-21Day,0,0,0.369986860264282,0,0
-3Month,0.104017006644673,0,0.416068026578691,0.104017006644673,0
-22Month,0,0.136649431988133,1.91309204783386,0.136649431988133,0.136649431988133
+stage,Goblet_cell,Granulocyte,Hepatocyte,Intestinal_bulb_cell,Mesenchymal_cell
+21Day,0,0,0.37,0,0
+3Month,0.1,0,0.42,0.1,0
+22Month,0,0.14,1.91,0.14,0.14

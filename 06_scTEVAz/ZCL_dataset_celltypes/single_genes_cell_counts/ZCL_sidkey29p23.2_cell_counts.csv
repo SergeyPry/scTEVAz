@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Immune.progenitor.cell,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Osteoblast,Retinal.cone.cell
+stage,Epithelial_cell,Immune_progenitor_cell,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Osteoblast,Retinal_cone_cell
 24hpf,0,0,1,0,10,0,0
-72hpf,0,0,0,0.84554416800967,0.563696112006446,0,0
-21Day,0.369986860264282,0.369986860264282,0.739973720528564,0.369986860264282,0,0.739973720528564,0.369986860264282
+72hpf,0,0,0,0.85,0.56,0,0
+21Day,0.37,0.37,0.74,0.37,0,0.74,0.37

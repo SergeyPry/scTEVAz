@@ -1,4 +1,4 @@
-stage,eye,glial,immune,lateral.line,mesenchyme,neural,periderm,somites,spinal.cord,visceral.smooth.muscle
+stage,eye,glial,immune,lateral_line,mesenchyme,neural,periderm,somites,spinal_cord,visceral_smooth_muscle
  14-21,0.8,0,0,0,0,0,0,2,0,0
  36-46,6.51,0,0,0,0,1.73,0,0,0.74,0
  48-58,1.59,0,0,0,0,5.23,0,0,0.62,0

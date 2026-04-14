@@ -1,4 +1,4 @@
-stage,Erythrocyte,Hepatocyte,Neural.cell,Retinal.cone.cell
-72hpf,0.281848056003223,0,0.563696112006446,0
-21Day,0,0,1.47994744105713,0.369986860264282
-22Month,0,0.956546023916932,0,0
+stage,Erythrocyte,Hepatocyte,Neural_cell,Retinal_cone_cell
+72hpf,0.28,0,0.56,0
+21Day,0,0,1.48,0.37
+22Month,0,0.96,0,0

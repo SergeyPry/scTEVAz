@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,glial,gut,immune,iridophores,lateral.line,mesenchyme,mucous,muscle,neural,notochord,otic,paraxial.mesoderm,presomitic.mesoderm,somites,spinal.cord,taste,vasculature,visceral.smooth.muscle,xanthophores
+stage,endocrine_pancreas,epidermis,eye,glial,gut,immune,iridophores,lateral_line,mesenchyme,mucous,muscle,neural,notochord,otic,paraxial_mesoderm,presomitic_mesoderm,somites,spinal_cord,taste,vasculature,visceral_smooth_muscle,xanthophores
  10-12,0,0,0,0,0,0,0,0,0,0,0,29.55,0,0,65.27,0,0,0,0,0,0,0
  14-21,0,3.02,0,6.78,0,0,0,0,0,0,0,14.99,4.33,0,2.04,4.34,4.54,49.66,0,0,0,0
  24-34,0,0,0,22.7,0,0,0,0,0,0,0.67,29.08,7.62,0,0,0,3.03,136.65,0,0,0,0

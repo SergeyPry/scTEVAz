@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,fin.mesenchyme,glial,gut,heart,melanocytes,mesenchyme,mural.cell,muscle,neural,olfactory,otic,paraxial.mesoderm,periderm,slow.muscle,somites,spinal.cord,taste,vasculature,xanthophores
+stage,axial,blastomeres,endoderm,epidermis,eye,fin_mesenchyme,glial,gut,heart,melanocytes,mesenchyme,mural_cell,muscle,neural,olfactory,otic,paraxial_mesoderm,periderm,slow_muscle,somites,spinal_cord,taste,vasculature,xanthophores
   3-4,0,9.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,0,45.54,0,0,0,0,0,0,0,0,0,0,0,13.41,0,0,0,0,0,0,0,0,0,0
   7-9,6.64,7.41,0,0,22.52,0,0,0,0,0,0,0,0,19.97,0,0,4.9,0,0,0,0,0,0,0

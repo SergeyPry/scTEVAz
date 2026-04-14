@@ -1,4 +1,4 @@
-stage,Endothelial.cell,Hepatocyte,Neural.cell,Neural.progenitor.cell,Spermatocyte
-72hpf,0,0,2.13958228293216,1.06979114146608,0
-3Month,0.319949299554195,1.27979719821678,0,0,0.319949299554195
-22Month,0,1.6399639535923,0,0,0
+stage,Endothelial_cell,Hepatocyte,Neural_cell,Neural_progenitor_cell,Spermatocyte
+72hpf,0,0,2.14,1.07,0
+3Month,0.32,1.28,0,0,0.32
+22Month,0,1.64,0,0,0

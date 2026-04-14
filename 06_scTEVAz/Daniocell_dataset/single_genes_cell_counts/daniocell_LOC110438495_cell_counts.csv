@@ -1,4 +1,4 @@
-stage,eye,fast.muscle,ionocyte,muscle,neural,paraxial.mesoderm,slow.muscle
+stage,eye,fast_muscle,ionocyte,muscle,neural,paraxial_mesoderm,slow_muscle
  48-58,0,0,0,0,0,0,1.15
  60-70,0,0.98,0,0.98,0,0,0
  72-82,0,0,0,0,0.98,0.98,0

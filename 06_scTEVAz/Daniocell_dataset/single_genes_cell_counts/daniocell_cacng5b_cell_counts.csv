@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,mesenchyme,neural,otic,paraxial.mesoderm,periderm,pgc,spinal.cord
+stage,blastomeres,epidermis,eye,glial,mesenchyme,neural,otic,paraxial_mesoderm,periderm,pgc,spinal_cord
   3-4,289.91,0,0,0,0,0,0,0,52.71,0,0
   5-6,122.59,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,13.14,0,2.63,0,0,0

@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,endoderm,eye,glial,gut,mesenchyme,mural.cell,muscle,neural,olfactory,otic,pericytes,pronephros,spinal.cord
+stage,endocrine_pancreas,endoderm,eye,glial,gut,mesenchyme,mural_cell,muscle,neural,olfactory,otic,pericytes,pronephros,spinal_cord
   7-9,0,0,0,0,0,0,0,0,3.83,0,0,0,0,0
  10-12,0,0,5.99,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,2.29,0,0,0,0,0,0,0,0,1.76,0

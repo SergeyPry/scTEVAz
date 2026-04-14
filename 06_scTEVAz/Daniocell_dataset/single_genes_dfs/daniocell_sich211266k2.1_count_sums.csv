@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fast.muscle,fin.epithelia,fin.mesenchyme,heart,immune,melanocytes,mesenchyme,mural.cell,muscle,neural,notochord,olfactory,otic,pericytes,slow.muscle,spinal.cord,visceral.smooth.muscle
+stage,blastomeres,epidermis,eye,fast_muscle,fin_epithelia,fin_mesenchyme,heart,immune,melanocytes,mesenchyme,mural_cell,muscle,neural,notochord,olfactory,otic,pericytes,slow_muscle,spinal_cord,visceral_smooth_muscle
   3-4,34.42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,25.71,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,7.79,0,0,0,0,0,0,0

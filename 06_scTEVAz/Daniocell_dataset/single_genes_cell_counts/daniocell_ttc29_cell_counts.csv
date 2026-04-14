@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.mesenchyme,glial,melanocytes,mesenchyme,neural,olfactory,otic,pgc,pronephros,slow.muscle,spinal.cord
+stage,blastomeres,epidermis,eye,fin_mesenchyme,glial,melanocytes,mesenchyme,neural,olfactory,otic,pgc,pronephros,slow_muscle,spinal_cord
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,2.63,0,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,9.44,0,0,0,0,0,0

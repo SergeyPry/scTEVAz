@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,glial,lateral.line,mesenchyme,neural,otic,paraxial.mesoderm,slow.muscle,somites,spinal.cord
+stage,blastomeres,epidermis,glial,lateral_line,mesenchyme,neural,otic,paraxial_mesoderm,slow_muscle,somites,spinal_cord
   7-9,0,0,0,0,0,0,0,2.63,0,0,0
  10-12,3.15,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,2,0,0,1,1,1

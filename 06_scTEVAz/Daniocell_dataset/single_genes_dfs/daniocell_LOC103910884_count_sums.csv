@@ -1,4 +1,4 @@
-stage,endoderm,eye,fast.muscle,glial,gut,immune,lateral.line,mesenchyme,mural.cell,neural,spinal.cord
+stage,endoderm,eye,fast_muscle,glial,gut,immune,lateral_line,mesenchyme,mural_cell,neural,spinal_cord
  14-21,0,0,0,0,0,0,0,0,0,8.99,3.02
  24-34,1.2,4.27,0,0,0.82,0,0,0,0,14.73,3.58
  36-46,0,0,0,0,0,0,0,0,0,1.32,0.56

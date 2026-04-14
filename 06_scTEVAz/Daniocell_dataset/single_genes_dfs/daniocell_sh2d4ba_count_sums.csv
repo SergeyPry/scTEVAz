@@ -1,4 +1,4 @@
-stage,endoderm,eye,glial,hatching.gland,immune,lateral.line,mesenchyme,neural,otic,spinal.cord,vasculature
+stage,endoderm,eye,glial,hatching_gland,immune,lateral_line,mesenchyme,neural,otic,spinal_cord,vasculature
   7-9,0,0,0,5.88,0,0,0,14.69,0,0,0
  10-12,9.18,9.54,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,3.16,0.88,1.02

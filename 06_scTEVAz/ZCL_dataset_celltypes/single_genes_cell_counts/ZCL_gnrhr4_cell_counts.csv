@@ -1,5 +1,5 @@
-stage,Hepatocyte,Keratinocyte,Mesenchymal.cell,Neural.cell,Neurosecretory.cell,Pancreatic.cell
+stage,Hepatocyte,Keratinocyte,Mesenchymal_cell,Neural_cell,Neurosecretory_cell,Pancreatic_cell
 24hpf,0,0,1,0,0,0
-72hpf,0,0,0,0.84554416800967,0,0
-21Day,0,0.369986860264282,0,0.369986860264282,0.369986860264282,0
-22Month,0.409948295964399,0,0,0,0,0.273298863976266
+72hpf,0,0,0,0.85,0,0
+21Day,0,0.37,0,0.37,0.37,0
+22Month,0.41,0,0,0,0,0.27

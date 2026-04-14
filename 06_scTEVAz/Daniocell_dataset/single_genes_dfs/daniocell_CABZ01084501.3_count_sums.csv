@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,glial,liver,melanocytes,mesenchyme,mural.cell,neural,olfactory,paraxial.mesoderm,periderm,spinal.cord,visceral.smooth.muscle
+stage,blastomeres,epidermis,erythrocytes,eye,glial,liver,melanocytes,mesenchyme,mural_cell,neural,olfactory,paraxial_mesoderm,periderm,spinal_cord,visceral_smooth_muscle
   3-4,16.51,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,12.52,0,0,0
  14-21,0,0,0,0,0,0,1.71,0,0,0,0,0,0,0,0

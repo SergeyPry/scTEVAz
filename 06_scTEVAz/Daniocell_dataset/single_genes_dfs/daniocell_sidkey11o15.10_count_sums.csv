@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,eye,glial,mesenchyme,neural,notochord,paraxial.mesoderm,periderm,pgc,vascular.smooth.muscle
+stage,axial,blastomeres,endoderm,eye,glial,mesenchyme,neural,notochord,paraxial_mesoderm,periderm,pgc,vascular_smooth_muscle
   3-4,733.75,20533.17,0,0,0,0,0,0,0,491.35,0,0
   5-6,130.25,5596.64,0,0,0,0,239.26,0,0,174.33,0,0
   7-9,0,0,5.1,10.43,0,0,176.51,0,16.31,0,141.22,0

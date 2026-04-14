@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,liver,mesenchyme,neural,olfactory,slow.muscle,spinal.cord,vasculature
+stage,epidermis,eye,glial,liver,mesenchyme,neural,olfactory,slow_muscle,spinal_cord,vasculature
  14-21,0,0,0,0,4.41,0,0,0,0.98,0
  24-34,0.94,0.69,0,0.61,1.36,2.84,0,0,0,1.14
  36-46,0,0.85,1.23,0,0,0,0,0,0,0

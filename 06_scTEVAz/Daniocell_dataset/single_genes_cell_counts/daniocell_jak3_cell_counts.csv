@@ -1,4 +1,4 @@
-stage,blastomeres,erythrocytes,eye,fin.mesenchyme,glial,immune,mesenchyme,neural,otic,periderm,pgc,spinal.cord,vasculature
+stage,blastomeres,erythrocytes,eye,fin_mesenchyme,glial,immune,mesenchyme,neural,otic,periderm,pgc,spinal_cord,vasculature
   5-6,0,0,0,0,0,0,0,6.13,0,0,0,0,0
   7-9,2.63,0,0,0,0,0,0,2.63,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,3.15,0,0,0,0,0

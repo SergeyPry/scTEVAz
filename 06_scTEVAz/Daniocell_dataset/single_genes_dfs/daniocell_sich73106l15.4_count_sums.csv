@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,gut,heart,ionocyte,lateral.line,liver,melanocytes,mesenchyme,muscle,neural,paraxial.mesoderm,periderm,vasculature
+stage,epidermis,eye,glial,gut,heart,ionocyte,lateral_line,liver,melanocytes,mesenchyme,muscle,neural,paraxial_mesoderm,periderm,vasculature
   7-9,0,0,0,0,0,0,0,0,0,0,0,3.42,4.33,0,0
  14-21,1.7,0,0,0,1.1,0,0,0,0,1.52,0,0,0,0,0
  36-46,0,0,0,0,0,0,0,0,0,0,0,1.32,0,0,0

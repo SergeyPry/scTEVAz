@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,gut,immune,ionocyte,lateral.line,mesenchyme,muscle,neural,paraxial.mesoderm,pronephros,somites,spinal.cord
+stage,epidermis,eye,glial,gut,immune,ionocyte,lateral_line,mesenchyme,muscle,neural,paraxial_mesoderm,pronephros,somites,spinal_cord
   7-9,0,0,0,0,0,0,0,0,0,13.58,7.31,0,0,0
  14-21,0.81,1.03,0,0,0,0,0,0,0,1.08,0,0,0.89,0.85
  24-34,0.82,0.66,0,0,0,0,0,0,0,4.98,0,0,0,2.86

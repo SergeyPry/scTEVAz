@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,melanocytes,mesenchyme,muscle,neural,paraxial.mesoderm,periderm,presomitic.mesoderm,pronephros,spinal.cord,vasculature,visceral.smooth.muscle
+stage,blastomeres,epidermis,eye,glial,melanocytes,mesenchyme,muscle,neural,paraxial_mesoderm,periderm,presomitic_mesoderm,pronephros,spinal_cord,vasculature,visceral_smooth_muscle
   3-4,26.36,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,30.65,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,2.63,0,0,0,0,15.77,7.89,0,0,0,0,0,0

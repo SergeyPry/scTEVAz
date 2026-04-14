@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,fast.muscle,fin.epithelia,glial,gut,hatching.gland,ionocyte,iridophores,mesenchyme,mucous,muscle,neural,notochord,paraxial.mesoderm,periderm,pronephros,vasculature
+stage,blastomeres,epidermis,erythrocytes,eye,fast_muscle,fin_epithelia,glial,gut,hatching_gland,ionocyte,iridophores,mesenchyme,mucous,muscle,neural,notochord,paraxial_mesoderm,periderm,pronephros,vasculature
   5-6,68.77,0,0,0,0,0,0,0,0,0,0,0,0,0,20.44,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,6.69,0,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,5.46,0,0,0,0,0,7.2,0,0,0,0,0,0,26.82,3.53,0,0,0

@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,erythrocytes,eye,gut,hatching.gland,immune,ionocyte,mesenchyme,mucous,mural.cell,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,periderm,slow.muscle,spinal.cord,taste,vascular.smooth.muscle,vasculature
+stage,axial,blastomeres,epidermis,erythrocytes,eye,gut,hatching_gland,immune,ionocyte,mesenchyme,mucous,mural_cell,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,periderm,slow_muscle,spinal_cord,taste,vascular_smooth_muscle,vasculature
   3-4,9.65,145.08,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,861.43,0,0,0,0,0
   5-6,0,168.08,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1916.94,0,0,0,0,0
   7-9,0,0,0,0,7.44,0,13.62,0,0,0,0,0,0,192.86,0,0,0,4.55,156.82,0,0,0,0,0

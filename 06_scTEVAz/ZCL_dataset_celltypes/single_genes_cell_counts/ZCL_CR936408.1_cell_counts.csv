@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Enterocyte,Epithelial.cell,Granulocyte,Hepatocyte,Ionocyte,Mesenchymal.cell,Neural.progenitor.cell,Primordial.germ.cell,Spermatocyte,T.cell
+stage,Cardiomyocyte,Enterocyte,Epithelial_cell,Granulocyte,Hepatocyte,Ionocyte,Mesenchymal_cell,Neural_progenitor_cell,Primordial_germ_cell,Spermatocyte,T_cell
 24hpf,0,0,0,0,0,0,0,1,0,0,0
-21Day,0.369986860264282,0,0,0,0,0,0,0,0,0,0
-3Month,0,0.104017006644673,0.520085033223363,0.104017006644673,0.104017006644673,0.104017006644673,0.104017006644673,0,0.416068026578691,9.46554760466521,0.208034013289345
+21Day,0.37,0,0,0,0,0,0,0,0,0,0
+3Month,0,0.1,0.52,0.1,0.1,0.1,0.1,0,0.42,9.47,0.21

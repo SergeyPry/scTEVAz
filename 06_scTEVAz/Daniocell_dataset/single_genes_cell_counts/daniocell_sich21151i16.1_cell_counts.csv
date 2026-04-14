@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fast.muscle,fin.epithelia,glial,gut,heart,immune,ionocyte,liver,mesenchyme,mucous,muscle,neural,notochord,periderm,presomitic.mesoderm,somites,spinal.cord,taste,visceral.smooth.muscle
+stage,epidermis,erythrocytes,eye,fast_muscle,fin_epithelia,glial,gut,heart,immune,ionocyte,liver,mesenchyme,mucous,muscle,neural,notochord,periderm,presomitic_mesoderm,somites,spinal_cord,taste,visceral_smooth_muscle
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
  24-34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.46,0,0,0,0.82,0,0,0
  36-46,0,0,0,0,0,0,0,0,0,0,0,0.81,0,0,5.64,0,0,0,0,0.81,0,0

@@ -1,5 +1,5 @@
-stage,Epithelial.cell,Erythrocyte,Granulocyte,Granulosa.cell,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Ionocyte,Keratinocyte,Mesenchymal.cell,Muscle.cell,Nephron.cell,Neural.cell,Neurosecretory.cell,Oligodendrocyte,Oocyte,Pancreatic.cell,Primordial.germ.cell,Spermatocyte,T.cell
-72hpf,0,0,0,0,0,0,0,0,0,0,0,0,0.281848056003223,0,0,0,0,0,0,0
-21Day,2.21992116158569,0.369986860264282,0,0,0,0,0,0,0,0,0.739973720528564,0,0.369986860264282,0,0,0,0,0,0,0
-3Month,4.05666325914223,0,0.104017006644673,0,0.936153059802054,0,0.104017006644673,0.208034013289345,0.208034013289345,0.104017006644673,12.7940918172947,0.104017006644673,0.104017006644673,0.104017006644673,0.104017006644673,0,0.104017006644673,2.70444217276149,1.04017006644673,0.104017006644673
-22Month,1.50314375186946,0,0.136649431988133,0.136649431988133,3.68953466367959,0.136649431988133,0,0,0,0.136649431988133,9.01886251121678,0,0,0,0,0.136649431988133,0,0.136649431988133,0,0
+stage,Epithelial_cell,Erythrocyte,Granulocyte,Granulosa_cell,Hepatocyte,Immune_cell,Intestinal_bulb_cell,Ionocyte,Keratinocyte,Mesenchymal_cell,Muscle_cell,Nephron_cell,Neural_cell,Neurosecretory_cell,Oligodendrocyte,Oocyte,Pancreatic_cell,Primordial_germ_cell,Spermatocyte,T_cell
+72hpf,0,0,0,0,0,0,0,0,0,0,0,0,0.28,0,0,0,0,0,0,0
+21Day,2.22,0.37,0,0,0,0,0,0,0,0,0.74,0,0.37,0,0,0,0,0,0,0
+3Month,4.06,0,0.1,0,0.94,0,0.1,0.21,0.21,0.1,12.79,0.1,0.1,0.1,0.1,0,0.1,2.7,1.04,0.1
+22Month,1.5,0,0.14,0.14,3.69,0.14,0,0,0,0.14,9.02,0,0,0,0,0.14,0,0.14,0,0

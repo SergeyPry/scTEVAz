@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Ionocyte,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Radial.glia
+stage,Epithelial_cell,Ionocyte,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Radial_glia
 24hpf,0,1,0,0,3,0
-72hpf,0.281848056003223,0,0.281848056003223,3.10032861603546,0.563696112006446,0.281848056003223
-21Day,0,0,0.369986860264282,0,0.369986860264282,0
+72hpf,0.28,0,0.28,3.1,0.56,0.28
+21Day,0,0,0.37,0,0.37,0

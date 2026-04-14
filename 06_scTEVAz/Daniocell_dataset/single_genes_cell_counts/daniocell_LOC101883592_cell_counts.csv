@@ -1,4 +1,4 @@
-stage,eye,glial,mesenchyme,neural,spinal.cord,vasculature
+stage,eye,glial,mesenchyme,neural,spinal_cord,vasculature
  14-21,0,0,0,0,2,0
  24-34,0,0,0,1.64,0,0.82
  36-46,0,0,0,4.03,0,0

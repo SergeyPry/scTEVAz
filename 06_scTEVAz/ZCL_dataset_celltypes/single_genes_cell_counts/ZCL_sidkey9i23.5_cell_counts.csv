@@ -1,3 +1,3 @@
-stage,Epithelial.cell,Granulocyte,Hepatocyte,Immune.cell,Immune.progenitor.cell,Intestinal.bulb.cell,Keratinocyte,Macrophage,Mesenchymal.cell,Primordial.germ.cell,Retinal.cone.cell,Spermatocyte,T.cell
-21Day,0,0,0,0,4.06985546290711,0,0,0.369986860264282,0.739973720528564,0,0.369986860264282,0,1.10996058079285
-3Month,0.104017006644673,0.104017006644673,0.312051019934018,0.312051019934018,0.104017006644673,0.104017006644673,0.104017006644673,1.87230611960411,0.416068026578691,2.08034013289345,0,0.104017006644673,0.728119046512708
+stage,Epithelial_cell,Granulocyte,Hepatocyte,Immune_cell,Immune_progenitor_cell,Intestinal_bulb_cell,Keratinocyte,Macrophage,Mesenchymal_cell,Primordial_germ_cell,Retinal_cone_cell,Spermatocyte,T_cell
+21Day,0,0,0,0,4.07,0,0,0.37,0.74,0,0.37,0,1.11
+3Month,0.1,0.1,0.31,0.31,0.1,0.1,0.1,1.87,0.42,2.08,0,0.1,0.73

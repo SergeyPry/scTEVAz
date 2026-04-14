@@ -1,6 +1,6 @@
-stage,Cardiomyocyte,Epithelial.cell,Granulocyte,Hepatocyte,Keratinocyte,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell
+stage,Cardiomyocyte,Epithelial_cell,Granulocyte,Hepatocyte,Keratinocyte,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell
 24hpf,0,0,0,0,0,0,2,1
-72hpf,0,0,0,0,0,0,1.97293639202256,0
-21Day,0.369986860264282,0,0,0,0.369986860264282,0,0.739973720528564,0
-3Month,0,0.208034013289345,0.104017006644673,0.104017006644673,0.520085033223363,0.312051019934018,0.208034013289345,0
-22Month,0,0,0,0.273298863976266,0.136649431988133,0,0,0
+72hpf,0,0,0,0,0,0,1.97,0
+21Day,0.37,0,0,0,0.37,0,0.74,0
+3Month,0,0.21,0.1,0.1,0.52,0.31,0.21,0
+22Month,0,0,0,0.27,0.14,0,0,0

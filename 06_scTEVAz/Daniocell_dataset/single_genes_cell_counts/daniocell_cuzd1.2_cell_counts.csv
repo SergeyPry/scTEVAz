@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,gut,heart,mesenchyme,muscle,neural,otic,paraxial.mesoderm,periderm,visceral.smooth.muscle,xanthophores
+stage,blastomeres,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,gut,heart,mesenchyme,muscle,neural,otic,paraxial_mesoderm,periderm,visceral_smooth_muscle,xanthophores
   3-4,39.53,0,0,0,0,0,0,0,0,0,0,0,0,13.18,0,0
   5-6,12.26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,5.26,0,2.63,0,0,0

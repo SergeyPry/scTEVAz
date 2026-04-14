@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,mesenchyme,mural.cell,muscle,neural,notochord,olfactory,otic,periderm,spinal.cord,taste
+stage,epidermis,eye,glial,mesenchyme,mural_cell,muscle,neural,notochord,olfactory,otic,periderm,spinal_cord,taste
   7-9,0,0,0,0,0,0,0,7.15,0,0,0,0,0
  10-12,0,0,0,0,0,0,3.76,0,0,0,0,0,0
  14-21,1.16,0,2.19,0,0,0,14.6,0,0,0,0.86,3.12,0

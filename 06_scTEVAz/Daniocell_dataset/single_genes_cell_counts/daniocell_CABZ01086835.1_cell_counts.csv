@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,glial,lateral.line,mesenchyme,mural.cell,neural,olfactory,periderm,slow.muscle,spinal.cord,vasculature
+stage,epidermis,erythrocytes,eye,glial,lateral_line,mesenchyme,mural_cell,neural,olfactory,periderm,slow_muscle,spinal_cord,vasculature
  14-21,1,0,0,0,0,0,0,3,0,0,0,0,0
  24-34,0.82,0,1.64,0,0,0.82,0,6.57,0,0.82,0,0.82,0
  36-46,0,0,0.81,0.81,0,0.81,0,2.42,0,0,0,0.81,1.61

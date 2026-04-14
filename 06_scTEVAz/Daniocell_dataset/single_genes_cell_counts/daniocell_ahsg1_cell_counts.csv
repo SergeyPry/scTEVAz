@@ -1,4 +1,4 @@
-stage,epidermis,exocrine.pancreas,eye,fin.epithelia,glial,gut,ionocyte,liver,mesenchyme,mucous,mural.cell,neural,olfactory,otic,pericytes,periderm,pronephros,slow.muscle,spinal.cord,vasculature,visceral.smooth.muscle,xanthophores
+stage,epidermis,exocrine_pancreas,eye,fin_epithelia,glial,gut,ionocyte,liver,mesenchyme,mucous,mural_cell,neural,olfactory,otic,pericytes,periderm,pronephros,slow_muscle,spinal_cord,vasculature,visceral_smooth_muscle,xanthophores
  24-34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.82,0,0,0
  72-82,0,0,0,0,0,0,0,0.98,0,0,0,0.98,0,0,0,0,0,0,0,0.98,1.96,0
  84-94,0,0,0,0,0,0,0,5.31,0,0,0,3.19,0,0,0,0,0,0,0,0,1.06,0

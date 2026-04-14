@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,immune,iridophores,mesenchyme,muscle,neural,spinal.cord,vasculature
+stage,blastomeres,epidermis,eye,glial,immune,iridophores,mesenchyme,muscle,neural,spinal_cord,vasculature
   3-4,39.53,0,0,0,0,0,0,0,0,0,0
  24-34,0,0,0,0,0,0,0,0,0,0.82,0
  36-46,0,0,16.11,0.81,0,0,0.81,0,1.61,0,0

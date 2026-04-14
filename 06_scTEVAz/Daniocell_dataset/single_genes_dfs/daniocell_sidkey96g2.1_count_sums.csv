@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,endoderm,epidermis,erythrocytes,exocrine.pancreas,eye,fin.epithelia,glial,gut,immune,ionocyte,lateral.line,liver,mesenchyme,neural,otic,paraxial.mesoderm,periderm,pronephros,taste,vascular.smooth.muscle,vasculature
+stage,endocrine_pancreas,endoderm,epidermis,erythrocytes,exocrine_pancreas,eye,fin_epithelia,glial,gut,immune,ionocyte,lateral_line,liver,mesenchyme,neural,otic,paraxial_mesoderm,periderm,pronephros,taste,vascular_smooth_muscle,vasculature
  24-34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.98,0,0,0
  36-46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.96,0,0,0
  48-58,0,0,0,0,0,0,0,7.23,0,0,0,0,0,0,0.89,0,0,0,3.87,0,0,0

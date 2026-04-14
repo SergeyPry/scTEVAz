@@ -1,4 +1,4 @@
-stage,Endothelial.cell,Hepatocyte,Immune.cell,Immune.progenitor.cell,Intestinal.bulb.cell,Macrophage,Mesenchymal.cell,Neural.cell,T.cell
-72hpf,0,0,0,0,0,0,0,1.06979114146608,0
-3Month,0.319949299554195,0.959847898662586,0.319949299554195,0.319949299554195,0.639898599108391,0.639898599108391,0.319949299554195,0,0.319949299554195
-22Month,0,0.546654651197433,0,0,0.546654651197433,0,0,0,0
+stage,Endothelial_cell,Hepatocyte,Immune_cell,Immune_progenitor_cell,Intestinal_bulb_cell,Macrophage,Mesenchymal_cell,Neural_cell,T_cell
+72hpf,0,0,0,0,0,0,0,1.07,0
+3Month,0.32,0.96,0.32,0.32,0.64,0.64,0.32,0,0.32
+22Month,0,0.55,0,0,0.55,0,0,0,0

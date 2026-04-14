@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,eye,fin.mesenchyme,hatching.gland,heart,immune,mesenchyme,neural,notochord,paraxial.mesoderm,periderm,pgc,pronephros,slow.muscle,somites,vasculature
+stage,axial,blastomeres,endoderm,eye,fin_mesenchyme,hatching_gland,heart,immune,mesenchyme,neural,notochord,paraxial_mesoderm,periderm,pgc,pronephros,slow_muscle,somites,vasculature
   3-4,208.22,4638.5,0,0,0,0,0,0,0,0,0,0,83.19,0,0,0,0,0
   5-6,121.61,2042.4,0,0,0,32.01,0,0,0,186.52,0,37.3,85.62,0,0,0,0,0
   7-9,26.52,7.41,11.89,21.95,0,19.89,0,0,0,251.77,7.3,75.79,0,5.5,0,0,0,0

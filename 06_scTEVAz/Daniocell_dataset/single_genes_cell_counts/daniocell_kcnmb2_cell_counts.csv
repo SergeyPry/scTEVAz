@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,fast.muscle,fin.epithelia,glial,iridophores,lateral.line,liver,mesenchyme,muscle,neural,olfactory,periderm,pronephros,slow.muscle,spinal.cord,xanthophores
+stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,fast_muscle,fin_epithelia,glial,iridophores,lateral_line,liver,mesenchyme,muscle,neural,olfactory,periderm,pronephros,slow_muscle,spinal_cord,xanthophores
   3-4,13.18,52.71,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,0,6.13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,2.63,0,0,0,0,0,0,0,0,0,0,0,2.63,0,0,0,0,0,0

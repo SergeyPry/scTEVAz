@@ -1,4 +1,4 @@
-stage,eye,glial,mesenchyme,mural.cell,muscle,neural,olfactory,presomitic.mesoderm,spinal.cord
+stage,eye,glial,mesenchyme,mural_cell,muscle,neural,olfactory,presomitic_mesoderm,spinal_cord
  10-12,0,0,0,0,0,6.29,0,0,0
  14-21,1,0,0,0,0,1,0,1,0
  24-34,0,0,0,0,0,4.1,0,0,2.46

@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Intestinal.bulb.cell,Neural.cell
+stage,Epithelial_cell,Intestinal_bulb_cell,Neural_cell
 24hpf,1,0,0
-72hpf,0,0,1.12739222401289
-21Day,0.369986860264282,0.369986860264282,0
+72hpf,0,0,1.13
+21Day,0.37,0.37,0

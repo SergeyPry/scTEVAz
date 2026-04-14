@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.epithelia,glial,heart,muscle,neural,olfactory,presomitic.mesoderm,somites,spinal.cord,vasculature
+stage,blastomeres,epidermis,eye,fin_epithelia,glial,heart,muscle,neural,olfactory,presomitic_mesoderm,somites,spinal_cord,vasculature
   5-6,6.13,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,2.63,0,0,0,0,0
  14-21,0,2,0,0,0,0,1,6,0,2,1,0,0

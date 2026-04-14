@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,gut,heart,mesenchyme,muscle,neural,periderm,spinal.cord
+stage,blastomeres,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,gut,heart,mesenchyme,muscle,neural,periderm,spinal_cord
   3-4,10.75,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,48.51,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,14.8,0,0

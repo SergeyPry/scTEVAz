@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,eye,fin.mesenchyme,hatching.gland,immune,mesenchyme,neural,paraxial.mesoderm,spinal.cord,vascular.smooth.muscle,vasculature
+stage,axial,blastomeres,endoderm,eye,fin_mesenchyme,hatching_gland,immune,mesenchyme,neural,paraxial_mesoderm,spinal_cord,vascular_smooth_muscle,vasculature
   3-4,0,13.94,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.98,13.44,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,30.08,4.49,0,0,0

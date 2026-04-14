@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,gut,liver,mesenchyme,mucous,muscle,neural,periderm,spinal.cord,taste,xanthophores
+stage,epidermis,eye,fin_epithelia,gut,liver,mesenchyme,mucous,muscle,neural,periderm,spinal_cord,taste,xanthophores
  14-21,0,0,0,0,0,0,0,0,1,0,0,0,0
  24-34,5.75,0,0,0,0,0,0,0.82,0,9.85,0,0,0.82
  36-46,13.7,0,0,0,0,0.81,0.81,0,2.42,41.89,0.81,0,0

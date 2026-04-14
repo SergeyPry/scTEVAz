@@ -1,4 +1,4 @@
-stage,eye,glial,immune,liver,mesenchyme,muscle,neural,notochord,periderm,spinal.cord,vasculature
+stage,eye,glial,immune,liver,mesenchyme,muscle,neural,notochord,periderm,spinal_cord,vasculature
   7-9,0,0,0,0,0,0,11.2,0,0,0,0
  24-34,0,0,12.07,0,0,0,1.44,0,0,0,0.93
  36-46,0.67,0,17.19,0,0,0,0,0,0,0,3.99

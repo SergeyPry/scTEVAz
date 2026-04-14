@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,epidermis,erythrocytes,eye,glial,gut,immune,mesenchyme,muscle,neural,paraxial.mesoderm,periderm,pronephros,somites,spinal.cord,vasculature
+stage,blastomeres,endocrine_pancreas,epidermis,erythrocytes,eye,glial,gut,immune,mesenchyme,muscle,neural,paraxial_mesoderm,periderm,pronephros,somites,spinal_cord,vasculature
   3-4,38.62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,46.22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,39.5,5.87,0,0,0,0,0

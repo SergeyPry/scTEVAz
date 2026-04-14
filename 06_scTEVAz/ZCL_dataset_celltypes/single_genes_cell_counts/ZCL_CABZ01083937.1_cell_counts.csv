@@ -1,6 +1,6 @@
-stage,Endothelial.cell,Enterocyte,Epithelial.cell,Erythrocyte,Erythrocyte..Liver.,Goblet.cell,Granulocyte,Granulosa.cell,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Keratinocyte,Macrophage,Mesenchymal.cell,Mesenchymal.cell..caudal.fin.,Mt.rich.cell,Muscle.cell,Neural.cell,Neural.progenitor.cell,Neurosecretory.cell,Oocyte,Pancreatic.cell,Radial.glia,Retinal.cone.cell,Smooth.muscle.cell,Spermatocyte,T.cell
+stage,Endothelial_cell,Enterocyte,Epithelial_cell,Erythrocyte,Erythrocyte__Liver_,Goblet_cell,Granulocyte,Granulosa_cell,Hepatocyte,Immune_cell,Intestinal_bulb_cell,Keratinocyte,Macrophage,Mesenchymal_cell,Mesenchymal_cell__caudal_fin_,Mt_rich_cell,Muscle_cell,Neural_cell,Neural_progenitor_cell,Neurosecretory_cell,Oocyte,Pancreatic_cell,Radial_glia,Retinal_cone_cell,Smooth_muscle_cell,Spermatocyte,T_cell
 24hpf,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-72hpf,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.12739222401289,0,0,0,0,0,0,0,0,0
-21Day,0,0,0,0.369986860264282,0,0,0,0,0,0,0,0,0,0,0,0,0,0.739973720528564,0,0,0,0,0,0.369986860264282,0,0,0
-3Month,0.104017006644673,0,0.208034013289345,0,0.104017006644673,0.104017006644673,0.312051019934018,0,0.728119046512708,0.208034013289345,0.520085033223363,0.208034013289345,0.104017006644673,0.104017006644673,0.104017006644673,0,0.208034013289345,0,0,0.104017006644673,0,0.208034013289345,0,0,0.104017006644673,0.104017006644673,0.104017006644673
-22Month,0.136649431988133,0.273298863976266,1.36649431988133,0,0,0.136649431988133,1.09319545590506,0.273298863976266,7.92566705531172,0.683247159940666,1.09319545590506,0.136649431988133,0.409948295964399,0.683247159940666,0,0.409948295964399,0,0.136649431988133,0,0.136649431988133,0.136649431988133,0.136649431988133,0.136649431988133,0,0,0,0.546597727952532
+72hpf,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.13,0,0,0,0,0,0,0,0,0
+21Day,0,0,0,0.37,0,0,0,0,0,0,0,0,0,0,0,0,0,0.74,0,0,0,0,0,0.37,0,0,0
+3Month,0.1,0,0.21,0,0.1,0.1,0.31,0,0.73,0.21,0.52,0.21,0.1,0.1,0.1,0,0.21,0,0,0.1,0,0.21,0,0,0.1,0.1,0.1
+22Month,0.14,0.27,1.37,0,0,0.14,1.09,0.27,7.93,0.68,1.09,0.14,0.41,0.68,0,0.41,0,0.14,0,0.14,0.14,0.14,0.14,0,0,0,0.55

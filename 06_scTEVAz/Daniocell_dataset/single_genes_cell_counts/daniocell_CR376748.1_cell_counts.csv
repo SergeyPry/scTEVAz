@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,mesenchyme,muscle,neural,otic,paraxial.mesoderm,presomitic.mesoderm,slow.muscle,spinal.cord
+stage,epidermis,eye,glial,mesenchyme,muscle,neural,otic,paraxial_mesoderm,presomitic_mesoderm,slow_muscle,spinal_cord
   7-9,0,0,0,0,0,5.26,0,0,0,0,0
  14-21,0,0,0,0,0,1,0,1,1,0,0
  36-46,0,0,0,0,0,0.81,0.81,0,0,0,1.61

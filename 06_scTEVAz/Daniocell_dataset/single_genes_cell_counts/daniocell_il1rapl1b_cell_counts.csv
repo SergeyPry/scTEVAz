@@ -1,4 +1,4 @@
-stage,eye,glial,mesenchyme,neural,slow.muscle,spinal.cord
+stage,eye,glial,mesenchyme,neural,slow_muscle,spinal_cord
  14-21,0,0,0,0,1,1
  24-34,0,0,0,1.64,0,1.64
  36-46,0,0,0.81,2.42,0,0.81

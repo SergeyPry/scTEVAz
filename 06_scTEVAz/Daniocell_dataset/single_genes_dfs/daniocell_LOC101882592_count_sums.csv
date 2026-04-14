@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,fin.epithelia,fin.mesenchyme,glial,gut,heart,mesenchyme,muscle,neural,notochord,olfactory,otic,periderm,pronephros,spinal.cord,vasculature
+stage,epidermis,eye,fast_muscle,fin_epithelia,fin_mesenchyme,glial,gut,heart,mesenchyme,muscle,neural,notochord,olfactory,otic,periderm,pronephros,spinal_cord,vasculature
   7-9,0,0,0,0,0,0,0,0,0,0,0,3.56,0,0,0,0,0,0
  14-21,2.25,0,0,0,0,0,0,0,0,0.99,5.42,0,0,0,0,0,2.96,0
  24-34,1.68,1.4,0,0,0,0,0,0,0,1.33,13.72,1.32,3.32,0,0.96,0,13.39,0

@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,gut,iridophores,mesenchyme,neural,notochord,otic,paraxial.mesoderm,periderm,spinal.cord,vasculature,xanthophores
+stage,blastomeres,epidermis,eye,glial,gut,iridophores,mesenchyme,neural,notochord,otic,paraxial_mesoderm,periderm,spinal_cord,vasculature,xanthophores
   5-6,6.13,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,3.15,0,0,0,0,3.15,3.15,0,3.15,0,0,0,0
  24-34,0,0,0,0,0,0,0.82,2.46,0,0,0,0,0,0,0

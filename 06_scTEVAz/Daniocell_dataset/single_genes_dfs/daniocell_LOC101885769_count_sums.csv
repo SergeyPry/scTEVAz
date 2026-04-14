@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,glial,immune,ionocyte,mucous,neural,somites,spinal.cord
+stage,epidermis,erythrocytes,eye,glial,immune,ionocyte,mucous,neural,somites,spinal_cord
  10-12,0,0,3.19,0,0,0,0,24.76,0,0
  14-21,0,0,0,0,0,0.96,0,0,0,0.91
  24-34,0,0,0,0,0,0,0,0,0.74,0

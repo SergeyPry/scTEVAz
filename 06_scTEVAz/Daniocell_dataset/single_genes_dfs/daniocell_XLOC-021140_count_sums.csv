@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.epithelia,glial,gut,hatching.gland,ionocyte,mesenchyme,mucous,neural,notochord,otic,paraxial.mesoderm,periderm,vasculature
+stage,blastomeres,epidermis,eye,fin_epithelia,glial,gut,hatching_gland,ionocyte,mesenchyme,mucous,neural,notochord,otic,paraxial_mesoderm,periderm,vasculature
   3-4,13.05,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,8.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,10.96,0,0,0,5.1,0,0,9.5,0,0

@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,heart,mesenchyme,muscle,neural,olfactory,periderm,spinal.cord,taste,vasculature
+stage,epidermis,eye,glial,heart,mesenchyme,muscle,neural,olfactory,periderm,spinal_cord,taste,vasculature
   7-9,0,0,0,0,0,0,8.99,0,0,0,0,0
  10-12,0,0,0,0,0,0,10.96,0,0,0,0,0
  14-21,0,0.83,0,0,0,0,2.85,0,0,0,0,0

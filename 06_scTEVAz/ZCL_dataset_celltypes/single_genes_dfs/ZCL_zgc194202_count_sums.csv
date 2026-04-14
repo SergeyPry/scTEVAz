@@ -1,5 +1,5 @@
-stage,Enterocyte,Epithelial.cell,Erythrocyte,Macrophage,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Oligodendrocyte,Osteoblast,Radial.glia
-24hpf,0,0,0,0,0,0,12.2592137185505,0,0,0
-72hpf,0,0,1.06979114146608,0,0,8.55832913172862,1.06979114146608,1.06979114146608,0,0
-21Day,1.33853308820331,4.01559926460992,0,12.0467977938298,0,2.67706617640661,1.33853308820331,0,0,1.33853308820331
-3Month,0,0.639898599108391,0,0,0.319949299554195,0,0,0,0.319949299554195,0
+stage,Enterocyte,Epithelial_cell,Erythrocyte,Macrophage,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Oligodendrocyte,Osteoblast,Radial_glia
+24hpf,0,0,0,0,0,0,12.26,0,0,0
+72hpf,0,0,1.07,0,0,8.56,1.07,1.07,0,0
+21Day,1.34,4.02,0,12.05,0,2.68,1.34,0,0,1.34
+3Month,0,0.64,0,0,0.32,0,0,0,0.32,0

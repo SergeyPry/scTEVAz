@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,fin.epithelia,glial,gut,immune,ionocyte,mesenchyme,muscle,neural,olfactory,otic,periderm,pgc,spinal.cord,visceral.smooth.muscle
+stage,endocrine_pancreas,epidermis,eye,fin_epithelia,glial,gut,immune,ionocyte,mesenchyme,muscle,neural,olfactory,otic,periderm,pgc,spinal_cord,visceral_smooth_muscle
  14-21,0,0.86,0,0,0,1.21,0,0,0.86,1.14,2.91,0,0,0,0,5.67,0
  24-34,0,0,0,0,0,0,0,1.03,3.29,0,35.66,0,0,0,0,3.95,0
  36-46,0,10.76,1.04,0,0,0,0,0,0,0,41.04,0,4.54,0,0.81,6.64,0

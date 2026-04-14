@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,glial,immune,ionocyte,mesenchyme,mural.cell,neural,notochord,periderm,vasculature
+stage,epidermis,erythrocytes,eye,glial,immune,ionocyte,mesenchyme,mural_cell,neural,notochord,periderm,vasculature
  14-21,2.49,0,0,0,0,0,0,0,0,0,0,0
  24-34,0,0,0,0,0,0,0,0,1.85,0,0,0
  36-46,0,0,0,0,0,0,1.33,0,3.08,0,0,0

@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Hepatocyte,Immune.cell,Macrophage,Mesenchymal.cell..caudal.fin.,Neural.cell,Neural.progenitor.cell,Primordial.germ.cell,Spermatocyte
-72hpf,0,0,0,0,0,1.06979114146608,1.06979114146608,0,0
-21Day,1.33853308820331,0,0,0,0,0,0,0,0
-3Month,0,0.959847898662586,0.319949299554195,0.319949299554195,0.319949299554195,0,0,10.2383775857343,0.319949299554195
+stage,Epithelial_cell,Hepatocyte,Immune_cell,Macrophage,Mesenchymal_cell__caudal_fin_,Neural_cell,Neural_progenitor_cell,Primordial_germ_cell,Spermatocyte
+72hpf,0,0,0,0,0,1.07,1.07,0,0
+21Day,1.34,0,0,0,0,0,0,0,0
+3Month,0,0.96,0.32,0.32,0.32,0,0,10.24,0.32

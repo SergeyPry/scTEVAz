@@ -1,5 +1,5 @@
-stage,Epithelial.cell,Hepatocyte,Keratinocyte,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell
-72hpf,0,0,0,0,1.69108833601934,0.281848056003223
-21Day,0,0,0,0.739973720528564,1.47994744105713,0
-3Month,0,0,0,0.104017006644673,0.208034013289345,0
-22Month,0.409948295964399,0.136649431988133,0.136649431988133,0,0.273298863976266,0
+stage,Epithelial_cell,Hepatocyte,Keratinocyte,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell
+72hpf,0,0,0,0,1.69,0.28
+21Day,0,0,0,0.74,1.48,0
+3Month,0,0,0,0.1,0.21,0
+22Month,0.41,0.14,0.14,0,0.27,0

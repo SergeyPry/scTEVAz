@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Keratinocyte,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Osteoblast,Primordial.germ.cell,Retinal.pigment.epithelial.cell
+stage,Cardiomyocyte,Keratinocyte,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Osteoblast,Primordial_germ_cell,Retinal_pigment_epithelial_cell
 24hpf,0,0,1,0,2,0,0,0
-72hpf,0.281848056003223,0.281848056003223,0,1.69108833601934,0,0.281848056003223,0,0.281848056003223
-21Day,0,0,0,0.739973720528564,0,0,0.369986860264282,0
+72hpf,0.28,0.28,0,1.69,0,0.28,0,0.28
+21Day,0,0,0,0.74,0,0,0.37,0

@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.mesenchyme,glial,ionocyte,mesenchyme,neural,spinal.cord
+stage,epidermis,eye,fin_mesenchyme,glial,ionocyte,mesenchyme,neural,spinal_cord
  14-21,0,0,0,0,0,0,1,1
  24-34,0,0,0,0,0,0,4.93,4.93
  36-46,0,0,0,0,0,0,14.5,4.83

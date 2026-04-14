@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,fin.epithelia,gut,immune,lateral.line,mucous,neural,olfactory,otic,periderm,taste
+stage,endoderm,epidermis,eye,fin_epithelia,gut,immune,lateral_line,mucous,neural,olfactory,otic,periderm,taste
  36-46,0,0,1.25,0,0,0,0,0,4.11,0,0,2.39,0
  48-58,0,0,0,0,0,0,0,0,4.46,0.44,0.41,0.86,0
  60-70,0,0,0,0,0,0,0,0,2.69,0,0,0,0

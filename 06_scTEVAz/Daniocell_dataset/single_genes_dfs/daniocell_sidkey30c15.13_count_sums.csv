@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,erythrocytes,eye,glial,gut,lateral.line,liver,mesenchyme,mucous,muscle,neural,notochord,olfactory,paraxial.mesoderm,periderm,pronephros,spinal.cord,vascular.smooth.muscle,vasculature
+stage,endocrine_pancreas,epidermis,erythrocytes,eye,glial,gut,lateral_line,liver,mesenchyme,mucous,muscle,neural,notochord,olfactory,paraxial_mesoderm,periderm,pronephros,spinal_cord,vascular_smooth_muscle,vasculature
   7-9,0,0,0,0,0,0,0,0,0,0,0,9.89,0,0,4.35,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,11.44,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,17.97,0,0,0,9.71,3.17,0,0,0,0.9,1.2,0,0

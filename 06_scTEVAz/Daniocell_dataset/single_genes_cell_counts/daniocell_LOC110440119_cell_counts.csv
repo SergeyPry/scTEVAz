@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,fin.epithelia,fin.mesenchyme,gut,hatching.gland,immune,ionocyte,lateral.line,mesenchyme,mucous,muscle,neural,olfactory,otic,periderm,pronephros,slow.muscle,somites,spinal.cord,taste
+stage,epidermis,eye,fast_muscle,fin_epithelia,fin_mesenchyme,gut,hatching_gland,immune,ionocyte,lateral_line,mesenchyme,mucous,muscle,neural,olfactory,otic,periderm,pronephros,slow_muscle,somites,spinal_cord,taste
  14-21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
  24-34,0.82,0,0,0,0,0,0,0,0,0.82,0.82,0,0,4.1,0,0,1.64,0.82,0,0,0.82,0
  36-46,0.81,0,0,0,0,0,0,0,0,0,2.42,0,0.81,3.22,0,0.81,0.81,0,0,0,0,0

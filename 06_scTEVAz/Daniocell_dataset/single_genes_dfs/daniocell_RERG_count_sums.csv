@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,glial,hatching.gland,heart,lateral.line,melanocytes,mesenchyme,mural.cell,muscle,neural,olfactory,otic,pericytes,spinal.cord,vasculature,xanthophores
+stage,endoderm,epidermis,eye,glial,hatching_gland,heart,lateral_line,melanocytes,mesenchyme,mural_cell,muscle,neural,olfactory,otic,pericytes,spinal_cord,vasculature,xanthophores
  10-12,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,2.9,0,0,0,6.5,0,0
  24-34,0,0,0,1.04,0,0.6,0,0,0,0,0,3.85,1.82,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,gut,hatching.gland,mesenchyme,muscle,neural,olfactory,paraxial.mesoderm,periderm,presomitic.mesoderm,pronephros,spinal.cord
+stage,epidermis,eye,glial,gut,hatching_gland,mesenchyme,muscle,neural,olfactory,paraxial_mesoderm,periderm,presomitic_mesoderm,pronephros,spinal_cord
   7-9,0,0,0,0,103.18,0,0,19.52,0,3.73,0,0,0,0
  10-12,0,0,0,0,178.44,0,0,12.96,0,0,0,0,0,0
  14-21,0.8,0,0,0.85,180.36,0,0,22.67,0,0,1.22,1.28,0,5.27

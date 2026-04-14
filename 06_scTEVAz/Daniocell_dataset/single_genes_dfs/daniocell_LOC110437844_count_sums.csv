@@ -1,4 +1,4 @@
-stage,blastomeres,fin.mesenchyme,glial,immune,mesenchyme,muscle,neural,periderm,spinal.cord,vascular.smooth.muscle
+stage,blastomeres,fin_mesenchyme,glial,immune,mesenchyme,muscle,neural,periderm,spinal_cord,vascular_smooth_muscle
   3-4,56.38,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,4.77,0,0,0
  14-21,0,0,0,0,0,1.52,1.44,0,0.99,0

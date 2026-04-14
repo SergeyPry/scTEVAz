@@ -1,4 +1,4 @@
-stage,eye,fast.muscle,glial,gut,heart,iridophores,liver,mesenchyme,neural,notochord,olfactory,spinal.cord,taste
+stage,eye,fast_muscle,glial,gut,heart,iridophores,liver,mesenchyme,neural,notochord,olfactory,spinal_cord,taste
  24-34,0,0,0,0,1.33,0,0,0,2.36,0,1.87,0,0
  36-46,0,0,0,0,0,0,0,0,2.17,0.92,2.53,0,0
  48-58,0.79,0,0,0,0,0,5.11,0,8.46,0,0.64,2.02,0

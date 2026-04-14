@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,exocrine.pancreas,eye,fin.epithelia,glial,hatching.gland,immune,ionocyte,mesenchyme,neural,olfactory,paraxial.mesoderm,periderm,presomitic.mesoderm,somites,spinal.cord,vasculature,xanthophores
+stage,axial,blastomeres,epidermis,exocrine_pancreas,eye,fin_epithelia,glial,hatching_gland,immune,ionocyte,mesenchyme,neural,olfactory,paraxial_mesoderm,periderm,presomitic_mesoderm,somites,spinal_cord,vasculature,xanthophores
   3-4,0,45.24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,7.22,32.34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,4.3,0,0,0,0,0,0,0,0,0,0,0,0

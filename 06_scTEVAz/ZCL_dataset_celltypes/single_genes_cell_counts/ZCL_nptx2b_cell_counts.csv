@@ -1,3 +1,3 @@
-stage,Epithelial.cell,Hepatocyte,Macrophage,Neural.cell,Primordial.germ.cell,Retinal.cell,Retinal.cone.cell,Spermatocyte
-21Day,0,0,0,0.369986860264282,0,0.369986860264282,1.10996058079285,0
-3Month,0.104017006644673,0.312051019934018,0.104017006644673,0,0.416068026578691,0,0,6.03298638539101
+stage,Epithelial_cell,Hepatocyte,Macrophage,Neural_cell,Primordial_germ_cell,Retinal_cell,Retinal_cone_cell,Spermatocyte
+21Day,0,0,0,0.37,0,0.37,1.11,0
+3Month,0.1,0.31,0.1,0,0.42,0,0,6.03

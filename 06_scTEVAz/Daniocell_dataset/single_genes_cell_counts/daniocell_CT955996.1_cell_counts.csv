@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.epithelia,immune,ionocyte,lateral.line,liver,mesenchyme,neural,notochord,paraxial.mesoderm
+stage,blastomeres,epidermis,eye,fin_epithelia,immune,ionocyte,lateral_line,liver,mesenchyme,neural,notochord,paraxial_mesoderm
   3-4,144.96,0,0,0,0,0,0,0,0,0,0,0
   5-6,55.17,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,2.63,0

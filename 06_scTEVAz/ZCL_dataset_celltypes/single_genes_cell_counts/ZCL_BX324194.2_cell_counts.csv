@@ -1,4 +1,4 @@
-stage,Enterocyte,Epithelial.cell,Hepatocyte,Keratinocyte,Neural.cell,T.cell
-21Day,0,0.739973720528564,0,0.369986860264282,0.369986860264282,0
-3Month,0,0,0.312051019934018,0,0,0
-22Month,0.136649431988133,0,2.4596897757864,0,0,0.136649431988133
+stage,Enterocyte,Epithelial_cell,Hepatocyte,Keratinocyte,Neural_cell,T_cell
+21Day,0,0.74,0,0.37,0.37,0
+3Month,0,0,0.31,0,0,0
+22Month,0.14,0,2.46,0,0,0.14

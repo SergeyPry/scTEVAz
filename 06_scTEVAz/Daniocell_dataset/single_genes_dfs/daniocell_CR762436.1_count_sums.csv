@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,fast.muscle,glial,hatching.gland,mesenchyme,neural,notochord,paraxial.mesoderm,periderm,pgc,pronephros,somites,spinal.cord,taste,vasculature
+stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,fast_muscle,glial,hatching_gland,mesenchyme,neural,notochord,paraxial_mesoderm,periderm,pgc,pronephros,somites,spinal_cord,taste,vasculature
   3-4,75.83,1556.39,0,0,0,0,0,0,0,0,0,0,0,100.45,0,0,0,0,0,0
   5-6,36.54,954.25,0,0,0,0,0,0,8.74,0,83.46,0,10.04,14.9,0,0,0,0,0,0
   7-9,10.8,49.74,17.54,0,0,93.72,0,0,57.45,0,763.8,62.44,210.13,0,4.58,0,0,0,0,0

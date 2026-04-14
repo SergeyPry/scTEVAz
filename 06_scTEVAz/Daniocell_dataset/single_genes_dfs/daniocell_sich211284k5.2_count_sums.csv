@@ -1,4 +1,4 @@
-stage,blastomeres,erythrocytes,eye,fin.epithelia,glial,iridophores,lateral.line,mesenchyme,muscle,neural,olfactory,otic,periderm,pronephros,spinal.cord,vasculature
+stage,blastomeres,erythrocytes,eye,fin_epithelia,glial,iridophores,lateral_line,mesenchyme,muscle,neural,olfactory,otic,periderm,pronephros,spinal_cord,vasculature
   5-6,9.89,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  24-34,0,0,0.78,0,0,0,2.14,0,0,1,1.31,37.68,0,0,1.08,0
  36-46,0,0,0,0,0,0,0,0,0,0,0,17.45,0,0,0,0

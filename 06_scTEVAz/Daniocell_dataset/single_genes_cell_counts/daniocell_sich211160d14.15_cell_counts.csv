@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,glial,gut,ionocyte,mesenchyme,mural.cell,muscle,neural,notochord,olfactory,paraxial.mesoderm,spinal.cord,xanthophores
+stage,axial,blastomeres,endoderm,epidermis,eye,glial,gut,ionocyte,mesenchyme,mural_cell,muscle,neural,notochord,olfactory,paraxial_mesoderm,spinal_cord,xanthophores
   3-4,0,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,0,24.52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,2.63,0,2.63,0,5.26,0,0,0,0,0,0,31.54,0,0,7.89,0,0

@@ -1,3 +1,3 @@
-stage,Epithelial.cell,Granulocyte,Hepatocyte,Immune.cell,Keratinocyte,Mesenchymal.cell,Neural.cell,Primordial.germ.cell,Spermatocyte
-72hpf,0,0,0,0,0,0,1.06979114146608,0,0
-3Month,0.319949299554195,0.319949299554195,1.91969579732517,0.639898599108391,0.639898599108391,0.319949299554195,0,1.91969579732517,28.4754876603234
+stage,Epithelial_cell,Granulocyte,Hepatocyte,Immune_cell,Keratinocyte,Mesenchymal_cell,Neural_cell,Primordial_germ_cell,Spermatocyte
+72hpf,0,0,0,0,0,0,1.07,0,0
+3Month,0.32,0.32,1.92,0.64,0.64,0.32,0,1.92,28.48

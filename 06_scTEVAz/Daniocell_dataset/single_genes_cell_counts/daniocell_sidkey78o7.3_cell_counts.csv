@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,glial,immune,lateral.line,mesenchyme,mucous,mural.cell,muscle,neural,notochord,olfactory,otic,pronephros,spinal.cord,vasculature
+stage,endoderm,epidermis,eye,glial,immune,lateral_line,mesenchyme,mucous,mural_cell,muscle,neural,notochord,olfactory,otic,pronephros,spinal_cord,vasculature
  14-21,1,0,0,1,0,0,1,0,0,1,1,0,0,0,2,2,0
  24-34,0,0.82,0,0,0,0,0.82,0,0,0,4.93,0,0.82,0,0,1.64,0
  36-46,0,0,0,0.81,0,0,2.42,0,0,0,6.45,0,0.81,0,0,3.22,0

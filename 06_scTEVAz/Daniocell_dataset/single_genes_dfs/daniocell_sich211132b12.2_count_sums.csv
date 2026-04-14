@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,glial,gut,liver,mesenchyme,mural.cell,neural,paraxial.mesoderm,periderm,pronephros,somites,spinal.cord
+stage,blastomeres,endoderm,epidermis,eye,glial,gut,liver,mesenchyme,mural_cell,neural,paraxial_mesoderm,periderm,pronephros,somites,spinal_cord
   3-4,40.09,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,8.13,4.56,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,25.82,0,7.72,0,0,0

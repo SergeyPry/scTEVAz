@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Erythrocyte..Liver.,Granulocyte,Hepatocyte,Immune.cell,Macrophage,Mesenchymal.cell,Mt.rich.cell,Muscle.cell,Spermatocyte
-21Day,0,0,0,0,0.369986860264282,0,0,0,0,0
-3Month,0.312051019934018,0,0.312051019934018,1.45623809302542,3.84862924585289,10.5057176711119,0.104017006644673,0,0.104017006644673,0.104017006644673
-22Month,0,0.136649431988133,0.546597727952532,4.50943125560839,7.24241989537105,1.6397931838576,0,0.273298863976266,0,0
+stage,Epithelial_cell,Erythrocyte__Liver_,Granulocyte,Hepatocyte,Immune_cell,Macrophage,Mesenchymal_cell,Mt_rich_cell,Muscle_cell,Spermatocyte
+21Day,0,0,0,0,0.37,0,0,0,0,0
+3Month,0.31,0,0.31,1.46,3.85,10.51,0.1,0,0.1,0.1
+22Month,0,0.14,0.55,4.51,7.24,1.64,0,0.27,0,0

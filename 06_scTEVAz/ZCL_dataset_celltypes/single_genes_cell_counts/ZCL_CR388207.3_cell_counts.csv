@@ -1,6 +1,6 @@
-stage,Epithelial.cell,Goblet.cell,Hepatocyte,Keratinocyte,Neural.cell
+stage,Epithelial_cell,Goblet_cell,Hepatocyte,Keratinocyte,Neural_cell
 24hpf,0,0,0,1,0
-72hpf,0,0,0,0.281848056003223,0
-21Day,0.739973720528564,0,0,0.739973720528564,0.369986860264282
-3Month,0.104017006644673,0.104017006644673,0.104017006644673,0,0
-22Month,0,0,0.273298863976266,0,0
+72hpf,0,0,0,0.28,0
+21Day,0.74,0,0,0.74,0.37
+3Month,0.1,0.1,0.1,0,0
+22Month,0,0,0.27,0,0

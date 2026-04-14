@@ -148,6 +148,10 @@ for(gene in gene_names){
     
     gene_wide_summary[is.na(gene_wide_summary)] <- 0
     
+    # correct the column names
+    colnames_new <- str_replace_all(colnames(gene_wide_summary), '\\.', '_')
+    colnames(gene_wide_summary) <- colnames_new
+    
     
     write.csv(gene_wide_summary, paste0("./new/daniocell_", gene_proc, "_count_sums.csv"), quote = FALSE, row.names = FALSE)
   }
@@ -250,6 +254,10 @@ for(gene in gene_names){
     arrange(stage)
   
   gene_wide_summary[is.na(gene_wide_summary)] <- 0
+  
+  # correct the column names
+  colnames_new <- str_replace_all(colnames(gene_wide_summary), '\\.', '_')
+  colnames(gene_wide_summary) <- colnames_new
   
   write.csv(gene_wide_summary, paste0("./new/daniocell_", gene_proc, "_cell_counts.csv"), quote = FALSE, row.names = FALSE)
   }

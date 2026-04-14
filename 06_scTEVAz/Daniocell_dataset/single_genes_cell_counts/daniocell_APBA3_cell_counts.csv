@@ -1,4 +1,4 @@
-stage,blastomeres,eye,mesenchyme,muscle,neural,paraxial.mesoderm,slow.muscle,spinal.cord
+stage,blastomeres,eye,mesenchyme,muscle,neural,paraxial_mesoderm,slow_muscle,spinal_cord
   5-6,18.39,0,0,0,0,0,0,0
   7-9,0,0,0,0,7.89,2.63,0,0
  24-34,0,0,0,1.64,2.46,0,0.82,0.82

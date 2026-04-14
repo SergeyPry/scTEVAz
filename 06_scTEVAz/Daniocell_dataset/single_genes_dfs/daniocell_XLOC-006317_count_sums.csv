@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,exocrine.pancreas,eye,fast.muscle,glial,lateral.line,mesenchyme,neural,periderm,pronephros,spinal.cord
+stage,endocrine_pancreas,epidermis,exocrine_pancreas,eye,fast_muscle,glial,lateral_line,mesenchyme,neural,periderm,pronephros,spinal_cord
  14-21,0,0,0,0,0,0,0,0,2.08,0,0,0
  24-34,0,0,0,0,0,0.63,0,0,2.77,0,0,3.79
  36-46,0,0,0,0,0,0,0,0,1.78,0,0,1

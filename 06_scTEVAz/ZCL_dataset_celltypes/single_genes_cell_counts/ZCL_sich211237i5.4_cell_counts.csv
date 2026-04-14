@@ -1,5 +1,5 @@
-stage,Epithelial.cell,Epithelial.cell..Brain.,Erythrocyte,Hepatocyte,Intestinal.bulb.cell,Keratinocyte,Neural.cell,Neural.progenitor.cell
+stage,Epithelial_cell,Epithelial_cell__Brain_,Erythrocyte,Hepatocyte,Intestinal_bulb_cell,Keratinocyte,Neural_cell,Neural_progenitor_cell
 24hpf,0,0,0,0,0,0,0,2
-72hpf,0,0.563696112006446,0.281848056003223,0,0,0.281848056003223,0.563696112006446,0
-21Day,0.369986860264282,0,0,0,0,0.369986860264282,1.10996058079285,0
-22Month,0.136649431988133,0,0,0.136649431988133,0.136649431988133,0,0,0
+72hpf,0,0.56,0.28,0,0,0.28,0.56,0
+21Day,0.37,0,0,0,0,0.37,1.11,0
+22Month,0.14,0,0,0.14,0.14,0,0,0

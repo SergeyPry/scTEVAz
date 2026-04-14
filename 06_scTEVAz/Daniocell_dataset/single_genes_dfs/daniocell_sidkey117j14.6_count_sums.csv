@@ -1,4 +1,4 @@
-stage,axial,epidermis,eye,gut,hatching.gland,iridophores,mesenchyme,neural,notochord,paraxial.mesoderm,periderm,somites,spinal.cord,vasculature,xanthophores
+stage,axial,epidermis,eye,gut,hatching_gland,iridophores,mesenchyme,neural,notochord,paraxial_mesoderm,periderm,somites,spinal_cord,vasculature,xanthophores
   3-4,15.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,4.38,0,11.28,0,0,0,0,0
  14-21,0,0,1.03,0,0,0,0,5.4,0,0,0,2.97,1.77,0,0

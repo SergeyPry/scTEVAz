@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,eye,glial,hatching.gland,mesenchyme,mural.cell,neural,periderm,pronephros
+stage,blastomeres,endoderm,eye,glial,hatching_gland,mesenchyme,mural_cell,neural,periderm,pronephros
   3-4,10.32,0,0,0,0,0,0,0,0,0
   5-6,6.93,0,0,0,0,0,0,0,7.14,0
   7-9,0,0,0,0,0,0,0,7.41,0,0

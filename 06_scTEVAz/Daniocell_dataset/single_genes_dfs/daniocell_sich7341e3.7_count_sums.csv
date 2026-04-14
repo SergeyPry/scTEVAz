@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,fast.muscle,glial,hatching.gland,immune,ionocyte,melanocytes,mesenchyme,neural,periderm,pgc,spinal.cord,vasculature
+stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,fast_muscle,glial,hatching_gland,immune,ionocyte,melanocytes,mesenchyme,neural,periderm,pgc,spinal_cord,vasculature
   3-4,31.31,226.35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,9.19,172.04,0,0,0,0,0,0,26.83,0,0,0,0,0,7.14,0,0,0
   7-9,0,0,0,0,0,4.63,0,0,0,0,0,0,0,37.52,0,0,0,0

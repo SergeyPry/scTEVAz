@@ -1,6 +1,6 @@
-stage,Cardiomyocyte,Endothelial.cell,Enterocyte,Epithelial.cell,Epithelial.cell..Brain.,Erythrocyte..Liver.,Goblet.cell,Granulocyte,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal.cell,Mesenchymal.cell..caudal.fin.,Muscle.cell,Nephron.cell,Neural.cell,Neural.progenitor.cell,Neurosecretory.cell,Oligodendrocyte,Osteoblast,Pancreatic.cell,Primordial.germ.cell,Radial.glia,Retinal.pigment.epithelial.cell,Smooth.muscle.cell,Spermatocyte,T.cell
-24hpf,0,0,0,0,0,0,0,0,0,0,0,4.08640457285017,0,0,8.17280914570035,0,0,0,4.08640457285017,36.7776411556516,0,0,0,0,0,0,0,0,0,0
-72hpf,0,0,0,1.06979114146608,2.13958228293216,0,0,0,0,0,0,0,1.06979114146608,0,0,0,0,0,7.48853799026255,0,0,0,3.20937342439823,0,0,0,1.06979114146608,0,0,0
-21Day,1.33853308820331,0,0,0,4.01559926460992,0,0,0,0,0,0,0,0,0,0,0,0,0,1.33853308820331,0,0,0,1.33853308820331,0,0,1.33853308820331,0,0,0,0
-3Month,0.319949299554195,0.959847898662586,1.59974649777098,22.3964509687937,1.27979719821678,0.319949299554195,2.55959439643356,4.47929019375874,23.9961974665647,6.07903669152971,6.07903669152971,4.79923949331293,4.15934089420454,5.43913809242132,4.15934089420454,0.639898599108391,2.23964509687937,1.27979719821678,3.19949299554195,0,0.959847898662586,1.59974649777098,0.319949299554195,2.87954369598776,11.8381240835052,0.639898599108391,0,1.27979719821678,828.028787246258,3.51944229509615
-22Month,0,0,0,3.82658255838203,0,0,0,0,4.9198918607769,0,0,0,0,0,0,0,0,0,0.546654651197433,0,0,0,0,0,9.8397837215538,0,0,0,4.37323720957947,0.546654651197433
+stage,Cardiomyocyte,Endothelial_cell,Enterocyte,Epithelial_cell,Epithelial_cell__Brain_,Erythrocyte__Liver_,Goblet_cell,Granulocyte,Hepatocyte,Immune_cell,Intestinal_bulb_cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal_cell,Mesenchymal_cell__caudal_fin_,Muscle_cell,Nephron_cell,Neural_cell,Neural_progenitor_cell,Neurosecretory_cell,Oligodendrocyte,Osteoblast,Pancreatic_cell,Primordial_germ_cell,Radial_glia,Retinal_pigment_epithelial_cell,Smooth_muscle_cell,Spermatocyte,T_cell
+24hpf,0,0,0,0,0,0,0,0,0,0,0,4.09,0,0,8.17,0,0,0,4.09,36.78,0,0,0,0,0,0,0,0,0,0
+72hpf,0,0,0,1.07,2.14,0,0,0,0,0,0,0,1.07,0,0,0,0,0,7.49,0,0,0,3.21,0,0,0,1.07,0,0,0
+21Day,1.34,0,0,0,4.02,0,0,0,0,0,0,0,0,0,0,0,0,0,1.34,0,0,0,1.34,0,0,1.34,0,0,0,0
+3Month,0.32,0.96,1.6,22.4,1.28,0.32,2.56,4.48,24,6.08,6.08,4.8,4.16,5.44,4.16,0.64,2.24,1.28,3.2,0,0.96,1.6,0.32,2.88,11.84,0.64,0,1.28,828.03,3.52
+22Month,0,0,0,3.83,0,0,0,0,4.92,0,0,0,0,0,0,0,0,0,0.55,0,0,0,0,0,9.84,0,0,0,4.37,0.55

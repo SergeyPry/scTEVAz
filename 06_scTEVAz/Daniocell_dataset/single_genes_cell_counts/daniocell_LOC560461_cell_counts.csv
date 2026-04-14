@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,ionocyte,lateral.line,mesenchyme,neural,olfactory,spinal.cord,vasculature,visceral.smooth.muscle
+stage,epidermis,eye,glial,ionocyte,lateral_line,mesenchyme,neural,olfactory,spinal_cord,vasculature,visceral_smooth_muscle
  24-34,0,0.82,0,0,0,0,1.64,0,2.46,0.82,0
  36-46,0,0.81,0,0,0,0,4.03,0,1.61,0.81,0
  48-58,0,0,0,0,0,0,1.72,0.57,1.15,0,0

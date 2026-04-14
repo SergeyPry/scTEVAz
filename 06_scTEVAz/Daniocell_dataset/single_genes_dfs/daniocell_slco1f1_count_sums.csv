@@ -1,4 +1,4 @@
-stage,eye,glial,mesenchyme,neural,otic,somites,spinal.cord,visceral.smooth.muscle
+stage,eye,glial,mesenchyme,neural,otic,somites,spinal_cord,visceral_smooth_muscle
  14-21,0,0,0,0,1.02,0.89,0,0
  24-34,0,0,0,2.96,0,0,0,0
  36-46,0,0.58,0,3.19,0,0,2.13,0

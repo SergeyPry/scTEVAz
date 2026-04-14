@@ -1,4 +1,4 @@
-stage,Keratinocyte,Mesenchymal.cell,Neural.progenitor.cell,Osteoblast,Primordial.germ.cell,T.cell
-72hpf,0.281848056003223,0.281848056003223,0,0.281848056003223,0,0
-21Day,0,0,0.739973720528564,0,0,0.369986860264282
-3Month,0,0,0,0,0.312051019934018,0
+stage,Keratinocyte,Mesenchymal_cell,Neural_progenitor_cell,Osteoblast,Primordial_germ_cell,T_cell
+72hpf,0.28,0.28,0,0.28,0,0
+21Day,0,0,0.74,0,0,0.37
+3Month,0,0,0,0,0.31,0

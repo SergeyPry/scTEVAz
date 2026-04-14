@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fast.muscle,glial,gut,immune,liver,mesenchyme,mural.cell,neural,otic,spinal.cord,vasculature,xanthophores
+stage,epidermis,erythrocytes,eye,fast_muscle,glial,gut,immune,liver,mesenchyme,mural_cell,neural,otic,spinal_cord,vasculature,xanthophores
  14-21,0,0,0,0,0,0,0,0,0,0,0.82,0,0,0,0
  24-34,0,0,2.78,0,0,0,0,0,0,0,0,0,0,0,0
  36-46,0,0,8.86,0,0,0,0,0,0,0,0.66,0,0,0,0

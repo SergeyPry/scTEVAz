@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,gut,heart,mesenchyme,mural.cell,muscle,neural,otic,periderm,spinal.cord,vascular.smooth.muscle
+stage,blastomeres,epidermis,eye,glial,gut,heart,mesenchyme,mural_cell,muscle,neural,otic,periderm,spinal_cord,vascular_smooth_muscle
   5-6,11.14,0,0,0,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,19.7,0,0,0,0
  14-21,0,0,0,0,0,0,1.79,0,0,0,0,0,0,0

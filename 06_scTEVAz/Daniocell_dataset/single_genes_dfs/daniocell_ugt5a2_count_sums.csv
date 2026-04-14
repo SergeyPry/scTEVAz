@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,fin.mesenchyme,gut,liver,mesenchyme,mucous,neural,notochord,olfactory,periderm,pronephros,spinal.cord,taste,vasculature,xanthophores
+stage,blastomeres,epidermis,erythrocytes,eye,fin_mesenchyme,gut,liver,mesenchyme,mucous,neural,notochord,olfactory,periderm,pronephros,spinal_cord,taste,vasculature,xanthophores
   3-4,15.92,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,13.82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,36.88,9.08,0,0,0,0,0,0,0

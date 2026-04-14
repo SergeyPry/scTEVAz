@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,fast.muscle,fin.epithelia,glial,gut,immune,ionocyte,lateral.line,mesenchyme,mucous,neural,notochord,olfactory,otic,periderm,pgc,spinal.cord
+stage,endoderm,epidermis,eye,fast_muscle,fin_epithelia,glial,gut,immune,ionocyte,lateral_line,mesenchyme,mucous,neural,notochord,olfactory,otic,periderm,pgc,spinal_cord
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,2.63,0,0,0,0,0,0
  14-21,1,2,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,1,2
  24-34,0,0.82,0.82,0,0.82,0,0,0,0,0,0,0,6.57,0,0,0,0,0,4.1

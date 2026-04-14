@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.mesenchyme,glial,heart,iridophores,melanocytes,mesenchyme,mural.cell,muscle,neural,notochord,otic,pronephros,slow.muscle,spinal.cord,vascular.smooth.muscle,visceral.smooth.muscle,xanthophores
+stage,blastomeres,epidermis,eye,fin_mesenchyme,glial,heart,iridophores,melanocytes,mesenchyme,mural_cell,muscle,neural,notochord,otic,pronephros,slow_muscle,spinal_cord,vascular_smooth_muscle,visceral_smooth_muscle,xanthophores
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
  24-34,0,0,1.64,0,0,0,0,0,0,0,0,0.82,0,0,0,0,0,0,0,2.46

@@ -1,4 +1,4 @@
-stage,erythrocytes,exocrine.pancreas,eye,glial,immune,mesenchyme,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,spinal.cord
+stage,erythrocytes,exocrine_pancreas,eye,glial,immune,mesenchyme,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,spinal_cord
   7-9,0,0,0,0,0,0,0,10.51,0,0,0,2.63,0
  14-21,0,0,0,0,0,0,0,1,0,0,0,0,1
  24-34,0,0,0.82,1.64,0,0,0,4.1,0.82,0,0.82,0,4.93

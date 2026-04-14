@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Granulocyte,Immune.cell,Immune.progenitor.cell,Macrophage,Neural.cell
-21Day,0,0,0,0,0,1.33853308820331
-3Month,0.959847898662586,0,0,0,0,0
-22Month,0.546654651197433,0.546654651197433,1.6399639535923,1.09330930239487,1.09330930239487,0
+stage,Epithelial_cell,Granulocyte,Immune_cell,Immune_progenitor_cell,Macrophage,Neural_cell
+21Day,0,0,0,0,0,1.34
+3Month,0.96,0,0,0,0,0
+22Month,0.55,0.55,1.64,1.09,1.09,0

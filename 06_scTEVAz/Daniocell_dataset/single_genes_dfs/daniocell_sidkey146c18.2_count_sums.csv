@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,erythrocytes,exocrine.pancreas,eye,fin.epithelia,fin.mesenchyme,glial,gut,hatching.gland,immune,lateral.line,mesenchyme,muscle,neural,notochord,olfactory,otic,periderm,presomitic.mesoderm,somites,spinal.cord,taste,vasculature
+stage,endocrine_pancreas,epidermis,erythrocytes,exocrine_pancreas,eye,fin_epithelia,fin_mesenchyme,glial,gut,hatching_gland,immune,lateral_line,mesenchyme,muscle,neural,notochord,olfactory,otic,periderm,presomitic_mesoderm,somites,spinal_cord,taste,vasculature
  14-21,1.41,4.73,0,0,0,0,0,0,0,0,0,0,1.93,0,8.39,0,0,0,0,0.89,2.11,1.84,0,0
  24-34,0,1.24,0,0,3.55,0.86,0,6.58,0,0,0,0,1.41,1.6,51.42,0.71,0,3.1,1.02,0,1.38,15.75,0,0
  36-46,0,0.57,0,0,9.31,0,0.58,2.74,0,0,0,0,10.63,0,72,0.55,0,1.31,3.83,0,0,9.58,0,0

@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Keratinocyte,Mesenchymal.cell,Muscle.cell,Primordial.germ.cell,T.cell
-72hpf,0,1.06979114146608,1.06979114146608,0,0,0
-21Day,1.33853308820331,0,0,1.33853308820331,0,0
-3Month,0,0,0,0,0.319949299554195,0.319949299554195
+stage,Epithelial_cell,Keratinocyte,Mesenchymal_cell,Muscle_cell,Primordial_germ_cell,T_cell
+72hpf,0,1.07,1.07,0,0,0
+21Day,1.34,0,0,1.34,0,0
+3Month,0,0,0,0,0.32,0.32

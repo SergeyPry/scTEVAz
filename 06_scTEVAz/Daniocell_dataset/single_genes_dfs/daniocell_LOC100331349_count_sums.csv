@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endocrine.pancreas,endoderm,epidermis,eye,fast.muscle,fin.mesenchyme,glial,heart,liver,mesenchyme,mucous,muscle,neural,notochord,paraxial.mesoderm,presomitic.mesoderm,slow.muscle,somites,spinal.cord,vascular.smooth.muscle,vasculature
+stage,axial,blastomeres,endocrine_pancreas,endoderm,epidermis,eye,fast_muscle,fin_mesenchyme,glial,heart,liver,mesenchyme,mucous,muscle,neural,notochord,paraxial_mesoderm,presomitic_mesoderm,slow_muscle,somites,spinal_cord,vascular_smooth_muscle,vasculature
   3-4,0,10.41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,0,39.94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,7.41,0,0,0,0,0,0,0,0,0,0,0,0,0,46.77,5.59,20.8,0,0,0,0,0,0

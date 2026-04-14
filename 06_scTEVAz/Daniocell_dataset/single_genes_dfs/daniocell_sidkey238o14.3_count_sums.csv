@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.epithelia,glial,gut,heart,mesenchyme,neural,paraxial.mesoderm,periderm,spinal.cord,vasculature
+stage,blastomeres,epidermis,eye,fin_epithelia,glial,gut,heart,mesenchyme,neural,paraxial_mesoderm,periderm,spinal_cord,vasculature
   5-6,9.39,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,8.61,3.86,0,0,0
  10-12,0,0,0,0,0,0,0,0,22.72,0,0,0,0

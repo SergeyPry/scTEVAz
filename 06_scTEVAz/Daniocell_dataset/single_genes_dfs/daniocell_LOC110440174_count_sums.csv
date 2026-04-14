@@ -1,4 +1,4 @@
-stage,eye,fast.muscle,glial,mesenchyme,muscle,neural,olfactory,otic,periderm,pronephros,slow.muscle,somites,spinal.cord,vasculature,xanthophores
+stage,eye,fast_muscle,glial,mesenchyme,muscle,neural,olfactory,otic,periderm,pronephros,slow_muscle,somites,spinal_cord,vasculature,xanthophores
  24-34,0.75,1.38,0,0,2.05,2.37,2.56,0,0,0,0,2,0,0,0
  36-46,5.73,21.63,0,0,0.72,10.91,0,0,0,0,1.04,0,0,0,0
  48-58,1.66,14.5,0.76,1.6,4.11,9.96,0,0,0,0,5.38,0,8.11,0,0.97

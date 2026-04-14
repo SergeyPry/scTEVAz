@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.epithelia,glial,immune,mesenchyme,neural,periderm
+stage,blastomeres,epidermis,eye,fin_epithelia,glial,immune,mesenchyme,neural,periderm
   3-4,29.55,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,2.63,0
  24-34,0,0,0,0,0,0,0,0.94,0

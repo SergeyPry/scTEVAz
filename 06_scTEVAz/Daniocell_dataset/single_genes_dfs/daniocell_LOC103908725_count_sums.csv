@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,glial,gut,iridophores,mesenchyme,muscle,neural,notochord,otic,paraxial.mesoderm,periderm,presomitic.mesoderm,spinal.cord,vasculature
+stage,axial,blastomeres,endoderm,epidermis,eye,glial,gut,iridophores,mesenchyme,muscle,neural,notochord,otic,paraxial_mesoderm,periderm,presomitic_mesoderm,spinal_cord,vasculature
   3-4,0,381.24,0,0,0,0,0,0,0,0,0,0,0,0,28.3,0,0,0
   5-6,33.08,418.79,0,0,0,0,0,0,0,0,0,0,0,0,7.22,0,0,0
   7-9,13.98,11.86,5.08,0,20.89,0,0,0,0,0,260.5,4.03,0,56.93,0,0,0,0

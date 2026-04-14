@@ -1,4 +1,4 @@
-stage,axial,blastomeres,eye,fin.epithelia,glial,gut,mesenchyme,muscle,neural,paraxial.mesoderm,pericytes,somites,spinal.cord,xanthophores
+stage,axial,blastomeres,eye,fin_epithelia,glial,gut,mesenchyme,muscle,neural,paraxial_mesoderm,pericytes,somites,spinal_cord,xanthophores
   3-4,0,79.07,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.13,153.24,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,2.63,7.89,0,0,0,0,0,47.32,13.14,0,0,0,0

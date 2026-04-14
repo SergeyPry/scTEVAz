@@ -1,4 +1,4 @@
-stage,Enterocyte,Erythroid.progenitor.cell,Immune.progenitor.cell,Ionocyte,Keratinocyte,Macrophage,Muscle.cell,Neural.cell,Osteoblast,Primordial.germ.cell,Spermatocyte,T.cell
-72hpf,0,0,0,0,0,0,0,0,0.281848056003223,0,0,0
-21Day,0.369986860264282,0.369986860264282,0.369986860264282,0,0.369986860264282,0.369986860264282,0,0.369986860264282,0,0,0,0
-3Month,0,0,0,0.208034013289345,0,0.728119046512708,0.104017006644673,0,0,0.624102039868036,0.208034013289345,0.104017006644673
+stage,Enterocyte,Erythroid_progenitor_cell,Immune_progenitor_cell,Ionocyte,Keratinocyte,Macrophage,Muscle_cell,Neural_cell,Osteoblast,Primordial_germ_cell,Spermatocyte,T_cell
+72hpf,0,0,0,0,0,0,0,0,0.28,0,0,0
+21Day,0.37,0.37,0.37,0,0.37,0.37,0,0.37,0,0,0,0
+3Month,0,0,0,0.21,0,0.73,0.1,0,0,0.62,0.21,0.1

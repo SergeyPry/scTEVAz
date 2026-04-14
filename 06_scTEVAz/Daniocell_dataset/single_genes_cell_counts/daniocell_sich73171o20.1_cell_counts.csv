@@ -1,4 +1,4 @@
-stage,blastomeres,eye,fin.epithelia,fin.mesenchyme,heart,immune,mesenchyme,neural,notochord,olfactory,paraxial.mesoderm,periderm,pronephros,spinal.cord,vasculature
+stage,blastomeres,eye,fin_epithelia,fin_mesenchyme,heart,immune,mesenchyme,neural,notochord,olfactory,paraxial_mesoderm,periderm,pronephros,spinal_cord,vasculature
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,3.15,0,3.15,0,0
  14-21,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0

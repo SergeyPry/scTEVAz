@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Goblet.cell,Hepatocyte,Immune.progenitor.cell,Intestinal.bulb.cell,Keratinocyte,Oligodendrocyte,Primordial.germ.cell
-21Day,0,0,0,1.33853308820331,0,0,0,0
-3Month,0.639898599108391,0.319949299554195,0.319949299554195,0,0.319949299554195,0.319949299554195,0.319949299554195,0.319949299554195
-22Month,0,0,1.09330930239487,0,0,0,0,0
+stage,Epithelial_cell,Goblet_cell,Hepatocyte,Immune_progenitor_cell,Intestinal_bulb_cell,Keratinocyte,Oligodendrocyte,Primordial_germ_cell
+21Day,0,0,0,1.34,0,0,0,0
+3Month,0.64,0.32,0.32,0,0.32,0.32,0.32,0.32
+22Month,0,0,1.09,0,0,0,0,0

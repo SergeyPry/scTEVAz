@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.epithelia,glial,heart,iridophores,mesenchyme,muscle,neural,notochord,paraxial.mesoderm,periderm,somites,spinal.cord
+stage,blastomeres,epidermis,eye,fin_epithelia,glial,heart,iridophores,mesenchyme,muscle,neural,notochord,paraxial_mesoderm,periderm,somites,spinal_cord
   5-6,18.39,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,2.63,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,12.59,0,3.15,0,0,0

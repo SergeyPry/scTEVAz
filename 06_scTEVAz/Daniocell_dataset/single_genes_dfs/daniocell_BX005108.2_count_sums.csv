@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,liver,mesenchyme,neural,notochord,olfactory,otic,paraxial.mesoderm,periderm,spinal.cord,taste
+stage,epidermis,eye,glial,liver,mesenchyme,neural,notochord,olfactory,otic,paraxial_mesoderm,periderm,spinal_cord,taste
   7-9,0,10.11,0,0,0,3.87,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,34.77,0,0,0,7.16,0,0,0
  14-21,1.05,0,0,0,0,0.92,0.94,0,0,0,0.87,0,0

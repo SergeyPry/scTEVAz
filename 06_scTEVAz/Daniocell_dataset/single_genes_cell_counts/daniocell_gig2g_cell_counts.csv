@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,endoderm,erythrocytes,eye,glial,gut,mesenchyme,neural,paraxial.mesoderm,spinal.cord
+stage,blastomeres,endocrine_pancreas,endoderm,erythrocytes,eye,glial,gut,mesenchyme,neural,paraxial_mesoderm,spinal_cord
  10-12,3.15,0,3.15,0,3.15,0,0,0,59.79,34.62,0
  14-21,0,0,0,1,0,3,0,1,12,0,53
  36-46,0,0,0,0,0.81,0,0,0,0,0,0

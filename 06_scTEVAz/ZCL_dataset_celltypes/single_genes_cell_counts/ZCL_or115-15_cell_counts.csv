@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Endothelial.cell,Epithelial.cell,Erythrocyte..Liver.,Goblet.cell,Granulocyte,Hepatocyte,Immune.progenitor.cell,Macrophage,Mesenchymal.cell,Mt.rich.cell,Neural.cell,Neural.progenitor.cell
-72hpf,0,0,0,0,0,0,0,0,0,0.281848056003223,0,1.40924028001612,0.281848056003223
-21Day,0,0,0,0,0,0,0,0,0,0,0,1.10996058079285,0.369986860264282
-22Month,0.409948295964399,0.273298863976266,0.136649431988133,0.136649431988133,0.136649431988133,0.136649431988133,0.409948295964399,0.136649431988133,0.136649431988133,0,0.136649431988133,0.273298863976266,0.136649431988133
+stage,Cardiomyocyte,Endothelial_cell,Epithelial_cell,Erythrocyte__Liver_,Goblet_cell,Granulocyte,Hepatocyte,Immune_progenitor_cell,Macrophage,Mesenchymal_cell,Mt_rich_cell,Neural_cell,Neural_progenitor_cell
+72hpf,0,0,0,0,0,0,0,0,0,0.28,0,1.41,0.28
+21Day,0,0,0,0,0,0,0,0,0,0,0,1.11,0.37
+22Month,0.41,0.27,0.14,0.14,0.14,0.14,0.41,0.14,0.14,0,0.14,0.27,0.14

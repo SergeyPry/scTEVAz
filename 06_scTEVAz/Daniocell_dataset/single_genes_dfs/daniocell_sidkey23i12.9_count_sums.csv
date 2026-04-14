@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,gut,hatching.gland,mesenchyme,neural,notochord,olfactory,otic,paraxial.mesoderm,periderm,pgc,spinal.cord,vascular.smooth.muscle
+stage,axial,blastomeres,endoderm,epidermis,eye,gut,hatching_gland,mesenchyme,neural,notochord,olfactory,otic,paraxial_mesoderm,periderm,pgc,spinal_cord,vascular_smooth_muscle
   3-4,314.9,4269,0,0,0,0,0,0,0,0,0,0,0,116.61,0,0,0
   5-6,262.39,5902.93,28.87,0,0,0,0,0,138.29,0,0,0,43.43,30.96,0,0,0
   7-9,33.25,31.51,44.5,0,88.35,0,16.68,0,915.35,21.24,0,0,246.8,0,7.7,0,0

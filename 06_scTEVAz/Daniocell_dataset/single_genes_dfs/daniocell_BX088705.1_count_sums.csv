@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,immune,mesenchyme,neural,paraxial.mesoderm,periderm,somites,spinal.cord
+stage,blastomeres,epidermis,eye,glial,immune,mesenchyme,neural,paraxial_mesoderm,periderm,somites,spinal_cord
   3-4,30.83,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,16.23,0,0,0,0
  14-21,0,0,0,0,0,0.8,1.94,0.87,0,0.89,0

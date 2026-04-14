@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,fin.epithelia,lateral.line,liver,mesenchyme,neural,olfactory,periderm,pronephros,spinal.cord
+stage,endocrine_pancreas,epidermis,eye,fin_epithelia,lateral_line,liver,mesenchyme,neural,olfactory,periderm,pronephros,spinal_cord
  24-34,0,0,0,0,0,0,0,6.25,0,2.39,0,0
  36-46,0,0,0,0,0,0,0,0.82,1.09,0,0,0
  48-58,0,0,0,0,0,0,0,2.73,0,0,0,0

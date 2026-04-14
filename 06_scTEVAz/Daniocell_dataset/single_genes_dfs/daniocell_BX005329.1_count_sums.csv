@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,mural.cell,muscle,neural,notochord,olfactory,paraxial.mesoderm,periderm,taste
+stage,blastomeres,epidermis,erythrocytes,mural_cell,muscle,neural,notochord,olfactory,paraxial_mesoderm,periderm,taste
   3-4,13.53,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,6.18,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,13.69,0,0

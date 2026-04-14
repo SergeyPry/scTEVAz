@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,erythrocytes,exocrine.pancreas,eye,glial,gut,heart,liver,mesenchyme,muscle,neural,otic,periderm,pronephros,spinal.cord,xanthophores
+stage,endocrine_pancreas,epidermis,erythrocytes,exocrine_pancreas,eye,glial,gut,heart,liver,mesenchyme,muscle,neural,otic,periderm,pronephros,spinal_cord,xanthophores
  14-21,0,0,0,0,0,0,0,0,1.47,0,0.81,0,0,0,0,1.03,0
  24-34,0,0,0,0,0,0,0,0,1.16,0.86,0,1.6,0.69,5.17,0,0,0
  36-46,0,5.56,0,0,1.25,0,0,0,4.79,2.15,0,11.67,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,axial,blastomeres,erythrocytes,glial,mesenchyme,neural,olfactory,otic,paraxial.mesoderm,periderm,spinal.cord,vasculature
+stage,axial,blastomeres,erythrocytes,glial,mesenchyme,neural,olfactory,otic,paraxial_mesoderm,periderm,spinal_cord,vasculature
   5-6,7.04,47.67,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,18.89,0,0,7.65,0,0,0
  10-12,0,0,0,0,0,0,0,0,5,0,0,0

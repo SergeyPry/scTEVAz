@@ -1,4 +1,4 @@
-stage,Enterocyte,Epithelial.cell,Granulocyte,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Keratinocyte,Macrophage,Mesenchymal.cell,Oligodendrocyte,Radial.glia,Smooth.muscle.cell,Spermatocyte,T.cell
-72hpf,0,0,0,0,0,0,0,0,0,0,0.281848056003223,0,0,0
-21Day,0,0,0,0,0,0,0,0,0,0,0,0,0,1.10996058079285
-3Month,0.104017006644673,0.312051019934018,0.104017006644673,0.312051019934018,0.312051019934018,0.208034013289345,0.104017006644673,0.104017006644673,0.208034013289345,0.104017006644673,0,0.104017006644673,0.312051019934018,8.7374285581525
+stage,Enterocyte,Epithelial_cell,Granulocyte,Hepatocyte,Immune_cell,Intestinal_bulb_cell,Keratinocyte,Macrophage,Mesenchymal_cell,Oligodendrocyte,Radial_glia,Smooth_muscle_cell,Spermatocyte,T_cell
+72hpf,0,0,0,0,0,0,0,0,0,0,0.28,0,0,0
+21Day,0,0,0,0,0,0,0,0,0,0,0,0,0,1.11
+3Month,0.1,0.31,0.1,0.31,0.31,0.21,0.1,0.1,0.21,0.1,0,0.1,0.31,8.74

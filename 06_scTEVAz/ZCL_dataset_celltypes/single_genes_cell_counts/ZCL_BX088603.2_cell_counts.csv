@@ -1,5 +1,5 @@
-stage,Cardiomyocyte,Enterocyte,Epithelial.cell,Erythroid.progenitor.cell,Hatching.gland,Hepatocyte,Keratinocyte,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Osteoblast,Radial.glia,T.cell
+stage,Cardiomyocyte,Enterocyte,Epithelial_cell,Erythroid_progenitor_cell,Hatching_gland,Hepatocyte,Keratinocyte,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Osteoblast,Radial_glia,T_cell
 24hpf,0,0,0,0,1,0,0,0,2,3,0,0,0
-72hpf,0.281848056003223,0,0,0,0,0,0.281848056003223,0,0,0.281848056003223,0.84554416800967,0,0
-21Day,0,0.369986860264282,0.739973720528564,0.369986860264282,0,0,0,0.369986860264282,0,0,0,0.369986860264282,0.369986860264282
-22Month,0,0,0,0,0,0.136649431988133,0,0,0,0,0,0,0
+72hpf,0.28,0,0,0,0,0,0.28,0,0,0.28,0.85,0,0
+21Day,0,0.37,0.74,0.37,0,0,0,0.37,0,0,0,0.37,0.37
+22Month,0,0,0,0,0,0.14,0,0,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,erythrocytes,eye,fin.mesenchyme,glial,gut,immune,iridophores,lateral.line,liver,melanocytes,mesenchyme,mural.cell,muscle,neural,notochord,otic,spinal.cord,vasculature
+stage,endocrine_pancreas,epidermis,erythrocytes,eye,fin_mesenchyme,glial,gut,immune,iridophores,lateral_line,liver,melanocytes,mesenchyme,mural_cell,muscle,neural,notochord,otic,spinal_cord,vasculature
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.72,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.75,0,0,0,0
  24-34,0,0,0,1.04,0,0,0,0,0,0,36.68,0,0,0,1.56,5.79,0,0,0,1.13

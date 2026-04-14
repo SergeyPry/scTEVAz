@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fast.muscle,fin.epithelia,glial,hatching.gland,ionocyte,iridophores,mesenchyme,mucous,neural,notochord,paraxial.mesoderm,periderm,spinal.cord,taste,vasculature,xanthophores
+stage,blastomeres,epidermis,eye,fast_muscle,fin_epithelia,glial,hatching_gland,ionocyte,iridophores,mesenchyme,mucous,neural,notochord,paraxial_mesoderm,periderm,spinal_cord,taste,vasculature,xanthophores
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,18.39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,2.63,0,0,0,0,0,0,0,0,0,0,2.63,0,0,0,0,0

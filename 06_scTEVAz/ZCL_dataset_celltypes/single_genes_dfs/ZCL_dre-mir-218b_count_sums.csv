@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Epithelial.cell..Brain.,Erythrocyte,Keratinocyte,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Neurosecretory.cell,Osteoblast,Radial.glia
-24hpf,0,0,0,0,0,0,28.6048320099512,0,0,0
-72hpf,0,1.06979114146608,2.13958228293216,6.41874684879647,2.13958228293216,177.585329483369,19.2562405463894,1.06979114146608,7.48853799026255,6.41874684879647
-21Day,1.33853308820331,0,0,0,0,2.67706617640661,4.01559926460992,0,0,0
+stage,Epithelial_cell,Epithelial_cell__Brain_,Erythrocyte,Keratinocyte,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Neurosecretory_cell,Osteoblast,Radial_glia
+24hpf,0,0,0,0,0,0,28.6,0,0,0
+72hpf,0,1.07,2.14,6.42,2.14,177.59,19.26,1.07,7.49,6.42
+21Day,1.34,0,0,0,0,2.68,4.02,0,0,0

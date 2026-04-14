@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,eye,glial,heart,mesenchyme,muscle,neural,olfactory,paraxial.mesoderm,somites,spinal.cord,vasculature
+stage,axial,blastomeres,epidermis,eye,glial,heart,mesenchyme,muscle,neural,olfactory,paraxial_mesoderm,somites,spinal_cord,vasculature
   3-4,0,13.18,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,12.26,18.39,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,10.51,0,0,0,0,0

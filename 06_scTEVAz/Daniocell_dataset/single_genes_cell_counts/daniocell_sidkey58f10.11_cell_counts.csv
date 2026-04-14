@@ -1,4 +1,4 @@
-stage,epidermis,exocrine.pancreas,eye,fin.epithelia,glial,gut,immune,ionocyte,melanocytes,mesenchyme,mural.cell,muscle,neural,olfactory,pericytes,periderm,spinal.cord,vasculature,xanthophores
+stage,epidermis,exocrine_pancreas,eye,fin_epithelia,glial,gut,immune,ionocyte,melanocytes,mesenchyme,mural_cell,muscle,neural,olfactory,pericytes,periderm,spinal_cord,vasculature,xanthophores
  36-46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.81,0
  48-58,0,0,1.15,0,0,0,0.57,0,0,0,0,0,0,0,0,0,0,0,0
  60-70,0,0,0,0,0,0,2.94,0,0,0,0,0,0.98,0,0,0,0,0.98,0

@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,gut,mesenchyme,mural.cell,muscle,neural,olfactory,paraxial.mesoderm,periderm,pronephros,spinal.cord,vasculature
+stage,axial,blastomeres,endoderm,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,gut,mesenchyme,mural_cell,muscle,neural,olfactory,paraxial_mesoderm,periderm,pronephros,spinal_cord,vasculature
   3-4,0,42.51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,0,105.02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,9.48,6.45,4.33,0,11.76,0,0,0,0,0,0,0,51.56,0,20.09,0,0,0,0

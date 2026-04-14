@@ -1,4 +1,4 @@
-stage,eye,ionocyte,mesenchyme,muscle,neural,spinal.cord
+stage,eye,ionocyte,mesenchyme,muscle,neural,spinal_cord
  14-21,0,0,0,0,1,0
  24-34,0,0,0,0,0,0.82
  48-58,0,0,0,0.57,0.57,1.15

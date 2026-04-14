@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.epithelia,glial,heart,immune,ionocyte,iridophores,melanocytes,mesenchyme,mucous,muscle,neural,paraxial.mesoderm,periderm,spinal.cord,vasculature
+stage,epidermis,erythrocytes,eye,fin_epithelia,glial,heart,immune,ionocyte,iridophores,melanocytes,mesenchyme,mucous,muscle,neural,paraxial_mesoderm,periderm,spinal_cord,vasculature
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,8.28,4.62,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,0,1.07,0,0,0,1.64
  24-34,0,0,0,0.93,0,0.62,0,0.7,0,0,0,0,0,1.47,0,6.84,0,7.07

@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.epithelia,glial,ionocyte,liver,mesenchyme,mucous,mural.cell,muscle,neural,periderm,somites,spinal.cord,visceral.smooth.muscle
+stage,blastomeres,epidermis,eye,fin_epithelia,glial,ionocyte,liver,mesenchyme,mucous,mural_cell,muscle,neural,periderm,somites,spinal_cord,visceral_smooth_muscle
   3-4,26.36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,2.63,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0

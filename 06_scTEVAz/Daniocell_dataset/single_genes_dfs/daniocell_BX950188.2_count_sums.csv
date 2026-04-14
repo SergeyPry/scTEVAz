@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.mesenchyme,glial,iridophores,lateral.line,mesenchyme,mural.cell,muscle,neural,notochord,somites,spinal.cord,vasculature
+stage,epidermis,eye,fin_mesenchyme,glial,iridophores,lateral_line,mesenchyme,mural_cell,muscle,neural,notochord,somites,spinal_cord,vasculature
  14-21,0,0,0,0,0,0,0,0,1.09,0.86,0,0,0,0
  24-34,0,0.71,0,1.43,0,0,4.99,0,2.59,2.36,9.07,0.8,0,0
  36-46,0,0,0,0,0,0,6.08,0,1.72,0,0,0,0,2.84

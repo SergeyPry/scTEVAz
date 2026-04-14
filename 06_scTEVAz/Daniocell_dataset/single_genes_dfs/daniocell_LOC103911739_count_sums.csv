@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,fin.epithelia,glial,gut,iridophores,lateral.line,liver,mesenchyme,muscle,neural,olfactory,otic,pronephros,spinal.cord,vasculature
+stage,endoderm,epidermis,eye,fin_epithelia,glial,gut,iridophores,lateral_line,liver,mesenchyme,muscle,neural,olfactory,otic,pronephros,spinal_cord,vasculature
  14-21,0,0.92,0,0,0,0,0,0,0,0,0,9.04,0,0,0,0.93,0
  24-34,0,0,0,0,0,0,0,0,0,0,0,15.04,0,0,0,0,0
  36-46,0,0,2.94,0,0,0,1.37,0,0,0,0,7.94,2.08,0.62,0,0,0

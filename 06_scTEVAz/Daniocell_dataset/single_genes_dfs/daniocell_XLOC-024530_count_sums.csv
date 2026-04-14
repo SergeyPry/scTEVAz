@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,eye,gut,mesenchyme,neural,olfactory,paraxial.mesoderm,periderm,presomitic.mesoderm,spinal.cord
+stage,blastomeres,endoderm,eye,gut,mesenchyme,neural,olfactory,paraxial_mesoderm,periderm,presomitic_mesoderm,spinal_cord
   3-4,10.39,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,3.57,0,0,0
  10-12,0,4.05,0,0,0,3.75,0,0,0,0,0

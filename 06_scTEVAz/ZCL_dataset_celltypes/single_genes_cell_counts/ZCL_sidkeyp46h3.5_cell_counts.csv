@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Endothelial.cell,Epithelial.cell,Erythroid.progenitor.cell,Goblet.cell,Granulocyte,Granulosa.cell,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Ionocyte,Keratinocyte,Mesenchymal.cell,Mesenchymal.cell..caudal.fin.,Muscle.cell,Neurosecretory.cell,Oligodendrocyte,Oocyte,Pancreatic.cell,Primordial.germ.cell,Spermatocyte
-21Day,0,0,0,0,0,0,0,0,0,0,0,0,0.739973720528564,0,0,0,0,0,0,0,0
-3Month,0.104017006644673,0,9.15349658473119,0,1.76828911295943,0,0,0.208034013289345,0.208034013289345,0.520085033223363,0.104017006644673,0.104017006644673,0.312051019934018,0.104017006644673,0.104017006644673,0.208034013289345,0,0,0.104017006644673,0.312051019934018,0.208034013289345
-22Month,0,0.273298863976266,0.956546023916932,0.136649431988133,0.683247159940666,0.273298863976266,0.136649431988133,1.50314375186946,0,0.409948295964399,0,0,0.273298863976266,0,0.136649431988133,0.273298863976266,0.136649431988133,7.24241989537105,0,0,0
+stage,Cardiomyocyte,Endothelial_cell,Epithelial_cell,Erythroid_progenitor_cell,Goblet_cell,Granulocyte,Granulosa_cell,Hepatocyte,Immune_cell,Intestinal_bulb_cell,Ionocyte,Keratinocyte,Mesenchymal_cell,Mesenchymal_cell__caudal_fin_,Muscle_cell,Neurosecretory_cell,Oligodendrocyte,Oocyte,Pancreatic_cell,Primordial_germ_cell,Spermatocyte
+21Day,0,0,0,0,0,0,0,0,0,0,0,0,0.74,0,0,0,0,0,0,0,0
+3Month,0.1,0,9.15,0,1.77,0,0,0.21,0.21,0.52,0.1,0.1,0.31,0.1,0.1,0.21,0,0,0.1,0.31,0.21
+22Month,0,0.27,0.96,0.14,0.68,0.27,0.14,1.5,0,0.41,0,0,0.27,0,0.14,0.27,0.14,7.24,0,0,0

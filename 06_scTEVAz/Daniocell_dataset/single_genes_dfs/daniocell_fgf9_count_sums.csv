@@ -1,4 +1,4 @@
-stage,erythrocytes,eye,fin.epithelia,glial,ionocyte,lateral.line,mural.cell,neural,otic,spinal.cord,vasculature
+stage,erythrocytes,eye,fin_epithelia,glial,ionocyte,lateral_line,mural_cell,neural,otic,spinal_cord,vasculature
  24-34,0,0,0,0,0.75,0,0,0,0,0,0.9
  36-46,0,0,0,0,0,0,0,2.97,0,0.67,0
  48-58,0,0,0,0,0.38,0,0,0,0.7,0,1.07

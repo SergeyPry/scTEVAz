@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.mesenchyme,glial,lateral.line,mesenchyme,mural.cell,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,spinal.cord,vasculature
+stage,epidermis,erythrocytes,eye,fin_mesenchyme,glial,lateral_line,mesenchyme,mural_cell,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,spinal_cord,vasculature
  14-21,0.88,0.98,0,0,1.01,0,0,0,0,1.92,0.89,0,0,0.87,12.26,0
  24-34,0,0,0,0,2.5,0,0.77,0,0,3.79,0,1.05,0,0,0,0
  36-46,4.2,0,3.61,4.4,0,0,2.14,0,1.1,6.23,0,0,0,0,5.7,0

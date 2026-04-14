@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.epithelia,fin.mesenchyme,glial,gut,lateral.line,mesenchyme,mucous,neural,olfactory,otic,periderm,taste,vasculature
+stage,epidermis,erythrocytes,eye,fin_epithelia,fin_mesenchyme,glial,gut,lateral_line,mesenchyme,mucous,neural,olfactory,otic,periderm,taste,vasculature
  24-34,0,0,0,0,0,0,0,0,0,5.03,0,0.77,0,4.96,0,9.63
  36-46,0,0,0,0,0,0,0,0,0,3.65,2.06,0,0.61,8.36,0,0
  48-58,0,0,0,0,0,0,0,0.51,0,0.59,0,0,0,3.98,0,0

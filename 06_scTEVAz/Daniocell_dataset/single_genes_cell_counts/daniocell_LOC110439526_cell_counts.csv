@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,glial,gut,mesenchyme,muscle,neural,olfactory,otic,periderm,somites,spinal.cord,vasculature
+stage,endoderm,epidermis,eye,glial,gut,mesenchyme,muscle,neural,olfactory,otic,periderm,somites,spinal_cord,vasculature
  14-21,1,0,0,0,0,0,0,3,0,0,0,2,1,0
  24-34,0,1.64,0.82,0.82,0,0,0,8.21,0.82,0,2.46,0,1.64,0.82
  36-46,0,0,0,0,0,0,0,2.42,0,0,4.03,0,0,0

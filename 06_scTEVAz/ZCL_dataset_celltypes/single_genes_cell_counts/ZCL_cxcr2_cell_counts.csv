@@ -1,3 +1,3 @@
-stage,Immune.cell,Osteoblast,T.cell
-21Day,1.84993430132141,0,0.739973720528564
-3Month,0.416068026578691,0.104017006644673,0
+stage,Immune_cell,Osteoblast,T_cell
+21Day,1.85,0,0.74
+3Month,0.42,0.1,0

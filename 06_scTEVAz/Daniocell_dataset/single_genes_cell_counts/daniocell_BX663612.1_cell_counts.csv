@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,glial,immune,mesenchyme,muscle,neural,paraxial.mesoderm
+stage,endoderm,epidermis,eye,glial,immune,mesenchyme,muscle,neural,paraxial_mesoderm
   7-9,0,0,0,0,0,0,0,2.63,0
  10-12,3.15,0,0,0,0,0,0,0,3.15
  14-21,0,1,0,0,0,0,0,0,0

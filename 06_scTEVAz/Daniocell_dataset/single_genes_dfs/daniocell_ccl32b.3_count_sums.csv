@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,immune,ionocyte,liver,mesenchyme,mural.cell,muscle,neural,notochord,periderm,vascular.smooth.muscle,vasculature,visceral.smooth.muscle
+stage,blastomeres,epidermis,eye,glial,immune,ionocyte,liver,mesenchyme,mural_cell,muscle,neural,notochord,periderm,vascular_smooth_muscle,vasculature,visceral_smooth_muscle
   3-4,24.84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,39.38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,10.48,0,0,0,0,0,0,0,0,0,0,0,0,0

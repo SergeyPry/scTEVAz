@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,epidermis,eye,mesenchyme,neural,periderm
+stage,blastomeres,endocrine_pancreas,epidermis,eye,mesenchyme,neural,periderm
   3-4,13.18,0,0,0,0,0,0
  24-34,0,0,0,0,0,0.82,0
  60-70,0,0,0,0,0,1.96,0

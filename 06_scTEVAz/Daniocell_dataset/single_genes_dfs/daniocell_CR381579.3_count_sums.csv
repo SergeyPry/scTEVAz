@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,mesenchyme,mural.cell,neural,presomitic.mesoderm,spinal.cord
+stage,epidermis,eye,glial,mesenchyme,mural_cell,neural,presomitic_mesoderm,spinal_cord
  14-21,0.85,1.12,0,0,0,4.26,0.99,4.19
  24-34,0,0,0,0,0,11.19,0,2.4
  36-46,0,0,0,0,0,10.04,0,2.53

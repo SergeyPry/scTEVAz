@@ -1,4 +1,4 @@
-stage,erythrocytes,eye,glial,immune,neural,periderm,presomitic.mesoderm,spinal.cord,vascular.smooth.muscle
+stage,erythrocytes,eye,glial,immune,neural,periderm,presomitic_mesoderm,spinal_cord,vascular_smooth_muscle
  14-21,1,0,0,0,0,0,0,2,0
  24-34,0,0,0,0,1.64,0,0.82,0,0
  36-46,0,0,0,0,0.81,0,0,0,0

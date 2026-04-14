@@ -1,4 +1,4 @@
-stage,eye,glial,gut,mucous,neural,otic,somites,spinal.cord,taste
+stage,eye,glial,gut,mucous,neural,otic,somites,spinal_cord,taste
  14-21,0,0,0.82,0,0,0,0.99,0,0
  24-34,0,0,0,0,5,0.82,0,0.88,0
  36-46,0,0,0,0,2.09,0,0,0,0

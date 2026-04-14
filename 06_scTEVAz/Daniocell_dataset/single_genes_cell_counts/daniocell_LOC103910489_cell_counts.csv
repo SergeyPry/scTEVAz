@@ -1,4 +1,4 @@
-stage,epidermis,eye,lateral.line,neural,presomitic.mesoderm,pronephros,spinal.cord
+stage,epidermis,eye,lateral_line,neural,presomitic_mesoderm,pronephros,spinal_cord
  14-21,0,0,0,1,1,0,0
  24-34,0,0,0,0,0,0.82,0
  48-58,0,0,0,0.57,0,0,0

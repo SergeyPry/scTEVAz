@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Muscle.cell,Osteoblast
-21Day,0.369986860264282,0,0,0,0,0
-3Month,0.104017006644673,0.104017006644673,0.104017006644673,0.208034013289345,0.312051019934018,0.104017006644673
-22Month,0,0,0,0,0.409948295964399,0
+stage,Epithelial_cell,Hepatocyte,Immune_cell,Intestinal_bulb_cell,Muscle_cell,Osteoblast
+21Day,0.37,0,0,0,0,0
+3Month,0.1,0.1,0.1,0.21,0.31,0.1
+22Month,0,0,0,0,0.41,0

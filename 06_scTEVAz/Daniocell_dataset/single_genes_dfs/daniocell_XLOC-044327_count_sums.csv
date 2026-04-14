@@ -1,4 +1,4 @@
-stage,erythrocytes,eye,fin.epithelia,glial,neural,periderm,slow.muscle,somites,spinal.cord,vasculature
+stage,erythrocytes,eye,fin_epithelia,glial,neural,periderm,slow_muscle,somites,spinal_cord,vasculature
  14-21,1.69,0,0,0,0,0,0,1,1.72,2.23
  24-34,0,0,0,0,16.88,0,0,0,1.67,0
  36-46,0,0,1.15,0,0.79,0.8,0,0,0,0

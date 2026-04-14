@@ -1,4 +1,4 @@
-stage,erythrocytes,heart,immune,neural,periderm,spinal.cord,vasculature
+stage,erythrocytes,heart,immune,neural,periderm,spinal_cord,vasculature
  14-21,1.61,0,0,0,0,0,0
  24-34,0,0,0,0,0,0,0.92
  36-46,0,0,0,0,0,0.8,8.19

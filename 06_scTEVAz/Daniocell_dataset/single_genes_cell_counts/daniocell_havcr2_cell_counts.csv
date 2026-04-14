@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,exocrine.pancreas,eye,glial,gut,immune,iridophores,liver,mesenchyme,muscle,neural,notochord,paraxial.mesoderm,periderm,slow.muscle,somites,spinal.cord,visceral.smooth.muscle
+stage,endoderm,epidermis,exocrine_pancreas,eye,glial,gut,immune,iridophores,liver,mesenchyme,muscle,neural,notochord,paraxial_mesoderm,periderm,slow_muscle,somites,spinal_cord,visceral_smooth_muscle
   3-4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13.18,0,0,0,0
   7-9,2.63,0,0,0,0,0,0,0,0,0,0,0,0,2.63,0,0,0,0,0
  10-12,3.15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

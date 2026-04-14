@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,exocrine.pancreas,eye,glial,heart,immune,mesenchyme,mural.cell,neural,otic,periderm,spinal.cord,vasculature
+stage,epidermis,erythrocytes,exocrine_pancreas,eye,glial,heart,immune,mesenchyme,mural_cell,neural,otic,periderm,spinal_cord,vasculature
  14-21,2,0,0,0,0,0,0,0,0,2,0,1,1,1
  24-34,0.82,0,0,0.82,0,0,0,0.82,0,1.64,0,0,0.82,0
  36-46,0,0,0,0,0.81,0,0,0,0,4.83,0,0,0,0

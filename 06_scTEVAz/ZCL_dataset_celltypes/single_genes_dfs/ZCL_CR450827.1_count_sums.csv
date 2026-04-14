@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Hepatocyte,Mesenchymal.cell,Neural.progenitor.cell,Oligodendrocyte,Primordial.germ.cell,Spermatocyte
-24hpf,4.08640457285017,0,0,4.08640457285017,0,0,0
-72hpf,0,0,1.06979114146608,0,0,0,0
-3Month,0,0.639898599108391,0,0,0.319949299554195,2.55959439643356,4.79923949331293
+stage,Epithelial_cell,Hepatocyte,Mesenchymal_cell,Neural_progenitor_cell,Oligodendrocyte,Primordial_germ_cell,Spermatocyte
+24hpf,4.09,0,0,4.09,0,0,0
+72hpf,0,0,1.07,0,0,0,0
+3Month,0,0.64,0,0,0.32,2.56,4.8

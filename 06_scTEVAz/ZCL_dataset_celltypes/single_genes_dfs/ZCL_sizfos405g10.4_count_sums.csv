@@ -1,3 +1,3 @@
-stage,Hepatocyte,Intestinal.bulb.cell,Mesenchymal.cell,Pancreatic.cell,Primordial.germ.cell,Spermatocyte,T.cell
-21Day,0,1.33853308820331,0,0,0,0,1.33853308820331
-3Month,0.319949299554195,0,0.319949299554195,0.319949299554195,0.319949299554195,18.2371100745891,0
+stage,Hepatocyte,Intestinal_bulb_cell,Mesenchymal_cell,Pancreatic_cell,Primordial_germ_cell,Spermatocyte,T_cell
+21Day,0,1.34,0,0,0,0,1.34
+3Month,0.32,0,0.32,0.32,0.32,18.24,0

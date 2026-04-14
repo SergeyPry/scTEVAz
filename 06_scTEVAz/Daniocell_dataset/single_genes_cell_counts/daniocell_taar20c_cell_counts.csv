@@ -1,4 +1,4 @@
-stage,eye,glial,lateral.line,mesenchyme,mural.cell,neural,olfactory
+stage,eye,glial,lateral_line,mesenchyme,mural_cell,neural,olfactory
  14-21,0,1,0,0,0,0,0
  60-70,0,0,0,0.98,0,0,0.98
  96-106,0,0,1.09,3.28,0,0,0

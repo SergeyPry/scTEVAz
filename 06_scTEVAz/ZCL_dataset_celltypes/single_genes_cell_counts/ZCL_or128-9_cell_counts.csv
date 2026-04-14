@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Hepatocyte,Intestinal.bulb.cell,Keratinocyte,Neural.cell
-72hpf,0,0,0,0,0.563696112006446
-21Day,0.369986860264282,0,0,0,0
-22Month,0,0.136649431988133,0.136649431988133,0.136649431988133,0
+stage,Epithelial_cell,Hepatocyte,Intestinal_bulb_cell,Keratinocyte,Neural_cell
+72hpf,0,0,0,0,0.56
+21Day,0.37,0,0,0,0
+22Month,0,0.14,0.14,0.14,0

@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,glial,immune,mesenchyme,neural,olfactory,otic,paraxial.mesoderm,periderm,spinal.cord,vascular.smooth.muscle,vasculature
+stage,blastomeres,endoderm,epidermis,eye,glial,immune,mesenchyme,neural,olfactory,otic,paraxial_mesoderm,periderm,spinal_cord,vascular_smooth_muscle,vasculature
   3-4,97.58,0,0,0,0,0,0,0,0,0,0,19.43,0,0,0
   5-6,56.98,0,0,0,0,0,0,7.22,0,0,0,0,0,0,0
   7-9,0,3.77,0,0,0,0,0,0,0,0,0,0,0,0,0

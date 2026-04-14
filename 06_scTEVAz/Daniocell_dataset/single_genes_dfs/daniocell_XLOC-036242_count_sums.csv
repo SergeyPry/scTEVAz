@@ -1,4 +1,4 @@
-stage,eye,glial,heart,melanocytes,neural,olfactory,otic,spinal.cord
+stage,eye,glial,heart,melanocytes,neural,olfactory,otic,spinal_cord
  14-21,0,0,0,0,1.05,0,0,1.03
  24-34,0,0.94,0,0,10.64,0,0,0.93
  36-46,0,0,0,0,29.14,0,0,1.77

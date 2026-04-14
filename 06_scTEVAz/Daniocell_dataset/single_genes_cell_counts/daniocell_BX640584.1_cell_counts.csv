@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,heart,ionocyte,mesenchyme,mucous,mural.cell,muscle,neural,notochord,periderm,presomitic.mesoderm,spinal.cord,taste,vasculature,visceral.smooth.muscle
+stage,epidermis,eye,glial,heart,ionocyte,mesenchyme,mucous,mural_cell,muscle,neural,notochord,periderm,presomitic_mesoderm,spinal_cord,taste,vasculature,visceral_smooth_muscle
  14-21,1,0,0,0,0,1,0,0,0,2,0,0,1,1,0,0,0
  24-34,1.64,0,0,0,0,0,0,0,0,4.93,0,0.82,0,0,0,0,0
  36-46,0,0,1.61,0,0,0,0,0,0,4.03,0,0,0,2.42,0,1.61,0

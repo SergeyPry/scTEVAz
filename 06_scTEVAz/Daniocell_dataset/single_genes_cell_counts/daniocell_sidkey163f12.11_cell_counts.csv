@@ -1,4 +1,4 @@
-stage,exocrine.pancreas,glial,heart,mural.cell,neural,spinal.cord,vasculature
+stage,exocrine_pancreas,glial,heart,mural_cell,neural,spinal_cord,vasculature
  14-21,0,0,1,0,0,1,0
  24-34,0,0,1.64,0,0,0,0.82
  36-46,0,0,3.22,0,0,0,0

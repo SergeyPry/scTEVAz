@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,immune,lateral.line,mesenchyme,neural
+stage,epidermis,eye,glial,immune,lateral_line,mesenchyme,neural
  24-34,1.97,0,0,0,0,0,0
  36-46,0,0,0,0,0,0,1.26
  60-70,0,0,0,0,0,0.68,0.62

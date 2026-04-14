@@ -1,4 +1,4 @@
-stage,Intestinal.bulb.cell,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,T.cell
-24hpf,0,4.08640457285017,0,4.08640457285017,0
-72hpf,0,0,1.06979114146608,0,0
-22Month,1.09330930239487,0.546654651197433,0,0,1.09330930239487
+stage,Intestinal_bulb_cell,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,T_cell
+24hpf,0,4.09,0,4.09,0
+72hpf,0,0,1.07,0,0
+22Month,1.09,0.55,0,0,1.09

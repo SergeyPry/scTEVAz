@@ -1,6 +1,6 @@
-stage,Epithelial.cell,Erythrocyte,Hepatocyte,Immune.progenitor.cell,Neural.cell,Neural.progenitor.cell,Oocyte,Primordial.germ.cell,T.cell
+stage,Epithelial_cell,Erythrocyte,Hepatocyte,Immune_progenitor_cell,Neural_cell,Neural_progenitor_cell,Oocyte,Primordial_germ_cell,T_cell
 24hpf,0,0,0,0,0,1,0,0,0
-72hpf,0,0,0,0,1.40924028001612,0,0,0,0
-21Day,0,0.369986860264282,0,0.369986860264282,0.369986860264282,0,0,0,0.369986860264282
-3Month,0.104017006644673,0,0.104017006644673,0,0,0,0,0.624102039868036,0
-22Month,0,0,0,0,0,0,0.546597727952532,0,0
+72hpf,0,0,0,0,1.41,0,0,0,0
+21Day,0,0.37,0,0.37,0.37,0,0,0,0.37
+3Month,0.1,0,0.1,0,0,0,0,0.62,0
+22Month,0,0,0,0,0,0,0.55,0,0

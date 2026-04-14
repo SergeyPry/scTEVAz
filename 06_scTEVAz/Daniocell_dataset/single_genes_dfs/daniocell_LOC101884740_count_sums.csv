@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,fast.muscle,glial,iridophores,lateral.line,liver,mesenchyme,mural.cell,muscle,neural,olfactory,paraxial.mesoderm,periderm,spinal.cord,xanthophores
+stage,endocrine_pancreas,epidermis,eye,fast_muscle,glial,iridophores,lateral_line,liver,mesenchyme,mural_cell,muscle,neural,olfactory,paraxial_mesoderm,periderm,spinal_cord,xanthophores
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,4.09,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,4.4,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,1.16,0,0,0,4.75,0,0,0,5.3,0

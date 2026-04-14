@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Immune.progenitor.cell,Mesenchymal.cell,Nephron.cell,Primordial.germ.cell,Spermatocyte
-72hpf,0,0.281848056003223,0.281848056003223,0,0,0
-21Day,0,0,0,0,0.369986860264282,0
-3Month,0.104017006644673,0,0,0.104017006644673,1.87230611960411,0.520085033223363
+stage,Epithelial_cell,Immune_progenitor_cell,Mesenchymal_cell,Nephron_cell,Primordial_germ_cell,Spermatocyte
+72hpf,0,0.28,0.28,0,0,0
+21Day,0,0,0,0,0.37,0
+3Month,0.1,0,0,0.1,1.87,0.52

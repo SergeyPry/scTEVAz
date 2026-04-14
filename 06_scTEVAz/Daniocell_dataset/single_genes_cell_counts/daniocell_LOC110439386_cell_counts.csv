@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,immune,ionocyte,iridophores,lateral.line,mesenchyme,mucous,neural,notochord,periderm,spinal.cord
+stage,axial,blastomeres,endoderm,epidermis,eye,immune,ionocyte,iridophores,lateral_line,mesenchyme,mucous,neural,notochord,periderm,spinal_cord
   3-4,0,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.13,18.39,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,2.63,0,5.26,0,0,0,0,0,0,0,0,0,2.63,0,0

@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,immune,ionocyte,mesenchyme,muscle,neural,presomitic.mesoderm,somites,spinal.cord,vascular.smooth.muscle
+stage,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,immune,ionocyte,mesenchyme,muscle,neural,presomitic_mesoderm,somites,spinal_cord,vascular_smooth_muscle
  10-12,0,0,0,0,0,0,0,0,0,18.64,0,0,0,0
  14-21,1.03,1.6,0,0,0,0,0,1.34,0,2.16,0.83,2.98,0,0
  24-34,1.23,0,0,0,0,0,0,0,1.03,8.62,0,0,1.74,0

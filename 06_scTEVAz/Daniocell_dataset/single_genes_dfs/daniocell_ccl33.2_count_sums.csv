@@ -1,4 +1,4 @@
-stage,axial,blastomeres,erythrocytes,eye,glial,immune,mesenchyme,mural.cell,neural,otic,paraxial.mesoderm,spinal.cord,vascular.smooth.muscle,vasculature
+stage,axial,blastomeres,erythrocytes,eye,glial,immune,mesenchyme,mural_cell,neural,otic,paraxial_mesoderm,spinal_cord,vascular_smooth_muscle,vasculature
   3-4,0,18.26,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,6.19,0,0,0,0,0,0,0,7.97,0,9,0,0,0
  10-12,0,0,0,0,0,0,0,0,4.65,0,9.71,0,0,0

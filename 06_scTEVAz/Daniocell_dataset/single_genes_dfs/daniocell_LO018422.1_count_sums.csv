@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fast.muscle,fin.mesenchyme,glial,hatching.gland,heart,liver,mesenchyme,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,periderm,somites,spinal.cord,visceral.smooth.muscle
+stage,blastomeres,epidermis,eye,fast_muscle,fin_mesenchyme,glial,hatching_gland,heart,liver,mesenchyme,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,periderm,somites,spinal_cord,visceral_smooth_muscle
   5-6,16.59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9.2,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,15.29,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,2.49,4.56,1.04,27.67,0,0,0,0,5.36,2.13,0

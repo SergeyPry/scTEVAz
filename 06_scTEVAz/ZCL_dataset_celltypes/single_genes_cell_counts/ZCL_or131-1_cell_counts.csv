@@ -1,4 +1,4 @@
-stage,Hepatocyte,Nephron.cell,Neural.cell,Neural.progenitor.cell
+stage,Hepatocyte,Nephron_cell,Neural_cell,Neural_progenitor_cell
 24hpf,0,1,0,4
-72hpf,0,0,0.281848056003223,0
-3Month,0.208034013289345,0,0,0
+72hpf,0,0,0.28,0
+3Month,0.21,0,0,0

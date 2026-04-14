@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,erythrocytes,eye,fin.epithelia,glial,immune,ionocyte,mesenchyme,muscle,neural,taste
+stage,endocrine_pancreas,epidermis,erythrocytes,eye,fin_epithelia,glial,immune,ionocyte,mesenchyme,muscle,neural,taste
  14-21,0,0,0,0,0,0,0,0,0,0,1,0
  24-34,0,0,0,0,0,0,0,0,0,0,1.64,0
  36-46,0,0,0,2.42,0,0,0,0,0,0,0.81,0

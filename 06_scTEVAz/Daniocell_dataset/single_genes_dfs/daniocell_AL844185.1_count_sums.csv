@@ -1,4 +1,4 @@
-stage,eye,fast.muscle,glial,lateral.line,mesenchyme,muscle,neural,somites,spinal.cord
+stage,eye,fast_muscle,glial,lateral_line,mesenchyme,muscle,neural,somites,spinal_cord
  14-21,0,0,0,0,0,0,0,0,0.83
  24-34,0,0,0,0,0,0.62,0,0.62,0
  36-46,0,0.67,0,0,0.93,0,0,0,0

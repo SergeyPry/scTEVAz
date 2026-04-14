@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,heart,immune,mesenchyme,mural.cell,muscle,neural,notochord,paraxial.mesoderm,pericytes,periderm,somites,spinal.cord,vascular.smooth.muscle,vasculature,visceral.smooth.muscle
+stage,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,heart,immune,mesenchyme,mural_cell,muscle,neural,notochord,paraxial_mesoderm,pericytes,periderm,somites,spinal_cord,vascular_smooth_muscle,vasculature,visceral_smooth_muscle
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,2.63,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,1,0,8,0,2,0,1,0,0,0,1,0,0,0,0
  24-34,0.82,0.82,0,0.82,0,0,2.46,3.28,0,0,1.64,0,0,0.82,0,0,0.82,0,0,0

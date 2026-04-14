@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,eye,gut,hatching.gland,melanocytes,mesenchyme,neural,paraxial.mesoderm,periderm,pronephros,spinal.cord,xanthophores
+stage,blastomeres,endoderm,eye,gut,hatching_gland,melanocytes,mesenchyme,neural,paraxial_mesoderm,periderm,pronephros,spinal_cord,xanthophores
   3-4,9.88,0,0,0,0,0,0,0,0,13.19,0,0,0
   5-6,46.23,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,3.58,0,0,5.49,0,0,14.7,12.37,0,0,0,0

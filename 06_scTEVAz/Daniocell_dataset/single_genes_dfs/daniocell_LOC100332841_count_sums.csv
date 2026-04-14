@@ -1,4 +1,4 @@
-stage,eye,fin.epithelia,gut,mesenchyme,neural,periderm,taste,visceral.smooth.muscle
+stage,eye,fin_epithelia,gut,mesenchyme,neural,periderm,taste,visceral_smooth_muscle
  14-21,0,0,0,0,0,1.18,0,0
  36-46,0,3.63,0,0,0,0,0,0
  48-58,0,0,0,0,0.96,0,0,0

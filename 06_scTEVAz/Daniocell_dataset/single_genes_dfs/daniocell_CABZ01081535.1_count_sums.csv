@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,glial,heart,ionocyte,lateral.line,mesenchyme,mural.cell,neural,notochord,olfactory,otic,periderm,slow.muscle,spinal.cord,vascular.smooth.muscle,vasculature,visceral.smooth.muscle
+stage,epidermis,erythrocytes,eye,glial,heart,ionocyte,lateral_line,mesenchyme,mural_cell,neural,notochord,olfactory,otic,periderm,slow_muscle,spinal_cord,vascular_smooth_muscle,vasculature,visceral_smooth_muscle
  14-21,0.83,0,0,0,0,0,0,0,0,2.8,0,0,0,0,0,0,0,0,0
  24-34,0.82,0,0,0,0,0,0,0.64,0,1.41,0,0,0.64,2.05,0,0.64,0,0,0
  36-46,0.64,0,0,0,0,0,0,1.7,0,24.02,5.49,0,0,7.27,0,0,0,0,0

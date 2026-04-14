@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Granulocyte,Hepatocyte,Macrophage,Mesenchymal.cell,Neural.cell,T.cell
-72hpf,0,0,0,0,0,0.281848056003223,0
-21Day,0,0,0,0.369986860264282,0,0,0
-3Month,0.104017006644673,0.416068026578691,0.104017006644673,0.728119046512708,0.104017006644673,0,1.04017006644673
+stage,Epithelial_cell,Granulocyte,Hepatocyte,Macrophage,Mesenchymal_cell,Neural_cell,T_cell
+72hpf,0,0,0,0,0,0.28,0
+21Day,0,0,0,0.37,0,0,0
+3Month,0.1,0.42,0.1,0.73,0.1,0,1.04

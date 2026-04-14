@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,erythrocytes,eye,glial,iridophores,mesenchyme,muscle,neural,periderm,spinal.cord,vasculature
+stage,endocrine_pancreas,epidermis,erythrocytes,eye,glial,iridophores,mesenchyme,muscle,neural,periderm,spinal_cord,vasculature
  48-58,0,0,0,1.15,0,0,0,0,0,0,0,0
  60-70,0,0,0,56.93,0,0,0,0,0,0,0,0
  72-82,0.98,1.96,0,200.26,0,0,0.98,0.98,0,0,0.98,0

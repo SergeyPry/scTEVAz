@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,glial,hatching.gland,heart,ionocyte,iridophores,liver,mesenchyme,mucous,muscle,neural,olfactory,paraxial.mesoderm,periderm,pronephros,spinal.cord,vasculature
+stage,epidermis,erythrocytes,eye,glial,hatching_gland,heart,ionocyte,iridophores,liver,mesenchyme,mucous,muscle,neural,olfactory,paraxial_mesoderm,periderm,pronephros,spinal_cord,vasculature
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,2.63,0,2.63,0,0,0,0
  14-21,2,0,2,0,1,0,0,0,0,0,0,0,9,0,0,0,0,3,0
  24-34,0,0,0.82,0,0,0,0,0,0,0,0,0.82,15.6,0.82,0,0.82,0.82,4.93,0

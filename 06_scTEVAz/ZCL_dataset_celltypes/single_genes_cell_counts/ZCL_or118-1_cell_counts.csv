@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Hepatocyte,Immune.cell,Intestinal.bulb.cell
-72hpf,0.563696112006446,0,0,0
-21Day,1.47994744105713,0,0,0
-3Month,0,0.104017006644673,0.104017006644673,0.104017006644673
+stage,Cardiomyocyte,Hepatocyte,Immune_cell,Intestinal_bulb_cell
+72hpf,0.56,0,0,0
+21Day,1.48,0,0,0
+3Month,0,0.1,0.1,0.1

@@ -1,5 +1,5 @@
-stage,Erythrocyte,Goblet.cell,Granulocyte,Granulosa.cell,Hepatocyte,Keratinocyte,Macrophage,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell
+stage,Erythrocyte,Goblet_cell,Granulocyte,Granulosa_cell,Hepatocyte,Keratinocyte,Macrophage,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell
 24hpf,0,0,0,0,0,0,1,0,0,3
-72hpf,0,0,0,0,0,0.563696112006446,0,0,0.281848056003223,0.281848056003223
-21Day,0.369986860264282,0,0,0,0,0,0,0.369986860264282,0.369986860264282,0
-22Month,0,0.136649431988133,0.136649431988133,0.136649431988133,0.819896591928799,0,0,0,0,0.136649431988133
+72hpf,0,0,0,0,0,0.56,0,0,0.28,0.28
+21Day,0.37,0,0,0,0,0,0,0.37,0.37,0
+22Month,0,0.14,0.14,0.14,0.82,0,0,0,0,0.14

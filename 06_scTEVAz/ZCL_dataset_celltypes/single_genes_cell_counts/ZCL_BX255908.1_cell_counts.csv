@@ -1,5 +1,5 @@
-stage,Enterocyte,Epithelial.cell,Hepatocyte,Intestinal.bulb.cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal.cell,Nephron.cell,Neural.cell,Neurosecretory.cell,Primordial.germ.cell,Radial.glia,Smooth.muscle.cell,Spermatocyte
+stage,Enterocyte,Epithelial_cell,Hepatocyte,Intestinal_bulb_cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal_cell,Nephron_cell,Neural_cell,Neurosecretory_cell,Primordial_germ_cell,Radial_glia,Smooth_muscle_cell,Spermatocyte
 24hpf,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
-72hpf,0,0,0,0,0,0,0,0,0,0.281848056003223,0,0,0,0,0
-21Day,0.369986860264282,0.369986860264282,0,0,0,0.369986860264282,0,0.369986860264282,0,0,0.369986860264282,0.369986860264282,0.369986860264282,0,0
-3Month,0,0.104017006644673,0.312051019934018,0.104017006644673,0,0,0.104017006644673,0,0.104017006644673,0,0,3.4325612192742,0,0.104017006644673,3.22452720598485
+72hpf,0,0,0,0,0,0,0,0,0,0.28,0,0,0,0,0
+21Day,0.37,0.37,0,0,0,0.37,0,0.37,0,0,0.37,0.37,0.37,0,0
+3Month,0,0.1,0.31,0.1,0,0,0.1,0,0.1,0,0,3.43,0,0.1,3.22

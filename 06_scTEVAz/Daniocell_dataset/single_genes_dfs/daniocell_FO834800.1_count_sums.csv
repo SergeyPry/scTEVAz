@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,exocrine.pancreas,eye,fin.mesenchyme,glial,heart,immune,mesenchyme,mural.cell,muscle,neural,olfactory,paraxial.mesoderm,periderm,presomitic.mesoderm,pronephros,slow.muscle,somites,spinal.cord,vasculature
+stage,blastomeres,epidermis,erythrocytes,exocrine_pancreas,eye,fin_mesenchyme,glial,heart,immune,mesenchyme,mural_cell,muscle,neural,olfactory,paraxial_mesoderm,periderm,presomitic_mesoderm,pronephros,slow_muscle,somites,spinal_cord,vasculature
   3-4,94.49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,7.66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,4.98,0,0,0,0,0,0,0,9.97,0,4.88,0,0,0,0,0,0,0

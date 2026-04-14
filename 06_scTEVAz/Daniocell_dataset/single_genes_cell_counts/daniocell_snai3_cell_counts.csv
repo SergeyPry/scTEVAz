@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,fast.muscle,glial,gut,iridophores,mesenchyme,muscle,neural,notochord,olfactory,otic,slow.muscle,somites,spinal.cord
+stage,blastomeres,endoderm,epidermis,eye,fast_muscle,glial,gut,iridophores,mesenchyme,muscle,neural,notochord,olfactory,otic,slow_muscle,somites,spinal_cord
   3-4,65.89,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,30.65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,7.89,0,0,0,0,0,0

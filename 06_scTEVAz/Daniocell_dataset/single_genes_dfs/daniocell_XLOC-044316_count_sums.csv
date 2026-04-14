@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,gut,liver,mesenchyme,mural.cell,neural,notochord,otic,spinal.cord
+stage,epidermis,eye,glial,gut,liver,mesenchyme,mural_cell,neural,notochord,otic,spinal_cord
  14-21,0,0,0,0,0,0,0,0,1.23,0,0
  24-34,0,0,0,0,1.51,0,0,0.97,0,0,0
  36-46,0,0,0,0,0,0,0,0.77,0,0,0

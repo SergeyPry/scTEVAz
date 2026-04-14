@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,gut,heart,lateral.line,liver,mesenchyme,mural.cell,muscle,neural,otic,pgc,presomitic.mesoderm,pronephros,spinal.cord,vascular.smooth.muscle,visceral.smooth.muscle,xanthophores
+stage,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,gut,heart,lateral_line,liver,mesenchyme,mural_cell,muscle,neural,otic,pgc,presomitic_mesoderm,pronephros,spinal_cord,vascular_smooth_muscle,visceral_smooth_muscle,xanthophores
  14-21,2.39,0,0,0,0,0,0,0,0,9.7,0,0,2.1,0,0,1.15,0,0,0,0,0
  24-34,2.63,0,0,0,0,0,1.53,0,0,116.58,0,7.49,18.86,0,0,0,0,0.66,0,0,0
  36-46,0,2.35,4.45,0,1.59,0,0,0,0,237.56,0,12.68,27.96,0,0,0,0,4.38,0,0,0

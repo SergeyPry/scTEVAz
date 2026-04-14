@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.epithelia,glial,gut,immune,lateral.line,liver,melanocytes,mesenchyme,neural,otic,pericytes,periderm,pronephros,spinal.cord,taste,vasculature,xanthophores
+stage,epidermis,erythrocytes,eye,fin_epithelia,glial,gut,immune,lateral_line,liver,melanocytes,mesenchyme,neural,otic,pericytes,periderm,pronephros,spinal_cord,taste,vasculature,xanthophores
  14-21,0,0,0,0,0,0,16.11,0,0,1.32,0,1.15,0,0,0,0,0,0,0,0
  24-34,0,0,0,0,0,0,59.53,0,0,1.47,0,3.34,0,0,0,0,1.74,0,0,3.23
  36-46,0,9.95,0,0,0,0,126.08,0,0,0,0,17.13,0,0,0,0,0,0,0,0

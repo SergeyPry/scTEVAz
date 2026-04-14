@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,gut,immune,ionocyte,mesenchyme,mural.cell,neural,periderm,vasculature
+stage,epidermis,erythrocytes,eye,gut,immune,ionocyte,mesenchyme,mural_cell,neural,periderm,vasculature
  14-21,0,0,0,0,0,0,0,0,0,0,1.02
  36-46,0,19.89,0,0,0,0,0,0,0,0,0
  48-58,0,0,0,0,0,0,0,0,1.58,0,0.39

@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,gut,immune,ionocyte,lateral.line,mesenchyme,mural.cell,muscle,neural,notochord,olfactory,pericytes,periderm,spinal.cord,vascular.smooth.muscle,vasculature
+stage,blastomeres,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,gut,immune,ionocyte,lateral_line,mesenchyme,mural_cell,muscle,neural,notochord,olfactory,pericytes,periderm,spinal_cord,vascular_smooth_muscle,vasculature
  10-12,3.15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0
  24-34,0,0,0,0,0,0,0,0,0,0,0.82,0,0,2.46,23.8,0,0,0,1.64,0,0

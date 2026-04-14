@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,mesenchyme,muscle,neural,paraxial.mesoderm,periderm,somites
+stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,mesenchyme,muscle,neural,paraxial_mesoderm,periderm,somites
   3-4,26.36,144.96,0,0,0,0,0,0,0,0,0,0
   5-6,6.13,36.78,0,0,0,0,0,0,0,0,6.13,0
   7-9,0,2.63,0,0,0,0,0,0,2.63,5.26,0,0

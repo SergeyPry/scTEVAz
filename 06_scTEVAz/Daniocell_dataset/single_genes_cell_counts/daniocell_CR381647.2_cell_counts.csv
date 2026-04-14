@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,immune,iridophores,mesenchyme,mural.cell,neural,slow.muscle,spinal.cord,xanthophores
+stage,epidermis,eye,glial,immune,iridophores,mesenchyme,mural_cell,neural,slow_muscle,spinal_cord,xanthophores
  14-21,1,13,6,0,0,0,0,125,1,53,0
  24-34,0.82,9.85,0.82,0,0,0,0,99.32,0,23.8,0
  36-46,0,33.84,2.42,0,0,2.42,0,185.3,0,29,0

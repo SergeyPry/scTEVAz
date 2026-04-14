@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,erythrocytes,eye,fast.muscle,fin.epithelia,fin.mesenchyme,glial,gut,ionocyte,iridophores,lateral.line,liver,mesenchyme,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,periderm,presomitic.mesoderm,pronephros,somites,spinal.cord,vasculature
+stage,endoderm,epidermis,erythrocytes,eye,fast_muscle,fin_epithelia,fin_mesenchyme,glial,gut,ionocyte,iridophores,lateral_line,liver,mesenchyme,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,periderm,presomitic_mesoderm,pronephros,somites,spinal_cord,vasculature
  14-21,1,4,1,1,0,1,0,3,1,1,0,0,1,1,4,35,0,1,0,2,0,9,1,7,16,1
  24-34,0,0.82,0,4.93,0,0,0,0,0,0,0,0,0,8.21,2.46,31.19,0.82,0.82,0.82,0,1.64,0,0,0,3.28,0.82
  36-46,0,0.81,0,9.67,0,0,0,0.81,0,0,0,0,0,2.42,0,20.14,0,0,0,0,1.61,0,0,0,2.42,0.81

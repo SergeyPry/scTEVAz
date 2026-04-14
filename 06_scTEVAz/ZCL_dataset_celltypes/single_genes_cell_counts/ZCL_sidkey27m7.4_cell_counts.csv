@@ -1,5 +1,5 @@
-stage,Cardiomyocyte,Hepatocyte,Neural.cell,Neural.progenitor.cell,Radial.glia
+stage,Cardiomyocyte,Hepatocyte,Neural_cell,Neural_progenitor_cell,Radial_glia
 24hpf,0,0,0,2,0
-72hpf,0,0,1.69108833601934,0,0
-21Day,0.369986860264282,0,0.739973720528564,0,0.369986860264282
-22Month,0,0.546597727952532,0.136649431988133,0,0
+72hpf,0,0,1.69,0,0
+21Day,0.37,0,0.74,0,0.37
+22Month,0,0.55,0.14,0,0

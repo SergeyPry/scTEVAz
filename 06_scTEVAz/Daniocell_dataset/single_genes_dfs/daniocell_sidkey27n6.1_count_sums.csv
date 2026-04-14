@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,glial,gut,ionocyte,liver,mesenchyme,mucous,neural,olfactory,periderm,pronephros,spinal.cord,vasculature,visceral.smooth.muscle
+stage,epidermis,eye,fast_muscle,glial,gut,ionocyte,liver,mesenchyme,mucous,neural,olfactory,periderm,pronephros,spinal_cord,vasculature,visceral_smooth_muscle
  14-21,0,0,0,0,0,0,0,0,0,0.89,0,3.24,0,0,0,0
  24-34,0,0.91,0,0,0,0,0,0,0,4.13,0,0.77,0,0.82,0,0
  36-46,0,0,1.82,0,0,0,0,0.81,0,3.87,0.87,2.69,0,1.63,3.09,0

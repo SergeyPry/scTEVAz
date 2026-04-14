@@ -1,4 +1,4 @@
-stage,eye,fin.epithelia,glial,ionocyte,liver,melanocytes,mesenchyme,neural,olfactory,periderm,spinal.cord,vasculature,xanthophores
+stage,eye,fin_epithelia,glial,ionocyte,liver,melanocytes,mesenchyme,neural,olfactory,periderm,spinal_cord,vasculature,xanthophores
   7-9,0,0,0,0,0,0,0,5.9,0,0,0,0,0
  14-21,2.57,0,0,0,0,0,0,1.92,0,0,1.36,0,0
  24-34,0,0,0,0,0,0,0.77,5.94,0,0,0,0,1.31

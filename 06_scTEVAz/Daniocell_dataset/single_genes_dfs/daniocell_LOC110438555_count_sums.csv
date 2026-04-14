@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,fast.muscle,glial,liver,melanocytes,mesenchyme,muscle,neural,periderm,presomitic.mesoderm,somites,spinal.cord,vasculature
+stage,endoderm,epidermis,eye,fast_muscle,glial,liver,melanocytes,mesenchyme,muscle,neural,periderm,presomitic_mesoderm,somites,spinal_cord,vasculature
  14-21,0,0,0,0,0,0,0,0,0,0,0,2.15,0,0,0
  24-34,0,0,0,0,0,0,0,0,0,3.76,0,0,2.53,0.92,0
  36-46,0.63,0,0,0,0,0,0,0,0.94,6.57,0,0,0,0.97,0

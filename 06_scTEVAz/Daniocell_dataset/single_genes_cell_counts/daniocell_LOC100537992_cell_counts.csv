@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,glial,mesenchyme,muscle,neural,notochord,paraxial.mesoderm,periderm,pgc,spinal.cord,vasculature,visceral.smooth.muscle
+stage,blastomeres,endoderm,epidermis,eye,glial,mesenchyme,muscle,neural,notochord,paraxial_mesoderm,periderm,pgc,spinal_cord,vasculature,visceral_smooth_muscle
   3-4,105.42,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,55.17,0,0,0,0,0,0,0,6.13,6.13,0,0,0,0,0
   7-9,0,5.26,0,5.26,0,0,0,34.17,5.26,18.4,0,0,0,0,0

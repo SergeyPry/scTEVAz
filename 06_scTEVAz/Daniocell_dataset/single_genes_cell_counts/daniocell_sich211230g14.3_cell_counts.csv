@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,erythrocytes,eye,fin.epithelia,glial,gut,immune,ionocyte,mesenchyme,muscle,neural,otic,periderm,spinal.cord,vasculature,xanthophores
+stage,endoderm,epidermis,erythrocytes,eye,fin_epithelia,glial,gut,immune,ionocyte,mesenchyme,muscle,neural,otic,periderm,spinal_cord,vasculature,xanthophores
  14-21,0,0,0,1,0,1,0,0,1,0,0,15,0,2,1,0,0
  24-34,0,1.64,0,4.1,0,0.82,0,0,0,4.1,0.82,27.09,0,7.39,7.39,1.64,0
  36-46,0,0.81,0,3.22,0,0,0,0.81,0.81,0,0.81,29,0,0.81,5.64,0,0

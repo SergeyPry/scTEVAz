@@ -1,4 +1,4 @@
-stage,blastomeres,erythrocytes,eye,glial,gut,iridophores,mesenchyme,mural.cell,neural,otic,periderm,spinal.cord,vascular.smooth.muscle,vasculature
+stage,blastomeres,erythrocytes,eye,glial,gut,iridophores,mesenchyme,mural_cell,neural,otic,periderm,spinal_cord,vascular_smooth_muscle,vasculature
   3-4,13.18,0,0,0,0,0,0,0,0,0,26.36,0,0,0
   5-6,6.13,0,0,0,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,3.15,0,0,0,0,0

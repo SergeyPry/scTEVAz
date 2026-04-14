@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,immune,mesenchyme,mural.cell,neural,paraxial.mesoderm,periderm,pronephros,spinal.cord
+stage,blastomeres,epidermis,eye,immune,mesenchyme,mural_cell,neural,paraxial_mesoderm,periderm,pronephros,spinal_cord
   3-4,18.62,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,10.05,10.98,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,1,0.92

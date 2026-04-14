@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,mesenchyme,mural.cell,neural,periderm,pgc,pronephros
+stage,blastomeres,epidermis,eye,mesenchyme,mural_cell,neural,periderm,pgc,pronephros
   3-4,31.31,0,0,0,0,0,0,0,0
   5-6,43.27,0,0,0,0,6.44,0,0,0
   7-9,0,0,5.26,0,0,14.49,0,10.61,0

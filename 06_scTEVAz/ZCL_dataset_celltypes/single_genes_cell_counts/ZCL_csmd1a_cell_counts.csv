@@ -1,5 +1,5 @@
-stage,Erythrocyte,Hepatocyte,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Oligodendrocyte,Osteoblast,Pancreatic.cell,Radial.glia,Retinal.cone.cell,T.cell
+stage,Erythrocyte,Hepatocyte,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Oligodendrocyte,Osteoblast,Pancreatic_cell,Radial_glia,Retinal_cone_cell,T_cell
 24hpf,0,0,0,0,1,0,0,0,0,0,0
-72hpf,0,0,0.281848056003223,8.17359362409347,1.40924028001612,0,0.281848056003223,0,0.281848056003223,0,0
-21Day,0.369986860264282,0,0,6.2897766244928,1.10996058079285,0.369986860264282,0,0.739973720528564,1.10996058079285,0.369986860264282,0.369986860264282
-22Month,0,1.09319545590506,0,0,0,0,0,0,0,0,0.136649431988133
+72hpf,0,0,0.28,8.17,1.41,0,0.28,0,0.28,0,0
+21Day,0.37,0,0,6.29,1.11,0.37,0,0.74,1.11,0.37,0.37
+22Month,0,1.09,0,0,0,0,0,0,0,0,0.14

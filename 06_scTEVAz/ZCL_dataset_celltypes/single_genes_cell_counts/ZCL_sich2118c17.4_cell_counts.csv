@@ -1,4 +1,4 @@
-stage,Granulocyte,Hepatocyte,Macrophage,Primordial.germ.cell,T.cell
+stage,Granulocyte,Hepatocyte,Macrophage,Primordial_germ_cell,T_cell
 24hpf,0,0,1,0,0
-21Day,0,0,0,0,0.739973720528564
-3Month,0.208034013289345,0.104017006644673,0,0.104017006644673,0
+21Day,0,0,0,0,0.74
+3Month,0.21,0.1,0,0.1,0

@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,glial,ionocyte,lateral.line,mesenchyme,muscle,neural,olfactory,otic,paraxial.mesoderm,pronephros,somites,spinal.cord,vasculature
+stage,endocrine_pancreas,epidermis,eye,glial,ionocyte,lateral_line,mesenchyme,muscle,neural,olfactory,otic,paraxial_mesoderm,pronephros,somites,spinal_cord,vasculature
   7-9,0,0,0,0,0,0,0,0,6.48,0,0,9.37,0,0,0,0
  14-21,0,0.91,0,0,0.92,0,0,2.13,2.54,0,0,0,2,0,7,0
  24-34,0,0,0,0,0,0,2.1,2.3,10.46,3.33,0,0,0.7,0.64,8.13,1.35

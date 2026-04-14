@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,fin.mesenchyme,glial,gut,heart,immune,liver,mesenchyme,mural.cell,muscle,neural,paraxial.mesoderm,periderm,pronephros,vasculature
+stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,fin_mesenchyme,glial,gut,heart,immune,liver,mesenchyme,mural_cell,muscle,neural,paraxial_mesoderm,periderm,pronephros,vasculature
   3-4,98.62,1972.54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90.37,0,0
   5-6,15.76,637,0,0,0,0,0,0,0,0,0,0,0,0,0,57.63,9.09,0,0,0
   7-9,0,0,5.25,0,0,3.38,0,0,0,0,0,0,0,0,0,17.97,6.2,0,0,0

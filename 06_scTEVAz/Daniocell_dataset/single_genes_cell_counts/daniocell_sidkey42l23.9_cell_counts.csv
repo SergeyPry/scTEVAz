@@ -1,4 +1,4 @@
-stage,endoderm,eye,glial,immune,lateral.line,liver,mesenchyme,mucous,neural,olfactory,periderm,visceral.smooth.muscle
+stage,endoderm,eye,glial,immune,lateral_line,liver,mesenchyme,mucous,neural,olfactory,periderm,visceral_smooth_muscle
  14-21,0,0,0,1,0,0,0,0,0,0,0,0
  24-34,0,0,0,3.28,0,0,0,0,0,0,0,0
  36-46,0,0,0,14.5,0,0,0,0,0.81,0.81,0,0

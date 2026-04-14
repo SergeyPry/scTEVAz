@@ -1,5 +1,5 @@
-stage,Goblet.cell,Granulocyte,Hepatocyte,Intestinal.bulb.cell,Macrophage,Mesenchymal.cell,Neural.progenitor.cell,Primordial.germ.cell,Radial.glia,T.cell
+stage,Goblet_cell,Granulocyte,Hepatocyte,Intestinal_bulb_cell,Macrophage,Mesenchymal_cell,Neural_progenitor_cell,Primordial_germ_cell,Radial_glia,T_cell
 24hpf,0,0,0,0,5,0,0,0,0,0
-72hpf,0,0,0,0,1.12739222401289,0,0.281848056003223,0,0,0
-21Day,0,0,0,0,2.21992116158569,0,0,0,0,0.369986860264282
-22Month,0.136649431988133,0.956546023916932,0.683247159940666,0.136649431988133,10.5220062630862,0.136649431988133,0,0.136649431988133,0.136649431988133,0
+72hpf,0,0,0,0,1.13,0,0.28,0,0,0
+21Day,0,0,0,0,2.22,0,0,0,0,0.37
+22Month,0.14,0.96,0.68,0.14,10.52,0.14,0,0.14,0.14,0

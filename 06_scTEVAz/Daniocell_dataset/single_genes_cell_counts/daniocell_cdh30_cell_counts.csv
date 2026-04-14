@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,erythrocytes,eye,gut,hatching.gland,immune,ionocyte,mesenchyme,mucous,neural,notochord,otic,paraxial.mesoderm,periderm,visceral.smooth.muscle
+stage,blastomeres,endoderm,epidermis,erythrocytes,eye,gut,hatching_gland,immune,ionocyte,mesenchyme,mucous,neural,notochord,otic,paraxial_mesoderm,periderm,visceral_smooth_muscle
   3-4,65.89,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,49.04,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,5.26,0,0,2.63,5.26,0,7.89,0,0,0,0,105.15,0,0,21.03,0,0

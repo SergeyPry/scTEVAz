@@ -1,4 +1,4 @@
-stage,eye,fin.mesenchyme,glial,gut,hatching.gland,heart,immune,ionocyte,iridophores,liver,melanocytes,mesenchyme,mural.cell,muscle,neural,otic,paraxial.mesoderm,pericytes,spinal.cord,vasculature
+stage,eye,fin_mesenchyme,glial,gut,hatching_gland,heart,immune,ionocyte,iridophores,liver,melanocytes,mesenchyme,mural_cell,muscle,neural,otic,paraxial_mesoderm,pericytes,spinal_cord,vasculature
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9.63,0,7.58,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.78,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,3.37,0,2.16,0,0,0,0,0,0,0,0

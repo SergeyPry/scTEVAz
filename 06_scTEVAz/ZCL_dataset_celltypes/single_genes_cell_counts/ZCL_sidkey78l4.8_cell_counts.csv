@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Immune.cell,Immune.progenitor.cell,Macrophage,Neural.cell,T.cell
-21Day,0.369986860264282,0,0.739973720528564,0,0.369986860264282,1.84993430132141
-3Month,0,0.104017006644673,0,0.104017006644673,0,0
-22Month,0,0.136649431988133,0,0,0,0.546597727952532
+stage,Epithelial_cell,Immune_cell,Immune_progenitor_cell,Macrophage,Neural_cell,T_cell
+21Day,0.37,0,0.74,0,0.37,1.85
+3Month,0,0.1,0,0.1,0,0
+22Month,0,0.14,0,0,0,0.55

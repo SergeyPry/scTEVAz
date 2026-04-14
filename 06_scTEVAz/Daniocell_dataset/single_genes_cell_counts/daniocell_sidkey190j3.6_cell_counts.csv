@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,fin.epithelia,glial,gut,liver,melanocytes,mesenchyme,mucous,neural,periderm,spinal.cord,vasculature
+stage,endocrine_pancreas,epidermis,eye,fin_epithelia,glial,gut,liver,melanocytes,mesenchyme,mucous,neural,periderm,spinal_cord,vasculature
  14-21,0,0,0,0,0,0,0,0,0,0,2,0,0,0
  24-34,0,0,0,0,0,0,0,0,0,0.82,1.64,0,0,0
  36-46,0,0.81,0.81,0,0,0,0,0,0,0,0.81,0.81,0,0

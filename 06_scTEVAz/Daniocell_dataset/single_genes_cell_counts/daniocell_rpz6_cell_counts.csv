@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,exocrine.pancreas,eye,glial,heart,immune,mesenchyme,mural.cell,muscle,neural,notochord,olfactory,otic,periderm,spinal.cord,vascular.smooth.muscle,vasculature
+stage,epidermis,erythrocytes,exocrine_pancreas,eye,glial,heart,immune,mesenchyme,mural_cell,muscle,neural,notochord,olfactory,otic,periderm,spinal_cord,vascular_smooth_muscle,vasculature
  14-21,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0
  24-34,0,0,0,0.82,0.82,0,0.82,0.82,0,0,8.21,0.82,0,0.82,0,4.93,0,0
  36-46,0.81,0,0,1.61,0,0.81,1.61,0.81,0,0,19.34,0,0,0,0.81,20.14,0,0

@@ -1,4 +1,4 @@
-stage,eye,fin.epithelia,glial,muscle,neural,periderm,presomitic.mesoderm,spinal.cord
+stage,eye,fin_epithelia,glial,muscle,neural,periderm,presomitic_mesoderm,spinal_cord
  14-21,0,0,0,0,1,0,1.49,0.8
  24-34,0,0,0,0,2.57,0,0,0
  36-46,0,0,0,0,1.37,0,0,0

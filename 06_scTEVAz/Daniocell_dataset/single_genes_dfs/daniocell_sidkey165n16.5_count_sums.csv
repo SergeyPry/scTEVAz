@@ -1,4 +1,4 @@
-stage,erythrocytes,eye,glial,immune,lateral.line,mesenchyme,muscle,neural,olfactory,pericytes,periderm,slow.muscle,spinal.cord,taste,visceral.smooth.muscle
+stage,erythrocytes,eye,glial,immune,lateral_line,mesenchyme,muscle,neural,olfactory,pericytes,periderm,slow_muscle,spinal_cord,taste,visceral_smooth_muscle
  36-46,0,0,0,0,0,0,0,15.57,3.47,0,0,0,1.88,0,0
  48-58,0,0,0,0,0,0,0,17.14,0,0,0.4,0,0,0,0
  60-70,0,12.5,0,0,0,1.33,0,18.12,0,0.66,0,0,0,1.72,0

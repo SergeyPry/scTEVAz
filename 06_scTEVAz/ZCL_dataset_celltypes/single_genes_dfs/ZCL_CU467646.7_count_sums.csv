@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Epithelial.cell,Granulosa.cell,Hepatocyte,Ionocyte,Keratinocyte,Macrophage,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Oocyte,Primordial.germ.cell
-24hpf,8.17280914570035,16.3456182914007,0,0,4.08640457285017,16.3456182914007,4.08640457285017,16.3456182914007,0,85.8144960298536,0,0
-72hpf,0,0,0,1.06979114146608,0,8.55832913172862,0,0,1.06979114146608,3.20937342439823,0,1.06979114146608
-22Month,0,1.6399639535923,0.546654651197433,1.09330930239487,0,0,0,0,0,0,10.9330930239487,0
+stage,Cardiomyocyte,Epithelial_cell,Granulosa_cell,Hepatocyte,Ionocyte,Keratinocyte,Macrophage,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Oocyte,Primordial_germ_cell
+24hpf,8.17,16.35,0,0,4.09,16.35,4.09,16.35,0,85.81,0,0
+72hpf,0,0,0,1.07,0,8.56,0,0,1.07,3.21,0,1.07
+22Month,0,1.64,0.55,1.09,0,0,0,0,0,0,10.93,0

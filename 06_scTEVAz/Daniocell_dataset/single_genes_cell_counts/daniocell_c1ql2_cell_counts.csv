@@ -1,4 +1,4 @@
-stage,eye,glial,mesenchyme,muscle,neural,notochord,spinal.cord
+stage,eye,glial,mesenchyme,muscle,neural,notochord,spinal_cord
  14-21,0,0,0,0,0,1,0
  36-46,0,0,0,0,3.22,0,0.81
  48-58,0,0.57,0,0,8.03,0,1.15

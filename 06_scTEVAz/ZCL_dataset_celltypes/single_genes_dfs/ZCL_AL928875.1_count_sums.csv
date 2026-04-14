@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Primordial.germ.cell
-24hpf,4.08640457285017,0
-21Day,0,1.33853308820331
-3Month,0.319949299554195,0.639898599108391
+stage,Epithelial_cell,Primordial_germ_cell
+24hpf,4.09,0
+21Day,0,1.34
+3Month,0.32,0.64

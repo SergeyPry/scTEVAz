@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,endoderm,eye,glial,gut,liver,melanocytes,mesenchyme,muscle,neural,paraxial.mesoderm,spinal.cord
+stage,endocrine_pancreas,endoderm,eye,glial,gut,liver,melanocytes,mesenchyme,muscle,neural,paraxial_mesoderm,spinal_cord
  10-12,0,0,0,0,0,0,0,0,0,0,5.13,0
  14-21,0,0,0,0,0,0,0,4.56,1.05,6.71,0,1.06
  24-34,0,0,0,0,0,0.94,0.9,0,0.63,1.98,0,1.27

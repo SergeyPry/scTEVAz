@@ -1,4 +1,4 @@
-stage,Endothelial.cell,Enterocyte,Epithelial.cell,Erythrocyte..Liver.,Granulocyte,Granulosa.cell,Hatching.gland,Hepatocyte,Intestinal.bulb.cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal.cell,Mt.rich.cell,Muscle.cell,Neurosecretory.cell,Oocyte,Retinal.cell,T.cell
-24hpf,0,0,0,0,0,0,4.08640457285017,0,0,0,0,0,0,0,0,0,0,0,0
-72hpf,0,0,0,0,0,0,0,0,0,0,1.06979114146608,0,0,0,0,0,0,0,0
-22Month,0.546654651197433,0.546654651197433,2.18661860478973,1.09330930239487,6.01320116317177,1.6399639535923,0,6.5598558143692,1.09330930239487,0.546654651197433,0,1.6399639535923,0.546654651197433,1.09330930239487,0.546654651197433,0.546654651197433,286.447037227455,1.09330930239487,1.09330930239487
+stage,Endothelial_cell,Enterocyte,Epithelial_cell,Erythrocyte__Liver_,Granulocyte,Granulosa_cell,Hatching_gland,Hepatocyte,Intestinal_bulb_cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal_cell,Mt_rich_cell,Muscle_cell,Neurosecretory_cell,Oocyte,Retinal_cell,T_cell
+24hpf,0,0,0,0,0,0,4.09,0,0,0,0,0,0,0,0,0,0,0,0
+72hpf,0,0,0,0,0,0,0,0,0,0,1.07,0,0,0,0,0,0,0,0
+22Month,0.55,0.55,2.19,1.09,6.01,1.64,0,6.56,1.09,0.55,0,1.64,0.55,1.09,0.55,0.55,286.45,1.09,1.09

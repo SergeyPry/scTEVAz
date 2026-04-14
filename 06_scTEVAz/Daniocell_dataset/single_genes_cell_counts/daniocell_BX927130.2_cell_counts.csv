@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,erythrocytes,gut,liver,mesenchyme,muscle,neural,paraxial.mesoderm,spinal.cord,vasculature
+stage,endoderm,epidermis,erythrocytes,gut,liver,mesenchyme,muscle,neural,paraxial_mesoderm,spinal_cord,vasculature
  14-21,3,2,3,1,0,0,2,1,1,0,0
  24-34,3.28,2.46,0,0.82,0.82,5.75,0,0.82,0,1.64,0.82
  36-46,0,0,0,0,1.61,0.81,0,0,0,0,0

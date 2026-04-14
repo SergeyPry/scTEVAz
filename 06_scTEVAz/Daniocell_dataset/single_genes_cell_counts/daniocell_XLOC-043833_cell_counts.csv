@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,mesenchyme,muscle,neural,presomitic.mesoderm,spinal.cord,vasculature
+stage,epidermis,eye,glial,mesenchyme,muscle,neural,presomitic_mesoderm,spinal_cord,vasculature
  14-21,0,0,0,0,0,1,1,2,0
  24-34,0.82,0,0,0,0,4.1,0,0,0
  36-46,0.81,0,0.81,0.81,0,4.03,0,0.81,0

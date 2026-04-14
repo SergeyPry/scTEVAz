@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,erythrocytes,eye,fast.muscle,fin.epithelia,glial,heart,mesenchyme,neural,paraxial.mesoderm,pericytes,spinal.cord,vasculature,visceral.smooth.muscle
+stage,blastomeres,endoderm,erythrocytes,eye,fast_muscle,fin_epithelia,glial,heart,mesenchyme,neural,paraxial_mesoderm,pericytes,spinal_cord,vasculature,visceral_smooth_muscle
   3-4,26.36,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,12.26,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,2.63,2.63,0,0,0,0,0,0,0,7.89,2.63,0,0,0,0

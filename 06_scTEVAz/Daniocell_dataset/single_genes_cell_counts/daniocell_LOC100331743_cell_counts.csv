@@ -1,4 +1,4 @@
-stage,axial,blastomeres,eye,fast.muscle,fin.epithelia,fin.mesenchyme,glial,hatching.gland,heart,iridophores,lateral.line,mesenchyme,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,periderm,slow.muscle,spinal.cord,taste,vasculature
+stage,axial,blastomeres,eye,fast_muscle,fin_epithelia,fin_mesenchyme,glial,hatching_gland,heart,iridophores,lateral_line,mesenchyme,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,periderm,slow_muscle,spinal_cord,taste,vasculature
   3-4,0,39.53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,24.52,30.65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,13.14,0,0,0,0,0,0,2.63,0,0,0,0,0,7.89,2.63,0,0,13.14,0,0,0,0,0

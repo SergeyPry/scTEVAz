@@ -1,5 +1,5 @@
-stage,Epithelial.cell,Epithelial.cell..Brain.,Erythroid.progenitor.cell,Granulocyte,Hepatocyte,Intestinal.bulb.cell,Keratinocyte,Macrophage,Mesenchymal.cell,Neural.cell,Osteoblast,Primordial.germ.cell,Smooth.muscle.cell,T.cell
-72hpf,0,0,0,0,0,0,0.281848056003223,0,0,0.281848056003223,0.281848056003223,0,0,0
-21Day,0.739973720528564,0,0.369986860264282,0,0,0,0.369986860264282,0,0.369986860264282,0,0,0,0,0
-3Month,0.312051019934018,0.208034013289345,0,0.104017006644673,1.24820407973607,0,0,0,0.104017006644673,0,0,0.208034013289345,0.104017006644673,0.208034013289345
-22Month,0.546597727952532,0,0,0.136649431988133,4.09948295964399,0.273298863976266,0,0.136649431988133,0.273298863976266,0,0.136649431988133,0,0,0.136649431988133
+stage,Epithelial_cell,Epithelial_cell__Brain_,Erythroid_progenitor_cell,Granulocyte,Hepatocyte,Intestinal_bulb_cell,Keratinocyte,Macrophage,Mesenchymal_cell,Neural_cell,Osteoblast,Primordial_germ_cell,Smooth_muscle_cell,T_cell
+72hpf,0,0,0,0,0,0,0.28,0,0,0.28,0.28,0,0,0
+21Day,0.74,0,0.37,0,0,0,0.37,0,0.37,0,0,0,0,0
+3Month,0.31,0.21,0,0.1,1.25,0,0,0,0.1,0,0,0.21,0.1,0.21
+22Month,0.55,0,0,0.14,4.1,0.27,0,0.14,0.27,0,0.14,0,0,0.14

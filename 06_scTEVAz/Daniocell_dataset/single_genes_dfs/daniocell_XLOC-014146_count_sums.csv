@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.epithelia,glial,ionocyte,mesenchyme,muscle,neural,olfactory,otic,periderm,pronephros,spinal.cord,vasculature
+stage,blastomeres,epidermis,eye,fin_epithelia,glial,ionocyte,mesenchyme,muscle,neural,olfactory,otic,periderm,pronephros,spinal_cord,vasculature
  10-12,3.64,0,0,0,0,0,0,0,9.91,0,0,0,0,0,0
  14-21,0,0,0,0,0,1.08,0,0,12.48,0,0,0,0,0,0
  24-34,0,0,0.74,0,0,0,0,0,7.07,0.87,0,1.73,0,0,0

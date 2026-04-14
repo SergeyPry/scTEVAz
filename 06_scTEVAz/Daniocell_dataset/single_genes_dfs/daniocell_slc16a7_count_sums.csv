@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,exocrine.pancreas,eye,glial,gut,heart,immune,liver,melanocytes,mesenchyme,muscle,neural,notochord,otic,vasculature,xanthophores
+stage,epidermis,erythrocytes,exocrine_pancreas,eye,glial,gut,heart,immune,liver,melanocytes,mesenchyme,muscle,neural,notochord,otic,vasculature,xanthophores
  14-21,1.09,1.23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  24-34,0,0,0,0,0,0,0,0,0,0,0.68,0,0,0,0,0,0
  36-46,0,0,0,1.87,0,0,0.89,0,0,0,0,0,2.98,0,0,0,0

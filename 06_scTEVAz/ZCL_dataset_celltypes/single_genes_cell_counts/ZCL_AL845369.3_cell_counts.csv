@@ -1,3 +1,3 @@
-stage,Epithelial.cell,Hepatocyte,Intestinal.bulb.cell,Keratinocyte,Muscle.cell,Neural.cell,Pancreatic.cell,Primordial.germ.cell,Spermatocyte
-21Day,0,0,0,0,0,0.369986860264282,0,0,0
-3Month,0.312051019934018,0.312051019934018,0.416068026578691,8.7374285581525,0.104017006644673,0,0.104017006644673,0.416068026578691,0.312051019934018
+stage,Epithelial_cell,Hepatocyte,Intestinal_bulb_cell,Keratinocyte,Muscle_cell,Neural_cell,Pancreatic_cell,Primordial_germ_cell,Spermatocyte
+21Day,0,0,0,0,0,0.37,0,0,0
+3Month,0.31,0.31,0.42,8.74,0.1,0,0.1,0.42,0.31

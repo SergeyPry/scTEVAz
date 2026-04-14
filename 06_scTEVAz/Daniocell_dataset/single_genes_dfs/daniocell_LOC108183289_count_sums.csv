@@ -1,4 +1,4 @@
-stage,erythrocytes,eye,glial,hatching.gland,immune,lateral.line,mesenchyme,mural.cell,muscle,neural,olfactory,pronephros,somites,spinal.cord,vasculature
+stage,erythrocytes,eye,glial,hatching_gland,immune,lateral_line,mesenchyme,mural_cell,muscle,neural,olfactory,pronephros,somites,spinal_cord,vasculature
   7-9,0,0,0,0,0,0,0,0,0,4.07,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,14.17,0,0,0,0,0
  14-21,2.33,0,28.85,0,2.09,0,0,0,0,21.21,0,4.31,0.81,55.51,2.76

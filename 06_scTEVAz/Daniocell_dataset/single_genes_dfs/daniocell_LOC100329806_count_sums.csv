@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,endoderm,epidermis,erythrocytes,eye,fin.mesenchyme,gut,iridophores,liver,mesenchyme,mural.cell,muscle,neural,notochord,paraxial.mesoderm,periderm
+stage,endocrine_pancreas,endoderm,epidermis,erythrocytes,eye,fin_mesenchyme,gut,iridophores,liver,mesenchyme,mural_cell,muscle,neural,notochord,paraxial_mesoderm,periderm
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,5.05,7.14,4.24,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,5.18,0,0,0
  14-21,0,3.97,0,0,0,0,0,0,0,3.49,0,2.31,0,0,0,0

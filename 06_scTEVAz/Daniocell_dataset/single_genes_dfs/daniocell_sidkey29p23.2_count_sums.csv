@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,fin.epithelia,glial,immune,ionocyte,liver,mesenchyme,muscle,neural,otic,periderm,presomitic.mesoderm,spinal.cord
+stage,blastomeres,epidermis,erythrocytes,eye,fin_epithelia,glial,immune,ionocyte,liver,mesenchyme,muscle,neural,otic,periderm,presomitic_mesoderm,spinal_cord
   3-4,31.23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,7.13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,12.22,0,0,1.45,1.78

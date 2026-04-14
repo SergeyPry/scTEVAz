@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Macrophage,Osteoblast,Pancreatic.cell
+stage,Epithelial_cell,Macrophage,Osteoblast,Pancreatic_cell
 24hpf,0,1,0,0
-72hpf,0,0,0.281848056003223,0
-3Month,0.104017006644673,0,0,0.104017006644673
+72hpf,0,0,0.28,0
+3Month,0.1,0,0,0.1

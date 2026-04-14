@@ -1,4 +1,4 @@
-stage,endoderm,eye,glial,immune,mesenchyme,neural,olfactory,spinal.cord
+stage,endoderm,eye,glial,immune,mesenchyme,neural,olfactory,spinal_cord
  14-21,0,0,1,0,0,0,0,0
  24-34,0.82,0,0,0,0,0,0,0.82
  48-58,0,0.57,0,0,0.57,0.57,0,0.57

@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Goblet.cell,Hepatocyte,Keratinocyte,Macrophage,Neural.progenitor.cell,Oligodendrocyte,Radial.glia
-24hpf,4.08640457285017,0,0,4.08640457285017,4.08640457285017,8.17280914570035,0,0
-72hpf,0,0,0,0,0,1.06979114146608,0,1.06979114146608
-22Month,0,0.546654651197433,0.546654651197433,0,0,0,0.546654651197433,0
+stage,Cardiomyocyte,Goblet_cell,Hepatocyte,Keratinocyte,Macrophage,Neural_progenitor_cell,Oligodendrocyte,Radial_glia
+24hpf,4.09,0,0,4.09,4.09,8.17,0,0
+72hpf,0,0,0,0,0,1.07,0,1.07
+22Month,0,0.55,0.55,0,0,0,0.55,0

@@ -1,4 +1,4 @@
-stage,Hepatocyte,Primordial.germ.cell,Retinal.cell,Spermatocyte
-72hpf,0,0,0.281848056003223,0
-3Month,0,0,0,0.104017006644673
-22Month,0.136649431988133,0.136649431988133,0,0
+stage,Hepatocyte,Primordial_germ_cell,Retinal_cell,Spermatocyte
+72hpf,0,0,0.28,0
+3Month,0,0,0,0.1
+22Month,0.14,0.14,0,0

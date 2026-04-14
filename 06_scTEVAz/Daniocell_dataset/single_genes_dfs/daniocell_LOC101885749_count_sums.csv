@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.mesenchyme,glial,melanocytes,mesenchyme,neural,olfactory,periderm,pronephros,spinal.cord,taste
+stage,epidermis,eye,fin_mesenchyme,glial,melanocytes,mesenchyme,neural,olfactory,periderm,pronephros,spinal_cord,taste
  10-12,0,0,0,0,0,0,5.26,0,0,4.95,0,0
  24-34,0.85,0,0,0,0,0,1.54,0,4.43,0,0,0
  36-46,0,0.65,0,0,0,0,2.25,0,0,0,0,0

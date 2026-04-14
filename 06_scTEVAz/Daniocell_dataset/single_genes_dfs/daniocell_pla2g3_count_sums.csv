@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,glial,heart,iridophores,liver,mesenchyme,neural,paraxial.mesoderm,periderm,presomitic.mesoderm,pronephros,spinal.cord,taste,xanthophores
+stage,blastomeres,endoderm,epidermis,eye,glial,heart,iridophores,liver,mesenchyme,neural,paraxial_mesoderm,periderm,presomitic_mesoderm,pronephros,spinal_cord,taste,xanthophores
   5-6,6.28,0,0,0,0,0,0,0,0,19.38,0,0,0,0,0,0,0
   7-9,0,7.33,0,9.11,0,0,0,0,0,62.27,28.01,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,8.88,9.71,0,0,0,0,0,0

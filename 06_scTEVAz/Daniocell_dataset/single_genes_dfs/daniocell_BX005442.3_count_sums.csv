@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,fin.epithelia,hatching.gland,lateral.line,mesenchyme,neural,notochord,olfactory,paraxial.mesoderm,periderm,pgc,spinal.cord
+stage,axial,blastomeres,endoderm,epidermis,eye,fin_epithelia,hatching_gland,lateral_line,mesenchyme,neural,notochord,olfactory,paraxial_mesoderm,periderm,pgc,spinal_cord
   3-4,11.62,706.84,0,0,0,0,0,0,0,0,0,0,0,12.6,0,0
   5-6,21.68,817.91,0,0,0,0,0,0,0,28.77,0,0,9.65,15.11,0,0
   7-9,5.79,8.42,0,0,9.19,0,7.85,0,0,125.25,4.84,0,35.21,0,7.76,0

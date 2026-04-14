@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.epithelia,immune,ionocyte,lateral.line,mesenchyme,neural,olfactory,periderm
+stage,epidermis,erythrocytes,eye,fin_epithelia,immune,ionocyte,lateral_line,mesenchyme,neural,olfactory,periderm
  14-21,0,1,0,0,0,0,0,0,0,0,0
  24-34,0,0,0,0,0,0,0,0,0.82,0,3.28
  36-46,0.81,0,0,0,0,0,0.81,0,0.81,0.81,1.61

@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,erythrocytes,eye,fast.muscle,glial,heart,ionocyte,iridophores,liver,mesenchyme,mural.cell,muscle,neural,notochord,olfactory,paraxial.mesoderm,presomitic.mesoderm,slow.muscle,somites,taste,vascular.smooth.muscle
+stage,endoderm,epidermis,erythrocytes,eye,fast_muscle,glial,heart,ionocyte,iridophores,liver,mesenchyme,mural_cell,muscle,neural,notochord,olfactory,paraxial_mesoderm,presomitic_mesoderm,slow_muscle,somites,taste,vascular_smooth_muscle
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.26,0,0,0,0,0
  10-12,3.15,0,0,0,0,0,0,0,0,0,0,0,0,6.29,3.15,0,9.44,0,0,3.15,0,0
  14-21,0,3,0,1,0,0,0,1,0,0,2,0,3,3,0,0,0,5,27,84,0,0

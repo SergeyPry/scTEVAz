@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,glial,lateral.line,melanocytes,mesenchyme,muscle,neural,olfactory,otic,paraxial.mesoderm,spinal.cord
+stage,epidermis,eye,fast_muscle,glial,lateral_line,melanocytes,mesenchyme,muscle,neural,olfactory,otic,paraxial_mesoderm,spinal_cord
  10-12,0,0,0,0,0,0,0,0,8.57,0,0,3.54,0
  14-21,0,0,0,0,0,0,0,0,1.7,0,0,0,2.86
  24-34,0,1.76,0,0,0,0,0,0,13.28,0,0,0,0

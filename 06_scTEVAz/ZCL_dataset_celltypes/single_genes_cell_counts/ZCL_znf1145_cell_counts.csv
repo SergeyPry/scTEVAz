@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Endothelial.cell,Epithelial.cell,Immune.progenitor.cell,Keratinocyte,Mesenchymal.cell,Mt.rich.cell,Muscle.cell,Neural.cell,Neural.progenitor.cell,Radial.glia
+stage,Cardiomyocyte,Endothelial_cell,Epithelial_cell,Immune_progenitor_cell,Keratinocyte,Mesenchymal_cell,Mt_rich_cell,Muscle_cell,Neural_cell,Neural_progenitor_cell,Radial_glia
 24hpf,1,0,1,0,0,0,0,0,1,15,0
-72hpf,0,0.281848056003223,0.281848056003223,0.281848056003223,0.563696112006446,0,0.281848056003223,0.281848056003223,0.563696112006446,1.12739222401289,0.281848056003223
-21Day,0,0,0,0.369986860264282,0.369986860264282,0.369986860264282,0,0,0,1.10996058079285,0.369986860264282
+72hpf,0,0.28,0.28,0.28,0.56,0,0.28,0.28,0.56,1.13,0.28
+21Day,0,0,0,0.37,0.37,0.37,0,0,0,1.11,0.37

@@ -1,4 +1,4 @@
-stage,eye,fast.muscle,heart,mesenchyme,neural,otic,periderm,pronephros,slow.muscle,spinal.cord,visceral.smooth.muscle
+stage,eye,fast_muscle,heart,mesenchyme,neural,otic,periderm,pronephros,slow_muscle,spinal_cord,visceral_smooth_muscle
  14-21,0,0,0,0,3,0,0,0,0,0,0
  24-34,0,0,0,0,0.82,0,0.82,0,0,0,0
  36-46,0.81,0,0.81,0.81,0.81,0,0,0,0,0.81,0

@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endocrine.pancreas,endoderm,epidermis,exocrine.pancreas,eye,glial,gut,hatching.gland,ionocyte,lateral.line,liver,mucous,neural,olfactory,otic,paraxial.mesoderm,periderm,spinal.cord
+stage,axial,blastomeres,endocrine_pancreas,endoderm,epidermis,exocrine_pancreas,eye,glial,gut,hatching_gland,ionocyte,lateral_line,liver,mucous,neural,olfactory,otic,paraxial_mesoderm,periderm,spinal_cord
   3-4,21.68,437.34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10.92,0
   5-6,17.54,209.14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23.63,0,0,3.21,0,0

@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,heart,iridophores,lateral.line,mesenchyme,muscle,neural,notochord,otic,periderm,spinal.cord,vasculature
+stage,epidermis,eye,glial,heart,iridophores,lateral_line,mesenchyme,muscle,neural,notochord,otic,periderm,spinal_cord,vasculature
  14-21,0,0,0,0,0,0,0,0,1,0,0,0,1,0
  24-34,0,0.82,0,0,0,0,1.64,0,13.13,0,0,0,0.82,0
  36-46,0,0,0.81,0,0,0,0.81,0,2.42,0,0,0,1.61,0.81

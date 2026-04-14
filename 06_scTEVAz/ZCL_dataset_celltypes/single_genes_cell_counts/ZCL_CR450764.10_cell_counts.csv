@@ -1,4 +1,4 @@
-stage,Enterocyte,Epithelial.cell,Goblet.cell,Granulocyte,Hepatocyte,Intestinal.bulb.cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal.cell,Mesenchymal.cell..caudal.fin.,Nephron.cell,Neural.cell,Neural.progenitor.cell,Oligodendrocyte,Primordial.germ.cell,Spermatocyte
+stage,Enterocyte,Epithelial_cell,Goblet_cell,Granulocyte,Hepatocyte,Intestinal_bulb_cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal_cell,Mesenchymal_cell__caudal_fin_,Nephron_cell,Neural_cell,Neural_progenitor_cell,Oligodendrocyte,Primordial_germ_cell,Spermatocyte
 24hpf,0,3,0,0,0,0,0,1,0,1,0,0,1,4,0,0,0
-72hpf,0,0,0,0,0,0,0,0,0,0,0,0,0.281848056003223,0.281848056003223,0,0,0
-3Month,0.104017006644673,0.520085033223363,0.104017006644673,0.104017006644673,0.104017006644673,0.208034013289345,0.312051019934018,0.104017006644673,0.104017006644673,0,0.312051019934018,0.104017006644673,0.208034013289345,0,0.104017006644673,7.17717345848241,10.2976836578226
+72hpf,0,0,0,0,0,0,0,0,0,0,0,0,0.28,0.28,0,0,0
+3Month,0.1,0.52,0.1,0.1,0.1,0.21,0.31,0.1,0.1,0,0.31,0.1,0.21,0,0.1,7.18,10.3

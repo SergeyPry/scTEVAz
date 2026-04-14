@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endocrine.pancreas,endoderm,epidermis,eye,gut,hatching.gland,liver,mesenchyme,neural,notochord,otic,paraxial.mesoderm,periderm,pgc,presomitic.mesoderm,pronephros,somites,spinal.cord
+stage,axial,blastomeres,endocrine_pancreas,endoderm,epidermis,eye,gut,hatching_gland,liver,mesenchyme,neural,notochord,otic,paraxial_mesoderm,periderm,pgc,presomitic_mesoderm,pronephros,somites,spinal_cord
   3-4,901.94,26257.13,0,0,0,0,0,0,0,0,0,0,0,0,1354.27,0,0,0,0,0
   5-6,724.97,6934.72,0,34.42,0,0,0,38.43,0,0,141.58,16.8,0,9.5,231.37,0,0,0,0,0
   7-9,21.27,10.68,0,22.95,0,41.12,0,34.84,0,0,541.61,23.38,0,166.27,0,36.31,0,0,0,0

@@ -1,2 +1,2 @@
-stage,Epithelial.cell,Hepatocyte,Intestinal.bulb.cell,Ionocyte,Mesenchymal.cell,Neural.progenitor.cell,Primordial.germ.cell,Spermatocyte,T.cell
-3Month,0.104017006644673,0.104017006644673,0.208034013289345,0.104017006644673,0.104017006644673,0.104017006644673,1.35222108638074,6.4490544119697,0.208034013289345
+stage,Epithelial_cell,Hepatocyte,Intestinal_bulb_cell,Ionocyte,Mesenchymal_cell,Neural_progenitor_cell,Primordial_germ_cell,Spermatocyte,T_cell
+3Month,0.1,0.1,0.21,0.1,0.1,0.1,1.35,6.45,0.21

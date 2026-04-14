@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,mesenchyme,muscle,neural,olfactory,periderm,spinal.cord,vasculature
+stage,endoderm,epidermis,eye,mesenchyme,muscle,neural,olfactory,periderm,spinal_cord,vasculature
   7-9,5.48,0,0,0,0,12.6,0,0,0,0
  14-21,0,0,0,1.62,0,0,0,0.84,0,0
  24-34,0,0,0,0.77,0,3.88,0,0,1.77,0

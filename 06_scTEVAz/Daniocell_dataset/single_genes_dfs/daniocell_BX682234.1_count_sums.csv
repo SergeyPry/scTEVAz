@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,eye,glial,immune,mesenchyme,muscle,neural,notochord,olfactory,otic,pericytes,periderm,somites,spinal.cord,vasculature
+stage,axial,blastomeres,epidermis,eye,glial,immune,mesenchyme,muscle,neural,notochord,olfactory,otic,pericytes,periderm,somites,spinal_cord,vasculature
   5-6,10.04,6.82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,6.89,0,0,0,0,0,0,0,0
  14-21,0,0,1.04,0,0,0,0,0.82,5.12,0,0,0,0,0,1.35,0,0

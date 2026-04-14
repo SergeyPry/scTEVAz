@@ -1,5 +1,5 @@
-stage,Epithelial.cell,Goblet.cell,Granulocyte,Hepatocyte,Immune.progenitor.cell,Intestinal.bulb.cell,Ionocyte,Macrophage,Mesenchymal.cell,Nephron.cell,Neurosecretory.cell,Primordial.germ.cell,Radial.glia,Retinal.cone.cell,Spermatocyte
+stage,Epithelial_cell,Goblet_cell,Granulocyte,Hepatocyte,Immune_progenitor_cell,Intestinal_bulb_cell,Ionocyte,Macrophage,Mesenchymal_cell,Nephron_cell,Neurosecretory_cell,Primordial_germ_cell,Radial_glia,Retinal_cone_cell,Spermatocyte
 24hpf,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
-21Day,0,0,0,0,0,0,0,0.369986860264282,0.369986860264282,0,1.10996058079285,0.739973720528564,0,0.369986860264282,0
-3Month,0.520085033223363,0.208034013289345,0.104017006644673,0.728119046512708,0.104017006644673,0.104017006644673,0.104017006644673,0,0.208034013289345,0.416068026578691,0.728119046512708,2.18435713953813,0.104017006644673,0,3.12051019934018
-22Month,0.409948295964399,0,0,0.819896591928799,0,0,0,0,0,0,0.136649431988133,0,0,0,0
+21Day,0,0,0,0,0,0,0,0.37,0.37,0,1.11,0.74,0,0.37,0
+3Month,0.52,0.21,0.1,0.73,0.1,0.1,0.1,0,0.21,0.42,0.73,2.18,0.1,0,3.12
+22Month,0.41,0,0,0.82,0,0,0,0,0,0,0.14,0,0,0,0

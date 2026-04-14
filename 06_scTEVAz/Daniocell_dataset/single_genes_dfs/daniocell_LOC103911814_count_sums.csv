@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,eye,gut,neural,spinal.cord
+stage,endocrine_pancreas,eye,gut,neural,spinal_cord
  14-21,0,0.91,0,1,0.86
  24-34,0.84,0,0,0,1.77
  36-46,0,2.33,0,1.66,0

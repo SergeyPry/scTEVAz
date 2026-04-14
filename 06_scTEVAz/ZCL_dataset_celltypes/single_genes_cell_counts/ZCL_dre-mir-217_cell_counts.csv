@@ -1,4 +1,4 @@
-stage,Neural.cell,Neural.progenitor.cell
+stage,Neural_cell,Neural_progenitor_cell
 24hpf,0,2
-72hpf,1.97293639202256,6.20065723207091
-21Day,0.739973720528564,1.47994744105713
+72hpf,1.97,6.2
+21Day,0.74,1.48

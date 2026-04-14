@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,exocrine.pancreas,eye,fin.epithelia,fin.mesenchyme,gut,ionocyte,lateral.line,mesenchyme,mucous,muscle,neural,otic,periderm,pronephros,vasculature,visceral.smooth.muscle
+stage,endoderm,epidermis,exocrine_pancreas,eye,fin_epithelia,fin_mesenchyme,gut,ionocyte,lateral_line,mesenchyme,mucous,muscle,neural,otic,periderm,pronephros,vasculature,visceral_smooth_muscle
  14-21,0,5,0,0,0,0,1,0,0,0,0,0,0,0,2,1,0,0
  24-34,0.82,1.64,0,0,0,0,0,0.82,0.82,0,0,0.82,0.82,0,1.64,0,0.82,0
  36-46,0,0.81,0,0,0,0,0,0,0,0,0,0,2.42,0,3.22,0,0,0

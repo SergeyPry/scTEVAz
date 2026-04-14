@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,mesenchyme,mural.cell,muscle,neural,pronephros,spinal.cord
+stage,epidermis,eye,glial,mesenchyme,mural_cell,muscle,neural,pronephros,spinal_cord
   7-9,0,0,0,0,0,0,2.63,0,0
  10-12,0,0,0,0,0,0,3.15,0,0
  14-21,0,0,0,2,0,0,1,1,0

@@ -1,4 +1,4 @@
-stage,eye,fast.muscle,fin.epithelia,fin.mesenchyme,glial,immune,lateral.line,liver,mesenchyme,muscle,neural,olfactory,periderm,spinal.cord,vasculature
+stage,eye,fast_muscle,fin_epithelia,fin_mesenchyme,glial,immune,lateral_line,liver,mesenchyme,muscle,neural,olfactory,periderm,spinal_cord,vasculature
   7-9,0,0,0,0,0,0,0,0,0,0,6.64,0,0,0,0
  24-34,0.66,0,0,0,0,0,0,0,2.07,0,4.54,0,0,3.88,0
  36-46,0,0,0,0,0,0,0,0,4.55,0,0,0,0,0,0

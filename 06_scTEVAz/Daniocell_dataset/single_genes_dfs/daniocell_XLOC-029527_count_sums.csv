@@ -1,4 +1,4 @@
-stage,eye,glial,ionocyte,lateral.line,liver,mesenchyme,neural,otic,periderm,presomitic.mesoderm,pronephros,spinal.cord
+stage,eye,glial,ionocyte,lateral_line,liver,mesenchyme,neural,otic,periderm,presomitic_mesoderm,pronephros,spinal_cord
  10-12,0,0,0,0,0,0,8.53,0,0,0,0,0
  14-21,0,0,0,0,0,0,13.71,0,0,0.87,0,0
  24-34,1.46,0,0,0,0,0,1.86,0,0,0,0,2.49

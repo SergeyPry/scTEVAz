@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Erythroid.progenitor.cell,Hepatocyte,Ionocyte,Keratinocyte,Mesenchymal.cell,Neural.cell,Pancreatic.cell,Spermatocyte
-72hpf,0,0,0,0,0.281848056003223,0.281848056003223,0,0,0
-21Day,1.47994744105713,0,0,0.739973720528564,1.47994744105713,0,0.369986860264282,0,0
-3Month,3.53657822591887,0.104017006644673,0.208034013289345,0.208034013289345,0.312051019934018,0.104017006644673,0.104017006644673,0.104017006644673,0.104017006644673
+stage,Epithelial_cell,Erythroid_progenitor_cell,Hepatocyte,Ionocyte,Keratinocyte,Mesenchymal_cell,Neural_cell,Pancreatic_cell,Spermatocyte
+72hpf,0,0,0,0,0.28,0.28,0,0,0
+21Day,1.48,0,0,0.74,1.48,0,0.37,0,0
+3Month,3.54,0.1,0.21,0.21,0.31,0.1,0.1,0.1,0.1

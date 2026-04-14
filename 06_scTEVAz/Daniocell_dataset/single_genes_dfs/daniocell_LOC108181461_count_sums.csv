@@ -1,4 +1,4 @@
-stage,eye,fin.epithelia,glial,mesenchyme,neural,olfactory,periderm,pronephros,somites,spinal.cord
+stage,eye,fin_epithelia,glial,mesenchyme,neural,olfactory,periderm,pronephros,somites,spinal_cord
  14-21,0,0,0,0,7,0,0,0,0.82,0
  24-34,0,0,0,0,7.26,0,0.85,0,0,1.1
  36-46,0,8.91,0,0,5.71,0,1.49,0,0,3.6

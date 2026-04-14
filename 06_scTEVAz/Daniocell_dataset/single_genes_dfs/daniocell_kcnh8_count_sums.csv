@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,eye,fin.epithelia,glial,immune,mesenchyme,mucous,mural.cell,neural,olfactory,paraxial.mesoderm,periderm,pgc,spinal.cord,visceral.smooth.muscle
+stage,axial,blastomeres,epidermis,eye,fin_epithelia,glial,immune,mesenchyme,mucous,mural_cell,neural,olfactory,paraxial_mesoderm,periderm,pgc,spinal_cord,visceral_smooth_muscle
   3-4,13.98,68.52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,0,18.88,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,4.01,0,0,0,0,0,0,21.01,0,5.33,0,0,0,0

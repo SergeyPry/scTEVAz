@@ -1,4 +1,4 @@
-stage,erythrocytes,eye,fast.muscle,fin.epithelia,fin.mesenchyme,glial,mesenchyme,neural,periderm,spinal.cord
+stage,erythrocytes,eye,fast_muscle,fin_epithelia,fin_mesenchyme,glial,mesenchyme,neural,periderm,spinal_cord
  24-34,0,0,0,0,0,0,0,0,0,1.56
  60-70,0,19.54,0,0,0,0,2.82,0,3.4,0
  72-82,0,54.47,0,0,0,0,0,3.23,1.16,0

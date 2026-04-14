@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,erythrocytes,eye,glial,gut,hatching.gland,ionocyte,iridophores,mesenchyme,neural,paraxial.mesoderm,periderm,presomitic.mesoderm,spinal.cord
+stage,axial,blastomeres,epidermis,erythrocytes,eye,glial,gut,hatching_gland,ionocyte,iridophores,mesenchyme,neural,paraxial_mesoderm,periderm,presomitic_mesoderm,spinal_cord
   3-4,0,13.06,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.7,9.13,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,27.85,3.24,0,0,0

@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,fast.muscle,fin.mesenchyme,iridophores,mesenchyme,muscle,neural,paraxial.mesoderm,periderm,pgc,presomitic.mesoderm,slow.muscle,somites,spinal.cord,visceral.smooth.muscle
+stage,axial,blastomeres,endoderm,epidermis,eye,fast_muscle,fin_mesenchyme,iridophores,mesenchyme,muscle,neural,paraxial_mesoderm,periderm,pgc,presomitic_mesoderm,slow_muscle,somites,spinal_cord,visceral_smooth_muscle
   3-4,0,79.07,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,0,67.43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,5.26,2.63,0,0,0,0,0,0,0,0,15.77,21.03,0,2.63,0,0,0,0,0

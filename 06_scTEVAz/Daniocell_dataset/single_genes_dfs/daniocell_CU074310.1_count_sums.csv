@@ -1,4 +1,4 @@
-stage,eye,glial,immune,melanocytes,mesenchyme,neural,olfactory,paraxial.mesoderm,spinal.cord,vascular.smooth.muscle,vasculature
+stage,eye,glial,immune,melanocytes,mesenchyme,neural,olfactory,paraxial_mesoderm,spinal_cord,vascular_smooth_muscle,vasculature
  10-12,0,0,0,0,0,5.97,0,3.39,0,0,0
  14-21,0,0,0,1.08,0,0,0,0,0,0,0
  24-34,0,0,0,0,1.25,0,0,0,1.29,0,0

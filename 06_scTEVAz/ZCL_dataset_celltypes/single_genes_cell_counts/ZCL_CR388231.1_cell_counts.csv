@@ -1,6 +1,6 @@
-stage,Epithelial.cell,Erythrocyte,Erythroid.progenitor.cell,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Macrophage,Mesenchymal.cell,Muscle.cell,Nephron.cell,Neural.cell,Neural.progenitor.cell,Radial.glia
+stage,Epithelial_cell,Erythrocyte,Erythroid_progenitor_cell,Hepatocyte,Immune_cell,Intestinal_bulb_cell,Macrophage,Mesenchymal_cell,Muscle_cell,Nephron_cell,Neural_cell,Neural_progenitor_cell,Radial_glia
 24hpf,0,0,0,0,0,0,2,2,0,0,0,9,0
-72hpf,0.281848056003223,0.281848056003223,0,0,0,0,0,0.563696112006446,0,0,1.40924028001612,0.563696112006446,0
-21Day,0.739973720528564,0,0.369986860264282,0,0,0,0,0.369986860264282,0,0,0.739973720528564,0,0.369986860264282
-3Month,0.104017006644673,0,0,1.1441870730914,0.104017006644673,0.104017006644673,0,0.104017006644673,0,0.104017006644673,0,0,0
-22Month,0.273298863976266,0,0,3.00628750373893,0.136649431988133,0.273298863976266,0,0.136649431988133,0.136649431988133,0,0,0,0
+72hpf,0.28,0.28,0,0,0,0,0,0.56,0,0,1.41,0.56,0
+21Day,0.74,0,0.37,0,0,0,0,0.37,0,0,0.74,0,0.37
+3Month,0.1,0,0,1.14,0.1,0.1,0,0.1,0,0.1,0,0,0
+22Month,0.27,0,0,3.01,0.14,0.27,0,0.14,0.14,0,0,0,0

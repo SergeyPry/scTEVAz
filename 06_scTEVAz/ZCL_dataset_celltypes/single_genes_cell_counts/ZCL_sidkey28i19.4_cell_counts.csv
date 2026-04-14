@@ -1,4 +1,4 @@
-stage,Enterocyte,Epithelial.cell,Goblet.cell,Hepatocyte,Intestinal.bulb.cell,Keratinocyte,Neural.progenitor.cell,Oligodendrocyte,Primordial.germ.cell
-72hpf,0,0,0,0,0,0.281848056003223,0.281848056003223,0.281848056003223,0
-21Day,0,0.739973720528564,0,0,0.369986860264282,0.739973720528564,0,0,0
-22Month,0.136649431988133,0.956546023916932,0.546597727952532,0.136649431988133,6.14922443946599,0,0,0,0.819896591928799
+stage,Enterocyte,Epithelial_cell,Goblet_cell,Hepatocyte,Intestinal_bulb_cell,Keratinocyte,Neural_progenitor_cell,Oligodendrocyte,Primordial_germ_cell
+72hpf,0,0,0,0,0,0.28,0.28,0.28,0
+21Day,0,0.74,0,0,0.37,0.74,0,0,0
+22Month,0.14,0.96,0.55,0.14,6.15,0,0,0,0.82

@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.mesenchyme,glial,iridophores,mesenchyme,neural,olfactory,periderm,spinal.cord,taste,xanthophores
+stage,epidermis,erythrocytes,eye,fin_mesenchyme,glial,iridophores,mesenchyme,neural,olfactory,periderm,spinal_cord,taste,xanthophores
  14-21,0,0,0,0,1,0,1,1,0,0,1,0,0
  24-34,0,0,1.64,0.82,3.28,0,0,9.03,0,0,1.64,0,0
  36-46,0,0,0.81,0,0,0,0.81,16.11,0,0,0.81,0,2.42

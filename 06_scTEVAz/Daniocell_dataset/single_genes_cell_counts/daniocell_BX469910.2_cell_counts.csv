@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,eye,mesenchyme,mural.cell,neural,pericytes
+stage,endocrine_pancreas,eye,mesenchyme,mural_cell,neural,pericytes
  14-21,1,0,0,0,1,0
  24-34,0,0,0,0,2.46,0
  36-46,0,0,0.81,0,0.81,0

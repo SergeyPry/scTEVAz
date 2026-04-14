@@ -1,5 +1,5 @@
-stage,Erythrocyte,Erythroid.progenitor.cell,Immune.progenitor.cell,Intestinal.bulb.cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Oligodendrocyte,Osteoblast,Pancreatic.cell,Primordial.germ.cell,Radial.glia,Spermatocyte
-24hpf,0,0,0,0,4.08640457285017,0,0,0,0,0,0,0,0,0,0,0
-72hpf,0,0,1.06979114146608,0,0,0,1.06979114146608,1.06979114146608,2.13958228293216,3.20937342439823,0,2.13958228293216,0,0,0,0
-21Day,4.01559926460992,1.33853308820331,0,1.33853308820331,1.33853308820331,1.33853308820331,0,4.01559926460992,0,1.33853308820331,1.33853308820331,2.67706617640661,2.67706617640661,0,1.33853308820331,0
-3Month,0,0,0,0,0,0,0,0,0,0,0,0,0,0.639898599108391,0,0.959847898662586
+stage,Erythrocyte,Erythroid_progenitor_cell,Immune_progenitor_cell,Intestinal_bulb_cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Oligodendrocyte,Osteoblast,Pancreatic_cell,Primordial_germ_cell,Radial_glia,Spermatocyte
+24hpf,0,0,0,0,4.09,0,0,0,0,0,0,0,0,0,0,0
+72hpf,0,0,1.07,0,0,0,1.07,1.07,2.14,3.21,0,2.14,0,0,0,0
+21Day,4.02,1.34,0,1.34,1.34,1.34,0,4.02,0,1.34,1.34,2.68,2.68,0,1.34,0
+3Month,0,0,0,0,0,0,0,0,0,0,0,0,0,0.64,0,0.96

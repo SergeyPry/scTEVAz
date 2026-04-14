@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,gut,ionocyte,mesenchyme,mural.cell,neural,notochord,periderm,spinal.cord
+stage,epidermis,eye,glial,gut,ionocyte,mesenchyme,mural_cell,neural,notochord,periderm,spinal_cord
   7-9,0,0,0,0,0,0,0,25.88,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,1.03
  24-34,0,0,0,0,2.19,0,0,3.92,0,3.72,0

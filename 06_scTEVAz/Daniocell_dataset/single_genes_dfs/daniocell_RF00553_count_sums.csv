@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,fin.epithelia,hatching.gland,muscle,neural,somites,spinal.cord
+stage,endoderm,epidermis,eye,fin_epithelia,hatching_gland,muscle,neural,somites,spinal_cord
   7-9,3.58,0,0,0,6.52,0,0,0,0
  14-21,0,0,0,0,0,0,1.32,0,0
  24-34,0,0,0,0,0,0,1.52,0.62,1.08

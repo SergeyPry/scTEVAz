@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,exocrine.pancreas,eye,fin.epithelia,fin.mesenchyme,glial,immune,lateral.line,mesenchyme,mucous,mural.cell,muscle,neural,notochord,olfactory,otic,periderm,pgc,presomitic.mesoderm,spinal.cord,vasculature,xanthophores
+stage,epidermis,erythrocytes,exocrine_pancreas,eye,fin_epithelia,fin_mesenchyme,glial,immune,lateral_line,mesenchyme,mucous,mural_cell,muscle,neural,notochord,olfactory,otic,periderm,pgc,presomitic_mesoderm,spinal_cord,vasculature,xanthophores
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,2.63,0,0,0,0,0,0,0,0,0
  14-21,1,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,1,2,0,0
  24-34,0.82,0.82,0,0,0,0,0,0,0,1.64,0,0,0.82,15.6,0,0.82,0,2.46,0,0,2.46,0,0

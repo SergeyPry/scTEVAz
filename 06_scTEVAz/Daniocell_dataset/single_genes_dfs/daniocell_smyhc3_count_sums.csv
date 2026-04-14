@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,fin.epithelia,glial,immune,iridophores,mesenchyme,muscle,neural,periderm,presomitic.mesoderm,slow.muscle,somites,visceral.smooth.muscle
+stage,epidermis,eye,fast_muscle,fin_epithelia,glial,immune,iridophores,mesenchyme,muscle,neural,periderm,presomitic_mesoderm,slow_muscle,somites,visceral_smooth_muscle
  14-21,0,0,0,0,0,0,0,3.92,9.05,2.03,0,0,79.2,11.13,0
  24-34,0.95,0.67,0,0,0,0,0.7,0,0,5.23,0,0,71.58,5.46,0
  36-46,0,0,0,0,0,0,0,0,2.21,4.41,12.3,0,50.54,0,0

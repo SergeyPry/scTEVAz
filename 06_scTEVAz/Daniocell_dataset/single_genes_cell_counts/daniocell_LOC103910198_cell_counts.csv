@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,gut,heart,ionocyte,liver,mesenchyme,mucous,neural,olfactory,periderm,spinal.cord,taste,vascular.smooth.muscle,xanthophores
+stage,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,gut,heart,ionocyte,liver,mesenchyme,mucous,neural,olfactory,periderm,spinal_cord,taste,vascular_smooth_muscle,xanthophores
  14-21,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  24-34,9.85,0,1.64,0,0.82,0,0.82,0,0,0,0,2.46,0,1.64,0.82,0,0,0
  36-46,6.45,0,0,0,0,0,0,0,0,0,0,0.81,0,0,0,0,0,0

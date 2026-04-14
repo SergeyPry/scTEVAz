@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,immune,mesenchyme,mural.cell,neural,paraxial.mesoderm,presomitic.mesoderm,somites,spinal.cord,visceral.smooth.muscle,xanthophores
+stage,endoderm,epidermis,eye,immune,mesenchyme,mural_cell,neural,paraxial_mesoderm,presomitic_mesoderm,somites,spinal_cord,visceral_smooth_muscle,xanthophores
   5-6,0,0,0,0,0,0,6.13,0,0,0,0,0,0
   7-9,0,0,2.63,0,0,0,2.63,10.51,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,1,1,1,0,0

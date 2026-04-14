@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,fin.mesenchyme,glial,liver,mesenchyme,neural,olfactory,paraxial.mesoderm,pericytes,periderm,taste,visceral.smooth.muscle
+stage,axial,blastomeres,endoderm,epidermis,eye,fin_mesenchyme,glial,liver,mesenchyme,neural,olfactory,paraxial_mesoderm,pericytes,periderm,taste,visceral_smooth_muscle
   3-4,13.18,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.13,24.52,0,0,0,0,0,0,0,0,0,0,0,6.13,0,0
   7-9,0,0,2.63,0,0,0,0,0,0,10.51,0,0,0,0,0,0

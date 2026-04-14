@@ -1,4 +1,4 @@
-stage,Erythrocyte,Ionocyte,Neural.cell,Neural.progenitor.cell
+stage,Erythrocyte,Ionocyte,Neural_cell,Neural_progenitor_cell
 24hpf,0,0,0,1
-72hpf,0,0,1.40924028001612,0.563696112006446
-21Day,0.739973720528564,0.369986860264282,0.739973720528564,0
+72hpf,0,0,1.41,0.56
+21Day,0.74,0.37,0.74,0

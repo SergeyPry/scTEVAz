@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.epithelia,glial,gut,hatching.gland,immune,liver,mesenchyme,muscle,neural,olfactory,periderm,spinal.cord,taste,vascular.smooth.muscle,vasculature,xanthophores
+stage,epidermis,erythrocytes,eye,fin_epithelia,glial,gut,hatching_gland,immune,liver,mesenchyme,muscle,neural,olfactory,periderm,spinal_cord,taste,vascular_smooth_muscle,vasculature,xanthophores
   7-9,0,0,0,0,0,0,5.26,0,0,0,0,0,0,0,0,0,0,0,0
  24-34,0,0,0.82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  36-46,0.81,0,0.81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

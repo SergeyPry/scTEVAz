@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,erythrocytes,eye,fin.mesenchyme,glial,mesenchyme,mural.cell,muscle,neural,notochord,paraxial.mesoderm,pronephros,slow.muscle,spinal.cord,xanthophores
+stage,blastomeres,endoderm,erythrocytes,eye,fin_mesenchyme,glial,mesenchyme,mural_cell,muscle,neural,notochord,paraxial_mesoderm,pronephros,slow_muscle,spinal_cord,xanthophores
   5-6,6.13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,2.63,0,0,0,0,0,0,0,7.89,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,12.59,3.15,6.29,6.29,0,0,0

@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,eye,glial,gut,immune,lateral.line,mesenchyme,neural,olfactory,paraxial.mesoderm,periderm,spinal.cord,taste
+stage,axial,blastomeres,epidermis,eye,glial,gut,immune,lateral_line,mesenchyme,neural,olfactory,paraxial_mesoderm,periderm,spinal_cord,taste
   3-4,0,59.29,0,0,0,0,0,0,0,0,0,0,140.71,0,0
   5-6,7.04,107.49,0,0,0,0,0,0,0,0,0,0,1004.65,0,0
   7-9,4.39,6.89,0,0,0,0,0,0,0,51.78,0,9.07,203.67,0,0

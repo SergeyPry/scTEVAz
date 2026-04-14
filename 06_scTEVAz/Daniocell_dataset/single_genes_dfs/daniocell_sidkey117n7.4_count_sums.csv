@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.epithelia,glial,ionocyte,mesenchyme,mural.cell,neural,presomitic.mesoderm,somites,spinal.cord,visceral.smooth.muscle
+stage,epidermis,erythrocytes,eye,fin_epithelia,glial,ionocyte,mesenchyme,mural_cell,neural,presomitic_mesoderm,somites,spinal_cord,visceral_smooth_muscle
  14-21,0.81,0.82,0,0,0,0,1.71,0,0.91,1.31,3.05,2.79,0
  24-34,9.13,0,0,0,0,0,1.72,0,4.82,0,0,4.98,0
  36-46,19.25,0,0,0,0,0,0,0,1.86,0,0,1.31,0

@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,gut,hatching.gland,immune,ionocyte,liver,mesenchyme,neural,olfactory,periderm,pronephros,spinal.cord,vasculature
+stage,epidermis,erythrocytes,eye,gut,hatching_gland,immune,ionocyte,liver,mesenchyme,neural,olfactory,periderm,pronephros,spinal_cord,vasculature
   7-9,0,0,0,0,2.63,0,0,0,0,0,0,0,0,0,0
  14-21,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0
  24-34,0.82,0,0,0,0,17.24,0,0.82,0,0,0,0,0.82,0,0

@@ -1,4 +1,4 @@
-stage,Erythrocyte,Erythroid.progenitor.cell,Hepatocyte,Intestinal.bulb.cell,Keratinocyte
-72hpf,1.06979114146608,0,0,0,0
-21Day,0,1.33853308820331,0,0,1.33853308820331
-22Month,0,0,0.546654651197433,0.546654651197433,0
+stage,Erythrocyte,Erythroid_progenitor_cell,Hepatocyte,Intestinal_bulb_cell,Keratinocyte
+72hpf,1.07,0,0,0,0
+21Day,0,1.34,0,0,1.34
+22Month,0,0,0.55,0.55,0

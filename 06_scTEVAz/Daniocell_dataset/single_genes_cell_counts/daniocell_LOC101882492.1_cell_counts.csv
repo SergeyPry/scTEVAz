@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fast.muscle,fin.epithelia,fin.mesenchyme,glial,gut,hatching.gland,liver,mesenchyme,muscle,neural,otic,periderm,slow.muscle,somites,spinal.cord
+stage,epidermis,erythrocytes,eye,fast_muscle,fin_epithelia,fin_mesenchyme,glial,gut,hatching_gland,liver,mesenchyme,muscle,neural,otic,periderm,slow_muscle,somites,spinal_cord
  14-21,2,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,5,1
  24-34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.82,0
  36-46,0,0.81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

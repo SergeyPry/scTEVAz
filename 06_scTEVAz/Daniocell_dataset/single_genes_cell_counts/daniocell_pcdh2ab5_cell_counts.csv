@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,iridophores,liver,melanocytes,mesenchyme,neural,notochord,olfactory,pericytes,spinal.cord
+stage,endocrine_pancreas,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,iridophores,liver,melanocytes,mesenchyme,neural,notochord,olfactory,pericytes,spinal_cord
  14-21,0,0,0,0,0,0,0,0,0,0,5,0,1,0,3
  24-34,0.82,0,0,0,0,0.82,0,0,0,0,54.18,0,0.82,0,9.03
  36-46,0,0,5.64,0,0,0.81,0,0,0,1.61,137.77,0,0,0,32.23

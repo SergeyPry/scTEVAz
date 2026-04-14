@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,mesenchyme,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,periderm,somites,spinal.cord,vasculature
+stage,epidermis,eye,glial,mesenchyme,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,periderm,somites,spinal_cord,vasculature
   7-9,0,0,0,0,0,29.74,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,35.72,0,0,0,7.29,0,0,0,0
  14-21,0,1.58,0,0,1.37,9.96,0.86,0,0,0,0,1.64,0.9,0

@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Keratinocyte,Macrophage
-72hpf,0,0.281848056003223,0
-21Day,0.369986860264282,0.739973720528564,0
-22Month,0.136649431988133,0.136649431988133,0.136649431988133
+stage,Epithelial_cell,Keratinocyte,Macrophage
+72hpf,0,0.28,0
+21Day,0.37,0.74,0
+22Month,0.14,0.14,0.14

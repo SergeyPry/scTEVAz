@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,glial,heart,ionocyte,lateral.line,liver,mesenchyme,mucous,muscle,neural,pericytes,periderm,spinal.cord
+stage,epidermis,erythrocytes,eye,glial,heart,ionocyte,lateral_line,liver,mesenchyme,mucous,muscle,neural,pericytes,periderm,spinal_cord
  14-21,0,0,0,0,0,0,0,0,0,0,0,3.97,0,0,2.48
  24-34,0,0,1.25,0,0,0,0,0,0.68,0,0,66.55,0,0,13.72
  36-46,0.62,0,2.21,1.4,0,9.19,0,0,0.6,0,0,193.72,0,0,35.58

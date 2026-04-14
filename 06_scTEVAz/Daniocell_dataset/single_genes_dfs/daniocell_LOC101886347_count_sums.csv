@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,glial,mesenchyme,muscle,neural,notochord,paraxial.mesoderm,periderm,vasculature
+stage,blastomeres,endoderm,epidermis,eye,glial,mesenchyme,muscle,neural,notochord,paraxial_mesoderm,periderm,vasculature
   5-6,6.44,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,3.26,0,0,0,0,0,9.47,3.95,3.32,0,0
  24-34,0,0,0,0,0,0.62,0,0.83,0,0,0,0

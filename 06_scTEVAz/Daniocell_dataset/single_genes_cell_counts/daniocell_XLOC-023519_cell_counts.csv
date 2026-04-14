@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,mesenchyme,neural,pronephros,vascular.smooth.muscle,vasculature,visceral.smooth.muscle
+stage,epidermis,eye,glial,mesenchyme,neural,pronephros,vascular_smooth_muscle,vasculature,visceral_smooth_muscle
  24-34,0,0,0,0,0,0.82,0,0,0
  36-46,0,0,0,0,0.81,0,0,0,0
  48-58,0,0,0,0.57,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,axial,epidermis,erythrocytes,eye,fin.epithelia,fin.mesenchyme,glial,immune,liver,mesenchyme,mucous,muscle,neural,pericytes,periderm,presomitic.mesoderm,pronephros,spinal.cord,vasculature,xanthophores
+stage,axial,epidermis,erythrocytes,eye,fin_epithelia,fin_mesenchyme,glial,immune,liver,mesenchyme,mucous,muscle,neural,pericytes,periderm,presomitic_mesoderm,pronephros,spinal_cord,vasculature,xanthophores
   7-9,2.63,0,0,2.63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,10,0,0,0,0,0,0,0,1,0,0,1,0,0,2,0,0,0,0
  24-34,0,56.64,0,0,11.49,0,0,0,0,0.82,0.82,0,4.93,0,0.82,0,11.49,0,1.64,0

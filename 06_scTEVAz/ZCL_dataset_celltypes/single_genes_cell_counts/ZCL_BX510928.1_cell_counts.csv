@@ -1,4 +1,4 @@
-stage,Endothelial.cell,Epithelial.cell,Erythrocyte..Liver.,Hepatocyte,Mesenchymal.cell,Oligodendrocyte,Primordial.germ.cell
-21Day,0,0.369986860264282,0,0,0,0,0
-3Month,0,0,0,0,0,0,0.208034013289345
-22Month,0.136649431988133,0,0.136649431988133,17.6277767264692,0.136649431988133,0.136649431988133,0
+stage,Endothelial_cell,Epithelial_cell,Erythrocyte__Liver_,Hepatocyte,Mesenchymal_cell,Oligodendrocyte,Primordial_germ_cell
+21Day,0,0.37,0,0,0,0,0
+3Month,0,0,0,0,0,0,0.21
+22Month,0.14,0,0.14,17.63,0.14,0.14,0

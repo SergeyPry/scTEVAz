@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Keratinocyte,Neurosecretory.cell,Primordial.germ.cell,Spermatocyte
-24hpf,0,0,0,0,4.08640457285017,0,0,0
-3Month,0.959847898662586,1.27979719821678,0.319949299554195,0.319949299554195,0,0.319949299554195,3.83939159465034,0.959847898662586
-22Month,0,4.37323720957947,0,0,0,0,0.546654651197433,0
+stage,Epithelial_cell,Hepatocyte,Immune_cell,Intestinal_bulb_cell,Keratinocyte,Neurosecretory_cell,Primordial_germ_cell,Spermatocyte
+24hpf,0,0,0,0,4.09,0,0,0
+3Month,0.96,1.28,0.32,0.32,0,0.32,3.84,0.96
+22Month,0,4.37,0,0,0,0,0.55,0

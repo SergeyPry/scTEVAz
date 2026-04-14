@@ -1,4 +1,4 @@
-stage,blastomeres,eye,fast.muscle,glial,gut,iridophores,neural,olfactory,paraxial.mesoderm,periderm,somites
+stage,blastomeres,eye,fast_muscle,glial,gut,iridophores,neural,olfactory,paraxial_mesoderm,periderm,somites
   3-4,39.53,0,0,0,0,0,0,0,0,0,0
   5-6,12.26,0,0,0,0,0,6.13,0,0,6.13,0
   7-9,2.63,2.63,0,0,0,0,7.89,0,2.63,0,0

@@ -1,4 +1,4 @@
-stage,eye,fast.muscle,mesenchyme,muscle,neural,presomitic.mesoderm,slow.muscle,somites,spinal.cord,visceral.smooth.muscle
+stage,eye,fast_muscle,mesenchyme,muscle,neural,presomitic_mesoderm,slow_muscle,somites,spinal_cord,visceral_smooth_muscle
  10-12,0,0,0,0,3.15,0,0,0,0,0
  14-21,0,0,0,0,0,1,1,2,2,0
  24-34,0,0,0,0.82,0.82,0,0.82,3.28,0,0

@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,gut,lateral.line,liver,mesenchyme,mucous,muscle,neural,notochord,periderm,pronephros,somites,spinal.cord,vasculature
+stage,epidermis,eye,fin_epithelia,gut,lateral_line,liver,mesenchyme,mucous,muscle,neural,notochord,periderm,pronephros,somites,spinal_cord,vasculature
   7-9,0,2.63,0,0,0,0,0,0,0,2.63,0,0,0,0,0,0
  14-21,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
  24-34,0,0,0,0,0,0,0.82,0,1.64,0.82,0,0,0,1.64,0.82,0

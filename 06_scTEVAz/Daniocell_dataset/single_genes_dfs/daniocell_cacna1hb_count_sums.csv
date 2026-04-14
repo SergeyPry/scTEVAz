@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fast.muscle,glial,hatching.gland,iridophores,liver,mesenchyme,mural.cell,muscle,neural,pericytes,periderm,pronephros,spinal.cord,taste,vascular.smooth.muscle,visceral.smooth.muscle
+stage,blastomeres,epidermis,eye,fast_muscle,glial,hatching_gland,iridophores,liver,mesenchyme,mural_cell,muscle,neural,pericytes,periderm,pronephros,spinal_cord,taste,vascular_smooth_muscle,visceral_smooth_muscle
   5-6,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,4.16,0,0,0,0,0,0,0,0,0,0,0,0,0
  10-12,7.39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

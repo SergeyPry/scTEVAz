@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,gut,iridophores,mesenchyme,mural.cell,muscle,neural,paraxial.mesoderm,pericytes,periderm,spinal.cord,taste,vascular.smooth.muscle,visceral.smooth.muscle,xanthophores
+stage,epidermis,eye,glial,gut,iridophores,mesenchyme,mural_cell,muscle,neural,paraxial_mesoderm,pericytes,periderm,spinal_cord,taste,vascular_smooth_muscle,visceral_smooth_muscle,xanthophores
   7-9,0,0,0,0,0,0,0,0,12.76,5.22,0,0,0,0,0,0,0
  14-21,0,0,0,0.91,0,0,0,0,0,0,0,0,3.71,0,0,0,0
  24-34,0,0.98,0,0,0,1.39,0,0,2.61,0,0,0,9.09,0,0,0,0

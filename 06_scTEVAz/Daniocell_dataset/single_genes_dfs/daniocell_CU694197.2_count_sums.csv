@@ -1,4 +1,4 @@
-stage,blastomeres,erythrocytes,exocrine.pancreas,eye,glial,melanocytes,mesenchyme,muscle,neural,olfactory,pericytes,periderm,somites,spinal.cord,vasculature,xanthophores
+stage,blastomeres,erythrocytes,exocrine_pancreas,eye,glial,melanocytes,mesenchyme,muscle,neural,olfactory,pericytes,periderm,somites,spinal_cord,vasculature,xanthophores
   3-4,24.15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,9.62,0,0,0,0,14.08,0,0,0,0,0,0,0
  10-12,7.14,0,0,0,0,0,0,0,4.69,0,0,0,0,0,0,0

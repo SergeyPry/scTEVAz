@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,fin.mesenchyme,glial,melanocytes,mesenchyme,muscle,neural,notochord,otic,spinal.cord,vasculature,visceral.smooth.muscle
+stage,epidermis,eye,fast_muscle,fin_mesenchyme,glial,melanocytes,mesenchyme,muscle,neural,notochord,otic,spinal_cord,vasculature,visceral_smooth_muscle
   7-9,0,2.63,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,1,0,0,0,0,0,0,0,2,1,0,1,0,0
  24-34,0,0,0,0,0,0,0,0,0.82,0,0.82,0,0,0

@@ -1,3 +1,3 @@
-stage,Cardiomyocyte,Erythroid.progenitor.cell,Hepatocyte,Retinal.cell,Retinal.cone.cell
-72hpf,0,0,0,2.13958228293216,0
-21Day,1.33853308820331,1.33853308820331,1.33853308820331,8.03119852921984,17.400930146643
+stage,Cardiomyocyte,Erythroid_progenitor_cell,Hepatocyte,Retinal_cell,Retinal_cone_cell
+72hpf,0,0,0,2.14,0
+21Day,1.34,1.34,1.34,8.03,17.4

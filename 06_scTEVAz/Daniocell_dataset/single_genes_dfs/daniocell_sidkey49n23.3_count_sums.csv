@@ -1,4 +1,4 @@
-stage,eye,fin.mesenchyme,heart,mesenchyme,muscle,neural,notochord,periderm,spinal.cord,taste
+stage,eye,fin_mesenchyme,heart,mesenchyme,muscle,neural,notochord,periderm,spinal_cord,taste
  14-21,0,0,0,0,0.99,0.84,0.99,0,0,0
  24-34,0,0,1.47,0.94,0,4.07,0,1.46,0,0
  36-46,0,0,0,0,0,0.61,0,0,4.54,0

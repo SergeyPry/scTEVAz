@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Hepatocyte,Neural.progenitor.cell,Primordial.germ.cell,Retinal.cone.cell,Smooth.muscle.cell
+stage,Epithelial_cell,Hepatocyte,Neural_progenitor_cell,Primordial_germ_cell,Retinal_cone_cell,Smooth_muscle_cell
 24hpf,0,0,3,0,0,0
-21Day,0.369986860264282,0,0,0,0.369986860264282,0
-3Month,0.104017006644673,0.104017006644673,0,0.104017006644673,0,0.104017006644673
+21Day,0.37,0,0,0,0.37,0
+3Month,0.1,0.1,0,0.1,0,0.1

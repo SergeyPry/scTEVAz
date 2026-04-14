@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,fast.muscle,fin.epithelia,glial,gut,hatching.gland,heart,ionocyte,lateral.line,liver,mesenchyme,mucous,mural.cell,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,periderm,presomitic.mesoderm,pronephros,slow.muscle,somites,spinal.cord,taste,vascular.smooth.muscle,vasculature
+stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,fast_muscle,fin_epithelia,glial,gut,hatching_gland,heart,ionocyte,lateral_line,liver,mesenchyme,mucous,mural_cell,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,periderm,presomitic_mesoderm,pronephros,slow_muscle,somites,spinal_cord,taste,vascular_smooth_muscle,vasculature
   5-6,0,31.08,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24.24,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,4.85,0,0,0,0,0,0,0,0,34.16,0,0,0,4.35,3.51,0,0,0,0,0,0,0,0
  10-12,0,0,21.79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,299.02,0,0,0,38.75,11.59,0,3.14,0,8.15,0,0,0,0

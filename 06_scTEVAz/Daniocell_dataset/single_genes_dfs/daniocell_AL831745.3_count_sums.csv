@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.mesenchyme,glial,mesenchyme,mural.cell,neural,paraxial.mesoderm,periderm,pgc,presomitic.mesoderm,pronephros,slow.muscle,somites,spinal.cord,vasculature,xanthophores
+stage,blastomeres,epidermis,eye,fin_mesenchyme,glial,mesenchyme,mural_cell,neural,paraxial_mesoderm,periderm,pgc,presomitic_mesoderm,pronephros,slow_muscle,somites,spinal_cord,vasculature,xanthophores
   3-4,426.72,0,0,0,0,0,0,0,0,16.92,0,0,0,0,0,0,0,0
   5-6,139.34,0,0,0,0,0,0,0,0,6.81,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,21.76,10.77,0,5.15,0,0,0,0,0,0,0

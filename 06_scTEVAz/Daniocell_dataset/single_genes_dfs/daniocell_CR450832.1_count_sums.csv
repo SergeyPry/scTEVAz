@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,glial,neural,presomitic.mesoderm,pronephros,slow.muscle,somites,spinal.cord
+stage,epidermis,erythrocytes,eye,glial,neural,presomitic_mesoderm,pronephros,slow_muscle,somites,spinal_cord
  14-21,1.25,0.8,0,0.98,6.88,2.17,0,0,3.74,3.81
  24-34,0.67,0,0.6,0,2.09,0,0,0,0,1.09
  36-46,0,0,0.94,0.9,3.37,0,0,0,0,0

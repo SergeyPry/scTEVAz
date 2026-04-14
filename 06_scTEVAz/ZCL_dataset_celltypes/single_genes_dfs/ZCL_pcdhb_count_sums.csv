@@ -1,4 +1,4 @@
-stage,Endothelial.cell,Hepatocyte,Macrophage,Neural.cell,Oligodendrocyte,Radial.glia
-72hpf,0,0,0,24.6051962537198,1.06979114146608,1.06979114146608
-21Day,0,0,0,8.03119852921984,1.33853308820331,0
-22Month,0.546654651197433,1.6399639535923,0.546654651197433,0,0.546654651197433,0
+stage,Endothelial_cell,Hepatocyte,Macrophage,Neural_cell,Oligodendrocyte,Radial_glia
+72hpf,0,0,0,24.61,1.07,1.07
+21Day,0,0,0,8.03,1.34,0
+22Month,0.55,1.64,0.55,0,0.55,0

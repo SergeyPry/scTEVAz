@@ -1,4 +1,4 @@
-stage,fast.muscle,fin.mesenchyme,immune,liver,mesenchyme,mural.cell,neural,olfactory,vasculature,visceral.smooth.muscle
+stage,fast_muscle,fin_mesenchyme,immune,liver,mesenchyme,mural_cell,neural,olfactory,vasculature,visceral_smooth_muscle
  48-58,0,0.47,0,0,0,0,0,0,0,0
  60-70,0,0,0,0,0,3.05,0,0,0,0
  72-82,0,0,0,0,0.95,0,2.77,1.12,0,0

@@ -1,4 +1,4 @@
-stage,endoderm,immune,mesenchyme,neural,spinal.cord,vasculature
+stage,endoderm,immune,mesenchyme,neural,spinal_cord,vasculature
  10-12,3.15,0,0,3.15,0,0
  14-21,0,0,0,1,1,0
  24-34,0,0,0,0,0,0.82

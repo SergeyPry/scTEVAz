@@ -1,4 +1,4 @@
-stage,epidermis,fin.epithelia,gut,ionocyte,liver,mucous,neural,otic,periderm,taste
+stage,epidermis,fin_epithelia,gut,ionocyte,liver,mucous,neural,otic,periderm,taste
  14-21,0,0,0,0,0,0,0,0,0.84,0
  24-34,0,0,0,0,0,0,0,0.86,2.53,0
  36-46,0,0,0,0,0,0,0,0,1.05,0

@@ -1,4 +1,4 @@
-stage,eye,glial,iridophores,melanocytes,mesenchyme,mural.cell,muscle,neural,olfactory,paraxial.mesoderm,spinal.cord,vasculature,xanthophores
+stage,eye,glial,iridophores,melanocytes,mesenchyme,mural_cell,muscle,neural,olfactory,paraxial_mesoderm,spinal_cord,vasculature,xanthophores
  14-21,0,0,0,0,1.04,0,0,0.95,0,1,1.21,0,0
  24-34,0,0,1.64,0,0.72,0,0,7.69,0,0,0.61,0,0
  36-46,0,0,0,0,0.61,0,1.22,19.22,1.39,0,1.46,0,2.73

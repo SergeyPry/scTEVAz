@@ -1,4 +1,4 @@
-stage,blastomeres,erythrocytes,eye,iridophores,liver,mesenchyme,mural.cell,neural,paraxial.mesoderm,presomitic.mesoderm,slow.muscle,vascular.smooth.muscle
+stage,blastomeres,erythrocytes,eye,iridophores,liver,mesenchyme,mural_cell,neural,paraxial_mesoderm,presomitic_mesoderm,slow_muscle,vascular_smooth_muscle
   3-4,12.09,0,0,0,0,0,0,0,0,0,0,0
   5-6,12.06,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,18.26,9.48,0,0,0

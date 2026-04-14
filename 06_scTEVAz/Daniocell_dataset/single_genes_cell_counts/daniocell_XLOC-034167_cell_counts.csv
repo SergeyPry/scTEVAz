@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,fin.mesenchyme,glial,gut,hatching.gland,ionocyte,mesenchyme,neural,notochord,periderm,presomitic.mesoderm,slow.muscle,spinal.cord,xanthophores
+stage,endoderm,epidermis,eye,fin_mesenchyme,glial,gut,hatching_gland,ionocyte,mesenchyme,neural,notochord,periderm,presomitic_mesoderm,slow_muscle,spinal_cord,xanthophores
   7-9,0,0,0,0,0,0,2.63,0,0,2.63,0,0,0,0,0,0
  10-12,3.15,0,0,0,0,0,0,0,0,6.29,0,0,0,0,0,0
  14-21,0,1,2,0,1,0,0,0,0,6,1,0,1,0,0,0

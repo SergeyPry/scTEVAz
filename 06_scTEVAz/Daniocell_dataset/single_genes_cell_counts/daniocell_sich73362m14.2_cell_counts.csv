@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,fin.epithelia,glial,immune,melanocytes,mesenchyme,mural.cell,neural,olfactory,paraxial.mesoderm,spinal.cord
+stage,blastomeres,epidermis,erythrocytes,eye,fin_epithelia,glial,immune,melanocytes,mesenchyme,mural_cell,neural,olfactory,paraxial_mesoderm,spinal_cord
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.13,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,2.63,0,0,0

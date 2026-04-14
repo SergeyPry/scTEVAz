@@ -1,4 +1,4 @@
-stage,erythrocytes,exocrine.pancreas,glial,liver,mesenchyme,mural.cell,neural,notochord,olfactory,spinal.cord,vascular.smooth.muscle,visceral.smooth.muscle
+stage,erythrocytes,exocrine_pancreas,glial,liver,mesenchyme,mural_cell,neural,notochord,olfactory,spinal_cord,vascular_smooth_muscle,visceral_smooth_muscle
  14-21,0,0,0,0,1.18,0,0,0,0,0,0,0
  24-34,0,0,0,0,0,0,0,0,0,0.75,0,0
  36-46,0,0,0,0,0,0,0,0.72,1.4,4.29,0,0

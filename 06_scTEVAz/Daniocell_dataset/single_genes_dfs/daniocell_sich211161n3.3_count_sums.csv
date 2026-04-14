@@ -1,4 +1,4 @@
-stage,blastomeres,erythrocytes,eye,glial,heart,immune,mesenchyme,mural.cell,muscle,neural,olfactory,periderm,somites,spinal.cord,vasculature,visceral.smooth.muscle
+stage,blastomeres,erythrocytes,eye,glial,heart,immune,mesenchyme,mural_cell,muscle,neural,olfactory,periderm,somites,spinal_cord,vasculature,visceral_smooth_muscle
   3-4,12.97,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,4.97,0,0,0,0,0,0,0,0,0,0,0,0,0

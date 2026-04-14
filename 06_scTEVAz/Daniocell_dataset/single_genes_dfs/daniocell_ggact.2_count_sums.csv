@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,fast.muscle,hatching.gland,immune,ionocyte,mesenchyme,neural,notochord,paraxial.mesoderm,periderm,pronephros,spinal.cord
+stage,blastomeres,endoderm,epidermis,eye,fast_muscle,hatching_gland,immune,ionocyte,mesenchyme,neural,notochord,paraxial_mesoderm,periderm,pronephros,spinal_cord
   3-4,51.99,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,128.08,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,4.78,0,3.34,0,10.2,0,0,0,58.49,4.17,30.62,0,0,0

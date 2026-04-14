@@ -1,6 +1,6 @@
-stage,Epithelial.cell,Epithelial.cell..Brain.,Erythroid.progenitor.cell,Hepatocyte,Immune.progenitor.cell,Intestinal.bulb.cell,Ionocyte,Keratinocyte,Macrophage,Neural.cell,Neural.progenitor.cell,Radial.glia,Smooth.muscle.cell,Spermatocyte
+stage,Epithelial_cell,Epithelial_cell__Brain_,Erythroid_progenitor_cell,Hepatocyte,Immune_progenitor_cell,Intestinal_bulb_cell,Ionocyte,Keratinocyte,Macrophage,Neural_cell,Neural_progenitor_cell,Radial_glia,Smooth_muscle_cell,Spermatocyte
 24hpf,0,0,0,0,0,0,1,0,0,1,0,0,0,0
-72hpf,0,0.281848056003223,0,0,0,0,0,0,0,1.40924028001612,0,0,0,0
-21Day,0,0,0.369986860264282,0,0,0,0,0.369986860264282,0.369986860264282,2.95989488211426,0.369986860264282,0,0,0
-3Month,0.416068026578691,0,0,1.1441870730914,0.104017006644673,0.312051019934018,0,0.208034013289345,0.104017006644673,0,0,0.104017006644673,0.104017006644673,0.312051019934018
-22Month,0,0,0,0.956546023916932,0,0,0,0,0,0,0,0,0,0
+72hpf,0,0.28,0,0,0,0,0,0,0,1.41,0,0,0,0
+21Day,0,0,0.37,0,0,0,0,0.37,0.37,2.96,0.37,0,0,0
+3Month,0.42,0,0,1.14,0.1,0.31,0,0.21,0.1,0,0,0.1,0.1,0.31
+22Month,0,0,0,0.96,0,0,0,0,0,0,0,0,0,0

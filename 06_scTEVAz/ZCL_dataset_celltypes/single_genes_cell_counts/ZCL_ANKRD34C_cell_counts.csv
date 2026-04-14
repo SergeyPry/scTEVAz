@@ -1,5 +1,5 @@
-stage,Hepatocyte,Immune.progenitor.cell,Mesenchymal.cell,Nephron.cell,Neural.cell,Neural.progenitor.cell,Radial.glia,Retinal.cone.cell
+stage,Hepatocyte,Immune_progenitor_cell,Mesenchymal_cell,Nephron_cell,Neural_cell,Neural_progenitor_cell,Radial_glia,Retinal_cone_cell
 24hpf,0,0,0,0,0,1,0,0
-72hpf,0,0,0,0.281848056003223,5.35511306406124,0,0,0
-21Day,0,0.739973720528564,0.369986860264282,0,5.91978976422852,0,0.369986860264282,0.369986860264282
-22Month,0.546597727952532,0,0,0,0,0,0,0
+72hpf,0,0,0,0.28,5.36,0,0,0
+21Day,0,0.74,0.37,0,5.92,0,0.37,0.37
+22Month,0.55,0,0,0,0,0,0,0

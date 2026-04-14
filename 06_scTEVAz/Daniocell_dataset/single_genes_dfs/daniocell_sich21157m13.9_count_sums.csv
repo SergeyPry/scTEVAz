@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,glial,heart,immune,ionocyte,melanocytes,mesenchyme,muscle,neural,olfactory,otic,pericytes,periderm,spinal.cord,vasculature
+stage,epidermis,erythrocytes,eye,glial,heart,immune,ionocyte,melanocytes,mesenchyme,muscle,neural,olfactory,otic,pericytes,periderm,spinal_cord,vasculature
  14-21,0.87,0,0.99,0,0,0,0,0,0.83,11.23,2.83,0,0,0,0,4.49,0
  24-34,0.61,0,0,0,0,0,0,0,0,0,11.52,0,0.98,0,0.95,1.52,0
  36-46,0,0,1.49,0,0,0,0,0,0,0,8.47,1.67,0,2.85,1.74,1.38,0

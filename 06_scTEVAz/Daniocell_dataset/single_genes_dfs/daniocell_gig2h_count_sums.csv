@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,erythrocytes,eye,glial,gut,immune,liver,mesenchyme,neural,paraxial.mesoderm,periderm,pronephros,spinal.cord,vasculature
+stage,endocrine_pancreas,epidermis,erythrocytes,eye,glial,gut,immune,liver,mesenchyme,neural,paraxial_mesoderm,periderm,pronephros,spinal_cord,vasculature
   7-9,0,0,0,0,0,0,0,0,0,4.77,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,51.4,3.81,0,14.35,0,0
  14-21,0,0,0,0,3.36,3.48,0,0,0,0,0,0,0,9.9,0

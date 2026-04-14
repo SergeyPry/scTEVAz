@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,immune,ionocyte,liver,mesenchyme,muscle,neural
+stage,endocrine_pancreas,epidermis,eye,immune,ionocyte,liver,mesenchyme,muscle,neural
  24-34,0,0,0,0.82,0,0,0,0,0
  48-58,0,0,0.57,0,0,0,1.15,0.57,0
  60-70,0,0,0,0,0.98,0,0.98,0,2.94

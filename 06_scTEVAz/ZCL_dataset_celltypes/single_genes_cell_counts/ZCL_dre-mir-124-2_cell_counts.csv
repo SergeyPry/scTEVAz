@@ -1,4 +1,4 @@
-stage,Keratinocyte,Neural.cell,Neural.progenitor.cell
+stage,Keratinocyte,Neural_cell,Neural_progenitor_cell
 24hpf,0,1,1
-72hpf,0.281848056003223,7.04620140008058,0.563696112006446
-21Day,0,0.369986860264282,0
+72hpf,0.28,7.05,0.56
+21Day,0,0.37,0

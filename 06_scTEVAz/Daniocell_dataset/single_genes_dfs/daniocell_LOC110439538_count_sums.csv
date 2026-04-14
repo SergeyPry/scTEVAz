@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.mesenchyme,glial,ionocyte,mesenchyme,muscle,neural,olfactory,otic,periderm,spinal.cord
+stage,epidermis,eye,fin_mesenchyme,glial,ionocyte,mesenchyme,muscle,neural,olfactory,otic,periderm,spinal_cord
  14-21,0.84,0,0,0,0,0,0,1.96,0,0,0,0.92
  24-34,0.72,0,0,0,0,0,0,0.82,0,0,0,0.99
  36-46,0,0,0,1.19,0,0.88,0,1.64,0,0,0,0

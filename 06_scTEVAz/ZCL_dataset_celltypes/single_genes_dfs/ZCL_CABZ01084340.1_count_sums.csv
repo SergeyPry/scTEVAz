@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Goblet.cell,Hepatocyte,Mesenchymal.cell,Nephron.cell,Retinal.pigment.epithelial.cell
-21Day,1.33853308820331,0,0,1.33853308820331,0,1.33853308820331
-3Month,0,0,0.319949299554195,0.319949299554195,0.319949299554195,0
-22Month,1.09330930239487,0.546654651197433,0,0,0,0
+stage,Epithelial_cell,Goblet_cell,Hepatocyte,Mesenchymal_cell,Nephron_cell,Retinal_pigment_epithelial_cell
+21Day,1.34,0,0,1.34,0,1.34
+3Month,0,0,0.32,0.32,0.32,0
+22Month,1.09,0.55,0,0,0,0

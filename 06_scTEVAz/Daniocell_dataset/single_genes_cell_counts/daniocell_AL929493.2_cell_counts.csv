@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fast.muscle,fin.mesenchyme,glial,lateral.line,liver,mesenchyme,muscle,neural,periderm,slow.muscle,somites,spinal.cord,vasculature,xanthophores
+stage,epidermis,erythrocytes,eye,fast_muscle,fin_mesenchyme,glial,lateral_line,liver,mesenchyme,muscle,neural,periderm,slow_muscle,somites,spinal_cord,vasculature,xanthophores
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,3,17,0,0,0
  24-34,0,0,0,5.75,0,0,0.82,0,0,1.64,12.31,0,2.46,31.19,2.46,0,0
  36-46,0,0,0.81,15.31,0,0,0,0,0,1.61,11.28,0,1.61,1.61,0.81,0,0

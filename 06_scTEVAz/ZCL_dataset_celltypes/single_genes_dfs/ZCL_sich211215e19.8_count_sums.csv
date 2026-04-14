@@ -1,5 +1,5 @@
-stage,Epithelial.cell,Goblet.cell,Granulocyte,Granulosa.cell,Hepatocyte,Immune.cell,Immune.progenitor.cell,Intestinal.bulb.cell,Macrophage,Mesenchymal.cell,Osteoblast,Radial.glia,T.cell
-24hpf,0,0,0,0,0,0,0,0,0,4.08640457285017,0,0,0
-72hpf,0,0,0,0,0,0,0,0,0,0,1.06979114146608,1.06979114146608,0
-3Month,0.319949299554195,0,0,0,0.319949299554195,5.43913809242132,0.319949299554195,0,2.55959439643356,0,0,0,1.91969579732517
-22Month,0,0.546654651197433,0.546654651197433,0.546654651197433,0,2.18661860478973,0,0.546654651197433,1.6399639535923,0,0,0,1.6399639535923
+stage,Epithelial_cell,Goblet_cell,Granulocyte,Granulosa_cell,Hepatocyte,Immune_cell,Immune_progenitor_cell,Intestinal_bulb_cell,Macrophage,Mesenchymal_cell,Osteoblast,Radial_glia,T_cell
+24hpf,0,0,0,0,0,0,0,0,0,4.09,0,0,0
+72hpf,0,0,0,0,0,0,0,0,0,0,1.07,1.07,0
+3Month,0.32,0,0,0,0.32,5.44,0.32,0,2.56,0,0,0,1.92
+22Month,0,0.55,0.55,0.55,0,2.19,0,0.55,1.64,0,0,0,1.64

@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,erythrocytes,eye,fin.epithelia,muscle,neural,paraxial.mesoderm,periderm,pronephros
+stage,blastomeres,endoderm,erythrocytes,eye,fin_epithelia,muscle,neural,paraxial_mesoderm,periderm,pronephros
   3-4,13.18,0,0,0,0,0,0,0,0,0
   5-6,18.39,0,0,0,0,0,0,0,0,0
   7-9,0,2.63,0,10.51,0,0,7.89,2.63,0,0

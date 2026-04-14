@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,erythrocytes,eye,fin.epithelia,glial,heart,immune,mesenchyme,mural.cell,muscle,neural,paraxial.mesoderm,periderm,pgc,spinal.cord,vasculature
+stage,blastomeres,endoderm,erythrocytes,eye,fin_epithelia,glial,heart,immune,mesenchyme,mural_cell,muscle,neural,paraxial_mesoderm,periderm,pgc,spinal_cord,vasculature
   3-4,105.42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,61.3,0,0,0,0,0,0,0,0,0,0,6.13,0,12.26,0,0,0
   7-9,0,5.26,0,5.26,0,0,0,0,0,0,0,10.51,5.26,0,0,0,0

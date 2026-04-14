@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,eye,fin.mesenchyme,mesenchyme,neural,otic,periderm,spinal.cord
+stage,axial,blastomeres,epidermis,eye,fin_mesenchyme,mesenchyme,neural,otic,periderm,spinal_cord
   3-4,12.39,21.25,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,5.79,0,0,0
  14-21,0,0,0.89,0,0,0,8.29,0,0,0.99

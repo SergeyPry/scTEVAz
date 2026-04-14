@@ -1,4 +1,4 @@
-stage,erythrocytes,glial,mesenchyme,mural.cell,muscle,neural,paraxial.mesoderm,presomitic.mesoderm,somites,spinal.cord
+stage,erythrocytes,glial,mesenchyme,mural_cell,muscle,neural,paraxial_mesoderm,presomitic_mesoderm,somites,spinal_cord
   7-9,0,0,0,0,0,4.8,4.57,0,0,0
  14-21,0.81,0,2.85,0,1.62,1.23,0,1.88,2.6,2.05
  24-34,0,0,0,0,1.55,0,0,0,0,0

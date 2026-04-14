@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.mesenchyme,glial,gut,melanocytes,mesenchyme,neural,olfactory,paraxial.mesoderm,spinal.cord
+stage,blastomeres,epidermis,eye,fin_mesenchyme,glial,gut,melanocytes,mesenchyme,neural,olfactory,paraxial_mesoderm,spinal_cord
   3-4,71.52,0,0,0,0,0,0,0,0,0,0,0
   5-6,27.36,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,5.15,0,3.75,0

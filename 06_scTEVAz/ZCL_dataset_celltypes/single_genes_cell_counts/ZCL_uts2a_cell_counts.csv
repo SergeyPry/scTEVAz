@@ -1,5 +1,5 @@
-stage,Enterocyte,Epithelial.cell,Erythrocyte,Goblet.cell,Granulosa.cell,Hepatocyte,Intestinal.bulb.cell,Neural.cell,Neural.progenitor.cell,Spermatocyte
-72hpf,0,0,0,0,0,0,0,1.69108833601934,0.563696112006446,0
-21Day,0.369986860264282,0,0.369986860264282,0,0,0,0,1.10996058079285,0,0
-3Month,0,0,0,0,0,0,0.104017006644673,0,0,0.104017006644673
-22Month,0,0.136649431988133,0,0.136649431988133,0.136649431988133,0.409948295964399,0,0,0,0
+stage,Enterocyte,Epithelial_cell,Erythrocyte,Goblet_cell,Granulosa_cell,Hepatocyte,Intestinal_bulb_cell,Neural_cell,Neural_progenitor_cell,Spermatocyte
+72hpf,0,0,0,0,0,0,0,1.69,0.56,0
+21Day,0.37,0,0.37,0,0,0,0,1.11,0,0
+3Month,0,0,0,0,0,0,0.1,0,0,0.1
+22Month,0,0.14,0,0.14,0.14,0.41,0,0,0,0

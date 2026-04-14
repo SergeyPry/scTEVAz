@@ -1,5 +1,5 @@
-stage,Epithelial.cell,Erythroid.progenitor.cell,Hepatocyte,Immune.cell,Ionocyte,Keratinocyte,Mesenchymal.cell,Mesenchymal.cell..caudal.fin.,Mt.rich.cell,Neural.progenitor.cell,Neurosecretory.cell,Osteoblast
-72hpf,0,0.281848056003223,0,0,0.563696112006446,0,0,0,0.281848056003223,0.281848056003223,0,0.281848056003223
-21Day,0,0.369986860264282,0,0,0.369986860264282,0.369986860264282,0.369986860264282,0,0,0.739973720528564,0.369986860264282,0.739973720528564
-3Month,0.312051019934018,0,0.208034013289345,0.104017006644673,0.104017006644673,0.104017006644673,0,0.104017006644673,0,0,0,0
-22Month,0.136649431988133,0,0.273298863976266,0,0,0,0,0,0,0,0,0
+stage,Epithelial_cell,Erythroid_progenitor_cell,Hepatocyte,Immune_cell,Ionocyte,Keratinocyte,Mesenchymal_cell,Mesenchymal_cell__caudal_fin_,Mt_rich_cell,Neural_progenitor_cell,Neurosecretory_cell,Osteoblast
+72hpf,0,0.28,0,0,0.56,0,0,0,0.28,0.28,0,0.28
+21Day,0,0.37,0,0,0.37,0.37,0.37,0,0,0.74,0.37,0.74
+3Month,0.31,0,0.21,0.1,0.1,0.1,0,0.1,0,0,0,0
+22Month,0.14,0,0.27,0,0,0,0,0,0,0,0,0

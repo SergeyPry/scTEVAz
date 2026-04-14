@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,endoderm,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,gut,ionocyte,lateral.line,melanocytes,mesenchyme,neural,notochord,olfactory,otic,periderm,pronephros,spinal.cord,vascular.smooth.muscle,vasculature,xanthophores
+stage,endocrine_pancreas,endoderm,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,gut,ionocyte,lateral_line,melanocytes,mesenchyme,neural,notochord,olfactory,otic,periderm,pronephros,spinal_cord,vascular_smooth_muscle,vasculature,xanthophores
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,8.73,0,0,0,0,0,0,0,0,0
  10-12,0,19.11,0,0,0,0,0,0,0,0,0,0,6.48,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,3.58,1.08,0,0,0,0,0.96,1.42,3.47,2.16,0,2.81,19.69,0,0,0

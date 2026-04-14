@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,ionocyte,mesenchyme,mural.cell,muscle,neural,spinal.cord
+stage,epidermis,eye,glial,ionocyte,mesenchyme,mural_cell,muscle,neural,spinal_cord
  14-21,0.9,0.82,0,0,0,0,0,4.24,0.88
  24-34,0,0,0,0,0,0,0.63,2.98,0.59
  36-46,0.94,0,0,0,1.13,0,0,0.61,0

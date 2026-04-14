@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,eye,gut,liver,mesenchyme,muscle,neural,otic,paraxial.mesoderm,periderm,vasculature
+stage,axial,blastomeres,epidermis,eye,gut,liver,mesenchyme,muscle,neural,otic,paraxial_mesoderm,periderm,vasculature
   3-4,17.84,129.9,0,0,0,0,0,0,0,0,0,0,0
   5-6,8.23,37.51,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,6.62,0,0,0,0,0,0,41.77,0,8.14,0,0

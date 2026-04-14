@@ -1,5 +1,5 @@
-stage,Granulocyte,Macrophage,Neural.cell,Neural.progenitor.cell,Retinal.cone.cell,T.cell
+stage,Granulocyte,Macrophage,Neural_cell,Neural_progenitor_cell,Retinal_cone_cell,T_cell
 24hpf,0,2,0,0,0,0
-72hpf,0,0,0.281848056003223,0.84554416800967,0.281848056003223,0
-21Day,0.369986860264282,0,0.369986860264282,0,0,0
-3Month,0.104017006644673,0,0,0,0,0.312051019934018
+72hpf,0,0,0.28,0.85,0.28,0
+21Day,0.37,0,0.37,0,0,0
+3Month,0.1,0,0,0,0,0.31

@@ -1,4 +1,4 @@
-stage,Hepatocyte,Mesenchymal.cell,Muscle.cell,Neural.cell,Neural.progenitor.cell
-24hpf,0,0,0,0,8.17280914570035
-72hpf,0,0,0,1.06979114146608,0
-22Month,0.546654651197433,0.546654651197433,0.546654651197433,0,0
+stage,Hepatocyte,Mesenchymal_cell,Muscle_cell,Neural_cell,Neural_progenitor_cell
+24hpf,0,0,0,0,8.17
+72hpf,0,0,0,1.07,0
+22Month,0.55,0.55,0.55,0,0

@@ -1,4 +1,4 @@
-stage,eye,fin.epithelia,glial,mesenchyme,neural,pericytes,spinal.cord
+stage,eye,fin_epithelia,glial,mesenchyme,neural,pericytes,spinal_cord
  14-21,0,0,0,1,0,0,0
  24-34,0,0,0,0,2.46,0,2.46
  36-46,0.81,0,0.81,0,3.22,0,0.81

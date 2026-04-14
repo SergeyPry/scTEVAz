@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,erythrocytes,hatching.gland,immune,iridophores,liver,mural.cell,neural,notochord,paraxial.mesoderm,pronephros,somites,spinal.cord
+stage,axial,blastomeres,endoderm,erythrocytes,hatching_gland,immune,iridophores,liver,mural_cell,neural,notochord,paraxial_mesoderm,pronephros,somites,spinal_cord
   3-4,0,26.36,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,12.26,24.52,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,2.63,2.63,5.26,0,2.63,0,0,0,0,21.03,2.63,10.51,0,0,0

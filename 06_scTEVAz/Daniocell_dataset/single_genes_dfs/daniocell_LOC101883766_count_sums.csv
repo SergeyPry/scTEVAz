@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,fin.epithelia,glial,gut,liver,mesenchyme,muscle,neural,notochord,olfactory,paraxial.mesoderm,periderm,somites,spinal.cord,taste,vascular.smooth.muscle,vasculature,xanthophores
+stage,blastomeres,endoderm,epidermis,eye,fin_epithelia,glial,gut,liver,mesenchyme,muscle,neural,notochord,olfactory,paraxial_mesoderm,periderm,somites,spinal_cord,taste,vascular_smooth_muscle,vasculature,xanthophores
   3-4,20.84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,15.81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,4.71,14.64,0,6.14,0,0,0,0,0,0,41.17,0,0,24.62,0,0,0,0,0,0,0

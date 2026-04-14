@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,gut,ionocyte,lateral.line,mucous,neural,otic,periderm,spinal.cord,vasculature
+stage,blastomeres,epidermis,gut,ionocyte,lateral_line,mucous,neural,otic,periderm,spinal_cord,vasculature
   5-6,45.76,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,1.86,0,0,0,0,2.65,0,0
  24-34,0,0.62,0,1.18,0,1.03,2.56,1.78,0,0,0

@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,eye,fin.epithelia,fin.mesenchyme,gut,melanocytes,mesenchyme,muscle,neural,otic,paraxial.mesoderm,periderm,presomitic.mesoderm,pronephros,spinal.cord,vascular.smooth.muscle,vasculature
+stage,axial,blastomeres,epidermis,eye,fin_epithelia,fin_mesenchyme,gut,melanocytes,mesenchyme,muscle,neural,otic,paraxial_mesoderm,periderm,presomitic_mesoderm,pronephros,spinal_cord,vascular_smooth_muscle,vasculature
   3-4,17.18,51.37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,0,142.45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,5.36,0,0,0,0,0,0,40.93,0,33.42,0,0,0,0,0,0

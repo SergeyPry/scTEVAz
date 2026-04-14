@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,exocrine.pancreas,eye,fin.epithelia,glial,immune,mesenchyme,mucous,mural.cell,muscle,neural,olfactory,periderm,slow.muscle,somites,spinal.cord,xanthophores
+stage,epidermis,erythrocytes,exocrine_pancreas,eye,fin_epithelia,glial,immune,mesenchyme,mucous,mural_cell,muscle,neural,olfactory,periderm,slow_muscle,somites,spinal_cord,xanthophores
  14-21,0,0,0,0,0,0,0,1.35,0,0,0,9.69,0,0,0,0.99,1.98,0
  24-34,0.63,0.63,0,0,0,0,0,0,0,0,1.44,8.22,0,0,0,0,0.91,0
  36-46,0,0,0,5.97,0,0,0,0,0,0,0,8.77,0,0,0,0,3.29,0

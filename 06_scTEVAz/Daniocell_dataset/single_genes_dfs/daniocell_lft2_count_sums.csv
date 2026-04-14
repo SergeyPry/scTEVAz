@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,fast.muscle,glial,hatching.gland,heart,ionocyte,iridophores,mesenchyme,mucous,muscle,neural,notochord,paraxial.mesoderm,periderm,presomitic.mesoderm,somites,spinal.cord,taste,vasculature,visceral.smooth.muscle
+stage,axial,blastomeres,endoderm,epidermis,eye,fast_muscle,glial,hatching_gland,heart,ionocyte,iridophores,mesenchyme,mucous,muscle,neural,notochord,paraxial_mesoderm,periderm,presomitic_mesoderm,somites,spinal_cord,taste,vasculature,visceral_smooth_muscle
   3-4,2031.17,3969.42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59.14,0,0,0,0,0,0
   5-6,3662.54,4107.03,50.17,0,0,0,0,618.5,0,0,0,0,0,0,146.52,83,0,7.68,0,0,0,0,0,0
   7-9,1499.37,34,366.42,0,565.42,0,0,3393.06,0,0,0,0,0,0,4402.9,1438.69,270.7,0,0,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,glial,gut,hatching.gland,iridophores,mesenchyme,neural,notochord,otic,pericytes,periderm,pronephros,spinal.cord
+stage,blastomeres,epidermis,erythrocytes,eye,glial,gut,hatching_gland,iridophores,mesenchyme,neural,notochord,otic,pericytes,periderm,pronephros,spinal_cord
   3-4,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,15.64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,7.25,0,0,0,0,0,0,0,0,0

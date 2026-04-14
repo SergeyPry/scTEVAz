@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,eye,glial,mesenchyme,muscle,neural,olfactory,otic,paraxial.mesoderm,periderm,spinal.cord,xanthophores
+stage,axial,blastomeres,endoderm,eye,glial,mesenchyme,muscle,neural,olfactory,otic,paraxial_mesoderm,periderm,spinal_cord,xanthophores
   3-4,53.41,669.69,0,0,0,0,0,0,0,0,0,14.43,0,0
   5-6,60.09,542.61,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,9.55,0,0,0,0,48.75,0,0,33.15,0,0,0

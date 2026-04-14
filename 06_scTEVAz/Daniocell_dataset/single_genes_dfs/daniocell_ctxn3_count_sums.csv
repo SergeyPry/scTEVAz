@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,eye,fin.epithelia,glial,gut,iridophores,lateral.line,mesenchyme,muscle,neural,notochord,olfactory,otic,periderm,somites,spinal.cord,vascular.smooth.muscle,vasculature,visceral.smooth.muscle
+stage,axial,blastomeres,epidermis,eye,fin_epithelia,glial,gut,iridophores,lateral_line,mesenchyme,muscle,neural,notochord,olfactory,otic,periderm,somites,spinal_cord,vascular_smooth_muscle,vasculature,visceral_smooth_muscle
   3-4,0,26.15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,14.71,0,0,0,0,0,0,0,0,0
  14-21,0.89,0,0.81,0,0,1.19,0,0,0,0,1.28,2.25,0,0,0,0,0.98,3.32,0,0,0

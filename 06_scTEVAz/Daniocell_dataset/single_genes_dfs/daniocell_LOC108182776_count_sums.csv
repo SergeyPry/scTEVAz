@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fast.muscle,fin.epithelia,fin.mesenchyme,glial,gut,mesenchyme,muscle,neural,pericytes,periderm,pronephros,slow.muscle,somites,spinal.cord
+stage,blastomeres,epidermis,eye,fast_muscle,fin_epithelia,fin_mesenchyme,glial,gut,mesenchyme,muscle,neural,pericytes,periderm,pronephros,slow_muscle,somites,spinal_cord
   3-4,11.61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,14.72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,6.96,0,0,0,0,0,0,0,0,0,14.03,0,0,0,0,0,0

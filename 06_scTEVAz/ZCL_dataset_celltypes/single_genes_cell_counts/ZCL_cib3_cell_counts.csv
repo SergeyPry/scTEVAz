@@ -1,4 +1,4 @@
-stage,Epithelial.cell..Brain.,Hepatocyte,Neural.cell,Osteoblast,Retinal.cell
-72hpf,0.84554416800967,0,0.563696112006446,0.281848056003223,0
-21Day,0.739973720528564,0,0.739973720528564,0,0.369986860264282
-22Month,0,0.409948295964399,0,0,0
+stage,Epithelial_cell__Brain_,Hepatocyte,Neural_cell,Osteoblast,Retinal_cell
+72hpf,0.85,0,0.56,0.28,0
+21Day,0.74,0,0.74,0,0.37
+22Month,0,0.41,0,0,0

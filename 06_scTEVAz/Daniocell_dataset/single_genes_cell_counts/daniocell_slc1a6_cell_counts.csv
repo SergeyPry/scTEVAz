@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.mesenchyme,glial,immune,ionocyte,iridophores,mesenchyme,muscle,neural,notochord,olfactory,paraxial.mesoderm,periderm,presomitic.mesoderm,pronephros,spinal.cord,vasculature
+stage,blastomeres,epidermis,eye,fin_mesenchyme,glial,immune,ionocyte,iridophores,mesenchyme,muscle,neural,notochord,olfactory,paraxial_mesoderm,periderm,presomitic_mesoderm,pronephros,spinal_cord,vasculature
   7-9,2.63,0,0,0,0,0,0,0,0,0,2.63,2.63,0,2.63,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,22.03,0,0,0,0,0,3.15,0,0
  14-21,0,2,1,0,1,0,0,0,0,0,24,0,0,0,0,1,0,2,0

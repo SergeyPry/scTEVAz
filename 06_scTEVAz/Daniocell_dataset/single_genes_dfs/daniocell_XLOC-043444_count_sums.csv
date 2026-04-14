@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.mesenchyme,gut,mesenchyme,mural.cell,neural,spinal.cord
+stage,epidermis,eye,fin_mesenchyme,gut,mesenchyme,mural_cell,neural,spinal_cord
  14-21,1.48,0,0,0,0.99,0,0,0
  24-34,0,0,0,0,1.94,0,0,1.85
  36-46,0,1.12,0,0,0,0,6.41,1.43

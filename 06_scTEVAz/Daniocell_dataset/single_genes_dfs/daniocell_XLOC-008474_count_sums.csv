@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.mesenchyme,glial,mesenchyme,neural,periderm,somites,spinal.cord
+stage,epidermis,eye,fin_mesenchyme,glial,mesenchyme,neural,periderm,somites,spinal_cord
  14-21,1.28,0,0,1.2,0,3.93,0,0.89,1.08
  24-34,0,1.4,0,0,0,6.01,0.85,0,1.26
  36-46,0,2.06,0,0,0,3.07,0,0,0

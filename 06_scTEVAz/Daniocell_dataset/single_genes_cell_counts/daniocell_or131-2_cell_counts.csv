@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,endoderm,epidermis,eye,glial,muscle,neural,olfactory,periderm,somites,spinal.cord
+stage,blastomeres,endocrine_pancreas,endoderm,epidermis,eye,glial,muscle,neural,olfactory,periderm,somites,spinal_cord
   5-6,6.13,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,2.63,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,3.15,0,0,0,0

@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,fast.muscle,hatching.gland,immune,mesenchyme,muscle,neural,olfactory,otic,paraxial.mesoderm,periderm,somites,spinal.cord,vasculature,xanthophores
+stage,blastomeres,epidermis,erythrocytes,eye,fast_muscle,hatching_gland,immune,mesenchyme,muscle,neural,olfactory,otic,paraxial_mesoderm,periderm,somites,spinal_cord,vasculature,xanthophores
   3-4,39.53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,24.52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,2.63,0,0,0,0,0,0,0,0,0,0,0,0

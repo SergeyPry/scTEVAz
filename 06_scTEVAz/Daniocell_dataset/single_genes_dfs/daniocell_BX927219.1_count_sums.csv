@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,glial,gut,heart,lateral.line,mesenchyme,mural.cell,neural,notochord,otic,paraxial.mesoderm,spinal.cord,vascular.smooth.muscle,vasculature,visceral.smooth.muscle,xanthophores
+stage,axial,blastomeres,endoderm,epidermis,eye,glial,gut,heart,lateral_line,mesenchyme,mural_cell,neural,notochord,otic,paraxial_mesoderm,spinal_cord,vascular_smooth_muscle,vasculature,visceral_smooth_muscle,xanthophores
   3-4,0,11.16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,6.45,5.76,0,0,0,0,0,0,0,0,0,15.25,0,0,3.43,0,0,0,0,0
  10-12,0,0,3.24,0,0,0,0,0,0,0,0,38.52,0,0,0,0,0,0,0,0

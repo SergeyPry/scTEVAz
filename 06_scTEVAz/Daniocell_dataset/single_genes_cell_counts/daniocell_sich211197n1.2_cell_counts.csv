@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,glial,gut,iridophores,lateral.line,melanocytes,muscle,neural,olfactory,pronephros,spinal.cord
+stage,endocrine_pancreas,epidermis,eye,glial,gut,iridophores,lateral_line,melanocytes,muscle,neural,olfactory,pronephros,spinal_cord
  14-21,0,0,0,1,0,0,0,0,0,4,0,0,8
  24-34,0,0,0,2.46,0,0,0,0.82,0,32.01,0,0.82,27.91
  36-46,0,0,0,3.22,0,0,0,0,0,87.01,3.22,0.81,16.92

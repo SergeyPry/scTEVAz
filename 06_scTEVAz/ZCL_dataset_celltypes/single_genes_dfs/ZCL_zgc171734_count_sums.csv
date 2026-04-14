@@ -1,5 +1,5 @@
-stage,Epithelial.cell,Goblet.cell,Hepatocyte,Intestinal.bulb.cell,Ionocyte,Macrophage,Mt.rich.cell,Muscle.cell,Neural.progenitor.cell,Osteoblast,Primordial.germ.cell,Radial.glia,T.cell
-24hpf,4.08640457285017,0,0,0,0,4.08640457285017,0,0,4.08640457285017,0,0,0,0
-72hpf,0,0,0,0,0,0,0,0,0,1.06979114146608,0,1.06979114146608,0
-21Day,4.01559926460992,0,0,0,0,0,0,0,0,0,0,0,0
-3Month,15.6775156781556,0.319949299554195,1.27979719821678,0.319949299554195,0.959847898662586,0.319949299554195,0.319949299554195,0.319949299554195,0,0,0.319949299554195,0,0.319949299554195
+stage,Epithelial_cell,Goblet_cell,Hepatocyte,Intestinal_bulb_cell,Ionocyte,Macrophage,Mt_rich_cell,Muscle_cell,Neural_progenitor_cell,Osteoblast,Primordial_germ_cell,Radial_glia,T_cell
+24hpf,4.09,0,0,0,0,4.09,0,0,4.09,0,0,0,0
+72hpf,0,0,0,0,0,0,0,0,0,1.07,0,1.07,0
+21Day,4.02,0,0,0,0,0,0,0,0,0,0,0,0
+3Month,15.68,0.32,1.28,0.32,0.96,0.32,0.32,0.32,0,0,0.32,0,0.32

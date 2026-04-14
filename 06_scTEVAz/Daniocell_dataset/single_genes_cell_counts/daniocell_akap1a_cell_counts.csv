@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endocrine.pancreas,endoderm,epidermis,eye,fast.muscle,hatching.gland,immune,lateral.line,liver,mesenchyme,muscle,neural,olfactory,otic,paraxial.mesoderm,periderm,pgc,pronephros,spinal.cord
+stage,axial,blastomeres,endocrine_pancreas,endoderm,epidermis,eye,fast_muscle,hatching_gland,immune,lateral_line,liver,mesenchyme,muscle,neural,olfactory,otic,paraxial_mesoderm,periderm,pgc,pronephros,spinal_cord
   3-4,65.89,2108.47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,118.6,0,0,0
   5-6,55.17,858.15,0,0,0,0,0,6.13,0,0,0,0,0,6.13,0,0,0,30.65,0,0,0
   7-9,5.26,5.26,0,5.26,0,2.63,0,5.26,0,0,0,0,0,97.26,0,0,18.4,0,2.63,0,0

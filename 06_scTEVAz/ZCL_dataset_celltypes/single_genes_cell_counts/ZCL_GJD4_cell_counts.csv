@@ -1,5 +1,5 @@
-stage,Cardiomyocyte,Hepatocyte,Immune.cell,Mesenchymal.cell,Mt.rich.cell,Neural.cell,Neural.progenitor.cell
+stage,Cardiomyocyte,Hepatocyte,Immune_cell,Mesenchymal_cell,Mt_rich_cell,Neural_cell,Neural_progenitor_cell
 24hpf,1,0,0,1,0,0,0
-72hpf,0,0,0,0,0,0.281848056003223,0.281848056003223
-3Month,0,0.208034013289345,0.104017006644673,0,0,0,0
-22Month,0,0.273298863976266,0,0,0.136649431988133,0,0
+72hpf,0,0,0,0,0,0.28,0.28
+3Month,0,0.21,0.1,0,0,0,0
+22Month,0,0.27,0,0,0.14,0,0

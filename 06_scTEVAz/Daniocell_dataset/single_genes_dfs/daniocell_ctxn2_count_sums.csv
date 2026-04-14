@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,erythrocytes,eye,fin.mesenchyme,glial,mesenchyme,mucous,neural,notochord,spinal.cord
+stage,endoderm,epidermis,erythrocytes,eye,fin_mesenchyme,glial,mesenchyme,mucous,neural,notochord,spinal_cord
  14-21,0,0,0,0,0,0,0,0,0,0.93,0
  24-34,0,1.28,0,1.12,0,0,0,0,20.16,0,2.11
  36-46,0,0,0,0,0,0,0,0,25.55,0,0

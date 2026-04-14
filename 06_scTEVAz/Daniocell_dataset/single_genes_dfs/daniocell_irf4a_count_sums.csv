@@ -1,4 +1,4 @@
-stage,epidermis,eye,gut,immune,mesenchyme,neural,spinal.cord,vasculature
+stage,epidermis,eye,gut,immune,mesenchyme,neural,spinal_cord,vasculature
  14-21,0,0.97,1.08,0,0,5.53,2.1,0
  24-34,0.72,0,0,0,0,1.33,0,3.92
  48-58,0,0,0,0,0.43,3.65,0,2.25

@@ -1,4 +1,4 @@
-stage,axial,blastomeres,eye,ionocyte,mesenchyme,neural,otic,paraxial.mesoderm,spinal.cord,vasculature
+stage,axial,blastomeres,eye,ionocyte,mesenchyme,neural,otic,paraxial_mesoderm,spinal_cord,vasculature
   3-4,15.77,29.51,0,0,0,0,0,0,0,0
   5-6,0,94.33,0,0,0,0,0,0,0,0
   7-9,0,0,4.61,0,0,50.05,0,17.18,0,0

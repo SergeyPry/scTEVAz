@@ -1,5 +1,5 @@
-stage,Cardiomyocyte,Endothelial.cell,Enterocyte,Epithelial.cell,Erythrocyte..Liver.,Goblet.cell,Granulocyte,Hepatocyte,Immune.cell,Immune.progenitor.cell,Intestinal.bulb.cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal.cell,Mesenchymal.cell..caudal.fin.,Mt.rich.cell,Nephron.cell,Neural.cell,Neurosecretory.cell,Oligodendrocyte,Pancreatic.cell,Primordial.germ.cell,Radial.glia,Retinal.cell,Smooth.muscle.cell,Spermatocyte,T.cell
-72hpf,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.281848056003223,0,0,0,0,0,0,0,0,0
-21Day,0.369986860264282,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.69986860264282,0,0.369986860264282,0,0.369986860264282,0
-3Month,0,0.312051019934018,0.208034013289345,1.1441870730914,0.104017006644673,0.520085033223363,0.416068026578691,3.12051019934018,0.728119046512708,0.312051019934018,1.35222108638074,0.832136053157381,0.832136053157381,0.728119046512708,1.1441870730914,0.104017006644673,0.104017006644673,0.520085033223363,0.208034013289345,0.104017006644673,0.208034013289345,1.1441870730914,110.154010036708,0.104017006644673,0,0.312051019934018,6.86512243854839,0.624102039868036
-22Month,0,0,0,0,0,0,0,1.36649431988133,0,0,0,0.136649431988133,0,0,0.136649431988133,0,0,0,0,0,0,0,12.298448878932,0.136649431988133,0,0,0.136649431988133,0
+stage,Cardiomyocyte,Endothelial_cell,Enterocyte,Epithelial_cell,Erythrocyte__Liver_,Goblet_cell,Granulocyte,Hepatocyte,Immune_cell,Immune_progenitor_cell,Intestinal_bulb_cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal_cell,Mesenchymal_cell__caudal_fin_,Mt_rich_cell,Nephron_cell,Neural_cell,Neurosecretory_cell,Oligodendrocyte,Pancreatic_cell,Primordial_germ_cell,Radial_glia,Retinal_cell,Smooth_muscle_cell,Spermatocyte,T_cell
+72hpf,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.28,0,0,0,0,0,0,0,0,0
+21Day,0.37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.7,0,0.37,0,0.37,0
+3Month,0,0.31,0.21,1.14,0.1,0.52,0.42,3.12,0.73,0.31,1.35,0.83,0.83,0.73,1.14,0.1,0.1,0.52,0.21,0.1,0.21,1.14,110.15,0.1,0,0.31,6.87,0.62
+22Month,0,0,0,0,0,0,0,1.37,0,0,0,0.14,0,0,0.14,0,0,0,0,0,0,0,12.3,0.14,0,0,0.14,0

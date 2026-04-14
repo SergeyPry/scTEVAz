@@ -1,4 +1,4 @@
-stage,epidermis,exocrine.pancreas,eye,fin.mesenchyme,mesenchyme,mucous,muscle,neural,notochord,olfactory,otic,periderm,slow.muscle,somites,spinal.cord
+stage,epidermis,exocrine_pancreas,eye,fin_mesenchyme,mesenchyme,mucous,muscle,neural,notochord,olfactory,otic,periderm,slow_muscle,somites,spinal_cord
  14-21,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
  24-34,0,0,0,0,0,0.82,1.64,0,0,0,0,0,0,0.82,0.82
  36-46,0,0,0,0,1.61,0,2.42,0,0,0,0,0,0,0,0

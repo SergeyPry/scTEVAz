@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.epithelia,glial,gut,immune,ionocyte,lateral.line,mesenchyme,mural.cell,neural,olfactory,otic,pericytes,periderm,spinal.cord,xanthophores
+stage,epidermis,erythrocytes,eye,fin_epithelia,glial,gut,immune,ionocyte,lateral_line,mesenchyme,mural_cell,neural,olfactory,otic,pericytes,periderm,spinal_cord,xanthophores
  14-21,0.81,0,0,0,0,0,0,0,0,0,0,1.86,0,0,0,0,0,0
  24-34,3.49,0,2,0,0,0,0,0,0,0,0,13.32,0,0,0,0.66,0.81,0
  36-46,4.59,0,1.29,0,0,0,0,0,0,0,0,6.7,0,0,0,0,4.84,0

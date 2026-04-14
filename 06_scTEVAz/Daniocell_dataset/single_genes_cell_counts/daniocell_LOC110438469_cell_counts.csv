@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,gut,lateral.line,mesenchyme,muscle,neural,otic,paraxial.mesoderm,spinal.cord
+stage,blastomeres,epidermis,eye,gut,lateral_line,mesenchyme,muscle,neural,otic,paraxial_mesoderm,spinal_cord
   3-4,26.36,0,0,0,0,0,0,0,0,0,0
   5-6,6.13,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,15.77,0,7.89,0

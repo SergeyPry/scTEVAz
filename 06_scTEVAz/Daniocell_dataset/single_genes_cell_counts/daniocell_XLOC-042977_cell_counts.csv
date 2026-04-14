@@ -1,4 +1,4 @@
-stage,eye,liver,melanocytes,mesenchyme,mucous,neural,slow.muscle,somites
+stage,eye,liver,melanocytes,mesenchyme,mucous,neural,slow_muscle,somites
  10-12,3.15,0,0,0,0,0,0,0
  14-21,0,1,0,0,0,1,20,1
  24-34,0.82,0,0.82,0,0,0.82,9.85,0.82

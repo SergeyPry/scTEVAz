@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,erythrocytes,exocrine.pancreas,eye,fin.epithelia,gut,hatching.gland,immune,ionocyte,lateral.line,mesenchyme,muscle,neural,olfactory,paraxial.mesoderm,periderm,taste
+stage,blastomeres,endoderm,epidermis,erythrocytes,exocrine_pancreas,eye,fin_epithelia,gut,hatching_gland,immune,ionocyte,lateral_line,mesenchyme,muscle,neural,olfactory,paraxial_mesoderm,periderm,taste
   3-4,11.93,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,40.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,4.13,0,0,0,0,0,0,0,0,0,0,0,0,4.91,0,3.85,0,0

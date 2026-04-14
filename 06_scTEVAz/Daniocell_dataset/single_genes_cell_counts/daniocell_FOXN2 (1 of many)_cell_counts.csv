@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,gut,hatching.gland,immune,ionocyte,lateral.line,mesenchyme,mucous,muscle,neural,notochord,olfactory,periderm,presomitic.mesoderm,spinal.cord,taste,vasculature
+stage,epidermis,eye,glial,gut,hatching_gland,immune,ionocyte,lateral_line,mesenchyme,mucous,muscle,neural,notochord,olfactory,periderm,presomitic_mesoderm,spinal_cord,taste,vasculature
  14-21,0,0,0,0,1,0,0,0,1,0,1,12,1,0,0,1,1,0,0
  24-34,0.82,2.46,0,0,0,0,0,0,0,0,0.82,27.09,0,0,0,0,6.57,0,0
  36-46,0,16.11,1.61,0,0,0,0.81,0,0,0,0.81,29.81,0,0,0,0,12.89,0,0

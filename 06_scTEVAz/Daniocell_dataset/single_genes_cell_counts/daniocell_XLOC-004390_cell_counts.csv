@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,glial,mesenchyme,muscle,neural,paraxial.mesoderm,periderm,presomitic.mesoderm,spinal.cord
+stage,endocrine_pancreas,epidermis,eye,glial,mesenchyme,muscle,neural,paraxial_mesoderm,periderm,presomitic_mesoderm,spinal_cord
   7-9,0,0,0,0,0,0,5.26,5.26,0,0,0
  14-21,0,0,0,1,0,0,1,0,0,1,1
  24-34,0,0,0,0,0.82,0,2.46,0,0,0,0

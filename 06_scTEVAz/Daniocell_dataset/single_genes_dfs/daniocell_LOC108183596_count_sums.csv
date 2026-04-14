@@ -1,4 +1,4 @@
-stage,fin.mesenchyme,hatching.gland,ionocyte,mesenchyme,mural.cell,muscle,neural,somites,spinal.cord
+stage,fin_mesenchyme,hatching_gland,ionocyte,mesenchyme,mural_cell,muscle,neural,somites,spinal_cord
  14-21,0,0,0,0,0,0,0,1.15,0
  24-34,0,0,0,0,0,0,0,0.61,0
  36-46,0,0,0.6,0,0,0,2.08,0,0

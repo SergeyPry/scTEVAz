@@ -1,5 +1,5 @@
-stage,Cardiomyocyte,Endothelial.cell,Enterocyte,Epithelial.cell,Erythrocyte,Erythrocyte..Liver.,Granulocyte,Hepatocyte,Keratinocyte,Macrophage,Mesenchymal.cell,Mesenchymal.cell..caudal.fin.,Muscle.cell,Neural.cell,Neural.progenitor.cell,Oligodendrocyte,Primordial.germ.cell,Radial.glia,Retinal.pigment.epithelial.cell,Smooth.muscle.cell,Spermatocyte,T.cell
-72hpf,0,0.281848056003223,0,0,0.281848056003223,0,0,0,0,0,0,0,0,5.35511306406124,0.281848056003223,0,0,0,0,0,0,0
-21Day,0.369986860264282,0,0,0,0,0,0,0,0.369986860264282,0,1.47994744105713,0,0.369986860264282,1.10996058079285,0.369986860264282,0,0,0.369986860264282,0.369986860264282,0,0,0.369986860264282
-3Month,0,0,0.104017006644673,0.312051019934018,0,0.104017006644673,0.104017006644673,0.208034013289345,0.312051019934018,0.104017006644673,0.312051019934018,0.104017006644673,0,0.104017006644673,0,0.104017006644673,0.520085033223363,0,0,0.624102039868036,0.208034013289345,0.104017006644673
-22Month,0,0,0,0,0,0,0,0.546597727952532,0,0.136649431988133,0,0,0,0,0,0,0,0,0,0,0,0
+stage,Cardiomyocyte,Endothelial_cell,Enterocyte,Epithelial_cell,Erythrocyte,Erythrocyte__Liver_,Granulocyte,Hepatocyte,Keratinocyte,Macrophage,Mesenchymal_cell,Mesenchymal_cell__caudal_fin_,Muscle_cell,Neural_cell,Neural_progenitor_cell,Oligodendrocyte,Primordial_germ_cell,Radial_glia,Retinal_pigment_epithelial_cell,Smooth_muscle_cell,Spermatocyte,T_cell
+72hpf,0,0.28,0,0,0.28,0,0,0,0,0,0,0,0,5.36,0.28,0,0,0,0,0,0,0
+21Day,0.37,0,0,0,0,0,0,0,0.37,0,1.48,0,0.37,1.11,0.37,0,0,0.37,0.37,0,0,0.37
+3Month,0,0,0.1,0.31,0,0.1,0.1,0.21,0.31,0.1,0.31,0.1,0,0.1,0,0.1,0.52,0,0,0.62,0.21,0.1
+22Month,0,0,0,0,0,0,0,0.55,0,0.14,0,0,0,0,0,0,0,0,0,0,0,0

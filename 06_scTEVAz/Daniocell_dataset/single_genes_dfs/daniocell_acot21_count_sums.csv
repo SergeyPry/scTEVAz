@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,endoderm,erythrocytes,exocrine.pancreas,eye,fast.muscle,glial,ionocyte,lateral.line,liver,mesenchyme,muscle,neural,notochord,paraxial.mesoderm,pgc,spinal.cord
+stage,endocrine_pancreas,endoderm,erythrocytes,exocrine_pancreas,eye,fast_muscle,glial,ionocyte,lateral_line,liver,mesenchyme,muscle,neural,notochord,paraxial_mesoderm,pgc,spinal_cord
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.45,0,0
  10-12,0,7.1,0,0,0,0,0,0,0,0,0,0,3.65,0,0,0,0
  14-21,1.11,0,0,0,0,0,0,0,0,0,0,0,1.07,3.06,0,0,1.67

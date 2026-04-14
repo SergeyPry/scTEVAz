@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,erythrocytes,eye,fast.muscle,fin.epithelia,glial,ionocyte,lateral.line,liver,mesenchyme,muscle,neural,notochord,olfactory,otic,periderm,presomitic.mesoderm,somites,spinal.cord,xanthophores
+stage,endocrine_pancreas,epidermis,erythrocytes,eye,fast_muscle,fin_epithelia,glial,ionocyte,lateral_line,liver,mesenchyme,muscle,neural,notochord,olfactory,otic,periderm,presomitic_mesoderm,somites,spinal_cord,xanthophores
  14-21,0,5,0,2,0,0,1,0,1,0,2,0,33,1,0,0,1,4,1,10,0
  24-34,0,1.64,0,0,0,0,0,0,0,0,3.28,0,10.67,0,0,0,0,0,0,1.64,0
  36-46,0,0.81,0,0,0,0,0,0,0,0,3.22,0.81,12.09,0,0,0,1.61,0,0,4.83,0

@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,erythrocytes,eye,glial,immune,ionocyte,mesenchyme,neural,notochord,paraxial.mesoderm,pronephros,slow.muscle,somites,spinal.cord,vascular.smooth.muscle,vasculature
+stage,axial,blastomeres,endoderm,erythrocytes,eye,glial,immune,ionocyte,mesenchyme,neural,notochord,paraxial_mesoderm,pronephros,slow_muscle,somites,spinal_cord,vascular_smooth_muscle,vasculature
   3-4,26.36,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,18.39,91.94,0,0,0,0,0,0,0,18.39,0,6.13,0,0,0,0,0,0
   7-9,5.26,7.89,23.66,0,0,0,0,0,0,78.86,28.92,205.04,0,0,0,0,0,0

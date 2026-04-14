@@ -1,4 +1,4 @@
-stage,axial,endoderm,erythrocytes,eye,glial,hatching.gland,immune,iridophores,mesenchyme,mucous,muscle,neural,notochord,otic,paraxial.mesoderm,periderm,pronephros,spinal.cord,vascular.smooth.muscle,vasculature,xanthophores
+stage,axial,endoderm,erythrocytes,eye,glial,hatching_gland,immune,iridophores,mesenchyme,mucous,muscle,neural,notochord,otic,paraxial_mesoderm,periderm,pronephros,spinal_cord,vascular_smooth_muscle,vasculature,xanthophores
   5-6,9.81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,3.87,0,0,0,0,0,0,0,0,0,3.5,8.91,0,4.38,0,0,0,0,0,0
  10-12,0,13.41,0,0,0,0,0,0,0,0,0,33.86,0,0,8.61,0,0,0,0,0,0

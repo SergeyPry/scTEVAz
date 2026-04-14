@@ -1,5 +1,5 @@
-stage,Hepatocyte,Keratinocyte,Mesenchymal.cell,Oocyte,Pancreatic.cell,Primordial.germ.cell,Smooth.muscle.cell,Spermatocyte
-24hpf,0,4.08640457285017,4.08640457285017,0,0,0,0,0
-72hpf,0,4.27916456586431,0,0,0,0,0,0
-3Month,0.959847898662586,0,0.319949299554195,0,0.319949299554195,12.1580733830594,0.319949299554195,25.2759946647814
-22Month,0,0,0,0.546654651197433,0,0,0,0
+stage,Hepatocyte,Keratinocyte,Mesenchymal_cell,Oocyte,Pancreatic_cell,Primordial_germ_cell,Smooth_muscle_cell,Spermatocyte
+24hpf,0,4.09,4.09,0,0,0,0,0
+72hpf,0,4.28,0,0,0,0,0,0
+3Month,0.96,0,0.32,0,0.32,12.16,0.32,25.28
+22Month,0,0,0,0.55,0,0,0,0

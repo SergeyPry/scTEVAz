@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,glial,ionocyte,mesenchyme,mural.cell,neural,olfactory,paraxial.mesoderm,periderm,pgc,presomitic.mesoderm,spinal.cord
+stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,glial,ionocyte,mesenchyme,mural_cell,neural,olfactory,paraxial_mesoderm,periderm,pgc,presomitic_mesoderm,spinal_cord
   3-4,26.1,94.69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,0,173.38,10.68,0,0,0,0,0,0,0,14.14,0,0,0,0,0,0
   7-9,0,5.34,8.66,0,0,9.45,0,0,0,0,0,0,3.25,0,0,0,0

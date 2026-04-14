@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,gut,mesenchyme,neural,otic,periderm,slow.muscle,spinal.cord,taste,vasculature
+stage,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,gut,mesenchyme,neural,otic,periderm,slow_muscle,spinal_cord,taste,vasculature
  10-12,0,0,0,0,0,0,0,11.24,0,0,0,0,0,0
  14-21,1,1.88,1,0,0,0,0,2.85,0,0,0.88,0.91,0,2.64
  24-34,0,0.76,0,0,0,0,0.62,7.85,0,0,0,1.23,0,3.69

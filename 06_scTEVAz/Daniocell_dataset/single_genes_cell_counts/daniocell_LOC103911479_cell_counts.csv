@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,fin.mesenchyme,glial,iridophores,mesenchyme,muscle,neural,notochord,olfactory,otic,pericytes,periderm,pgc,presomitic.mesoderm,pronephros,spinal.cord,taste,vascular.smooth.muscle,vasculature
+stage,endoderm,epidermis,eye,fin_mesenchyme,glial,iridophores,mesenchyme,muscle,neural,notochord,olfactory,otic,pericytes,periderm,pgc,presomitic_mesoderm,pronephros,spinal_cord,taste,vascular_smooth_muscle,vasculature
  14-21,0,0,2,0,0,0,0,0,4,6,0,0,0,0,0,2,1,2,0,0,0
  24-34,0.82,0.82,1.64,0,0,0,0.82,1.64,13.13,2.46,0,0,0,0,0,0,0.82,6.57,0,0,0.82
  36-46,0,0,3.22,0,0,0,3.22,0.81,6.45,0.81,0,0,0,0,0,0,0,0.81,0,0,0

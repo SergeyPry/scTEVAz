@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.epithelia,glial,ionocyte,iridophores,liver,mesenchyme,mucous,neural,periderm,spinal.cord,vasculature
+stage,blastomeres,epidermis,eye,fin_epithelia,glial,ionocyte,iridophores,liver,mesenchyme,mucous,neural,periderm,spinal_cord,vasculature
   3-4,12.52,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,6.57,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,45.68,0,0,0

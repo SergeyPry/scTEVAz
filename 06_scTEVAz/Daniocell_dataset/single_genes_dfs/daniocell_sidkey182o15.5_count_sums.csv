@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.epithelia,gut,mesenchyme,mural.cell,neural,notochord,otic,pericytes,periderm,somites,spinal.cord
+stage,epidermis,erythrocytes,eye,fin_epithelia,gut,mesenchyme,mural_cell,neural,notochord,otic,pericytes,periderm,somites,spinal_cord
  14-21,0,0,0,0,0,0,0,0.91,0,0,0,0,1.02,2.05
  24-34,0,0,0,0,0,0,0,1.25,0,0,0,0,0,0.94
  36-46,0,0,0,0,0,1.18,0,3.9,0,0,0,1.09,0,0

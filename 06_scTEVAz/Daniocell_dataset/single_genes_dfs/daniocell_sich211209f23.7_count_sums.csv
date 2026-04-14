@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,immune,ionocyte,mesenchyme,neural,notochord,otic,periderm,spinal.cord,vasculature
+stage,epidermis,eye,glial,immune,ionocyte,mesenchyme,neural,notochord,otic,periderm,spinal_cord,vasculature
  14-21,0,0,0,0,0,0,1.9,0,0,0,1.24,0
  24-34,0,1.7,0,0,0,0,24.81,0,0,0,6.85,0.87
  36-46,0,0.57,0,0,0,0.61,96.62,0,0,6.9,8.72,7.72

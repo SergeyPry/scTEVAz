@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Keratinocyte,Mesenchymal.cell,Neural.cell,Radial.glia,Spermatocyte
-72hpf,0,0.563696112006446,0.281848056003223,0.281848056003223,0,0
-21Day,0,0.369986860264282,0,0,0.369986860264282,0
-3Month,0.104017006644673,0,0,0,0,0.208034013289345
+stage,Epithelial_cell,Keratinocyte,Mesenchymal_cell,Neural_cell,Radial_glia,Spermatocyte
+72hpf,0,0.56,0.28,0.28,0,0
+21Day,0,0.37,0,0,0.37,0
+3Month,0.1,0,0,0,0,0.21

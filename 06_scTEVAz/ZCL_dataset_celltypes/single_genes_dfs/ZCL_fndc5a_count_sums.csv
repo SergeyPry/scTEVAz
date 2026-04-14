@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Neural.cell
-24hpf,4.08640457285017,0
-72hpf,0,3.20937342439823
-21Day,0,1.33853308820331
+stage,Epithelial_cell,Neural_cell
+24hpf,4.09,0
+72hpf,0,3.21
+21Day,0,1.34

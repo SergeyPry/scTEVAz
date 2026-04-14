@@ -1,4 +1,4 @@
-stage,eye,glial,gut,lateral.line,mesenchyme,muscle,neural,olfactory,pronephros,spinal.cord
+stage,eye,glial,gut,lateral_line,mesenchyme,muscle,neural,olfactory,pronephros,spinal_cord
  14-21,0,1.13,0,0,0,0,0,0,1.01,0.83
  24-34,0.6,0.6,0,0,0,0,0.88,0,0,2.36
  36-46,0.73,1,0,0.61,1.6,1.17,0,0,0,0.78

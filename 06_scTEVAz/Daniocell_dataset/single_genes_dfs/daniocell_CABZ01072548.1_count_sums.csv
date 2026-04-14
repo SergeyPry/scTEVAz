@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,glial,gut,immune,mesenchyme,muscle,neural,periderm,spinal.cord,vasculature
+stage,epidermis,erythrocytes,eye,glial,gut,immune,mesenchyme,muscle,neural,periderm,spinal_cord,vasculature
   7-9,0,0,0,0,0,0,0,0,3.44,0,0,0
  14-21,0,0,0,0,0,0,0,0,1.11,0,1.26,0
  24-34,0,0,0,0,0,0,0.6,0,5.69,0,1.96,1.32

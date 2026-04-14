@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.mesenchyme,glial,mesenchyme,muscle,neural,otic,presomitic.mesoderm,somites,spinal.cord,vasculature
+stage,epidermis,eye,fin_mesenchyme,glial,mesenchyme,muscle,neural,otic,presomitic_mesoderm,somites,spinal_cord,vasculature
  14-21,0,0,0,0,0,0,7.92,0,1.96,3.85,0.94,0
  24-34,0,0,0.76,0,0,0,5.47,0,0,0.63,1.75,0.62
  36-46,0,0,0,0,0,0,3.39,0,0,0,0.62,0

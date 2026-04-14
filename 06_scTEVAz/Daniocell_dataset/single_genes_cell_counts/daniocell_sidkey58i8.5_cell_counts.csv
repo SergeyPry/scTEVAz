@@ -1,4 +1,4 @@
-stage,fin.mesenchyme,glial,heart,immune,mesenchyme,neural,olfactory,periderm,vascular.smooth.muscle,vasculature
+stage,fin_mesenchyme,glial,heart,immune,mesenchyme,neural,olfactory,periderm,vascular_smooth_muscle,vasculature
  10-12,0,0,0,0,0,6.29,0,0,0,0
  14-21,0,0,0,0,0,1,0,0,0,0
  24-34,0,0,0,0,0,0,0.82,0,0,0

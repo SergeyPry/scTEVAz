@@ -1,6 +1,6 @@
-stage,Granulocyte,Hepatocyte,Intestinal.bulb.cell,Mt.rich.cell,Muscle.cell,Neural.cell,Neural.progenitor.cell,Retinal.cell
-24hpf,0,0,0,0,0,0,4.08640457285017,0
-72hpf,0,0,0,0,0,7.48853799026255,0,1.06979114146608
-21Day,0,0,0,0,0,5.35413235281323,0,0
-3Month,0.319949299554195,0.319949299554195,0,0,0.319949299554195,0,0,0
-22Month,1.09330930239487,2.73327325598717,0.546654651197433,0.546654651197433,0,0,0,0.546654651197433
+stage,Granulocyte,Hepatocyte,Intestinal_bulb_cell,Mt_rich_cell,Muscle_cell,Neural_cell,Neural_progenitor_cell,Retinal_cell
+24hpf,0,0,0,0,0,0,4.09,0
+72hpf,0,0,0,0,0,7.49,0,1.07
+21Day,0,0,0,0,0,5.35,0,0
+3Month,0.32,0.32,0,0,0.32,0,0,0
+22Month,1.09,2.73,0.55,0.55,0,0,0,0.55

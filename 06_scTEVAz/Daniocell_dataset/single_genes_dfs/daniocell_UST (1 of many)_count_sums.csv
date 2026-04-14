@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.mesenchyme,glial,liver,mesenchyme,muscle,neural,notochord,olfactory,otic,pronephros,spinal.cord,vasculature,xanthophores
+stage,epidermis,eye,fin_mesenchyme,glial,liver,mesenchyme,muscle,neural,notochord,olfactory,otic,pronephros,spinal_cord,vasculature,xanthophores
  14-21,0,0,0,0,0,0.97,0,1.29,0,0,0,0,1.93,0,0
  24-34,0,0,0,0,0,0,0,5.66,0,0,0,0,0.67,0,0
  36-46,0,0,0,0,0,0,0,13.44,0,0,0,0,0.99,0,0

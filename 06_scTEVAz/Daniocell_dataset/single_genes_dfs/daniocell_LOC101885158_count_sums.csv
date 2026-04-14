@@ -1,4 +1,4 @@
-stage,eye,glial,mesenchyme,neural,presomitic.mesoderm,pronephros,somites,spinal.cord
+stage,eye,glial,mesenchyme,neural,presomitic_mesoderm,pronephros,somites,spinal_cord
  14-21,0.95,2.11,1.23,10.98,0.88,1.13,0.94,0
  24-34,0,0,0,1.49,0,0,0,0.61
  36-46,0,0,0,1.16,0,0,0,2.1

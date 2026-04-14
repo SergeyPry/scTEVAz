@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Epithelial.cell,Erythroid.progenitor.cell,Goblet.cell,Granulocyte,Granulosa.cell,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal.cell..caudal.fin.,Muscle.cell,Nephron.cell,Primordial.germ.cell,Retinal.pigment.epithelial.cell
-21Day,0,0,0,0,0,0,0,0.369986860264282,0,0,0,0,0,0,0,0,0.369986860264282
-3Month,0.208034013289345,1.04017006644673,0.104017006644673,0.624102039868036,0.208034013289345,0,0.728119046512708,0.936153059802054,0.416068026578691,0.104017006644673,0.416068026578691,0.312051019934018,0.104017006644673,0,0.416068026578691,0.104017006644673,0
-22Month,0,0,0.136649431988133,0,0.136649431988133,0.136649431988133,3.41623579970333,0.136649431988133,0.409948295964399,0.136649431988133,0.136649431988133,0.136649431988133,0,0.136649431988133,0,0.136649431988133,0
+stage,Cardiomyocyte,Epithelial_cell,Erythroid_progenitor_cell,Goblet_cell,Granulocyte,Granulosa_cell,Hepatocyte,Immune_cell,Intestinal_bulb_cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal_cell__caudal_fin_,Muscle_cell,Nephron_cell,Primordial_germ_cell,Retinal_pigment_epithelial_cell
+21Day,0,0,0,0,0,0,0,0.37,0,0,0,0,0,0,0,0,0.37
+3Month,0.21,1.04,0.1,0.62,0.21,0,0.73,0.94,0.42,0.1,0.42,0.31,0.1,0,0.42,0.1,0
+22Month,0,0,0.14,0,0.14,0.14,3.42,0.14,0.41,0.14,0.14,0.14,0,0.14,0,0.14,0

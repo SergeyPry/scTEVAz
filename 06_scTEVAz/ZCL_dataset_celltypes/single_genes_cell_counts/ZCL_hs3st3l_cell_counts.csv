@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Erythrocyte,Neural.cell,Neural.progenitor.cell,Radial.glia,Retinal.cell,Retinal.cone.cell
+stage,Epithelial_cell,Erythrocyte,Neural_cell,Neural_progenitor_cell,Radial_glia,Retinal_cell,Retinal_cone_cell
 24hpf,0,0,1,2,0,0,0
-72hpf,0,0,2.81848056003223,0.563696112006446,0,0.563696112006446,0.563696112006446
-21Day,0.369986860264282,0.369986860264282,2.95989488211426,0.369986860264282,0.369986860264282,1.10996058079285,1.47994744105713
+72hpf,0,0,2.82,0.56,0,0.56,0.56
+21Day,0.37,0.37,2.96,0.37,0.37,1.11,1.48

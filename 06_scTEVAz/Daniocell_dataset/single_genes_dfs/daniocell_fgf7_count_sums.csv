@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,fin.epithelia,fin.mesenchyme,glial,lateral.line,mesenchyme,mural.cell,muscle,neural,periderm,spinal.cord,vascular.smooth.muscle,visceral.smooth.muscle
+stage,epidermis,eye,fast_muscle,fin_epithelia,fin_mesenchyme,glial,lateral_line,mesenchyme,mural_cell,muscle,neural,periderm,spinal_cord,vascular_smooth_muscle,visceral_smooth_muscle
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,0.97,0,0
  24-34,1.49,0,0,8.42,0,0,0,0,0,0,0,0,1.16,0,0
  36-46,1.07,0.68,0,25.26,0,0,0,1.09,0,0,3.22,0,0,0,0

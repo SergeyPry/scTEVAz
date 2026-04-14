@@ -1,4 +1,4 @@
-stage,Intestinal.bulb.cell,Ionocyte,Neural.cell,Neural.progenitor.cell,Oocyte,Primordial.germ.cell,Radial.glia,Spermatocyte
-72hpf,0,2.13958228293216,2.13958228293216,3.20937342439823,0,0,0,0
-3Month,0.319949299554195,0,0,0,0,0.319949299554195,0,0.319949299554195
-22Month,0,0,0,0,1.6399639535923,0,0.546654651197433,0
+stage,Intestinal_bulb_cell,Ionocyte,Neural_cell,Neural_progenitor_cell,Oocyte,Primordial_germ_cell,Radial_glia,Spermatocyte
+72hpf,0,2.14,2.14,3.21,0,0,0,0
+3Month,0.32,0,0,0,0,0.32,0,0.32
+22Month,0,0,0,0,1.64,0,0.55,0

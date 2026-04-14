@@ -1,4 +1,4 @@
-stage,eye,fin.epithelia,fin.mesenchyme,immune,mesenchyme,mural.cell,neural,pericytes,vascular.smooth.muscle,xanthophores
+stage,eye,fin_epithelia,fin_mesenchyme,immune,mesenchyme,mural_cell,neural,pericytes,vascular_smooth_muscle,xanthophores
  48-58,0,0,0,2.32,0,0,0,0,0,0
  60-70,0,0,0,0,0,0,0,0,1.19,0
  72-82,0,0,0,0,2.68,2.84,0,2.24,0,0

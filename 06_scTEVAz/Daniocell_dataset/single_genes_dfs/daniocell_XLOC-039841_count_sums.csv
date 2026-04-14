@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,neural,paraxial.mesoderm,periderm,presomitic.mesoderm,spinal.cord
+stage,blastomeres,endoderm,epidermis,neural,paraxial_mesoderm,periderm,presomitic_mesoderm,spinal_cord
   5-6,30.9,0,0,0,0,30.47,0,0
   7-9,0,0,0,199.28,93.21,14.36,0,0
  10-12,4.52,3.47,0,286.9,93.84,0,0,13.93

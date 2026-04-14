@@ -1,4 +1,4 @@
-stage,Hepatocyte,Neural.cell,Oligodendrocyte
-72hpf,0,0.281848056003223,0
-21Day,0,0.369986860264282,0
-3Month,0.104017006644673,0,0.104017006644673
+stage,Hepatocyte,Neural_cell,Oligodendrocyte
+72hpf,0,0.28,0
+21Day,0,0.37,0
+3Month,0.1,0,0.1

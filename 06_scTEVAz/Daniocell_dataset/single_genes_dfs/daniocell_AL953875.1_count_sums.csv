@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,glial,liver,mesenchyme,neural,olfactory,paraxial.mesoderm,periderm,pgc
+stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,glial,liver,mesenchyme,neural,olfactory,paraxial_mesoderm,periderm,pgc
   3-4,31.34,388.99,0,0,0,0,0,0,0,0,0,0,29.04,0
   5-6,14.99,289.53,0,0,0,0,0,0,0,8.85,0,0,0,0
   7-9,0,0,0,0,0,9.99,0,0,0,13.71,0,8.73,0,8.64

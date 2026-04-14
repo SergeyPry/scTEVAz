@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,ionocyte,muscle,neural,otic,spinal.cord,vasculature
+stage,endoderm,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,ionocyte,muscle,neural,otic,spinal_cord,vasculature
  24-34,0,0,0,0,0,0,0,0,1.26,0,2.14,0
  36-46,0,0,0,0,0,0,0,0,0,0,1.29,0
  48-58,0,0,0,0,0,0,0.49,0,3.23,0,3.53,0

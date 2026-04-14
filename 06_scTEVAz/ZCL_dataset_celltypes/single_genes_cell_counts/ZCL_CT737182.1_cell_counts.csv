@@ -1,6 +1,6 @@
-stage,Epithelial.cell,Erythrocyte,Goblet.cell,Granulocyte,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Keratinocyte,Macrophage,Mesenchymal.cell,Neural.progenitor.cell,Osteoblast,T.cell
+stage,Epithelial_cell,Erythrocyte,Goblet_cell,Granulocyte,Hepatocyte,Immune_cell,Intestinal_bulb_cell,Keratinocyte,Macrophage,Mesenchymal_cell,Neural_progenitor_cell,Osteoblast,T_cell
 24hpf,1,0,0,0,0,0,0,1,1,0,1,0,0
-72hpf,0.281848056003223,0,0,0,0,0,0,0,0.281848056003223,0,0,0,0
-21Day,0.369986860264282,0.369986860264282,0,0,0,0,0,0,0,0.369986860264282,0,0.369986860264282,0
-3Month,0,0,0,0.104017006644673,0,0.104017006644673,0,0,0,0,0,0,0.104017006644673
-22Month,0.273298863976266,0,0.409948295964399,0,0.409948295964399,0,2.4596897757864,0,0,0,0,0,0
+72hpf,0.28,0,0,0,0,0,0,0,0.28,0,0,0,0
+21Day,0.37,0.37,0,0,0,0,0,0,0,0.37,0,0.37,0
+3Month,0,0,0,0.1,0,0.1,0,0,0,0,0,0,0.1
+22Month,0.27,0,0.41,0,0.41,0,2.46,0,0,0,0,0,0

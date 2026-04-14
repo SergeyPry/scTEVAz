@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,erythrocytes,eye,fast.muscle,glial,gut,heart,immune,iridophores,lateral.line,mesenchyme,muscle,neural,otic,paraxial.mesoderm,periderm,presomitic.mesoderm,slow.muscle,somites,spinal.cord,vasculature,visceral.smooth.muscle
+stage,endocrine_pancreas,epidermis,erythrocytes,eye,fast_muscle,glial,gut,heart,immune,iridophores,lateral_line,mesenchyme,muscle,neural,otic,paraxial_mesoderm,periderm,presomitic_mesoderm,slow_muscle,somites,spinal_cord,vasculature,visceral_smooth_muscle
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,0,10.79,0,53.71,0,0,0,17.78,0,0,0
  14-21,0,1.22,0.84,0.9,0,0,0,0.92,0,0,0,1.8,12.23,0.92,0,0,0,1.15,66.32,141.11,1.76,0,0
  24-34,0,0.7,0,0.65,5.86,0,0,2.79,0,0,0,0.92,12.12,29.12,0,0,2.13,0,11.65,57.41,3.32,0,0

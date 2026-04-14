@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,exocrine.pancreas,eye,fin.epithelia,fin.mesenchyme,glial,gut,ionocyte,lateral.line,mesenchyme,mucous,muscle,neural,olfactory,otic,pericytes,periderm,presomitic.mesoderm,spinal.cord
+stage,epidermis,erythrocytes,exocrine_pancreas,eye,fin_epithelia,fin_mesenchyme,glial,gut,ionocyte,lateral_line,mesenchyme,mucous,muscle,neural,olfactory,otic,pericytes,periderm,presomitic_mesoderm,spinal_cord
  14-21,5.04,0,0,0,0,0,0,0,0.81,0,0,0,0,1.02,0,0,0,0,0.82,0
  24-34,0.74,0,0,0,0,0,0,0,0.64,0,0,0,0,4.05,1.19,0,0,1.55,0,0
  36-46,2.45,0,0,0,1.04,0,0,0,0,0,0.79,0,0,11.48,0,0,0,2.32,0,0

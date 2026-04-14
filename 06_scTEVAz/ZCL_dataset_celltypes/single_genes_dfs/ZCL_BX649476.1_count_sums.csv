@@ -1,3 +1,3 @@
-stage,Epithelial.cell,Goblet.cell,Neural.progenitor.cell,Spermatocyte
-24hpf,0,0,12.2592137185505,0
-3Month,0.319949299554195,0.319949299554195,0,0.319949299554195
+stage,Epithelial_cell,Goblet_cell,Neural_progenitor_cell,Spermatocyte
+24hpf,0,0,12.26,0
+3Month,0.32,0.32,0,0.32

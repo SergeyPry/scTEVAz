@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,erythrocytes,eye,fin.epithelia,glial,immune,liver,mesenchyme,muscle,neural,olfactory,otic,periderm,pronephros,spinal.cord,taste
+stage,endoderm,epidermis,erythrocytes,eye,fin_epithelia,glial,immune,liver,mesenchyme,muscle,neural,olfactory,otic,periderm,pronephros,spinal_cord,taste
  10-12,9.44,0,0,0,0,0,0,0,0,0,6.29,0,0,0,0,0,0
  14-21,0,2,0,27,1,2,0,0,2,0,23,0,0,1,0,4,0
  24-34,0.82,2.46,1.64,154.32,0,0,0,0.82,2.46,1.64,71.41,0,0,0,0.82,13.13,0

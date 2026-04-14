@@ -1,6 +1,6 @@
-stage,Cardiomyocyte,Endothelial.cell,Epithelial.cell,Epithelial.cell..Brain.,Erythrocyte,Granulocyte,Hepatocyte,Immune.progenitor.cell,Intestinal.bulb.cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal.cell,Mt.rich.cell,Neural.cell,Neural.progenitor.cell,Osteoblast,Pancreatic.cell,Primordial.germ.cell,Radial.glia,Retinal.cell,Retinal.cone.cell,T.cell
-24hpf,0,0,4.08640457285017,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-72hpf,14.9770759805251,1.06979114146608,44.9312279415753,2.13958228293216,7.48853799026255,1.06979114146608,0,1.06979114146608,1.06979114146608,2.13958228293216,2300.05095415207,2.13958228293216,19.2562405463894,1.06979114146608,109.11869642954,52.4197659318378,16.0468671219912,0,0,4.27916456586431,0,0,0
-21Day,0,0,93.6973161742315,0,4.01559926460992,0,1.33853308820331,0,0,2.67706617640661,301.169944845744,0,6.69266544101654,0,1.33853308820331,1.33853308820331,1.33853308820331,4.01559926460992,0,0,5.35413235281323,1.33853308820331,1.33853308820331
-3Month,0,0,0,0,0,0,0,0,0,0,0.319949299554195,0,0,0,0,0,0,0,0.319949299554195,0,0,0,0.319949299554195
-22Month,0,0,0,0,0,0,0.546654651197433,0,0,0,0,0,0,0,0,0,0,0,1.09330930239487,0,0,0,0
+stage,Cardiomyocyte,Endothelial_cell,Epithelial_cell,Epithelial_cell__Brain_,Erythrocyte,Granulocyte,Hepatocyte,Immune_progenitor_cell,Intestinal_bulb_cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal_cell,Mt_rich_cell,Neural_cell,Neural_progenitor_cell,Osteoblast,Pancreatic_cell,Primordial_germ_cell,Radial_glia,Retinal_cell,Retinal_cone_cell,T_cell
+24hpf,0,0,4.09,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+72hpf,14.98,1.07,44.93,2.14,7.49,1.07,0,1.07,1.07,2.14,2300.05,2.14,19.26,1.07,109.12,52.42,16.05,0,0,4.28,0,0,0
+21Day,0,0,93.7,0,4.02,0,1.34,0,0,2.68,301.17,0,6.69,0,1.34,1.34,1.34,4.02,0,0,5.35,1.34,1.34
+3Month,0,0,0,0,0,0,0,0,0,0,0.32,0,0,0,0,0,0,0,0.32,0,0,0,0.32
+22Month,0,0,0,0,0,0,0.55,0,0,0,0,0,0,0,0,0,0,0,1.09,0,0,0,0

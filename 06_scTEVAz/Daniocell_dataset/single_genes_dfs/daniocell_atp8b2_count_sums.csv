@@ -1,4 +1,4 @@
-stage,erythrocytes,eye,fin.mesenchyme,glial,gut,immune,mesenchyme,muscle,neural,olfactory,spinal.cord,taste,vasculature
+stage,erythrocytes,eye,fin_mesenchyme,glial,gut,immune,mesenchyme,muscle,neural,olfactory,spinal_cord,taste,vasculature
  14-21,1.15,0,0,0,0,0,0,0,0,0,0,0,0
  24-34,0,0,0,0,0,0,0,0,1.79,0,1.98,0,3.55
  36-46,0,0,0,0,0,0,0,0,3,0,7.61,0,3.51

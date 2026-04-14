@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,endoderm,epidermis,erythrocytes,eye,fin.mesenchyme,glial,gut,immune,ionocyte,melanocytes,mesenchyme,mucous,mural.cell,muscle,neural,notochord,olfactory,otic,periderm,pronephros,somites,spinal.cord,vasculature
+stage,endocrine_pancreas,endoderm,epidermis,erythrocytes,eye,fin_mesenchyme,glial,gut,immune,ionocyte,melanocytes,mesenchyme,mucous,mural_cell,muscle,neural,notochord,olfactory,otic,periderm,pronephros,somites,spinal_cord,vasculature
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8.77,5.93,0,0,0,0,0,0,0
  10-12,0,0,0,0,6.29,0,0,0,0,0,0,0,0,0,0,7.19,0,0,0,0,0,0,0,0
  14-21,0.8,0.85,3.76,0,0.87,0,0,0,0,0,0,2.33,0,0,0,15.41,0,0,0,0.87,0,3.66,6.32,0

@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.mesenchyme,glial,lateral.line,melanocytes,mesenchyme,mural.cell,neural,periderm,pronephros,spinal.cord,xanthophores
+stage,epidermis,eye,fin_mesenchyme,glial,lateral_line,melanocytes,mesenchyme,mural_cell,neural,periderm,pronephros,spinal_cord,xanthophores
   7-9,0,0,0,0,0,0,0,0,9.97,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0.92,0,0,0,0
  24-34,0.76,0,0,0,0,0,0,0,5.76,0.74,0,2.54,0

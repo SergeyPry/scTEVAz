@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,glial,gut,heart,immune,mesenchyme,mucous,mural.cell,muscle,neural,periderm,pronephros,spinal.cord,vasculature,xanthophores
+stage,epidermis,eye,fin_epithelia,glial,gut,heart,immune,mesenchyme,mucous,mural_cell,muscle,neural,periderm,pronephros,spinal_cord,vasculature,xanthophores
  14-21,1.16,0,0,0,0,0,0,0,0,0,0,2.34,4.55,0,0,0,0
  24-34,0,0,0,0,0,0.82,0,0.7,0,0,0.95,1.51,16.82,0,1.49,0,0
  36-46,0,0.56,0,0,0,0,0,0,0,1.06,0,0.97,41.19,0,0,0,0

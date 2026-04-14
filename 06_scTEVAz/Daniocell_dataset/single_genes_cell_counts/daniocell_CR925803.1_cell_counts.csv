@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,gut,lateral.line,mucous,neural,olfactory,periderm
+stage,epidermis,eye,glial,gut,lateral_line,mucous,neural,olfactory,periderm
  14-21,1,0,0,0,0,0,0,0,0
  72-82,0,0.98,0.98,0,0.98,0,0.98,0,0.98
  84-94,0,0,0,0,0,0,1.06,0,0

@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,eye,glial,hatching.gland,heart,iridophores,mesenchyme,mural.cell,muscle,neural,paraxial.mesoderm,presomitic.mesoderm,pronephros,spinal.cord,vasculature,visceral.smooth.muscle
+stage,blastomeres,endoderm,eye,glial,hatching_gland,heart,iridophores,mesenchyme,mural_cell,muscle,neural,paraxial_mesoderm,presomitic_mesoderm,pronephros,spinal_cord,vasculature,visceral_smooth_muscle
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,2.63,0,0,0,0,0,10.51,7.89,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,9.44,12.59,0,3.15,0,0,0

@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,immune,mesenchyme,neural,paraxial.mesoderm,vasculature
+stage,blastomeres,epidermis,erythrocytes,eye,immune,mesenchyme,neural,paraxial_mesoderm,vasculature
   3-4,18.24,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,25.73,5.02,0
  10-12,0,0,0,0,0,0,13.64,0,0

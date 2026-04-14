@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,erythrocytes,eye,fast.muscle,fin.mesenchyme,glial,heart,immune,iridophores,mesenchyme,muscle,neural,notochord,paraxial.mesoderm,periderm,presomitic.mesoderm,somites,spinal.cord,taste,vasculature
+stage,axial,blastomeres,epidermis,erythrocytes,eye,fast_muscle,fin_mesenchyme,glial,heart,immune,iridophores,mesenchyme,muscle,neural,notochord,paraxial_mesoderm,periderm,presomitic_mesoderm,somites,spinal_cord,taste,vasculature
   3-4,0,158.64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,0,225.61,0,0,0,0,0,0,0,0,0,0,0,0,7.94,0,11.11,0,0,0,0,0
   7-9,0,0,0,0,18.37,0,0,0,0,0,0,0,0,119.47,0,45.71,0,0,0,0,0,0

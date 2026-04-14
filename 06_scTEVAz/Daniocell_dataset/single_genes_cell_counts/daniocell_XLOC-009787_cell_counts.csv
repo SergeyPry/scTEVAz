@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,exocrine.pancreas,eye,fin.epithelia,gut,mesenchyme,muscle,neural,notochord,paraxial.mesoderm,presomitic.mesoderm,slow.muscle,somites
+stage,blastomeres,endoderm,exocrine_pancreas,eye,fin_epithelia,gut,mesenchyme,muscle,neural,notochord,paraxial_mesoderm,presomitic_mesoderm,slow_muscle,somites
   5-6,30.65,0,0,0,0,0,0,0,6.13,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,5.26,5.26,47.32,0,0,0
  10-12,0,3.15,0,0,0,0,0,0,12.59,12.59,66.09,0,0,3.15

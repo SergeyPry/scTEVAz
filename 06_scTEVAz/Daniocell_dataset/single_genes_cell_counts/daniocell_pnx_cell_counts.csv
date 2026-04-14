@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,glial,heart,mesenchyme,mucous,muscle,neural,notochord,paraxial.mesoderm,periderm,pgc,presomitic.mesoderm,pronephros,somites,spinal.cord,vasculature,visceral.smooth.muscle
+stage,axial,blastomeres,endoderm,epidermis,erythrocytes,eye,glial,heart,mesenchyme,mucous,muscle,neural,notochord,paraxial_mesoderm,periderm,pgc,presomitic_mesoderm,pronephros,somites,spinal_cord,vasculature,visceral_smooth_muscle
   3-4,65.89,2134.83,0,0,0,0,0,0,0,0,0,0,0,0,52.71,0,0,0,0,0,0,0
   5-6,177.76,4100.73,0,0,0,0,0,0,0,0,0,6.13,0,12.26,67.43,0,0,0,0,0,0,0
   7-9,0,28.92,0,0,0,5.26,0,0,0,0,0,956.85,31.54,588.83,0,0,0,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,axial,blastomeres,erythrocytes,eye,immune,neural,olfactory,paraxial.mesoderm,periderm,spinal.cord,vasculature
+stage,axial,blastomeres,erythrocytes,eye,immune,neural,olfactory,paraxial_mesoderm,periderm,spinal_cord,vasculature
   3-4,14.53,10.46,0,0,0,0,0,0,0,0,0
   5-6,0,67.55,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,4.78,0,9.2,0,0,0

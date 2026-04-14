@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,ionocyte,mesenchyme,mucous,muscle,neural,notochord,periderm,spinal.cord
+stage,epidermis,eye,fin_epithelia,ionocyte,mesenchyme,mucous,muscle,neural,notochord,periderm,spinal_cord
  14-21,0,0,0,0,0,0,0,0,0,30,0
  24-34,0,0,0,0,0.82,0,0,0,0,41.86,0
  36-46,0,0,0,0,0,0,0.81,0,0,30.62,0.81

@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,endoderm,eye,fin.mesenchyme,glial,iridophores,lateral.line,mesenchyme,muscle,neural,otic,spinal.cord
+stage,endocrine_pancreas,endoderm,eye,fin_mesenchyme,glial,iridophores,lateral_line,mesenchyme,muscle,neural,otic,spinal_cord
   7-9,0,2.63,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,13,0,4
  24-34,0,0,3.28,0.82,0.82,0,0,1.64,1.64,23.8,0,9.03

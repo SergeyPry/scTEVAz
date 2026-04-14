@@ -1,4 +1,4 @@
-stage,epidermis,eye,mesenchyme,neural,olfactory,otic,slow.muscle,spinal.cord,taste
+stage,epidermis,eye,mesenchyme,neural,olfactory,otic,slow_muscle,spinal_cord,taste
  14-21,0,0,0,1,0,0,0,0,0
  24-34,0,0.82,0,2.46,0.82,0,0,0,0
  36-46,0,0,0,3.22,0,0,0.81,0,0

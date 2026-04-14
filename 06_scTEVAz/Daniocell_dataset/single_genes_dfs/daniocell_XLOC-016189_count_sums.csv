@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,glial,heart,lateral.line,mesenchyme,mural.cell,muscle,neural,notochord,somites,spinal.cord,vasculature,xanthophores
+stage,epidermis,erythrocytes,eye,glial,heart,lateral_line,mesenchyme,mural_cell,muscle,neural,notochord,somites,spinal_cord,vasculature,xanthophores
  14-21,0,0,1.22,0,0,0,0.94,0,0,3.03,0,0.91,0,0,0
  24-34,0.9,0,0.84,0,0,0,0.87,0,1.22,25.1,0,0,6.93,1.88,0
  36-46,0,0,1.49,1.26,0,0,0,0,0,8.94,0,0,0,0,0

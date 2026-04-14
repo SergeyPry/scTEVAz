@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Endothelial.cell,Epithelial.cell,Erythroid.progenitor.cell,Hatching.gland,Keratinocyte,Macrophage,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Osteoblast
+stage,Cardiomyocyte,Endothelial_cell,Epithelial_cell,Erythroid_progenitor_cell,Hatching_gland,Keratinocyte,Macrophage,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Osteoblast
 24hpf,1,2,6,0,189,4,1,6,2,41,1
-72hpf,0.281848056003223,0,2.25478444802579,0.281848056003223,0.281848056003223,0,0,0,0,0,0
-21Day,0,0,0.369986860264282,0,0,0.369986860264282,0,0,0,0,0
+72hpf,0.28,0,2.25,0.28,0.28,0,0,0,0,0,0
+21Day,0,0,0.37,0,0,0.37,0,0,0,0,0

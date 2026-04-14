@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,eye,immune,lateral.line,mesenchyme,neural,notochord,spinal.cord
+stage,endocrine_pancreas,eye,immune,lateral_line,mesenchyme,neural,notochord,spinal_cord
  14-21,0,0,0,0,0,1.04,0,0
  24-34,0,0,0,0,0,4.66,0,1.45
  36-46,0,0.6,0,0,0,1.08,0,0

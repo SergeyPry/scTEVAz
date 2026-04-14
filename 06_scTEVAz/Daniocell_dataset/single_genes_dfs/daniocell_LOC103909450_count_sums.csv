@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,mesenchyme,muscle,neural,paraxial.mesoderm,periderm,presomitic.mesoderm,spinal.cord,vasculature
+stage,blastomeres,epidermis,eye,glial,mesenchyme,muscle,neural,paraxial_mesoderm,periderm,presomitic_mesoderm,spinal_cord,vasculature
   3-4,0,0,0,0,0,0,0,0,17.06,0,0,0
   5-6,50.53,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,16.61,6.34,0,0,0,0

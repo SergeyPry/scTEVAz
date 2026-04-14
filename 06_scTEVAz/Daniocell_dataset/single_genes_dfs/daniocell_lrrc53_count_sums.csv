@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fast.muscle,fin.epithelia,glial,gut,ionocyte,lateral.line,mesenchyme,mural.cell,muscle,neural,olfactory,otic,paraxial.mesoderm,periderm,pronephros,somites,spinal.cord
+stage,blastomeres,epidermis,eye,fast_muscle,fin_epithelia,glial,gut,ionocyte,lateral_line,mesenchyme,mural_cell,muscle,neural,olfactory,otic,paraxial_mesoderm,periderm,pronephros,somites,spinal_cord
   3-4,50.76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,16.73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,10.09,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,exocrine.pancreas,eye,fast.muscle,fin.mesenchyme,glial,immune,iridophores,melanocytes,mesenchyme,mural.cell,muscle,neural,paraxial.mesoderm,pericytes,presomitic.mesoderm,pronephros,slow.muscle,somites,vascular.smooth.muscle,vasculature,visceral.smooth.muscle
+stage,axial,blastomeres,epidermis,exocrine_pancreas,eye,fast_muscle,fin_mesenchyme,glial,immune,iridophores,melanocytes,mesenchyme,mural_cell,muscle,neural,paraxial_mesoderm,pericytes,presomitic_mesoderm,pronephros,slow_muscle,somites,vascular_smooth_muscle,vasculature,visceral_smooth_muscle
   3-4,0,92.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.13,61.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,2.63,0,0,0,0,0,0,0,0,0,0,0,0,0,5.26,2.63,0,0,0,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Goblet.cell,Granulocyte,Immune.cell,Intestinal.bulb.cell,Ionocyte,Muscle.cell,Neural.cell,Pancreatic.cell
-21Day,1.33853308820331,0,0,0,0,0,0,1.33853308820331,0
-3Month,2.55959439643356,4.15934089420454,0.319949299554195,0.319949299554195,1.27979719821678,0.319949299554195,7.99873248885489,0,0.319949299554195
-22Month,0,0,0,0,0,0,2.18661860478973,0,0
+stage,Epithelial_cell,Goblet_cell,Granulocyte,Immune_cell,Intestinal_bulb_cell,Ionocyte,Muscle_cell,Neural_cell,Pancreatic_cell
+21Day,1.34,0,0,0,0,0,0,1.34,0
+3Month,2.56,4.16,0.32,0.32,1.28,0.32,8,0,0.32
+22Month,0,0,0,0,0,0,2.19,0,0

@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,glial,immune,mesenchyme,neural,spinal.cord,vasculature
+stage,blastomeres,epidermis,glial,immune,mesenchyme,neural,spinal_cord,vasculature
  10-12,3.15,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,2,2,0
  24-34,0,0,0,0.82,0,2.46,1.64,0

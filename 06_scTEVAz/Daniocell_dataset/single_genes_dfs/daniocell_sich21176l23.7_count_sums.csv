@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.epithelia,fin.mesenchyme,glial,heart,mesenchyme,mucous,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,pericytes,presomitic.mesoderm,slow.muscle,somites,spinal.cord,vascular.smooth.muscle,vasculature
+stage,epidermis,erythrocytes,eye,fin_epithelia,fin_mesenchyme,glial,heart,mesenchyme,mucous,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,pericytes,presomitic_mesoderm,slow_muscle,somites,spinal_cord,vascular_smooth_muscle,vasculature
  10-12,0,0,0,0,0,0,0,0,0,0,32.16,0,0,0,16.14,0,0,0,0,0,0,0
  14-21,13.52,0,0,0,0,0,0,0.97,0,0.83,2.26,5.21,0,0,0,0,1.01,0,2.76,1.69,0,1.01
  24-34,3.64,0,1.23,0,0,0,2.16,5.38,0,1.38,0,0.84,0,0,0,0,0,0.66,0,0,0,0.73

@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,eye,glial,gut,immune,ionocyte,mesenchyme,mural.cell,muscle,neural,olfactory,periderm,vascular.smooth.muscle,vasculature
+stage,endoderm,epidermis,eye,glial,gut,immune,ionocyte,mesenchyme,mural_cell,muscle,neural,olfactory,periderm,vascular_smooth_muscle,vasculature
  14-21,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
  24-34,0,0,0,0,0,0,0,0,0,0,0.82,0,0,0,0.82
  48-58,0,0,0.57,0,0,0,0,0.57,0,0.57,2.3,0,0,0,0

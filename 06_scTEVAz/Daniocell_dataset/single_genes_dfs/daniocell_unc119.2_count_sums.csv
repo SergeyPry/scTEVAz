@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,erythrocytes,eye,fast.muscle,glial,immune,liver,mesenchyme,mural.cell,muscle,neural,otic,periderm,pronephros,somites,spinal.cord,vasculature,xanthophores
+stage,axial,blastomeres,epidermis,erythrocytes,eye,fast_muscle,glial,immune,liver,mesenchyme,mural_cell,muscle,neural,otic,periderm,pronephros,somites,spinal_cord,vasculature,xanthophores
   3-4,0,75.23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,11.13,45.05,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,4.99,8.89,0,0,0,0,0,0,0,0,0,0,17.21,0,0,0,0,0,0,0

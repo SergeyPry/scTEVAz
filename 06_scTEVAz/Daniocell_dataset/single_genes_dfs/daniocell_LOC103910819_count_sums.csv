@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,glial,gut,ionocyte,mesenchyme,mural.cell,neural,periderm,spinal.cord
+stage,epidermis,eye,fast_muscle,glial,gut,ionocyte,mesenchyme,mural_cell,neural,periderm,spinal_cord
  14-21,0.83,0,0,0,0,0,0.9,0,1.81,0,0
  24-34,0,0,0,0,0,0,0,0,4.55,0,1.48
  36-46,0.88,0.62,0,0,0,1.57,0,0,2.73,0,0

@@ -1,4 +1,4 @@
-stage,eye,fast.muscle,immune,mesenchyme,neural,otic,slow.muscle,spinal.cord,vasculature
+stage,eye,fast_muscle,immune,mesenchyme,neural,otic,slow_muscle,spinal_cord,vasculature
  14-21,0,0,0,0,1,0,9,0,0
  24-34,0.82,0,0,0,0.82,0,8.21,0,0
  36-46,0,0,0,0.81,2.42,0,7.25,0,0

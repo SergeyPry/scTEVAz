@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fast.muscle,glial,melanocytes,mesenchyme,muscle,neural,notochord,periderm,somites,spinal.cord,xanthophores
+stage,blastomeres,epidermis,eye,fast_muscle,glial,melanocytes,mesenchyme,muscle,neural,notochord,periderm,somites,spinal_cord,xanthophores
   5-6,6.15,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,6.31,0,0,0,0
  14-21,0,1.64,0,0,0,0,0,0,3.92,0,3.72,0.92,0,0

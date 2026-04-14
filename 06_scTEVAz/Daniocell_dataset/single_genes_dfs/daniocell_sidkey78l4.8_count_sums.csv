@@ -1,4 +1,4 @@
-stage,blastomeres,erythrocytes,eye,gut,immune,mesenchyme,muscle,neural,paraxial.mesoderm,visceral.smooth.muscle
+stage,blastomeres,erythrocytes,eye,gut,immune,mesenchyme,muscle,neural,paraxial_mesoderm,visceral_smooth_muscle
   3-4,9.41,0,0,0,0,0,0,0,0,0
   5-6,10.64,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,7.14,0,0

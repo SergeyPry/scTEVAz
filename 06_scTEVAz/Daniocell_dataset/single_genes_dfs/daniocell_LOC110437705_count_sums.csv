@@ -1,4 +1,4 @@
-stage,epidermis,exocrine.pancreas,eye,heart,liver,mesenchyme,neural,olfactory,pericytes,periderm,vasculature
+stage,epidermis,exocrine_pancreas,eye,heart,liver,mesenchyme,neural,olfactory,pericytes,periderm,vasculature
  72-82,0,0,0,0,13.77,0,0,0,0,0,0
  84-94,0,0,0.91,0,13.26,0,0.86,0,0,0,0
  96-106,1.7,0,6.93,0.96,89.96,3.61,16.93,0.56,0,0.96,1.13

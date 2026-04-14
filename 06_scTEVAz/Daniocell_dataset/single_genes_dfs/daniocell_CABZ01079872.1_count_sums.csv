@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,eye,fin.epithelia,glial,immune,ionocyte,mesenchyme,neural,periderm,somites,spinal.cord
+stage,axial,blastomeres,epidermis,eye,fin_epithelia,glial,immune,ionocyte,mesenchyme,neural,periderm,somites,spinal_cord
   3-4,0,33.34,0,0,0,0,0,0,0,0,0,0,0
   5-6,9.55,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,34.49,0,0,0

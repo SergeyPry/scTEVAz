@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.epithelia,gut,hatching.gland,liver,neural,olfactory
+stage,blastomeres,epidermis,eye,fin_epithelia,gut,hatching_gland,liver,neural,olfactory
   5-6,6.24,0,0,0,0,0,0,0,0
   7-9,3.31,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,5.16,0,9.42,0

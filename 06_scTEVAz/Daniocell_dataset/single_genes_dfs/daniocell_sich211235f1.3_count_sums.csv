@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,epidermis,eye,glial,iridophores,lateral.line,melanocytes,mesenchyme,neural,otic,paraxial.mesoderm,pericytes,pronephros,spinal.cord,xanthophores
+stage,blastomeres,endocrine_pancreas,epidermis,eye,glial,iridophores,lateral_line,melanocytes,mesenchyme,neural,otic,paraxial_mesoderm,pericytes,pronephros,spinal_cord,xanthophores
   5-6,7.04,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,10.16,0,6.01,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,57.88,0,0,0,12.99,0,0

@@ -1,4 +1,4 @@
-stage,blastomeres,erythrocytes,exocrine.pancreas,eye,glial,immune,mesenchyme,mucous,mural.cell,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,slow.muscle,spinal.cord,vasculature
+stage,blastomeres,erythrocytes,exocrine_pancreas,eye,glial,immune,mesenchyme,mucous,mural_cell,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,slow_muscle,spinal_cord,vasculature
   5-6,12.26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,5.26,0,0,0,7.89,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,3.15,0,0,0,0,0,0

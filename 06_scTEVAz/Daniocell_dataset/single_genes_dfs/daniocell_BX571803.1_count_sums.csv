@@ -1,4 +1,4 @@
-stage,endoderm,melanocytes,mesenchyme,neural,paraxial.mesoderm,periderm,spinal.cord,vascular.smooth.muscle
+stage,endoderm,melanocytes,mesenchyme,neural,paraxial_mesoderm,periderm,spinal_cord,vascular_smooth_muscle
   7-9,0,0,0,9.29,13.22,0,0,0
  10-12,3.45,0,0,10.3,0,0,0,0
  14-21,0,0,0,0.81,0,2.85,0,0

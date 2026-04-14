@@ -1,4 +1,4 @@
-stage,endoderm,erythrocytes,immune,muscle,neural,paraxial.mesoderm,somites,spinal.cord
+stage,endoderm,erythrocytes,immune,muscle,neural,paraxial_mesoderm,somites,spinal_cord
   7-9,0,0,0,0,10.02,0,0,0
  10-12,5.32,0,0,0,0,5.07,4.93,0
  14-21,0,0,0,0,0,0,0,0.95

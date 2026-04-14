@@ -1,4 +1,4 @@
-stage,blastomeres,eye,fast.muscle,glial,immune,ionocyte,liver,melanocytes,mesenchyme,mural.cell,neural,paraxial.mesoderm,periderm,presomitic.mesoderm,somites,spinal.cord,vasculature,xanthophores
+stage,blastomeres,eye,fast_muscle,glial,immune,ionocyte,liver,melanocytes,mesenchyme,mural_cell,neural,paraxial_mesoderm,periderm,presomitic_mesoderm,somites,spinal_cord,vasculature,xanthophores
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,1,0,0
  24-34,0,0.82,0,0,0.82,0.82,0,0,0,0,4.93,0,0,0,0.82,0,0,0

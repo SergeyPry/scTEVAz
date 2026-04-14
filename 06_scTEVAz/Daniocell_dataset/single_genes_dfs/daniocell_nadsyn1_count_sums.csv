@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,gut,ionocyte,iridophores,liver,mesenchyme,muscle,neural,notochord,otic,periderm,slow.muscle,somites,spinal.cord,vasculature
+stage,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,gut,ionocyte,iridophores,liver,mesenchyme,muscle,neural,notochord,otic,periderm,slow_muscle,somites,spinal_cord,vasculature
  14-21,2.22,1.04,0,0,0,0,0,0,0,0,0,3.36,1.88,0,1.52,0,0.83,0.98,0
  24-34,0.71,1.99,0,0,3.22,0,0,0,0,1.51,2.68,11.23,0.69,0,1.64,0,0.99,2.01,0
  36-46,0,3.42,0,0.78,1.16,0,0,0,0,2.97,0,4.15,0,0,0,0,0,3.64,0

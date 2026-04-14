@@ -1,4 +1,4 @@
-stage,Hepatocyte,Keratinocyte,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell
+stage,Hepatocyte,Keratinocyte,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell
 24hpf,0,0,0,0,1
-72hpf,0,0,0,1.12739222401289,0
-22Month,0.546597727952532,0.136649431988133,0.136649431988133,0,0
+72hpf,0,0,0,1.13,0
+22Month,0.55,0.14,0.14,0,0

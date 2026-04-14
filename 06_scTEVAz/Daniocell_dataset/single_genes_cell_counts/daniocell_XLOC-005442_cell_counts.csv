@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,fin.epithelia,glial,mesenchyme,neural,paraxial.mesoderm,periderm,spinal.cord
+stage,blastomeres,epidermis,erythrocytes,eye,fin_epithelia,glial,mesenchyme,neural,paraxial_mesoderm,periderm,spinal_cord
   3-4,39.53,0,0,0,0,0,0,0,0,0,0
   5-6,49.04,0,0,0,0,0,0,0,0,0,0
   7-9,2.63,0,0,5.26,0,0,0,15.77,7.89,0,0

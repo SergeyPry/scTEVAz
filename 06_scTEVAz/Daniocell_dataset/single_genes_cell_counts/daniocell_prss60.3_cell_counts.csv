@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,fin.epithelia,glial,gut,immune,ionocyte,liver,mesenchyme,mucous,neural,pericytes,periderm,taste,visceral.smooth.muscle
+stage,blastomeres,epidermis,erythrocytes,eye,fin_epithelia,glial,gut,immune,ionocyte,liver,mesenchyme,mucous,neural,pericytes,periderm,taste,visceral_smooth_muscle
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
  24-34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.75,0,0

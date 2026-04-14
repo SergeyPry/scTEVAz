@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,fin.epithelia,glial,iridophores,mesenchyme,muscle,neural,notochord,periderm,presomitic.mesoderm,slow.muscle,somites,spinal.cord
+stage,epidermis,eye,fast_muscle,fin_epithelia,glial,iridophores,mesenchyme,muscle,neural,notochord,periderm,presomitic_mesoderm,slow_muscle,somites,spinal_cord
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
  24-34,0,0.82,0,0,0,0,1.64,1.64,0.82,0,0,0,0,0.82,0
  36-46,0,0,0.81,0,0,0,0.81,2.42,0,0.81,0,0.81,0,0,0

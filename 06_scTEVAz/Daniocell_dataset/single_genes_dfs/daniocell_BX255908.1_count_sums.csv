@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,epidermis,eye,fin.epithelia,glial,gut,immune,ionocyte,mesenchyme,muscle,neural,otic,periderm,slow.muscle,spinal.cord
+stage,blastomeres,endocrine_pancreas,epidermis,eye,fin_epithelia,glial,gut,immune,ionocyte,mesenchyme,muscle,neural,otic,periderm,slow_muscle,spinal_cord
  10-12,8.02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,1.52,0,0,0,1.71
  24-34,0,0,0,0,0,0,0,0,0,0,0,1.83,0,6.44,0,0

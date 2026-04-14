@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,glial,gut,mesenchyme,neural,otic,paraxial.mesoderm,spinal.cord,vasculature
+stage,blastomeres,epidermis,erythrocytes,eye,glial,gut,mesenchyme,neural,otic,paraxial_mesoderm,spinal_cord,vasculature
   5-6,11.85,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,10.82,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,7.73,0,0

@@ -1,4 +1,4 @@
-stage,endoderm,erythrocytes,eye,fin.epithelia,fin.mesenchyme,mesenchyme,mural.cell,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,spinal.cord,vascular.smooth.muscle
+stage,endoderm,erythrocytes,eye,fin_epithelia,fin_mesenchyme,mesenchyme,mural_cell,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,spinal_cord,vascular_smooth_muscle
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,2.63,0,0
  10-12,3.15,0,0,0,0,0,0,0,0,6.29,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0

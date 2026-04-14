@@ -1,4 +1,4 @@
-stage,Keratinocyte,Neural.cell,Spermatocyte
-24hpf,8.17280914570035,0,0
-72hpf,0,1.06979114146608,0
-3Month,0,0,0.639898599108391
+stage,Keratinocyte,Neural_cell,Spermatocyte
+24hpf,8.17,0,0
+72hpf,0,1.07,0
+3Month,0,0,0.64

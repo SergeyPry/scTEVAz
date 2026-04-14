@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,fast.muscle,heart,immune,liver,mesenchyme,muscle,neural,periderm,spinal.cord,vasculature,xanthophores
+stage,endocrine_pancreas,epidermis,eye,fast_muscle,heart,immune,liver,mesenchyme,muscle,neural,periderm,spinal_cord,vasculature,xanthophores
  14-21,0,0,0,0,0,0,0,0,0,1,0,0,0,0
  24-34,0,1.64,0,0,0,0,0,1.64,0.82,4.1,0,0,0,0
  36-46,0,0,0,0.81,0,0,0,0.81,0,0,0,0.81,0,0

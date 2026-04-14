@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Immune.progenitor.cell,Keratinocyte,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Osteoblast
+stage,Epithelial_cell,Immune_progenitor_cell,Keratinocyte,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Osteoblast
 24hpf,1,0,0,1,1,5,1
-72hpf,0,0.281848056003223,0.281848056003223,0.281848056003223,0.563696112006446,0.281848056003223,0
-21Day,0,0,0,0.369986860264282,0,0,0
+72hpf,0,0.28,0.28,0.28,0.56,0.28,0
+21Day,0,0,0,0.37,0,0,0

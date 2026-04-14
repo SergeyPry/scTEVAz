@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,mesenchyme,muscle,neural,periderm,somites,spinal.cord
+stage,epidermis,eye,glial,mesenchyme,muscle,neural,periderm,somites,spinal_cord
  14-21,0,0,0,0,0,0,0.86,0,0
  24-34,0,1.6,0,0,0,11.66,0,0.77,0
  36-46,0,8.35,0,4.6,0.59,3.22,0.69,0,0.73

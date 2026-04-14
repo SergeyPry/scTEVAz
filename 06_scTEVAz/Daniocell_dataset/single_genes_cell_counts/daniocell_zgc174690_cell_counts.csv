@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,erythrocytes,eye,glial,gut,heart,lateral.line,mesenchyme,muscle,neural,notochord,otic,pericytes,periderm,presomitic.mesoderm,somites,spinal.cord,vascular.smooth.muscle,vasculature,visceral.smooth.muscle
+stage,endoderm,epidermis,erythrocytes,eye,glial,gut,heart,lateral_line,mesenchyme,muscle,neural,notochord,otic,pericytes,periderm,presomitic_mesoderm,somites,spinal_cord,vascular_smooth_muscle,vasculature,visceral_smooth_muscle
  14-21,1,8,0,4,2,0,0,0,1,1,42,1,0,0,0,2,5,17,0,0,0
  24-34,0.82,0,0,11.49,1.64,0,0,0,4.93,1.64,93.58,0.82,0.82,0,0,0,0,13.13,0,0,0
  36-46,0,0.81,0,11.28,3.22,0,0,0,4.83,0,45.12,0,0,0,0,0,0,8.86,0.81,0,0

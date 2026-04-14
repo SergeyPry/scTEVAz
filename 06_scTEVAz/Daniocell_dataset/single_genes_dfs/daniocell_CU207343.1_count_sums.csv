@@ -1,4 +1,4 @@
-stage,blastomeres,erythrocytes,eye,gut,heart,liver,mesenchyme,neural,paraxial.mesoderm,spinal.cord,vasculature
+stage,blastomeres,erythrocytes,eye,gut,heart,liver,mesenchyme,neural,paraxial_mesoderm,spinal_cord,vasculature
   5-6,16.29,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,4.33,0,0,0,0,23.29,13.84,0,0
  10-12,0,0,13.16,0,0,0,0,19.82,0,0,0

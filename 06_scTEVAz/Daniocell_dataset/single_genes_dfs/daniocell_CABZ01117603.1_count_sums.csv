@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,glial,immune,mesenchyme,muscle,neural,olfactory,otic,periderm,presomitic.mesoderm,somites,spinal.cord,taste,vasculature,xanthophores
+stage,epidermis,erythrocytes,eye,glial,immune,mesenchyme,muscle,neural,olfactory,otic,periderm,presomitic_mesoderm,somites,spinal_cord,taste,vasculature,xanthophores
   7-9,0,0,11.76,0,0,0,0,3.73,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,24.75,0,0,0,0,0,0,0,0,0
  14-21,1.01,0,2.07,0,0,0,0,1,0,0,0,4.08,0.97,1.77,0,0,0

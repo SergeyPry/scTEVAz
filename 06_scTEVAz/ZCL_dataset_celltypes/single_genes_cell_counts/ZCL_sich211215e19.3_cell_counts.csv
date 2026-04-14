@@ -1,6 +1,6 @@
-stage,Cardiomyocyte,Epithelial.cell,Granulocyte,Immune.cell,Immune.progenitor.cell,Macrophage,Mesenchymal.cell,Neural.cell,T.cell
+stage,Cardiomyocyte,Epithelial_cell,Granulocyte,Immune_cell,Immune_progenitor_cell,Macrophage,Mesenchymal_cell,Neural_cell,T_cell
 24hpf,1,0,0,0,0,0,0,0,0
-72hpf,0,0,0,0,0,0.281848056003223,0,0.281848056003223,0
-21Day,0,0.739973720528564,0,0,1.10996058079285,0.739973720528564,0,0,0.369986860264282
-3Month,0,0,0.104017006644673,0.832136053157381,0,3.01649319269551,0.104017006644673,0,0.832136053157381
-22Month,0,0,0,0.409948295964399,0,0,0,0,0
+72hpf,0,0,0,0,0,0.28,0,0.28,0
+21Day,0,0.74,0,0,1.11,0.74,0,0,0.37
+3Month,0,0,0.1,0.83,0,3.02,0.1,0,0.83
+22Month,0,0,0,0.41,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,glial,mesenchyme,mucous,muscle,neural,olfactory,pronephros,spinal.cord,vasculature
+stage,blastomeres,epidermis,erythrocytes,eye,glial,mesenchyme,mucous,muscle,neural,olfactory,pronephros,spinal_cord,vasculature
   3-4,9.47,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,10.68,0,0,0,0
  24-34,0,0,0,0,0,0,0,0,14.32,0,0.6,11.06,4.9

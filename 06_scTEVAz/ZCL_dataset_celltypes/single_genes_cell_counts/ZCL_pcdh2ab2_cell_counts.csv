@@ -1,4 +1,4 @@
-stage,Epithelial.cell..Brain.,Mesenchymal.cell,Nephron.cell,Neural.cell,Oligodendrocyte,Osteoblast,Radial.glia
+stage,Epithelial_cell__Brain_,Mesenchymal_cell,Nephron_cell,Neural_cell,Oligodendrocyte,Osteoblast,Radial_glia
 24hpf,0,0,1,0,0,0,0
-72hpf,0.281848056003223,0.281848056003223,0,5.63696112006446,0.281848056003223,0.84554416800967,0.281848056003223
-21Day,0,0,0,2.21992116158569,0,0,0
+72hpf,0.28,0.28,0,5.64,0.28,0.85,0.28
+21Day,0,0,0,2.22,0,0,0

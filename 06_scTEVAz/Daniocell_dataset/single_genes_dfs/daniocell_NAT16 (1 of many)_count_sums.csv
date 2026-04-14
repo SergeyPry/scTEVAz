@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,endoderm,epidermis,erythrocytes,eye,fin.epithelia,fin.mesenchyme,glial,gut,heart,immune,ionocyte,iridophores,lateral.line,liver,melanocytes,mesenchyme,mural.cell,muscle,neural,notochord,olfactory,otic,pericytes,periderm,presomitic.mesoderm,pronephros,somites,spinal.cord,taste,vascular.smooth.muscle,vasculature,xanthophores
+stage,endocrine_pancreas,endoderm,epidermis,erythrocytes,eye,fin_epithelia,fin_mesenchyme,glial,gut,heart,immune,ionocyte,iridophores,lateral_line,liver,melanocytes,mesenchyme,mural_cell,muscle,neural,notochord,olfactory,otic,pericytes,periderm,presomitic_mesoderm,pronephros,somites,spinal_cord,taste,vascular_smooth_muscle,vasculature,xanthophores
  14-21,0,0,1.67,0,3.22,0,0,0,0,0,0,0,0,0,0,0,0,0,0.88,15.4,0,0,0,0,1.01,1.99,0,5.78,5.85,0,0,0,0
  24-34,0,0,7.28,0.66,2.21,0,0.68,0,0,0,0,0,0,0,0,0,9.55,0,5.37,33.15,0,0,0,0,0,0,0,2.18,3.09,0,0,9.45,0
  36-46,0,0,0,0,2.16,0,1.46,1.14,0,0,0,0,0,0,0,5.51,16.13,0,3.29,51.44,0,10.06,2.17,0,0.84,0,0.56,0,7.87,0,0,1.91,0

@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,eye,fin.epithelia,glial,liver,mesenchyme,neural,olfactory,paraxial.mesoderm,periderm,somites,spinal.cord
+stage,blastomeres,endocrine_pancreas,eye,fin_epithelia,glial,liver,mesenchyme,neural,olfactory,paraxial_mesoderm,periderm,somites,spinal_cord
   3-4,71.7,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.36,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,7.5,8.28,0,0

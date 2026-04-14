@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,exocrine.pancreas,eye,fast.muscle,glial,hatching.gland,immune,iridophores,mesenchyme,mucous,neural,slow.muscle,somites,spinal.cord
+stage,axial,blastomeres,epidermis,exocrine_pancreas,eye,fast_muscle,glial,hatching_gland,immune,iridophores,mesenchyme,mucous,neural,slow_muscle,somites,spinal_cord
   5-6,0,13.79,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,4.25,0,0,0,4.1,0,0,3.79,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,4.33,0,0,0,0,0,0,0,0,0,0,0

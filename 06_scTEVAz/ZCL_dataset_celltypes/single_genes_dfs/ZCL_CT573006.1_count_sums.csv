@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Goblet.cell,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Keratinocyte,Mesenchymal.cell,Mesenchymal.cell..caudal.fin.,Mt.rich.cell,Nephron.cell,Neural.cell,Oligodendrocyte,Oocyte,Primordial.germ.cell,Smooth.muscle.cell,Spermatocyte,T.cell
-72hpf,0,0,0,0,0,5.34895570733039,0,0,0,0,0,0,0,0,0,0,0
-3Month,1.91969579732517,0.319949299554195,0.959847898662586,0.319949299554195,1.27979719821678,0.319949299554195,0.319949299554195,0.319949299554195,0,0.319949299554195,0.319949299554195,0.319949299554195,0,38.3939159465035,0.319949299554195,11.1982254843968,1.27979719821678
-22Month,0,0,1.6399639535923,0,3.82658255838203,0,0,0,0.546654651197433,0,0,0,0.546654651197433,2.73327325598717,0,0,0
+stage,Epithelial_cell,Goblet_cell,Hepatocyte,Immune_cell,Intestinal_bulb_cell,Keratinocyte,Mesenchymal_cell,Mesenchymal_cell__caudal_fin_,Mt_rich_cell,Nephron_cell,Neural_cell,Oligodendrocyte,Oocyte,Primordial_germ_cell,Smooth_muscle_cell,Spermatocyte,T_cell
+72hpf,0,0,0,0,0,5.35,0,0,0,0,0,0,0,0,0,0,0
+3Month,1.92,0.32,0.96,0.32,1.28,0.32,0.32,0.32,0,0.32,0.32,0.32,0,38.39,0.32,11.2,1.28
+22Month,0,0,1.64,0,3.83,0,0,0,0.55,0,0,0,0.55,2.73,0,0,0

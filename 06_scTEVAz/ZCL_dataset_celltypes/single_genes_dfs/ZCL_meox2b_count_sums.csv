@@ -1,4 +1,4 @@
-stage,Endothelial.cell,Hepatocyte,Keratinocyte,Mesenchymal.cell,Mesenchymal.cell..caudal.fin.,Oligodendrocyte
-21Day,0,0,0,5.35413235281323,0,1.33853308820331
-3Month,0.639898599108391,0,0,0.959847898662586,0.639898599108391,0
-22Month,0,0.546654651197433,0.546654651197433,0.546654651197433,0,0
+stage,Endothelial_cell,Hepatocyte,Keratinocyte,Mesenchymal_cell,Mesenchymal_cell__caudal_fin_,Oligodendrocyte
+21Day,0,0,0,5.35,0,1.34
+3Month,0.64,0,0,0.96,0.64,0
+22Month,0,0.55,0.55,0.55,0,0

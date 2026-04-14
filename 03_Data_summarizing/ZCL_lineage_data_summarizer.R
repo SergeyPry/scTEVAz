@@ -4,8 +4,6 @@
 #remotes::install_version("SeuratObject", "4.1.4", repos = c("https://satijalab.r-universe.dev", getOption("repos")))
 #remotes::install_version("Seurat", "4.4.0", repos = c("https://satijalab.r-universe.dev", getOption("repos")))
 
-#setwd("c:/Bioinformatics/00_Daniocell_data")
-
 library(tidyverse)
 library(dplyr)
 
@@ -131,7 +129,7 @@ for(gene in gene_names){
   
   gene_expression_summary <- gene_data |> 
     group_by(cell_lineage, stage) |> 
-    summarise(counts_sum = sum(counts_norm)) |> 
+    summarise(counts_sum = round(sum(counts_norm), 2) ) |> 
     arrange(cell_lineage, stage, .by_group = TRUE)
   
   
@@ -142,7 +140,11 @@ for(gene in gene_names){
   
   gene_wide_summary[is.na(gene_wide_summary)] <- 0
   
-  write.csv(gene_wide_summary, paste0("./ZCL_dataset/single_genes_dfs/ZCL_", gene, "_count_sums.csv"), quote = FALSE, row.names = FALSE)
+  # correct the column names
+  colnames_new <- str_replace_all(colnames(gene_wide_summary), '\\.', '_')
+  colnames(gene_wide_summary) <- colnames_new
+  
+  write.csv(gene_wide_summary, paste0("./ZCL_dataset_lineages/single_genes_dfs/ZCL_", gene, "_count_sums.csv"), quote = FALSE, row.names = FALSE)
   
 }
 
@@ -239,7 +241,11 @@ for(gene in gene_names){
   
   gene_wide_summary[is.na(gene_wide_summary)] <- 0
   
-  write.csv(gene_wide_summary, paste0("./ZCL_dataset/single_genes_cell_counts/ZCL_", gene, "_cell_counts.csv"), quote = FALSE, row.names = FALSE)
+  # correct the column names
+  colnames_new <- str_replace_all(colnames(gene_wide_summary), '\\.', '_')
+  colnames(gene_wide_summary) <- colnames_new
+  
+  write.csv(gene_wide_summary, paste0("./ZCL_dataset_lineages/single_genes_cell_counts/ZCL_", gene, "_cell_counts.csv"), quote = FALSE, row.names = FALSE)
   
 }
 

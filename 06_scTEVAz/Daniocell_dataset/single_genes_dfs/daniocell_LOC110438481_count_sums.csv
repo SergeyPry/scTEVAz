@@ -1,4 +1,4 @@
-stage,eye,fin.epithelia,fin.mesenchyme,neural
+stage,eye,fin_epithelia,fin_mesenchyme,neural
  36-46,0,0,0,0.92
  60-70,1.46,0,0,0
  84-94,0,0,0.59,3.48

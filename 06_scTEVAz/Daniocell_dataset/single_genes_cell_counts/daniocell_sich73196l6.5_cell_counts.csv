@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,exocrine.pancreas,eye,fin.mesenchyme,glial,heart,iridophores,liver,melanocytes,mesenchyme,muscle,neural,notochord,spinal.cord,vasculature,xanthophores
+stage,blastomeres,epidermis,exocrine_pancreas,eye,fin_mesenchyme,glial,heart,iridophores,liver,melanocytes,mesenchyme,muscle,neural,notochord,spinal_cord,vasculature,xanthophores
   5-6,6.13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,2.63,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0

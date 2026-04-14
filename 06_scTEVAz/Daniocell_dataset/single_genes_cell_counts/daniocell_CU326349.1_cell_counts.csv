@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,erythrocytes,eye,fin.mesenchyme,glial,immune,iridophores,lateral.line,mesenchyme,muscle,neural,notochord,periderm,spinal.cord,vasculature,xanthophores
+stage,blastomeres,epidermis,erythrocytes,eye,fin_mesenchyme,glial,immune,iridophores,lateral_line,mesenchyme,muscle,neural,notochord,periderm,spinal_cord,vasculature,xanthophores
  10-12,3.15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,1,0,0,0,0,0,1,1,13,1,1,2,0,0
  24-34,0,0,0,1.64,0.82,0.82,0,0.82,0.82,0.82,0,59.92,0,0,24.63,1.64,0.82

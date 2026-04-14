@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Neural.progenitor.cell,Primordial.germ.cell,T.cell
-24hpf,0,4.08640457285017,0,0
-3Month,0,0,1.27979719821678,0.319949299554195
-22Month,0.546654651197433,0,1.6399639535923,0
+stage,Cardiomyocyte,Neural_progenitor_cell,Primordial_germ_cell,T_cell
+24hpf,0,4.09,0,0
+3Month,0,0,1.28,0.32
+22Month,0.55,0,1.64,0

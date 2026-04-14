@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endocrine.pancreas,epidermis,erythrocytes,exocrine.pancreas,eye,gut,hatching.gland,liver,mesenchyme,muscle,neural,notochord,paraxial.mesoderm,pronephros,spinal.cord
+stage,axial,blastomeres,endocrine_pancreas,epidermis,erythrocytes,exocrine_pancreas,eye,gut,hatching_gland,liver,mesenchyme,muscle,neural,notochord,paraxial_mesoderm,pronephros,spinal_cord
   3-4,0,9.67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,24.56,0,0,0,0,0,0,0,5.76,0,0,0,5.51,18.09,9.81,0,0

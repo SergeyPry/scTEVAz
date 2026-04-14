@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,fast.muscle,glial,gut,melanocytes,mesenchyme,mucous,muscle,neural,pronephros,spinal.cord
+stage,endocrine_pancreas,epidermis,eye,fast_muscle,glial,gut,melanocytes,mesenchyme,mucous,muscle,neural,pronephros,spinal_cord
  14-21,0,0,0,0,0,0,0,0,0,1,3,0,0
  24-34,0,0,0,0,0,0,0,0.82,0.82,0,6.57,0,2.46
  36-46,0,0,0,0,0,0,0,0.81,0.81,0,11.28,0,1.61

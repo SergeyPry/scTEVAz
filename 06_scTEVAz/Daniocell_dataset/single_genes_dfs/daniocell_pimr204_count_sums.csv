@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,ionocyte,iridophores,lateral.line,mesenchyme,neural,olfactory
+stage,epidermis,eye,glial,ionocyte,iridophores,lateral_line,mesenchyme,neural,olfactory
  14-21,0.88,0,0,0,0,0,0,0,0
  24-34,1,0,0,0,0,0,2.05,0,0
  36-46,0,0,0,0,0,0,0,0.64,1.43

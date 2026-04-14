@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,gut,hatching.gland,immune,liver,mesenchyme,neural,paraxial.mesoderm,presomitic.mesoderm,pronephros,somites,spinal.cord
+stage,blastomeres,epidermis,eye,glial,gut,hatching_gland,immune,liver,mesenchyme,neural,paraxial_mesoderm,presomitic_mesoderm,pronephros,somites,spinal_cord
   5-6,18.39,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,2.63,0,0,0,0,0,0,0,0,36.8,5.26,0,0,0,0
  10-12,3.15,0,0,0,0,3.15,0,0,0,50.35,25.18,0,0,0,0

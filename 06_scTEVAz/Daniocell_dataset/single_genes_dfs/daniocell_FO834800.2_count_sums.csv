@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.mesenchyme,immune,mesenchyme,muscle,neural,otic,periderm,vasculature
+stage,epidermis,eye,fin_mesenchyme,immune,mesenchyme,muscle,neural,otic,periderm,vasculature
  14-21,0,0,0,0,0,0,1.27,0,0,0
  24-34,0,0,0,0,0,0.9,6.01,0,0,1.04
  36-46,0,0,0,0,0,0,0.63,0,5.22,0

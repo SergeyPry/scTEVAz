@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,glial,immune,iridophores,melanocytes,muscle,neural,otic,spinal.cord,taste,vasculature,visceral.smooth.muscle
+stage,epidermis,erythrocytes,eye,glial,immune,iridophores,melanocytes,muscle,neural,otic,spinal_cord,taste,vasculature,visceral_smooth_muscle
  10-12,0,0,0,0,0,0,0,0,8,0,0,0,0,0
  14-21,0.88,2.36,0,0,19.12,0,0,1.28,2.21,0,0.9,0,0,0
  24-34,0.62,1.93,0,0,42.41,0,0,0,7.73,1.09,0,0,3.12,0

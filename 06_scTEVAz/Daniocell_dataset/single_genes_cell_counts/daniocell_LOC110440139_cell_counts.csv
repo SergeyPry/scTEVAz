@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,fin.epithelia,glial,heart,liver,mesenchyme,mural.cell,muscle,neural,olfactory,periderm,spinal.cord,vascular.smooth.muscle,vasculature
+stage,epidermis,eye,fast_muscle,fin_epithelia,glial,heart,liver,mesenchyme,mural_cell,muscle,neural,olfactory,periderm,spinal_cord,vascular_smooth_muscle,vasculature
  14-21,2,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
  24-34,0.82,0,0,0,0,0,0,0,0,0.82,4.1,0,0,2.46,0,0.82
  36-46,1.61,0,0.81,0,0,1.61,0,0.81,0,0,13.7,0,0,2.42,0,0

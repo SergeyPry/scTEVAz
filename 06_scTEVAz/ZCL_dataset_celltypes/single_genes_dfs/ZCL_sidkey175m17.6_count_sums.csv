@@ -1,6 +1,6 @@
-stage,Epithelial.cell,Hepatocyte,Intestinal.bulb.cell,Keratinocyte,Neural.cell,Oligodendrocyte
-24hpf,4.08640457285017,0,0,0,0,0
-72hpf,0,0,0,0,1.06979114146608,1.06979114146608
-21Day,4.01559926460992,0,0,0,0,0
-3Month,1.27979719821678,0,0,0.319949299554195,0.959847898662586,0
-22Month,0,0.546654651197433,1.09330930239487,0,0,0
+stage,Epithelial_cell,Hepatocyte,Intestinal_bulb_cell,Keratinocyte,Neural_cell,Oligodendrocyte
+24hpf,4.09,0,0,0,0,0
+72hpf,0,0,0,0,1.07,1.07
+21Day,4.02,0,0,0,0,0
+3Month,1.28,0,0,0.32,0.96,0
+22Month,0,0.55,1.09,0,0,0

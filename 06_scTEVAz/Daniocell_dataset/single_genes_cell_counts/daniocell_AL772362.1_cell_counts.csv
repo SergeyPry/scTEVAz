@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fast.muscle,glial,immune,lateral.line,mesenchyme,neural,olfactory,paraxial.mesoderm,periderm,spinal.cord,taste
+stage,epidermis,erythrocytes,eye,fast_muscle,glial,immune,lateral_line,mesenchyme,neural,olfactory,paraxial_mesoderm,periderm,spinal_cord,taste
   7-9,0,0,0,0,0,0,0,0,2.63,0,2.63,0,0,0
  24-34,0.82,0,0,0,0,0,0,0,0,1.64,0,0,1.64,0
  36-46,0,0.81,0,0,0,0,0,0.81,0.81,0,0,0,0,0

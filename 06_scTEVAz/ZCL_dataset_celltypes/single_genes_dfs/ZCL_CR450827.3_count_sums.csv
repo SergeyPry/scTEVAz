@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Ionocyte,Neural.progenitor.cell,Osteoblast,Primordial.germ.cell,Spermatocyte
-24hpf,0,0,4.08640457285017,0,0,0
-72hpf,0,0,0,1.06979114146608,0,0
-3Month,0.319949299554195,0.319949299554195,0,0,2.87954369598776,5.75908739197552
+stage,Epithelial_cell,Ionocyte,Neural_progenitor_cell,Osteoblast,Primordial_germ_cell,Spermatocyte
+24hpf,0,0,4.09,0,0,0
+72hpf,0,0,0,1.07,0,0
+3Month,0.32,0.32,0,0,2.88,5.76

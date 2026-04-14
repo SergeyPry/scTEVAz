@@ -1,4 +1,4 @@
-stage,erythrocytes,immune,mural.cell,neural,vascular.smooth.muscle,visceral.smooth.muscle
+stage,erythrocytes,immune,mural_cell,neural,vascular_smooth_muscle,visceral_smooth_muscle
  60-70,0,0,0.98,0,0,0
  72-82,0,1.96,0,0,0,0
  84-94,1.06,0,0,0,0,0

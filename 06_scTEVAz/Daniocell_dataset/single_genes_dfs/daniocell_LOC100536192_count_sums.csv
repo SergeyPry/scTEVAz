@@ -1,4 +1,4 @@
-stage,axial,eye,glial,mesenchyme,mucous,mural.cell,muscle,neural,pericytes,periderm,spinal.cord,vasculature
+stage,axial,eye,glial,mesenchyme,mucous,mural_cell,muscle,neural,pericytes,periderm,spinal_cord,vasculature
   7-9,4.68,0,0,0,0,0,0,4.66,0,0,0,0
  14-21,0,0,0,0,0,0,1.14,0.84,0,0,0.96,0
  24-34,0,0,0,0,0,0,0,4.37,0,0,0.65,0

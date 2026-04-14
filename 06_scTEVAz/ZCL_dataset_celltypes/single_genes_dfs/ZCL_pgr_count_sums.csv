@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Hepatocyte,Immune.cell,Intestinal.bulb.cell,Mesenchymal.cell,Nephron.cell,Neurosecretory.cell,T.cell
-72hpf,0,0,0,0,1.06979114146608,0,1.06979114146608,0
-3Month,1.27979719821678,0,0,0,0.319949299554195,0.959847898662586,0,0.319949299554195
-22Month,0,2.73327325598717,0.546654651197433,1.09330930239487,0.546654651197433,0,0,0
+stage,Epithelial_cell,Hepatocyte,Immune_cell,Intestinal_bulb_cell,Mesenchymal_cell,Nephron_cell,Neurosecretory_cell,T_cell
+72hpf,0,0,0,0,1.07,0,1.07,0
+3Month,1.28,0,0,0,0.32,0.96,0,0.32
+22Month,0,2.73,0.55,1.09,0.55,0,0,0

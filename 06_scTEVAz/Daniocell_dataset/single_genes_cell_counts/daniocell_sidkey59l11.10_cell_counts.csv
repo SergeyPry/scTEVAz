@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,fin.epithelia,liver,mesenchyme,neural,notochord,olfactory,periderm,spinal.cord
+stage,endocrine_pancreas,epidermis,eye,fin_epithelia,liver,mesenchyme,neural,notochord,olfactory,periderm,spinal_cord
   7-9,0,0,0,0,0,0,0,2.63,0,0,0
  14-21,0,0,0,0,1,0,0,0,0,0,0
  24-34,0,0,0,0,0,0.82,0,0,0,0.82,0

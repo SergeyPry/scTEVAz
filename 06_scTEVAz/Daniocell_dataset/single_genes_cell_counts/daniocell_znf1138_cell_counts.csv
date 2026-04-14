@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.epithelia,mesenchyme,muscle,neural,paraxial.mesoderm,periderm,spinal.cord,vasculature
+stage,blastomeres,epidermis,eye,fin_epithelia,mesenchyme,muscle,neural,paraxial_mesoderm,periderm,spinal_cord,vasculature
   3-4,540.3,0,0,0,0,0,0,0,13.18,0,0
   5-6,220.67,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,5.26,0,0,0,42.06,15.77,0,0,0

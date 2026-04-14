@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,eye,glial,heart,mesenchyme,mucous,neural,notochord,paraxial.mesoderm,pgc,presomitic.mesoderm,somites,spinal.cord,vasculature
+stage,axial,blastomeres,epidermis,eye,glial,heart,mesenchyme,mucous,neural,notochord,paraxial_mesoderm,pgc,presomitic_mesoderm,somites,spinal_cord,vasculature
   3-4,0,30.06,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.18,45.74,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,6.37,0,0,0,0,0,0,57.93,0,21.99,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,gut,liver,mesenchyme,mural.cell,muscle,neural,otic,pericytes,periderm,pronephros,somites,spinal.cord,vasculature
+stage,epidermis,eye,glial,gut,liver,mesenchyme,mural_cell,muscle,neural,otic,pericytes,periderm,pronephros,somites,spinal_cord,vasculature
  14-21,0,0,0,0,0,0.86,0,1.05,1.89,0,0,0,0,0.86,5.84,0
  24-34,0,0,0.73,0,0,0.89,0,2.66,11.75,0,0,0,0,0,0.74,1.09
  36-46,0,0,0,0,0,0.62,0,1.08,1.56,0.71,0,0,0.59,0,0,0

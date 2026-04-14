@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,erythrocytes,eye,fin.epithelia,fin.mesenchyme,glial,gut,ionocyte,liver,mesenchyme,mural.cell,muscle,neural,notochord,paraxial.mesoderm,periderm,spinal.cord,xanthophores
+stage,blastomeres,endoderm,epidermis,erythrocytes,eye,fin_epithelia,fin_mesenchyme,glial,gut,ionocyte,liver,mesenchyme,mural_cell,muscle,neural,notochord,paraxial_mesoderm,periderm,spinal_cord,xanthophores
   3-4,26.36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,12.26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.13,0,0
   7-9,0,5.26,0,0,0,0,0,0,0,0,0,0,0,0,5.26,2.63,0,0,0,0

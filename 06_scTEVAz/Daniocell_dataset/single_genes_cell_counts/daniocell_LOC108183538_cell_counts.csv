@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,heart,iridophores,mesenchyme,mural.cell,muscle,neural,notochord,otic,paraxial.mesoderm,periderm,pronephros,spinal.cord,vascular.smooth.muscle,vasculature,visceral.smooth.muscle
+stage,epidermis,eye,glial,heart,iridophores,mesenchyme,mural_cell,muscle,neural,notochord,otic,paraxial_mesoderm,periderm,pronephros,spinal_cord,vascular_smooth_muscle,vasculature,visceral_smooth_muscle
  14-21,4,3,0,0,0,3,0,2,14,2,0,0,0,1,5,0,0,0
  24-34,1.64,4.1,0,0,0,0.82,0,0,13.13,0,0,0.82,1.64,0,2.46,0,0,0
  36-46,0,0,0.81,0,0,4.03,0,0,7.25,0,0.81,0,0.81,0,0,0,0,0

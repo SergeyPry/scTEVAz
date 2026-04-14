@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.epithelia,glial,gut,immune,liver,mesenchyme,mucous,muscle,neural,periderm,spinal.cord,taste
+stage,blastomeres,epidermis,eye,fin_epithelia,glial,gut,immune,liver,mesenchyme,mucous,muscle,neural,periderm,spinal_cord,taste
   3-4,36.89,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,3.76,0,0,0
  10-12,0,0,4.23,0,0,0,0,0,0,0,0,9.28,0,0,0

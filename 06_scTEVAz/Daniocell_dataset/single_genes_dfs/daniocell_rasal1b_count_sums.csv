@@ -1,4 +1,4 @@
-stage,eye,glial,immune,neural,notochord,otic,paraxial.mesoderm,spinal.cord,vascular.smooth.muscle,vasculature
+stage,eye,glial,immune,neural,notochord,otic,paraxial_mesoderm,spinal_cord,vascular_smooth_muscle,vasculature
   7-9,0,0,0,3.48,7.13,0,4.07,0,0,0
  14-21,0,0,0,1.22,0,0,0,0,0,0
  24-34,0,0,0,9.41,0,0,0,1.44,0,0

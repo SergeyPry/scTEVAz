@@ -1,4 +1,4 @@
-stage,eye,fin.epithelia,glial,mesenchyme,neural,otic,spinal.cord,vasculature
+stage,eye,fin_epithelia,glial,mesenchyme,neural,otic,spinal_cord,vasculature
  24-34,0,0,0,0,0,0,0,0.65
  48-58,0,0.66,0,0,0,0,0,0
  72-82,5.33,0,0.91,0,0,0,0.82,0

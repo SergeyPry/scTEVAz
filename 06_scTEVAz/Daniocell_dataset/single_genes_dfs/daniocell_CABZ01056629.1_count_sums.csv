@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,iridophores,mesenchyme,mural.cell,muscle,neural,periderm,somites,spinal.cord
+stage,epidermis,erythrocytes,eye,iridophores,mesenchyme,mural_cell,muscle,neural,periderm,somites,spinal_cord
   7-9,0,0,0,0,0,0,0,4.09,0,0,0
  10-12,0,0,0,0,0,0,0,4.06,0,0,0
  14-21,0,0,0.95,0,0,0,0,2.88,0,0.89,2.14

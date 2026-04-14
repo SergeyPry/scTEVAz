@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,gut,immune,ionocyte,liver,melanocytes,mesenchyme,muscle,neural,otic,presomitic.mesoderm,pronephros,somites,spinal.cord,taste,vasculature,xanthophores
+stage,blastomeres,epidermis,eye,glial,gut,immune,ionocyte,liver,melanocytes,mesenchyme,muscle,neural,otic,presomitic_mesoderm,pronephros,somites,spinal_cord,taste,vasculature,xanthophores
   3-4,11.44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,12.12,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,4.73,0,0,0,0,0,0,0,0

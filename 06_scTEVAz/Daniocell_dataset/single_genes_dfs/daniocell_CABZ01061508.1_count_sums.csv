@@ -1,4 +1,4 @@
-stage,blastomeres,eye,fast.muscle,glial,heart,immune,lateral.line,mesenchyme,muscle,neural,notochord,olfactory,paraxial.mesoderm,presomitic.mesoderm,slow.muscle,spinal.cord,vasculature,visceral.smooth.muscle,xanthophores
+stage,blastomeres,eye,fast_muscle,glial,heart,immune,lateral_line,mesenchyme,muscle,neural,notochord,olfactory,paraxial_mesoderm,presomitic_mesoderm,slow_muscle,spinal_cord,vasculature,visceral_smooth_muscle,xanthophores
   3-4,108.69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,63.21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,5.99,9.37,0,5.33,0,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,epidermis,eye,glial,hatching.gland,iridophores,lateral.line,liver,mesenchyme,neural,paraxial.mesoderm,spinal.cord,vasculature,visceral.smooth.muscle,xanthophores
+stage,blastomeres,endocrine_pancreas,epidermis,eye,glial,hatching_gland,iridophores,lateral_line,liver,mesenchyme,neural,paraxial_mesoderm,spinal_cord,vasculature,visceral_smooth_muscle,xanthophores
   5-6,0,0,0,0,0,0,0,0,0,0,14.48,0,0,0,0,0
   7-9,5.3,0,0,0,0,3.43,0,0,0,0,15.79,19.06,0,0,0,0
  10-12,9.02,0,0,0,0,0,0,0,0,0,27.04,23.46,5.09,0,0,0

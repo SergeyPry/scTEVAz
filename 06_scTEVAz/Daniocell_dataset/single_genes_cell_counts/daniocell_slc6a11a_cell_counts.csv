@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,fin.epithelia,fin.mesenchyme,glial,ionocyte,liver,melanocytes,mesenchyme,mucous,muscle,neural,olfactory,otic,periderm,slow.muscle,spinal.cord,vasculature
+stage,epidermis,eye,fast_muscle,fin_epithelia,fin_mesenchyme,glial,ionocyte,liver,melanocytes,mesenchyme,mucous,muscle,neural,olfactory,otic,periderm,slow_muscle,spinal_cord,vasculature
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.29,0,0,0
  14-21,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,93,0,0,0
  24-34,13.95,3.28,0,22.98,0,0,1.64,0,0.82,0,2.46,1.64,18.88,0,0,380.88,1.64,3.28,0.82

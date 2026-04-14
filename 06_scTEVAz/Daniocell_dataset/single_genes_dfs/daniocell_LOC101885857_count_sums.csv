@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,heart,iridophores,muscle,neural,notochord,paraxial.mesoderm,spinal.cord
+stage,blastomeres,epidermis,eye,glial,heart,iridophores,muscle,neural,notochord,paraxial_mesoderm,spinal_cord
   3-4,45.86,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,9.55,0,3.86,0
  10-12,0,0,0,0,0,0,0,0,12.99,0,0

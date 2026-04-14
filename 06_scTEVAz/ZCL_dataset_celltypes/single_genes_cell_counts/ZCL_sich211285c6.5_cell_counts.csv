@@ -1,5 +1,5 @@
-stage,Cardiomyocyte,Enterocyte,Epithelial.cell,Epithelial.cell..Brain.,Erythrocyte..Liver.,Goblet.cell,Granulocyte,Hepatocyte,Intestinal.bulb.cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal.cell,Mt.rich.cell,Nephron.cell,Neurosecretory.cell,Oligodendrocyte,Pancreatic.cell,Primordial.germ.cell,T.cell
-72hpf,0,0,0,0.281848056003223,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-21Day,0.739973720528564,0,0.369986860264282,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-3Month,0,0,2.60042516611682,0,0.312051019934018,0.832136053157381,0.208034013289345,20.1792992890665,14.3543469169648,0.312051019934018,0.624102039868036,0.104017006644673,0,0,0.104017006644673,0.104017006644673,0,0.104017006644673,0.312051019934018,0.208034013289345
-22Month,0,0.273298863976266,0.683247159940666,0,0.136649431988133,0.546597727952532,0.273298863976266,22.8204551420182,2.59633920777453,0.136649431988133,0,0.136649431988133,0.273298863976266,1.2298448878932,0,0,0.136649431988133,0,0.136649431988133,0
+stage,Cardiomyocyte,Enterocyte,Epithelial_cell,Epithelial_cell__Brain_,Erythrocyte__Liver_,Goblet_cell,Granulocyte,Hepatocyte,Intestinal_bulb_cell,Ionocyte,Keratinocyte,Macrophage,Mesenchymal_cell,Mt_rich_cell,Nephron_cell,Neurosecretory_cell,Oligodendrocyte,Pancreatic_cell,Primordial_germ_cell,T_cell
+72hpf,0,0,0,0.28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21Day,0.74,0,0.37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3Month,0,0,2.6,0,0.31,0.83,0.21,20.18,14.35,0.31,0.62,0.1,0,0,0.1,0.1,0,0.1,0.31,0.21
+22Month,0,0.27,0.68,0,0.14,0.55,0.27,22.82,2.6,0.14,0,0.14,0.27,1.23,0,0,0.14,0,0.14,0

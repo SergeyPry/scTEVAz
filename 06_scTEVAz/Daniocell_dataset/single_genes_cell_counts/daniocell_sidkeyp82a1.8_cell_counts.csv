@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,glial,immune,lateral.line,mesenchyme,neural,otic,periderm,spinal.cord,taste,vasculature
+stage,blastomeres,epidermis,eye,glial,immune,lateral_line,mesenchyme,neural,otic,periderm,spinal_cord,taste,vasculature
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,2,0,0,1,0,0
  24-34,0,0,0,0,0,0,0,1.64,0,0,0,0,0

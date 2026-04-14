@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.mesenchyme,glial,liver,mesenchyme,mural.cell,muscle,neural,otic,periderm,spinal.cord,vasculature
+stage,epidermis,eye,fin_mesenchyme,glial,liver,mesenchyme,mural_cell,muscle,neural,otic,periderm,spinal_cord,vasculature
  14-21,0,0,0,0,0,1,0,0,4,0,0,0,0
  24-34,0,0,0,0,0,0,0,0,5.75,0,0,0.82,0
  36-46,0,0,0,0,0.81,0,0,0.81,31.42,0,0,8.86,0

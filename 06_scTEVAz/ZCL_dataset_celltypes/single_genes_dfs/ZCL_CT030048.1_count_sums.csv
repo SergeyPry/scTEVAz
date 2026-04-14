@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Erythrocyte..Liver.,Ionocyte,Keratinocyte,Neural.cell,Neural.progenitor.cell
-72hpf,0,0,0,1.06979114146608,0,1.06979114146608
-21Day,2.67706617640661,0,0,0,1.33853308820331,0
-3Month,0.319949299554195,0.319949299554195,0.319949299554195,0,0,0
+stage,Epithelial_cell,Erythrocyte__Liver_,Ionocyte,Keratinocyte,Neural_cell,Neural_progenitor_cell
+72hpf,0,0,0,1.07,0,1.07
+21Day,2.68,0,0,0,1.34,0
+3Month,0.32,0.32,0.32,0,0,0

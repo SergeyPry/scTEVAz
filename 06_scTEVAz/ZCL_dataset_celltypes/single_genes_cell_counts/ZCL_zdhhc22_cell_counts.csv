@@ -1,5 +1,5 @@
-stage,Endothelial.cell,Epithelial.cell,Epithelial.cell..Brain.,Erythrocyte,Goblet.cell,Granulocyte,Granulosa.cell,Hepatocyte,Immune.progenitor.cell,Intestinal.bulb.cell,Keratinocyte,Macrophage,Mesenchymal.cell,Mt.rich.cell,Muscle.cell,Neural.cell,Neural.progenitor.cell,Neurosecretory.cell,Primordial.germ.cell,Radial.glia
-72hpf,0,0,0.281848056003223,0,0,0,0,0,0,0,0.563696112006446,0,0,0,0,7.3280494560838,0.563696112006446,0,0,0
-21Day,0,0,0,0.369986860264282,0,0,0,0,0,0,0,0,0,0,0.369986860264282,2.95989488211426,0.369986860264282,0,0,0
-3Month,0,0.104017006644673,0,0,0,0,0,0.520085033223363,0.104017006644673,0.104017006644673,0,0,0.104017006644673,0,0,0.208034013289345,0,0.104017006644673,0.312051019934018,0
-22Month,0.136649431988133,0.136649431988133,0,0,0.136649431988133,0.136649431988133,0.273298863976266,43.4545193722263,0,0.409948295964399,0,0.273298863976266,0.273298863976266,0.409948295964399,0,0,0,0.136649431988133,0.273298863976266,0.136649431988133
+stage,Endothelial_cell,Epithelial_cell,Epithelial_cell__Brain_,Erythrocyte,Goblet_cell,Granulocyte,Granulosa_cell,Hepatocyte,Immune_progenitor_cell,Intestinal_bulb_cell,Keratinocyte,Macrophage,Mesenchymal_cell,Mt_rich_cell,Muscle_cell,Neural_cell,Neural_progenitor_cell,Neurosecretory_cell,Primordial_germ_cell,Radial_glia
+72hpf,0,0,0.28,0,0,0,0,0,0,0,0.56,0,0,0,0,7.33,0.56,0,0,0
+21Day,0,0,0,0.37,0,0,0,0,0,0,0,0,0,0,0.37,2.96,0.37,0,0,0
+3Month,0,0.1,0,0,0,0,0,0.52,0.1,0.1,0,0,0.1,0,0,0.21,0,0.1,0.31,0
+22Month,0.14,0.14,0,0,0.14,0.14,0.27,43.45,0,0.41,0,0.27,0.27,0.41,0,0,0,0.14,0.27,0.14

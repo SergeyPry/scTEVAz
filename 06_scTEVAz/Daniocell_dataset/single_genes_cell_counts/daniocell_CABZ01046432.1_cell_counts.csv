@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,erythrocytes,eye,fast.muscle,glial,gut,immune,mesenchyme,neural,notochord,paraxial.mesoderm,periderm,spinal.cord,vasculature
+stage,axial,blastomeres,epidermis,erythrocytes,eye,fast_muscle,glial,gut,immune,mesenchyme,neural,notochord,paraxial_mesoderm,periderm,spinal_cord,vasculature
   3-4,0,0,0,0,0,0,0,0,0,0,0,0,0,13.18,0,0
   5-6,12.26,61.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,2.63,0,0,0,0,0,5.26,0,21.03,0,0,0

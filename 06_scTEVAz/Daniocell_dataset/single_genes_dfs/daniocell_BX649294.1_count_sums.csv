@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,fast.muscle,muscle,neural,paraxial.mesoderm,presomitic.mesoderm,somites,spinal.cord
+stage,blastomeres,endoderm,fast_muscle,muscle,neural,paraxial_mesoderm,presomitic_mesoderm,somites,spinal_cord
  10-12,12.04,3.2,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0.91,1.65,0,0
  24-34,0,0,0,0.72,0,0,0,0.69,0

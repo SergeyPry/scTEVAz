@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,glial,gut,immune,mesenchyme,muscle,neural,notochord,olfactory,spinal.cord
+stage,epidermis,erythrocytes,eye,glial,gut,immune,mesenchyme,muscle,neural,notochord,olfactory,spinal_cord
  10-12,0,0,0,0,0,0,0,0,0,12.5,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,0.89
  24-34,0,0,0,0,0,0,0.83,0,77.74,0,4.64,16.87

@@ -1,4 +1,4 @@
-stage,heart,vascular.smooth.muscle,visceral.smooth.muscle
+stage,heart,vascular_smooth_muscle,visceral_smooth_muscle
  14-21,1,0,0
  72-82,0,0,1.96
  84-94,0,1.06,2.12

@@ -1,4 +1,4 @@
-stage,endoderm,epidermis,erythrocytes,eye,fast.muscle,fin.epithelia,fin.mesenchyme,glial,heart,ionocyte,lateral.line,liver,melanocytes,mesenchyme,mucous,muscle,neural,notochord,olfactory,paraxial.mesoderm,periderm,slow.muscle,spinal.cord,vasculature
+stage,endoderm,epidermis,erythrocytes,eye,fast_muscle,fin_epithelia,fin_mesenchyme,glial,heart,ionocyte,lateral_line,liver,melanocytes,mesenchyme,mucous,muscle,neural,notochord,olfactory,paraxial_mesoderm,periderm,slow_muscle,spinal_cord,vasculature
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.37,0,0,0,0,0,0,0
  10-12,5.27,0,0,9.3,0,0,0,0,0,0,0,0,0,0,0,0,70.51,0,0,7.9,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,0,0,0,2.65,0,0,4.27,0,0,0,2.44,3.86,0,0

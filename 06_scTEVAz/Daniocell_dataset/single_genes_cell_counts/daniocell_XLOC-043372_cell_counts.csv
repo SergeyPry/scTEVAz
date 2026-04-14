@@ -1,4 +1,4 @@
-stage,blastomeres,eye,glial,mesenchyme,muscle,neural,olfactory,paraxial.mesoderm,spinal.cord
+stage,blastomeres,eye,glial,mesenchyme,muscle,neural,olfactory,paraxial_mesoderm,spinal_cord
   3-4,13.18,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,5.26,0
  14-21,0,0,0,0,0,0,0,0,1

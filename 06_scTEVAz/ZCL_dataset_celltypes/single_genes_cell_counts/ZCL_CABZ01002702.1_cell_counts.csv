@@ -1,4 +1,4 @@
-stage,Cardiomyocyte,Epithelial.cell,Ionocyte,Mesenchymal.cell,Neural.cell,Neural.progenitor.cell,Neurosecretory.cell,Osteoblast
+stage,Cardiomyocyte,Epithelial_cell,Ionocyte,Mesenchymal_cell,Neural_cell,Neural_progenitor_cell,Neurosecretory_cell,Osteoblast
 24hpf,0,0,1,1,0,3,0,0
-72hpf,0,0.281848056003223,0.281848056003223,0,3.94587278404512,1.69108833601934,0,0.563696112006446
-21Day,0.369986860264282,0.739973720528564,0,1.10996058079285,0.739973720528564,0.369986860264282,0.369986860264282,0.369986860264282
+72hpf,0,0.28,0.28,0,3.95,1.69,0,0.56
+21Day,0.37,0.74,0,1.11,0.74,0.37,0.37,0.37

@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.mesenchyme,glial,gut,iridophores,lateral.line,melanocytes,mesenchyme,mural.cell,neural,periderm,pronephros,spinal.cord,vasculature,xanthophores
+stage,epidermis,erythrocytes,eye,fin_mesenchyme,glial,gut,iridophores,lateral_line,melanocytes,mesenchyme,mural_cell,neural,periderm,pronephros,spinal_cord,vasculature,xanthophores
  14-21,0.84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  24-34,0,0,0,0,0,0,0,0,0,0,0,84.82,0,0,0,0,0
  36-46,0,0,0.72,0,0,0,0,0,0,1.89,0,1045.6,0.83,0,3.01,0,0

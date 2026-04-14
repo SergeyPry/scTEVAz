@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,endoderm,epidermis,eye,fin.mesenchyme,glial,gut,hatching.gland,heart,ionocyte,iridophores,mesenchyme,mural.cell,muscle,neural,notochord,olfactory,otic,paraxial.mesoderm,presomitic.mesoderm,slow.muscle,spinal.cord,taste
+stage,blastomeres,endocrine_pancreas,endoderm,epidermis,eye,fin_mesenchyme,glial,gut,hatching_gland,heart,ionocyte,iridophores,mesenchyme,mural_cell,muscle,neural,notochord,olfactory,otic,paraxial_mesoderm,presomitic_mesoderm,slow_muscle,spinal_cord,taste
   5-6,16.05,0,6.55,0,0,0,0,0,16.22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,6.87,0,11.52,0,0,0,0,0,0,0,0,0,0,107.72,6.18,0,0,62.94,0,0,0,0
  10-12,12.71,0,11.89,0,19.26,0,0,0,0,0,0,0,0,0,0,196.13,9.29,0,0,63,0,0,0,0

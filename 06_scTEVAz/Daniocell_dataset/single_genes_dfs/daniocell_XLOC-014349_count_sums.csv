@@ -1,4 +1,4 @@
-stage,axial,blastomeres,erythrocytes,eye,glial,immune,iridophores,mesenchyme,neural,paraxial.mesoderm,spinal.cord
+stage,axial,blastomeres,erythrocytes,eye,glial,immune,iridophores,mesenchyme,neural,paraxial_mesoderm,spinal_cord
   3-4,0,43.07,0,0,0,0,0,0,0,0,0
   5-6,7.22,93.38,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,3.33,0,0,0,0,41.71,3.67,0

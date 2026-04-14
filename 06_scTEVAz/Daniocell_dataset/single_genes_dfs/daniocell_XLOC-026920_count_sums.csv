@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,eye,glial,gut,ionocyte,lateral.line,mucous,muscle,neural,paraxial.mesoderm,periderm,presomitic.mesoderm,spinal.cord,taste,vasculature
+stage,axial,blastomeres,epidermis,eye,glial,gut,ionocyte,lateral_line,mucous,muscle,neural,paraxial_mesoderm,periderm,presomitic_mesoderm,spinal_cord,taste,vasculature
   3-4,0,13.86,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,9.23,0,0,0,0,0

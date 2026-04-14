@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,hatching.gland,mesenchyme,muscle,neural,notochord,paraxial.mesoderm,presomitic.mesoderm,slow.muscle,somites,spinal.cord,vascular.smooth.muscle
+stage,epidermis,eye,fast_muscle,hatching_gland,mesenchyme,muscle,neural,notochord,paraxial_mesoderm,presomitic_mesoderm,slow_muscle,somites,spinal_cord,vascular_smooth_muscle
   7-9,0,0,0,0,0,0,0,0,2.63,0,0,0,0,0
  10-12,0,0,0,3.15,0,0,3.15,0,0,0,0,0,0,0
  14-21,1,0,0,0,0,0,0,0,0,0,1,2,0,0

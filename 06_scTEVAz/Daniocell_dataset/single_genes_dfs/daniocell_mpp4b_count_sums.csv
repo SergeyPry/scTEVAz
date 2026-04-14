@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fast.muscle,fin.epithelia,fin.mesenchyme,glial,heart,immune,iridophores,liver,mesenchyme,muscle,neural,notochord,otic,periderm,presomitic.mesoderm,pronephros,spinal.cord,taste,vascular.smooth.muscle,vasculature,xanthophores
+stage,epidermis,erythrocytes,eye,fast_muscle,fin_epithelia,fin_mesenchyme,glial,heart,immune,iridophores,liver,mesenchyme,muscle,neural,notochord,otic,periderm,presomitic_mesoderm,pronephros,spinal_cord,taste,vascular_smooth_muscle,vasculature,xanthophores
  14-21,1.18,0.82,0,0,0,0,0,0,0,0,0,0,0,2.16,0,0,0,1.26,0.89,0,0,0,0,0
  24-34,0,0,5.27,0,0.6,0,0,0,0,0,0,0,0,2.93,0,1.68,0,0,0,1.58,0,0,0,0
  36-46,0,0,13.46,0,0,0,0,0,0,0,0,0.94,0,14.89,0,0,0,0,0,8.34,0,0,0,0

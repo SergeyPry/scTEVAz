@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,epidermis,eye,glial,gut,hatching.gland,immune,mesenchyme,mural.cell,neural,olfactory,otic,somites,spinal.cord,vascular.smooth.muscle,vasculature
+stage,endocrine_pancreas,epidermis,eye,glial,gut,hatching_gland,immune,mesenchyme,mural_cell,neural,olfactory,otic,somites,spinal_cord,vascular_smooth_muscle,vasculature
   7-9,0,0,0,0,0,3.83,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,0,0,2.35,0,0,0.81,1.41,0,0
  24-34,0,0,0,0,0,0,0,0,0,8.52,0,0,0,14,0,0

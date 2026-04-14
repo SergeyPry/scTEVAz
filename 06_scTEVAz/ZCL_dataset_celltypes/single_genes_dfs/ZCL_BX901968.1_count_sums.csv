@@ -1,4 +1,4 @@
-stage,Neural.cell,Oocyte,Primordial.germ.cell,T.cell
-72hpf,1.06979114146608,0,0,0
-21Day,0,0,1.33853308820331,0
-22Month,0,1.6399639535923,0,0.546654651197433
+stage,Neural_cell,Oocyte,Primordial_germ_cell,T_cell
+72hpf,1.07,0,0,0
+21Day,0,0,1.34,0
+22Month,0,1.64,0,0.55

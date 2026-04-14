@@ -1,4 +1,4 @@
-stage,axial,blastomeres,erythrocytes,eye,immune,mesenchyme,mural.cell,muscle,neural,paraxial.mesoderm,periderm,spinal.cord
+stage,axial,blastomeres,erythrocytes,eye,immune,mesenchyme,mural_cell,muscle,neural,paraxial_mesoderm,periderm,spinal_cord
   3-4,0,27.65,0,0,0,0,0,0,0,0,0,0
   7-9,3.97,0,0,0,0,0,0,0,30.12,3.7,0,0
  10-12,0,0,0,3.39,0,0,0,0,0,0,0,0

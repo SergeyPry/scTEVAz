@@ -1,4 +1,4 @@
-stage,axial,blastomeres,eye,glial,mesenchyme,muscle,neural,notochord,paraxial.mesoderm,spinal.cord
+stage,axial,blastomeres,eye,glial,mesenchyme,muscle,neural,notochord,paraxial_mesoderm,spinal_cord
   3-4,0,19.5,0,0,0,0,0,0,0,0
   5-6,11.88,32.97,0,0,0,0,0,0,0,0
   7-9,3.57,0,0,0,0,0,3.49,0,0,0

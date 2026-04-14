@@ -1,4 +1,4 @@
-stage,eye,fin.mesenchyme,glial,hatching.gland,ionocyte,liver,mesenchyme,muscle,neural,pericytes,periderm,somites,spinal.cord,vasculature
+stage,eye,fin_mesenchyme,glial,hatching_gland,ionocyte,liver,mesenchyme,muscle,neural,pericytes,periderm,somites,spinal_cord,vasculature
  14-21,0,0,0,0,0.82,0,0,0,4.66,0,0,1.06,0,0
  24-34,0.74,0,0,0,0,0,0,0,7.13,0,0,0,0,0.65
  36-46,0,0,2.83,0,0,0,0,0,7.47,0,0,0,4.1,0

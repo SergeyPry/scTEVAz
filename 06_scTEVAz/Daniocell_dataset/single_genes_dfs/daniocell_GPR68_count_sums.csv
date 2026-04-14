@@ -1,4 +1,4 @@
-stage,epidermis,eye,immune,mesenchyme,muscle,neural,pericytes,pronephros,spinal.cord,visceral.smooth.muscle
+stage,epidermis,eye,immune,mesenchyme,muscle,neural,pericytes,pronephros,spinal_cord,visceral_smooth_muscle
  14-21,0.88,0,0,0,0,0,0,0,0,0
  24-34,0,0.84,0,0,0,0,0,0,0,0
  36-46,0,0.85,0,2.3,0,7.68,0,0,4.84,0

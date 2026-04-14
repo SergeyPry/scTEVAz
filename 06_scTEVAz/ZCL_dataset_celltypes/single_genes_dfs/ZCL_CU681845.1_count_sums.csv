@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Hepatocyte,Immune.cell,Macrophage,Neural.cell,Neurosecretory.cell,Osteoblast,Primordial.germ.cell,Spermatocyte,T.cell
-72hpf,0,0,0,0,1.06979114146608,0,1.06979114146608,0,0,0
-3Month,0.959847898662586,0.639898599108391,0.319949299554195,0,0.319949299554195,0,0,0.639898599108391,0.319949299554195,0.639898599108391
-22Month,0,0.546654651197433,0,0.546654651197433,0,0.546654651197433,0,0,0,0
+stage,Epithelial_cell,Hepatocyte,Immune_cell,Macrophage,Neural_cell,Neurosecretory_cell,Osteoblast,Primordial_germ_cell,Spermatocyte,T_cell
+72hpf,0,0,0,0,1.07,0,1.07,0,0,0
+3Month,0.96,0.64,0.32,0,0.32,0,0,0.64,0.32,0.64
+22Month,0,0.55,0,0.55,0,0.55,0,0,0,0

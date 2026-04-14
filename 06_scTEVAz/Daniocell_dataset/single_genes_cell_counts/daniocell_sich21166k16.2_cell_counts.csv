@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,fast.muscle,fin.epithelia,glial,immune,lateral.line,mesenchyme,neural,otic,periderm,pronephros,slow.muscle,vasculature
+stage,blastomeres,endoderm,epidermis,eye,fast_muscle,fin_epithelia,glial,immune,lateral_line,mesenchyme,neural,otic,periderm,pronephros,slow_muscle,vasculature
   7-9,0,0,0,2.63,0,0,0,0,0,0,5.26,0,0,0,0,0
  10-12,3.15,3.15,0,0,0,0,0,0,0,0,0,0,0,3.15,0,0
  14-21,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0

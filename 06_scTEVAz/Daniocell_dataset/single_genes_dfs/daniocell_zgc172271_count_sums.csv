@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.mesenchyme,mesenchyme,muscle,neural,spinal.cord
+stage,blastomeres,epidermis,eye,fin_mesenchyme,mesenchyme,muscle,neural,spinal_cord
   5-6,30.25,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,3.43,0
  14-21,0,0,0,0,0.89,0,1.99,0

@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.epithelia,fin.mesenchyme,glial,gut,hatching.gland,immune,lateral.line,mesenchyme,muscle,neural,notochord,otic,periderm,slow.muscle,spinal.cord,taste
+stage,epidermis,eye,fin_epithelia,fin_mesenchyme,glial,gut,hatching_gland,immune,lateral_line,mesenchyme,muscle,neural,notochord,otic,periderm,slow_muscle,spinal_cord,taste
  14-21,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
  24-34,0,0,0,0,0,0,0,10.67,0,0.82,1.64,0,0,0,0,0,0.82,0
  36-46,0,0.81,0,0,0,0,0,23.36,0,2.42,0.81,0,0.81,0,0,0,0,0

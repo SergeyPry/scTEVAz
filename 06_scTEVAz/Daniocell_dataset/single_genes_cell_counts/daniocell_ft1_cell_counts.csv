@@ -1,4 +1,4 @@
-stage,blastomeres,epidermis,eye,fin.epithelia,gut,immune,ionocyte,lateral.line,mesenchyme,mucous,neural,periderm,pronephros,spinal.cord,taste
+stage,blastomeres,epidermis,eye,fin_epithelia,gut,immune,ionocyte,lateral_line,mesenchyme,mucous,neural,periderm,pronephros,spinal_cord,taste
   3-4,13.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,6.13,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,5.26,2.63,0,0,0

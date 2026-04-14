@@ -1,4 +1,4 @@
-stage,epidermis,eye,mesenchyme,mural.cell,muscle,neural,olfactory,periderm,somites,spinal.cord,vasculature
+stage,epidermis,eye,mesenchyme,mural_cell,muscle,neural,olfactory,periderm,somites,spinal_cord,vasculature
  14-21,0,0,0,0,1.81,2.32,0,0,1.78,1.5,0
  24-34,0,1.94,0,0,0,1.11,0,0,0,0,0
  36-46,0,0,2.89,0,0,1.86,0,0,0,0,0

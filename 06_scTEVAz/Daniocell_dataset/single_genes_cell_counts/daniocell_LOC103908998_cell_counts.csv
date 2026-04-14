@@ -1,4 +1,4 @@
-stage,axial,epidermis,erythrocytes,exocrine.pancreas,eye,fin.epithelia,fin.mesenchyme,glial,gut,liver,mesenchyme,muscle,neural,otic,pericytes,periderm,presomitic.mesoderm,spinal.cord,vascular.smooth.muscle,vasculature
+stage,axial,epidermis,erythrocytes,exocrine_pancreas,eye,fin_epithelia,fin_mesenchyme,glial,gut,liver,mesenchyme,muscle,neural,otic,pericytes,periderm,presomitic_mesoderm,spinal_cord,vascular_smooth_muscle,vasculature
  10-12,0,0,0,0,0,0,0,0,0,0,0,0,3.15,0,0,0,0,0,0,0
  14-21,0,3,0,0,0,0,0,0,0,0,1,1,5,0,0,0,1,2,0,0
  24-34,0,1.64,0,0,2.46,0,0.82,0,0,0,2.46,0.82,13.13,0,0,0.82,0,2.46,0,0

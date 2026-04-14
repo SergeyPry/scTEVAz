@@ -1,4 +1,4 @@
-stage,Epithelial.cell,Hepatocyte,Intestinal.bulb.cell,Neural.cell,Neural.progenitor.cell,Neurosecretory.cell,T.cell
-72hpf,0,0,0,0,0.281848056003223,0.563696112006446,0
-21Day,0.739973720528564,0,0,0.369986860264282,0,0.369986860264282,0
-22Month,0,0.136649431988133,0.136649431988133,0,0,0,0.136649431988133
+stage,Epithelial_cell,Hepatocyte,Intestinal_bulb_cell,Neural_cell,Neural_progenitor_cell,Neurosecretory_cell,T_cell
+72hpf,0,0,0,0,0.28,0.56,0
+21Day,0.74,0,0,0.37,0,0.37,0
+22Month,0,0.14,0.14,0,0,0,0.14

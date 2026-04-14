@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,glial,gut,liver,mesenchyme,muscle,neural,olfactory,otic,paraxial.mesoderm,periderm,pronephros,spinal.cord,vasculature
+stage,blastomeres,endoderm,epidermis,eye,glial,gut,liver,mesenchyme,muscle,neural,olfactory,otic,paraxial_mesoderm,periderm,pronephros,spinal_cord,vasculature
   3-4,26.36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,30.65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,10.51,0,0,0,0,0,10.51,0,0,21.03,0,0,0,0

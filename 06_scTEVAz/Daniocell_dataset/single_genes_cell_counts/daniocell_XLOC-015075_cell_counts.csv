@@ -1,4 +1,4 @@
-stage,eye,glial,ionocyte,mesenchyme,neural,otic,visceral.smooth.muscle
+stage,eye,glial,ionocyte,mesenchyme,neural,otic,visceral_smooth_muscle
  60-70,0,0,0,0,1.96,0,0
  72-82,0.98,0,0,0.98,0.98,0,0
  84-94,1.06,0,1.06,0,1.06,0,1.06

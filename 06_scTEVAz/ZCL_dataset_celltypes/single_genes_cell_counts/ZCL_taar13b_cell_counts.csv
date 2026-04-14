@@ -1,4 +1,4 @@
-stage,Neural.cell,Osteoblast
-72hpf,3.38217667203868,0
-21Day,1.84993430132141,0.369986860264282
-3Month,0.312051019934018,0
+stage,Neural_cell,Osteoblast
+72hpf,3.38,0
+21Day,1.85,0.37
+3Month,0.31,0

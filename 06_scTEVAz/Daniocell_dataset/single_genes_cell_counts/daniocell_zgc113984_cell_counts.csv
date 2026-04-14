@@ -1,4 +1,4 @@
-stage,epidermis,glial,gut,neural,notochord,otic,periderm,pgc,presomitic.mesoderm,somites,spinal.cord
+stage,epidermis,glial,gut,neural,notochord,otic,periderm,pgc,presomitic_mesoderm,somites,spinal_cord
  14-21,2,1,1,5,0,1,0,1,2,2,3
  24-34,0,0,0,0.82,0.82,0,0.82,0,0,0,0
  48-58,0,0.57,0,0,0.57,0,0,0,0,0,0

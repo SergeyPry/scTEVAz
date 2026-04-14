@@ -1,4 +1,4 @@
-stage,axial,blastomeres,endoderm,epidermis,eye,fin.epithelia,glial,hatching.gland,muscle,neural,notochord,otic,paraxial.mesoderm,periderm,pgc,presomitic.mesoderm,pronephros,slow.muscle,spinal.cord,vasculature
+stage,axial,blastomeres,endoderm,epidermis,eye,fin_epithelia,glial,hatching_gland,muscle,neural,notochord,otic,paraxial_mesoderm,periderm,pgc,presomitic_mesoderm,pronephros,slow_muscle,spinal_cord,vasculature
   3-4,52.75,1144.93,0,0,0,0,0,0,0,0,0,0,0,34.32,0,0,0,0,0,0
   5-6,82.04,1031.71,10.68,0,0,0,0,0,0,32.09,0,0,0,55.13,0,0,0,0,0,0
   7-9,19.88,40.63,25.92,0,33.54,0,0,22.65,0,435.25,12.94,0,182.24,0,12.73,0,0,0,0,0

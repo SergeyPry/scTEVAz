@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,endoderm,epidermis,erythrocytes,eye,fin.mesenchyme,glial,gut,heart,iridophores,liver,mesenchyme,mucous,mural.cell,muscle,neural,pericytes,pronephros,spinal.cord,xanthophores
+stage,endocrine_pancreas,endoderm,epidermis,erythrocytes,eye,fin_mesenchyme,glial,gut,heart,iridophores,liver,mesenchyme,mucous,mural_cell,muscle,neural,pericytes,pronephros,spinal_cord,xanthophores
  10-12,0,3.15,0,0,0,0,0,0,0,0,0,0,0,0,0,9.44,0,0,0,0
  14-21,0,14,5,0,3,0,0,3,0,0,10,1,0,0,0,1,0,8,1,0
  24-34,1.64,9.03,0.82,0,8.21,0,0,3.28,0,0,13.95,2.46,0,0,3.28,0,0,3.28,0.82,0

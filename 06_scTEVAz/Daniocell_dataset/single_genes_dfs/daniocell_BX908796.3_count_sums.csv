@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,eye,fin.mesenchyme,glial,gut,lateral.line,mesenchyme,muscle,neural,olfactory,otic,periderm,presomitic.mesoderm,pronephros,somites,spinal.cord,taste,vasculature,visceral.smooth.muscle,xanthophores
+stage,epidermis,erythrocytes,eye,fin_mesenchyme,glial,gut,lateral_line,mesenchyme,muscle,neural,olfactory,otic,periderm,presomitic_mesoderm,pronephros,somites,spinal_cord,taste,vasculature,visceral_smooth_muscle,xanthophores
   7-9,0,0,0,0,0,0,0,0,0,4.27,0,0,0,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,6.5,0,0,0,0,0,0,0,0,0,0,0
  14-21,3.78,0,0,0,0,0,0,0,0,9.51,0,2.03,0,0.89,0.94,1.02,2.19,0,0,0,0

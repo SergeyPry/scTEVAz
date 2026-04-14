@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,exocrine.pancreas,eye,fin.epithelia,glial,gut,immune,iridophores,lateral.line,mesenchyme,muscle,neural,olfactory,otic,periderm,spinal.cord,vascular.smooth.muscle,vasculature
+stage,epidermis,erythrocytes,exocrine_pancreas,eye,fin_epithelia,glial,gut,immune,iridophores,lateral_line,mesenchyme,muscle,neural,olfactory,otic,periderm,spinal_cord,vascular_smooth_muscle,vasculature
   5-6,0,0,0,0,0,0,0,0,0,0,0,0,17.78,0,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,0,0,0,7.57,0,0,0,0,0,0
  14-21,0,0.99,0,0,0,1.06,0,0,0,0,0,0,1.78,0,0,0,2.97,0,0

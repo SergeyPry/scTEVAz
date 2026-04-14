@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,epidermis,eye,fin.epithelia,glial,immune,ionocyte,mesenchyme,neural,paraxial.mesoderm,periderm,pronephros,slow.muscle,spinal.cord,taste,vasculature
+stage,blastomeres,endoderm,epidermis,eye,fin_epithelia,glial,immune,ionocyte,mesenchyme,neural,paraxial_mesoderm,periderm,pronephros,slow_muscle,spinal_cord,taste,vasculature
   3-4,38.77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   5-6,34.04,0,0,0,0,0,0,0,0,0,0,12.12,0,0,0,0,0
   7-9,0,0,0,0,0,0,0,0,0,13.33,15.91,0,0,0,0,0,0

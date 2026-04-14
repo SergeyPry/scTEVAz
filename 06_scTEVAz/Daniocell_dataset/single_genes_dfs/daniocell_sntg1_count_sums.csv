@@ -1,4 +1,4 @@
-stage,blastomeres,eye,glial,mesenchyme,muscle,neural,olfactory,otic,presomitic.mesoderm,slow.muscle,spinal.cord,vasculature
+stage,blastomeres,eye,glial,mesenchyme,muscle,neural,olfactory,otic,presomitic_mesoderm,slow_muscle,spinal_cord,vasculature
   3-4,51.95,0,0,0,0,0,0,0,0,0,0,0
   5-6,19.81,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,0,0,0,0,10,0,0,0,0,0,0

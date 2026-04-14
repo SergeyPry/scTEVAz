@@ -1,6 +1,6 @@
-stage,Endothelial.cell,Epithelial.cell,Hepatocyte,Macrophage,Neural.cell,Primordial.germ.cell
+stage,Endothelial_cell,Epithelial_cell,Hepatocyte,Macrophage,Neural_cell,Primordial_germ_cell
 24hpf,1,0,0,0,0,0
-72hpf,0,0,0,0,0.563696112006446,0
-21Day,0,0.369986860264282,0,0,0,0
-3Month,0,0,0.104017006644673,0,0,0
-22Month,0,0,0.409948295964399,0.136649431988133,0,0.136649431988133
+72hpf,0,0,0,0,0.56,0
+21Day,0,0.37,0,0,0,0
+3Month,0,0,0.1,0,0,0
+22Month,0,0,0.41,0.14,0,0.14

@@ -1,5 +1,5 @@
-stage,Cardiomyocyte,Epithelial.cell,Erythrocyte,Hepatocyte,Immune.cell,Keratinocyte,Neural.cell,Primordial.germ.cell
-72hpf,0,1.06979114146608,1.06979114146608,0,0,0,72.7457976196933,0
-21Day,0,0,6.69266544101654,0,0,0,34.801860293286,0
-3Month,0.639898599108391,0,0,0.319949299554195,0.319949299554195,0.319949299554195,8.63863108796328,0.319949299554195
-22Month,0,0.546654651197433,0,1.09330930239487,0,0,2.73327325598717,0
+stage,Cardiomyocyte,Epithelial_cell,Erythrocyte,Hepatocyte,Immune_cell,Keratinocyte,Neural_cell,Primordial_germ_cell
+72hpf,0,1.07,1.07,0,0,0,72.75,0
+21Day,0,0,6.69,0,0,0,34.8,0
+3Month,0.64,0,0,0.32,0.32,0.32,8.64,0.32
+22Month,0,0.55,0,1.09,0,0,2.73,0

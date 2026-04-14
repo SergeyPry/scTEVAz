@@ -1,4 +1,4 @@
-stage,epidermis,eye,glial,gut,mesenchyme,muscle,neural,otic,periderm,spinal.cord
+stage,epidermis,eye,glial,gut,mesenchyme,muscle,neural,otic,periderm,spinal_cord
  14-21,0.87,0,0,0,0,0,1.51,0,0,0
  24-34,0,0,0,0,0,0,1.55,0,0,0
  36-46,0,0,0,0,0,0,0,0,2.48,0.72

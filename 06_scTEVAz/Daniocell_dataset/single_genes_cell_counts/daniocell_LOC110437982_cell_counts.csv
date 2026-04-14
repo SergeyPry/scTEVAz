@@ -1,4 +1,4 @@
-stage,epidermis,eye,fin.mesenchyme,glial,gut,heart,immune,lateral.line,liver,mesenchyme,muscle,neural,notochord,olfactory,paraxial.mesoderm,periderm,presomitic.mesoderm,pronephros,somites,spinal.cord,vascular.smooth.muscle,vasculature,xanthophores
+stage,epidermis,eye,fin_mesenchyme,glial,gut,heart,immune,lateral_line,liver,mesenchyme,muscle,neural,notochord,olfactory,paraxial_mesoderm,periderm,presomitic_mesoderm,pronephros,somites,spinal_cord,vascular_smooth_muscle,vasculature,xanthophores
   7-9,0,0,0,0,0,0,0,0,0,0,0,5.26,0,0,2.63,0,0,0,0,0,0,0,0
  10-12,0,0,0,0,0,0,0,0,0,0,0,15.73,3.15,0,0,0,0,0,3.15,0,0,0,0
  14-21,0,1,0,0,1,0,0,0,0,1,3,7,0,0,0,0,2,0,1,2,0,0,0

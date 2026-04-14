@@ -1,4 +1,4 @@
-stage,endocrine.pancreas,endoderm,epidermis,eye,glial,gut,liver,mesenchyme,neural,paraxial.mesoderm,vasculature
+stage,endocrine_pancreas,endoderm,epidermis,eye,glial,gut,liver,mesenchyme,neural,paraxial_mesoderm,vasculature
   7-9,0,0,0,0,0,0,0,0,0,2.63,0
  10-12,0,0,0,0,0,0,0,0,6.29,0,0
  14-21,0,2,1,1,0,0,0,2,0,0,0

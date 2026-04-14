@@ -1,4 +1,4 @@
-stage,axial,blastomeres,epidermis,erythrocytes,fast.muscle,fin.epithelia,gut,heart,immune,mesenchyme,neural,periderm,slow.muscle
+stage,axial,blastomeres,epidermis,erythrocytes,fast_muscle,fin_epithelia,gut,heart,immune,mesenchyme,neural,periderm,slow_muscle
   3-4,0,26.36,0,0,0,0,0,0,0,0,0,0,0
   7-9,2.63,0,0,0,0,0,0,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,0,1,0,0,0,0,0

@@ -1,4 +1,4 @@
-stage,blastomeres,eye,fin.epithelia,glial,mesenchyme,neural,notochord,otic,periderm,presomitic.mesoderm,spinal.cord,vascular.smooth.muscle,vasculature,visceral.smooth.muscle
+stage,blastomeres,eye,fin_epithelia,glial,mesenchyme,neural,notochord,otic,periderm,presomitic_mesoderm,spinal_cord,vascular_smooth_muscle,vasculature,visceral_smooth_muscle
   7-9,2.63,5.26,0,0,0,2.63,0,0,0,0,0,0,0,0
  14-21,0,0,0,1,0,0,0,0,0,1,0,0,0,0
  24-34,0,0,0,0,0,2.46,4.1,0,0,0,0,0,0.82,0

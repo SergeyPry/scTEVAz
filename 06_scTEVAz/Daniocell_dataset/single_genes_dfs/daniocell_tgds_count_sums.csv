@@ -1,4 +1,4 @@
-stage,fin.epithelia,fin.mesenchyme,glial,hatching.gland,mesenchyme,neural,paraxial.mesoderm,periderm
+stage,fin_epithelia,fin_mesenchyme,glial,hatching_gland,mesenchyme,neural,paraxial_mesoderm,periderm
   7-9,0,0,0,0,0,0,8.26,0
  10-12,0,0,0,5.38,0,0,0,0
  24-34,0,0,0,0,0,2.14,0,0

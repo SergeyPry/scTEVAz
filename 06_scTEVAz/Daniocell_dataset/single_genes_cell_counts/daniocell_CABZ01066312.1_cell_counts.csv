@@ -1,4 +1,4 @@
-stage,epidermis,eye,fast.muscle,fin.mesenchyme,glial,gut,immune,iridophores,mesenchyme,muscle,neural,otic,periderm,spinal.cord
+stage,epidermis,eye,fast_muscle,fin_mesenchyme,glial,gut,immune,iridophores,mesenchyme,muscle,neural,otic,periderm,spinal_cord
  14-21,0,0,0,0,0,0,0,0,1,0,2,0,0,2
  24-34,0,0,0,0,0,0,0,0,0,0,6.57,0,0,1.64
  36-46,0,2.42,0,0,0,0,0,0,1.61,0,13.7,0,0.81,2.42

@@ -1,4 +1,4 @@
-stage,epidermis,erythrocytes,exocrine.pancreas,eye,fin.epithelia,fin.mesenchyme,glial,gut,iridophores,mesenchyme,muscle,neural,notochord,periderm,spinal.cord,taste,vasculature,xanthophores
+stage,epidermis,erythrocytes,exocrine_pancreas,eye,fin_epithelia,fin_mesenchyme,glial,gut,iridophores,mesenchyme,muscle,neural,notochord,periderm,spinal_cord,taste,vasculature,xanthophores
  14-21,0.87,0,0,0,0,0,0,0,0,1.11,0,0.81,0.94,0,1,0,0,0
  24-34,0,0,0,1.29,0,0,0,0,0,0.69,0,4.88,0,0,0,0,1.32,0
  36-46,0,0,0,1.83,0,0,0,0,0,0,0.64,11.64,0,0,1.97,0,0,0

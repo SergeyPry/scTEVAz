@@ -1,4 +1,4 @@
-stage,blastomeres,endoderm,erythrocytes,eye,fin.epithelia,glial,gut,ionocyte,mesenchyme,neural,notochord,periderm,spinal.cord
+stage,blastomeres,endoderm,erythrocytes,eye,fin_epithelia,glial,gut,ionocyte,mesenchyme,neural,notochord,periderm,spinal_cord
   3-4,26.36,0,0,0,0,0,0,0,0,0,0,13.18,0
   5-6,24.52,0,0,0,0,0,0,0,0,0,0,0,0
   7-9,0,2.63,0,2.63,0,0,0,0,0,15.77,0,0,0

@@ -1,4 +1,4 @@
-stage,exocrine.pancreas,fin.epithelia,glial,ionocyte,mucous,neural,notochord,otic,paraxial.mesoderm,periderm
+stage,exocrine_pancreas,fin_epithelia,glial,ionocyte,mucous,neural,notochord,otic,paraxial_mesoderm,periderm
   7-9,0,0,0,0,0,0,6.98,0,4.17,0
  36-46,0,0,0,0,0,1.45,0,0,0,0
  48-58,0,0,0,0,0,0,0,0,0,0.39

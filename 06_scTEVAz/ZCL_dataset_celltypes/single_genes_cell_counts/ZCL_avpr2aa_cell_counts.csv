@@ -1,5 +1,5 @@
-stage,Cardiomyocyte,Epithelial.cell,Hatching.gland,Mesenchymal.cell,Neural.cell,Neurosecretory.cell,Osteoblast
+stage,Cardiomyocyte,Epithelial_cell,Hatching_gland,Mesenchymal_cell,Neural_cell,Neurosecretory_cell,Osteoblast
 24hpf,0,0,1,0,0,0,0
-72hpf,0.281848056003223,1.40924028001612,0,0.563696112006446,0.281848056003223,0.281848056003223,0.281848056003223
-21Day,0,1.10996058079285,0,0,0,0,0.739973720528564
-3Month,0,0.104017006644673,0,0.104017006644673,0,0,0
+72hpf,0.28,1.41,0,0.56,0.28,0.28,0.28
+21Day,0,1.11,0,0,0,0,0.74
+3Month,0,0.1,0,0.1,0,0,0

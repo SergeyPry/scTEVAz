@@ -1,4 +1,4 @@
-stage,epidermis,exocrine.pancreas,eye,glial,mesenchyme,muscle,neural,spinal.cord
+stage,epidermis,exocrine_pancreas,eye,glial,mesenchyme,muscle,neural,spinal_cord
  14-21,4.4,0,0,0,0,0,1.09,0
  24-34,0,0,0,0,5.51,0,0,1.96
  36-46,0,0,0.66,0,0,1.31,1.22,0

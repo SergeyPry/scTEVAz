@@ -1,4 +1,4 @@
-stage,lateral.line,neural,notochord,periderm,pronephros
+stage,lateral_line,neural,notochord,periderm,pronephros
  72-82,0,0.98,0,0,0
  84-94,0,0,0,1.06,0
 108-118,0,0,0.77,0,0.77

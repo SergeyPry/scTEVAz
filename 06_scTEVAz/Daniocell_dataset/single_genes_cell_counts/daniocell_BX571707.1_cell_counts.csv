@@ -1,4 +1,4 @@
-stage,blastomeres,endocrine.pancreas,eye,glial,mesenchyme,neural,spinal.cord
+stage,blastomeres,endocrine_pancreas,eye,glial,mesenchyme,neural,spinal_cord
   3-4,13.18,0,0,0,0,0,0
  14-21,0,0,0,0,0,0,1
  24-34,0,0,0,0,0,0.82,0
