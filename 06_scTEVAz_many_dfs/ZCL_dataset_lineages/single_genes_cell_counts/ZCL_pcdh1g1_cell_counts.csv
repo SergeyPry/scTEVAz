@@ -1,0 +1,5 @@
+stage,Endothelial,Epithelial,Muscle,Neuron,Secretory,Stromal
+24hpf,0,1,0,8,0,0
+72hpf,0.85,1.69,1.41,14.94,0,8.74
+21Day,0.37,1.11,1.85,5.55,0.37,8.88
+3Month,0,0.42,0.21,0,0,0.21

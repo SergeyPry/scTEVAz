@@ -1,0 +1,57 @@
+<h3><strong>Introduction to the High-Resolution scRNA-seq Atlases</strong></h3>
+
+<p style="font-size: 18px;">The landscape of zebrafish research has been transformed by the emergence of comprehensive single-cell transcriptomic atlases. These resources provide a high-resolution molecular map of development, regeneration, and tissue homeostasis, moving us closer to a "digital fish" model. In simple terms, these atlases provide very useful expression pattern information for unstudied or little-studied genes without the need to carry out any experiments. Even for many well-known and extensively studied genes, putting the scRNA-seq expression data into a new context of particular lineages, tissues or cell types can stimulate new insights, which might not have been possible when using other expression databases.</p>
+
+<h4><strong>1. Daniocell: The Temporal Gold Standard</strong></h4>
+<p style="font-size: 18px;">Developed by the <strong>Farrell Lab (NICHD)</strong>, Daniocell is the premier resource for tracking the high-resolution temporal progression of zebrafish development. This atlas Integrates data from 490,000 cells collected at 62 developmental stages (3.3 to 120 hpf). The cells are distributed across 500+ annotated clusters. This atlas is especially important for researchers focused on organogenesis because Daniocell provides the most dense temporal sampling available, capturing the "movie" of early life from zygotic activation to a swimming larva.</p>
+ 
+<h4><strong>2. Zebrafish Cell Landscape (ZCL): Beyond the Embryo</strong></h4>
+
+<p style="font-size: 18px;">ZCL was generated using Microwell-seq (Han/Guo labs) and offers a broader physiological perspective that extends into the adult fish. It covers 5 stages and 18 different tissue types, including adult organs and larvae. This dataset extends and complements the other two by providing information on how any gene changes its expression pattern into adulthood.</p>
+
+<h4><strong>3. Zebrahub: Single-Embryo Precision & Multimodality</strong></h4>
+
+<p style="font-size: 18px;">Produced by the <strong>Chan Zuckerberg Biohub SF</strong>, Zebrahub represents the next generation of multimodal developmental atlases. This dynamic atlas covers 10 developmental stages (10 hpf to 10 dpf). It is the definitive resource for <em>in silico</em> fate mapping and understanding how inter-individual variability impacts cell-state transitions.</p>
+
+
+<h3><strong>Principle, structure and usage of single-cell Tissue Expression Value Aggregator for zebrafish (scTEVAz)</strong></h3>
+
+<p style="font-size: 18px;">In developing scTEVAz, the main motivation was to use existing scRNA-seq datasets to visualize expression of multiple unstudied genes we were working on. The existing tools from the respective atlases were somewhat helpful but were not customizable and inconsistent between different atlases. This limitation led us to develop this tool to provide an easy access to valuable aggregated expression data derived from all available zebrafish scRNA-seq datasets. Integrating these datasets creates a more comprehensive overview since <strong>Daniocell</strong>, <strong>ZCL</strong> and <strong>Zebrahub</strong> provide different stages, cell types and levels of data aggregation.</p>
+
+
+<figure style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
+    <div style="flex-shrink: 0;">
+        <img src="scTEVAz_workflow.png" alt="scTEVAz Workflow" width="600px" style="display: block;"/>
+    </div>
+	
+    <figcaption style="font-size: 18px; line-height: 1.5;">
+        <strong>An overview of the inputs for scTEVAz and its workflow.</strong> 
+        The program has the indicated on the figure inputs and options. It is essential to first choose the dataset ("Dataset choice: Daniocell, Zebrafish Cell Landscape, Zebrahub"). The user then needs to choose which gene to focus on ("gene symbol") by pasting or typing the gene symbol. The "Data type" option requires the choice between the 'count sums' and 'cell counts' options. Tissues and stages tickboxes do not need to be modified initially, but after the first run they can be narrowed down to the most relevant ones. For ZCL data, there is a choice between lineages or cell types. The "Sorting option" indicates whether to sort the tissue or cell types alphabetically or by the sum of all values for all stages. To facilitate visualization of values at different orders of magnitude, "y-scale option" provides either 'continuous' or 'square root' choices. The data for the given combination of inputs is then plotted for the user to view and in the form of download buttons for the plot, data and code.
+    </figcaption>
+</figure>
+
+<h3>Interface</h3>
+<p style="font-size: 18px">All inputs and parameters are set using the panel to the left. They have been broadly described in the figure above. We can add here that the "Filter by tissue" or "Filter by stage" input groups contain 'Select all' and 'Deselect all' buttons that can help with defining the selection of data. The other options are based on simple radio buttons. Finally, submission of inputs is controlled by the <strong>GENERATE PLOT</strong> button. At the right side, there are two tabs: <strong>Instructions</strong> and <strong>Results</strong>. Due to the number of inputs, the user needs to provide all of them and then press <strong>GENERATE PLOT</strong> button. This will result in a plot being generated by <strong>ggiraph</strong> package on the <strong>Results</strong> tab. To avoid excessive computations, additional input updates require the <strong>GENERATE PLOT</strong> button to be pushed again in order to update the output on the <strong>Results</strong> tab. The output also contains the following download buttons: <strong>"SAVE PLOT(PNG)"</strong>, <strong>"EXPORT DATA"</strong> and <strong>"SAVE THE PLOT CODE"</strong>. To use these downloaded items, they have to come from the same session, be located in the same folder and the code needs to be run fully on a machine where all required R packages are installed. The main difference between the online scTEVAz tool and the downloaded code is that the latter uses <strong>ggplot2</strong> for plotting. The advantage of working with these small gene-specific datasets is that you can further customize your plots as desired and there is no need to work with full datasets which have fairly large hardware requirements.</p>
+
+<h3>Citation</h3>
+<p style="font-size: 18px"> scTEVAz was developed by <strong>Sergey Prykhozhij</strong>. If you encounter a problem, please send an email to <strong>Sergey Prykhozhij</strong> at <strong><font style= "color: darkblue">s.prykhozhij@gmail.com</font></strong>. I can only make it better if you tell me when you encounter a problem.</p>
+
+
+
+<h3>Acknowledgements</h3>
+
+<ul style="list-style-type: none; padding-left: 0; line-height: 1.6;">
+        <li><strong>R</strong>: R Core Team (2013). R: A language and environment for statistical computing. R Foundation for  Statistical Computing, Vienna, Austria. <a href="https://www.r-project.org/">https://www.r-project.org/</a>.</li>
+        <li><strong>RStudio:</strong> Posit team (2025). RStudio: Integrated Development Environment for R. Posit Software, PBC, Boston, MA. <a href="https://posit.co/download/rstudio-desktop/">https://posit.co/download/rstudio-desktop/</a>.</li>
+        <li><strong>shiny:</strong>Chang W, Cheng J, Allaire J, Sievert C, Schloerke B, Aden-Buie G, Xie Y, Allen J, McPherson J, Dipert A, Borges B (2026). shiny: Web Application Framework for R. R package version 1.13.0.9000, <a href="https://shiny.posit.co/">https://shiny.posit.co/</a>.</li>
+        <li><strong>tidyverse:</strong> Wickham et al., (2019). Welcome to the Tidyverse. <em>JOSS</em>, 4(43), 1686.<a href="https://tidyverse.tidyverse.org/">https://tidyverse.tidyverse.org/</a> </li>
+        <li><strong>ggiraph:</strong> Gohel, D. & Skintzos, P. ggiraph: Interactive 'ggplot2' Graphics. <a href="https://davidgohel.github.io/ggiraph/">https://davidgohel.github.io/ggiraph/</a> </li>
+        <li><strong>paletter:</strong> Cirillo, A. paletter: Create Color Palettes from Images. <a href="https://emilhvitfeldt.github.io/paletteer/">https://emilhvitfeldt.github.io/paletteer/</a> </li>
+    </ul>
+  
+
+  <p></p>
+
+
+  
+  

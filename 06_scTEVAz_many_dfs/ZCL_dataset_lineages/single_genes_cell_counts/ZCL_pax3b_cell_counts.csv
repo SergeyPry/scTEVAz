@@ -1,0 +1,6 @@
+stage,Epithelial,Erythroid,Muscle,Neuron,Stromal
+24hpf,0,0,0,21,1
+72hpf,0,0.28,0.28,0.56,0.56
+21Day,0,0,0.74,0.37,1.85
+3Month,0.42,0.1,0,0,0.1
+22Month,1.64,0,0.14,0,0.14

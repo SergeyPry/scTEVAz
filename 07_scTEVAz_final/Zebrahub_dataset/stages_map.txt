@@ -1,0 +1,11 @@
+stage	timepoint
+0 somites	10hpf
+05 somites	12hpf
+10 somites	14hpf
+15 somites	16hpf
+20 somites	19hpf
+30 somites	24hpf
+larval-2dpf	2dpf
+larval-3dpf	3dpf
+larval-5dpf	5dpf
+larval-10dpf	10dpf

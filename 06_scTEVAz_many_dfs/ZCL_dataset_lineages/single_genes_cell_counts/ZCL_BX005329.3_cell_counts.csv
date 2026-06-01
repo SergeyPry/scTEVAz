@@ -1,0 +1,4 @@
+stage,Epithelial,Germ,Immune,Muscle,Neuron
+24hpf,0,0,0,0,1
+72hpf,0,0,0,0,0.28
+3Month,0.1,1.35,0.1,0.1,0

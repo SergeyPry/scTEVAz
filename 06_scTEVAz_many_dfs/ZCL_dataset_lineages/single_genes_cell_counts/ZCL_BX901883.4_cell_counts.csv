@@ -1,0 +1,4 @@
+stage,Endothelial,Epithelial,Erythroid,Germ,Immune,Muscle,Neuron,Other,Secretory,Stromal
+21Day,0,0.37,0.37,0,0,0.37,0.37,0,0,0.37
+3Month,0.62,13.73,0.21,1.04,5.2,0.1,0.31,0,0.73,1.66
+22Month,1.5,108.09,0.27,0.82,11.07,0.82,1.09,5.06,0.14,6.7

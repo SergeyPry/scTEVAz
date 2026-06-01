@@ -1,0 +1,6 @@
+stage,Epithelial,Germ,Muscle,Neuron,Secretory,Stromal
+24hpf,0,0,0,1,0,0
+72hpf,0,0,0,3.1,0.28,0.85
+21Day,0,1.48,0.37,0,0,0.37
+3Month,0,0.21,0,0,0,0
+22Month,0.55,0.96,0,0,0,0

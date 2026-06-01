@@ -1,0 +1,12 @@
+name: scTEVAz
+title: scTEVAz
+username: singlecellfish
+account: singlecellfish
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17214961
+bundleId: 11982783
+url: https://singlecellfish.shinyapps.io/scTEVAz/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

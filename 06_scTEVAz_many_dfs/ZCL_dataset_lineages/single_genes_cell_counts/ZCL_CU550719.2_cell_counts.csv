@@ -1,0 +1,4 @@
+stage,Epithelial,Erythroid,Germ,Neuron,Stromal
+24hpf,1,0,0,0,1
+72hpf,0.28,0,0,0,0.28
+21Day,1.48,0.37,0.37,0.37,0

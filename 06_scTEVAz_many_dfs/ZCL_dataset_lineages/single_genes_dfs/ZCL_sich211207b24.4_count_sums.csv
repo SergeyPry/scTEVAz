@@ -1,0 +1,5 @@
+stage,Endothelial,Epithelial,Erythroid,Germ,Immune,Muscle,Neuron,Other,Secretory,Stromal
+24hpf,0,0,0,0,4.09,0,0,0,0,0
+21Day,0,0,12.05,0,0,0,0,0,0,0
+3Month,0.64,486,10.24,2.88,11.2,4.48,0.32,1.28,9.6,2.56
+22Month,0.55,479.96,7.11,0.55,4.37,0.55,2.19,10.39,1.64,3.28

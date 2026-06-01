@@ -1,0 +1,5 @@
+stage,Epithelial,Germ,Immune,Neuron,Other,Secretory,Stromal
+24hpf,2,0,0,8,0,0,1
+72hpf,0,0,0,3.95,0.28,0.28,0.56
+21Day,0,0,0,0,0,0,0.74
+3Month,0.73,1.25,0.1,0,0,0,0
