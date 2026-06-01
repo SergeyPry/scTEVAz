@@ -84,7 +84,7 @@ ui <- fluidPage(
         img(src = "logo_video.gif", height = 500, width = 500)
       ),
       
-      HTML("<footer style = 'position:absolute; bottom:0; width:100%; height:50px; color: white; padding: 10px; background-color: #152437; z-index: 1000;'>
+      HTML("<footer style = 'position:fixed; bottom:0; width:100%; height:50px; color: white; padding: 10px; background-color: #152437; z-index: 1000;'>
                       <p style='font-size: 18px'> scTEVAz was developed by Sergey Prykhozhij</strong> while working at the CHEO Research Institute in Ottawa, Canada. If you encounter a problem, please send an email to <strong>Sergey Prykhozhij</strong> at <strong><font style= 'color: lightblue'>s.prykhozhij@gmail.com</font></strong>.</p>
           </footer>")
        ),
