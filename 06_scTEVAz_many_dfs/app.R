@@ -9,6 +9,7 @@ library(paletteer)
 library(shinycssloaders)
 library(bsicons)
 library(stringr)
+library(svglite)
 
 # packages for interactive plots 
 library(ggiraph)
@@ -314,15 +315,17 @@ ui <- fluidPage(
                         fluidRow(
                           column(12, style = "display: flex; gap: 10px; margin-bottom: 20px;",
                                  withSpinner(
-                                   downloadButton("download_png", "Save Plot (PNG)", icon = icon("image"), class = "btn-download"),
-                                   type = 4),
+                                   downloadButton("download_png", "Save Plot as PNG", icon = icon("image"), class = "btn-download"),
+                                   type = 5),
+                                 withSpinner(
+                                   downloadButton("download_pdf", "Save Plot as PDF", icon = icon("image"), class = "btn-download"),
+                                   type = 5),
                                  withSpinner(
                                    downloadButton("download_data", "Export Data (CSV)", icon = icon("table"), class = "btn-download"),
-                                   type = 4 ),
+                                   type = 5 ),
                                  withSpinner(
                                    downloadButton("download_code", "Save the plot code", icon = icon("code"), class = "btn-download"),
-                                   type = 4 )
-                          )
+                                   type = 5 )                          )
                         ),
                         
                         # Plot Section
@@ -641,14 +644,17 @@ ui <- fluidPage(
                                fluidRow(
                                  column(12, style = "display: flex; gap: 10px; margin-bottom: 20px;",
                                         withSpinner(
-                                          downloadButton("zcl_download_png", "Download as PNG"),
-                                          type = 4),
+                                          downloadButton("zcl_download_png", "Save Plot as PNG", icon = icon("image"), class = "btn-download"),
+                                          type = 5),
+                                        withSpinner(
+                                          downloadButton("zcl_download_pdf", "Save Plot as PDF", icon = icon("image"), class = "btn-download"),
+                                          type = 5),
                                         withSpinner(
                                           downloadButton("zcl_download_data", "Export Data (CSV)", icon = icon("table"), class = "btn-download"),
-                                          type = 4 ),
+                                          type = 5 ),
                                         withSpinner(
                                           downloadButton("zcl_download_code", "Save the plot code", icon = icon("code"), class = "btn-download"),
-                                          type = 4 )
+                                          type = 5 )
                                  )
                                ),
                                
@@ -878,14 +884,17 @@ ui <- fluidPage(
                                fluidRow(
                                  column(12, style = "display: flex; gap: 10px; margin-bottom: 20px;",
                                         withSpinner(
-                                          downloadButton("zhub_download_png", "Save Plot (PNG)", icon = icon("image"), class = "btn-download"),
-                                          type = 4),
+                                          downloadButton("zhub_download_png", "Save Plot as PNG", icon = icon("image"), class = "btn-download"),
+                                          type = 5),
+                                        withSpinner(
+                                          downloadButton("zhub_download_pdf", "Save Plot as PDF", icon = icon("image"), class = "btn-download"),
+                                          type = 5),
                                         withSpinner(
                                           downloadButton("zhub_download_data", "Export Data (CSV)", icon = icon("table"), class = "btn-download"),
-                                          type = 4 ),
+                                          type = 5),
                                         withSpinner(
                                           downloadButton("zhub_download_code", "Save the plot code", icon = icon("code"), class = "btn-download"),
-                                          type = 4 )
+                                          type = 5)
                                  )
                                ),
                                
@@ -1488,6 +1497,33 @@ server <- function(input, output, session) {
              width = calc_width, height = calc_height)
     }
   )
+  
+  # Handle the PDF download using the base_plot
+  output$download_pdf <- downloadHandler(
+    filename = function() {
+      paste0("Daniocell_plot_", input$daniocell_gene_id, '_', Sys.Date(), ".pdf")
+    },
+    content = function(file) {
+      
+      # obtain the data for the size parameters of the plot
+      df <- read.csv("./Daniocell_dataset/temp.csv")
+      n_facets = length(unique(df$tissue))
+      
+      if(n_facets < 5){
+        calc_width = n_facets * FACET_SIZE + 0.5
+        calc_height = FACET_SIZE + 0.5
+      } else{
+        # do the final calculation
+        calc_width = 5 * FACET_SIZE
+        calc_height = ceiling(n_facets/5)*FACET_SIZE + 1
+      }
+      
+      # Use ggsave on the ggplot object      
+      ggsave(file, plot = daniocell_data(), device = cairo_pdf, dpi = 300, 
+             width = calc_width, height = calc_height)
+    }
+  )
+  
   
   # Handle data download
   output$download_data <- downloadHandler(
@@ -2093,7 +2129,11 @@ server <- function(input, output, session) {
   # Handle the PNG download using the base_plot
   output$zcl_download_png <- downloadHandler(
     filename = function() {
-      paste0("ZCL_plot_", input$zcl_gene_id, '_', Sys.Date(), ".png")
+      if( rv$lastBtn == "lineages_plot_zcl" ){
+        paste0("ZCL_plot_lineage_", input$zcl_gene_id, '_', Sys.Date(), ".png")
+      } else {
+        paste0("ZCL_plot_celltypes_", input$zcl_gene_id, '_', Sys.Date(), ".png")
+      }
     },
     content = function(file) {
       
@@ -2128,14 +2168,64 @@ server <- function(input, output, session) {
       
     }
   )
-
-    # Handle data download
-  output$zcl_download_data <- downloadHandler(
+  
+  # Handle the PDF download using the base_plot
+  output$zcl_download_pdf <- downloadHandler(
     filename = function() {
-      paste0("ZCL_data_", input$zcl_gene_id, '_', Sys.Date(), ".csv")
+      if( rv$lastBtn == "lineages_plot_zcl" ){
+        paste0("ZCL_plot_lineage_", input$zcl_gene_id, '_', Sys.Date(), ".pdf")
+      } else {
+        paste0("ZCL_plot_celltypes_", input$zcl_gene_id, '_', Sys.Date(), ".pdf")
+      }
+      
     },
     content = function(file) {
-
+      
+      # test which button was last pressed
+      if( rv$lastBtn == "lineages_plot_zcl" ){
+        result <- ZCL_lineage_data()
+        # obtain the data for the size parameters of the plot
+        df <- read.csv("./ZCL_dataset_lineages/temp.csv")
+      }
+      
+      if( rv$lastBtn == "celltypes_plot_zcl" ){
+        result <-  ZCL_celltypes_data()
+        # obtain the data for the size parameters of the plot
+        df <- read.csv("./ZCL_dataset_celltypes/temp.csv")
+      }
+      
+      # get a measure of the data size
+      n_facets = length(unique(df$tissue))
+      
+      if(n_facets < 5){
+        calc_width = n_facets * FACET_SIZE + 0.5
+        calc_height = FACET_SIZE + 0.5
+      } else{
+        # do the final calculation
+        calc_width = 5 * FACET_SIZE
+        calc_height = ceiling(n_facets/5)*FACET_SIZE + 1
+      }
+      
+      # Use ggsave on the ggplot object      
+      ggsave(file, plot = result, device = cairo_pdf, dpi = 300, 
+             width = calc_width, height = calc_height)
+      
+    }
+  )
+  
+  
+  # Handle data download
+  output$zcl_download_data <- downloadHandler(
+    filename = function() {
+      if( rv$lastBtn == "lineages_plot_zcl" ){
+        paste0("ZCL_data_lineage_", input$zcl_gene_id, '_', Sys.Date(), ".csv")
+      } else {
+        paste0("ZCL_data_celltypes_", input$zcl_gene_id, '_', Sys.Date(), ".csv")
+      }
+      
+    },
+    content = function(file) {
+      
       
       if( rv$lastBtn == "lineages_plot_zcl" ){
         data <- read.csv("./ZCL_dataset_lineages/temp.csv")
@@ -2150,13 +2240,17 @@ server <- function(input, output, session) {
       write.csv(data, file, row.names = FALSE)
     }
   )
-
+  
   
   # Handle data download
   output$zcl_download_code <- downloadHandler(
     
     filename = function() {
-      paste0("Plot_code_ZCL_", input$zcl_gene_id, '_', Sys.Date(), ".R")  
+      if( rv$lastBtn == "lineages_plot_zcl" ){
+        paste0("Plot_code_ZCL_lineage_", input$zcl_gene_id, '_', Sys.Date(), ".R")
+      } else {
+        paste0("Plot_code_ZCL_celltypes_", input$zcl_gene_id, '_', Sys.Date(), ".R")
+      }
     },
     content = function(file) {
       
@@ -2535,6 +2629,34 @@ server <- function(input, output, session) {
       
       }
   )
+  
+  # Handle the PDF download using the base_plot
+  output$zhub_download_pdf <- downloadHandler(
+    filename = function() {
+      paste0("Zebrahub_plot_", input$zhub_gene_id, '_', Sys.Date(), ".pdf")
+    },
+    content = function(file) {
+      
+      # obtain the data for the size parameters of the plot
+      df <- read.csv("./Zebrahub_dataset/temp.csv")
+      n_facets = length(unique(df$tissue))
+      
+      if(n_facets < 5){
+        calc_width = n_facets * FACET_SIZE + 0.5
+        calc_height = FACET_SIZE + 0.5
+      } else{
+        # do the final calculation
+        calc_width = 5 * FACET_SIZE
+        calc_height = ceiling(n_facets/5)*FACET_SIZE + 1
+      }
+      
+      # Use ggsave on the ggplot object      
+      ggsave(file, plot = zhub_data(), device = cairo_pdf, dpi = 300, 
+             width = calc_width, height = calc_height)
+      
+    }
+  )
+  
   
   
   # Handle data download
