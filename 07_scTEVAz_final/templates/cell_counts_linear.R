@@ -41,6 +41,12 @@ ggplot(data, aes(x = stage, y = .data[[y_value]], fill = stage)) +
           ) 
 
 
-# optionally save the plot as desired
+# optionally save the plot as desired including a new file name
+# raster image format
 ggsave("plot.png", dpi = 300)
+
+# alternative vector formats (adjust the dimensions as needed)
+ggsave("plot.svg", width = 12, height = 12, units = "in")
+ggsave("plot.pdf", width = 12, height = 12, units = "in")
+
 
