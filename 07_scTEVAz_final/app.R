@@ -53,7 +53,7 @@ zhub_stages <- read.csv("zhub_stages.txt", header = TRUE )
 ui <- fluidPage(
   useShinyjs(), # Must include this line in the UI
   
-  HTML('<div class="row"><div style="background: #152437; margin-left: 5px; margin-right: 5px; height: 100px; text-indent: 10px; line-height: 80px; font-size: 35px; text-align: center; color: white; text-transform: none; "><img src="logo.png" style="float:left; height="100px"; width="148px"> scTEVAz - single-cell Tissue Expression Value Aggregator for zebrafish</div></div>'),
+  HTML('<div class="row"><div style="background: #152437; margin-left: 15px; margin-right: 15 px; height: 100px; text-indent: 10px; line-height: 80px; font-size: 35px; text-align: center; color: white; text-transform: none;"><img src="logo.png" style="float:left; padding: 10px 10px 10px 10px"; height= "100px", width="148px"> scTEVAz - single-cell Tissue Expression Value Aggregator for zebrafish</div></div>'),
   
   navbarPage(
     
@@ -61,6 +61,7 @@ ui <- fluidPage(
     
     title = "scTEVAz App",
     
+    header = tags$head(tags$style(HTML(".navbar-brand { padding: 20px 10px 20px 40px !important; }"))),
     
     # The Landing Page (Home)
     tabPanel(
@@ -1391,10 +1392,10 @@ server <- function(input, output, session) {
       # specify the y-axis label name
       if(input$data_type == "count_sum"){
         y_value = "counts_sum"
-        y_label = "Normalized cell expression value"
+        y_label = "Sum of normalized read counts"
       } else{
         y_value = "cell_counts"
-        y_label = "Normalized cell count"
+        y_label = "Normalized cell counts"
       }
      
       ########################### save the data ################################
@@ -1416,11 +1417,11 @@ server <- function(input, output, session) {
           ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
           theme_bw() + 
           scale_fill_paletteer_d("colorBlindness::paletteMartin") +
-          theme(plot.title = element_text(size = 8),
+          theme(plot.title = element_text(size = 12, face = "bold"),
                 strip.text.x = element_text(size = 8, margin = margin(0.1,0,0.1,0, "cm")),
                 axis.text.y = element_text(size = 8),
-                axis.title.y = element_text(size = 10),
-                axis.title.x = element_text(size = 10),
+                axis.title.y = element_text(size = 12, face = "bold"),
+                axis.title.x = element_text(size = 12, face = "bold"),
                 axis.text.x = element_text(angle = 70, vjust=0.6, colour="grey20", size= 7.5, face="plain"),
                 legend.title = element_text(size = 8, face = "bold"),
                 legend.text = element_text(size = 8, face = "plain"),
@@ -1444,16 +1445,16 @@ server <- function(input, output, session) {
           ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
           theme_bw() + 
           scale_fill_paletteer_d("colorBlindness::paletteMartin") +
-          theme(plot.title = element_text(size = 8),
+          theme(plot.title = element_text(size = 12, face = "bold"),
                 strip.text.x = element_text(size = 8, margin = margin(0.1,0,0.1,0, "cm")),
                 axis.text.y = element_text(size = 8),
-                axis.title.y = element_text(size = 10),
-                axis.title.x = element_text(size = 10),
+                axis.title.y = element_text(size = 12, face = "bold"),
+                axis.title.x = element_text(size = 12, face = "bold"),
                 axis.text.x = element_text(angle = 70, vjust=0.6, colour="grey20", size= 7.5, face="plain"),
                 legend.title = element_text(size = 8, face = "bold"),
                 legend.text = element_text(size = 8, face = "plain"),
                 legend.key.size = unit(0.15, "cm"),
-                panel.spacing = unit(0.1, "lines"))       
+                panel.spacing = unit(0.1, "lines"))     
         
         return(p_ggiraph)
       
@@ -1803,10 +1804,10 @@ server <- function(input, output, session) {
       # specify the y-axis label name
       if(input$lineage_data_type == "count_sum"){
         y_value = "counts_sum"
-        y_label = "Normalized cell expression value"
+        y_label = "Sum of normalized read counts"
       } else{
         y_value = "cell_counts"
-        y_label = "Normalized cell count"
+        y_label = "Normalized cell counts"
       }
       
       ########################### save the data ################################
@@ -1828,16 +1829,16 @@ server <- function(input, output, session) {
           ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
           theme_bw() + 
           scale_fill_paletteer_d("colorBlindness::paletteMartin") +
-          theme(plot.title = element_text(size = 8),
+          theme(plot.title = element_text(size = 12, face = "bold"),
                 strip.text.x = element_text(size = 8, margin = margin(0.1,0,0.1,0, "cm")),
                 axis.text.y = element_text(size = 8),
-                axis.title.y = element_text(size = 10),
-                axis.title.x = element_text(size = 10),
+                axis.title.y = element_text(size = 12, face = "bold"),
+                axis.title.x = element_text(size = 12, face = "bold"),
                 axis.text.x = element_text(angle = 70, vjust=0.6, colour="grey20", size= 7.5, face="plain"),
                 legend.title = element_text(size = 8, face = "bold"),
                 legend.text = element_text(size = 8, face = "plain"),
                 legend.key.size = unit(0.15, "cm"),
-                panel.spacing = unit(0.1, "lines")) 
+                panel.spacing = unit(0.1, "lines"))  
         
         return(p_ggiraph)
         
@@ -1855,16 +1856,16 @@ server <- function(input, output, session) {
           ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
           theme_bw() + 
           scale_fill_paletteer_d("colorBlindness::paletteMartin") +
-          theme(plot.title = element_text(size = 8),
+          theme(plot.title = element_text(size = 12, face = "bold"),
                 strip.text.x = element_text(size = 8, margin = margin(0.1,0,0.1,0, "cm")),
                 axis.text.y = element_text(size = 8),
-                axis.title.y = element_text(size = 10),
-                axis.title.x = element_text(size = 10),
+                axis.title.y = element_text(size = 12, face = "bold"),
+                axis.title.x = element_text(size = 12, face = "bold"),
                 axis.text.x = element_text(angle = 70, vjust=0.6, colour="grey20", size= 7.5, face="plain"),
                 legend.title = element_text(size = 8, face = "bold"),
                 legend.text = element_text(size = 8, face = "plain"),
                 legend.key.size = unit(0.15, "cm"),
-                panel.spacing = unit(0.1, "lines"))      
+                panel.spacing = unit(0.1, "lines"))       
         
         return(p_ggiraph)
         
@@ -2060,12 +2061,12 @@ server <- function(input, output, session) {
       # specify the y-axis label name
       if(input$celltypes_data_type == "count_sum"){
         y_value = "counts_sum"
-        y_label = "Normalized cell expression value"
+        y_label = "Sum of normalized read counts"
       } else{
         y_value = "cell_counts"
-        y_label = "Normalized cell count"
+        y_label = "Normalized cell counts"
       }
-      
+
       ########################### save the data ################################
       write.csv(data, "./ZCL_dataset_celltypes/temp.csv", row.names = FALSE)
       
@@ -2084,16 +2085,16 @@ server <- function(input, output, session) {
           ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
           theme_bw() + 
           scale_fill_paletteer_d("colorBlindness::paletteMartin") +
-          theme(plot.title = element_text(size = 8),
+          theme(plot.title = element_text(size = 12, face = "bold"),
                 strip.text.x = element_text(size = 8, margin = margin(0.1,0,0.1,0, "cm")),
                 axis.text.y = element_text(size = 8),
-                axis.title.y = element_text(size = 10),
-                axis.title.x = element_text(size = 10),
+                axis.title.y = element_text(size = 12, face = "bold"),
+                axis.title.x = element_text(size = 12, face = "bold"),
                 axis.text.x = element_text(angle = 70, vjust=0.6, colour="grey20", size= 7.5, face="plain"),
                 legend.title = element_text(size = 8, face = "bold"),
                 legend.text = element_text(size = 8, face = "plain"),
                 legend.key.size = unit(0.15, "cm"),
-                panel.spacing = unit(0.1, "lines"))   
+                panel.spacing = unit(0.1, "lines"))     
         
         return(p_ggiraph)
         
@@ -2112,11 +2113,11 @@ server <- function(input, output, session) {
           ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
           theme_bw() + 
           scale_fill_paletteer_d("colorBlindness::paletteMartin") +
-          theme(plot.title = element_text(size = 8),
+          theme(plot.title = element_text(size = 12, face = "bold"),
                 strip.text.x = element_text(size = 8, margin = margin(0.1,0,0.1,0, "cm")),
                 axis.text.y = element_text(size = 8),
-                axis.title.y = element_text(size = 10),
-                axis.title.x = element_text(size = 10),
+                axis.title.y = element_text(size = 12, face = "bold"),
+                axis.title.x = element_text(size = 12, face = "bold"),
                 axis.text.x = element_text(angle = 70, vjust=0.6, colour="grey20", size= 7.5, face="plain"),
                 legend.title = element_text(size = 8, face = "bold"),
                 legend.text = element_text(size = 8, face = "plain"),
@@ -2570,10 +2571,10 @@ server <- function(input, output, session) {
       # specify the y-axis label name
       if(input$zhub_data_type == "count_sum"){
         y_value = "counts_sum"
-        y_label = "Normalized cell expression value"
+        y_label = "Sum of normalized read counts"
       } else{
         y_value = "cell_counts"
-        y_label = "Normalized cell count"
+        y_label = "Normalized cell counts"
       }
       
       ########################### save the data ################################
@@ -2594,16 +2595,16 @@ server <- function(input, output, session) {
           ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
           theme_bw() + 
           scale_fill_paletteer_d("colorBlindness::paletteMartin") +
-          theme(plot.title = element_text(size = 8),
+          theme(plot.title = element_text(size = 12, face = "bold"),
                 strip.text.x = element_text(size = 8, margin = margin(0.1,0,0.1,0, "cm")),
                 axis.text.y = element_text(size = 8),
-                axis.title.y = element_text(size = 10),
-                axis.title.x = element_text(size = 10),
+                axis.title.y = element_text(size = 12, face = "bold"),
+                axis.title.x = element_text(size = 12, face = "bold"),
                 axis.text.x = element_text(angle = 70, vjust=0.6, colour="grey20", size= 7.5, face="plain"),
                 legend.title = element_text(size = 8, face = "bold"),
                 legend.text = element_text(size = 8, face = "plain"),
                 legend.key.size = unit(0.15, "cm"),
-                panel.spacing = unit(0.1, "lines")) 
+                panel.spacing = unit(0.1, "lines"))  
         
         return(p_ggiraph) 
         
@@ -2621,16 +2622,16 @@ server <- function(input, output, session) {
           ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
           theme_bw() + 
           scale_fill_paletteer_d("colorBlindness::paletteMartin") +
-          theme(plot.title = element_text(size = 8),
+          theme(plot.title = element_text(size = 12, face = "bold"),
                 strip.text.x = element_text(size = 8, margin = margin(0.1,0,0.1,0, "cm")),
                 axis.text.y = element_text(size = 8),
-                axis.title.y = element_text(size = 10),
-                axis.title.x = element_text(size = 10),
+                axis.title.y = element_text(size = 12, face = "bold"),
+                axis.title.x = element_text(size = 12, face = "bold"),
                 axis.text.x = element_text(angle = 70, vjust=0.6, colour="grey20", size= 7.5, face="plain"),
                 legend.title = element_text(size = 8, face = "bold"),
                 legend.text = element_text(size = 8, face = "plain"),
                 legend.key.size = unit(0.15, "cm"),
-                panel.spacing = unit(0.1, "lines"))       
+                panel.spacing = unit(0.1, "lines"))      
         
         return(p_ggiraph)
         
