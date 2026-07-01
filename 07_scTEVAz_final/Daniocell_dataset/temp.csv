@@ -1,282 +1,346 @@
-"stage","tissue","counts_sum","Total_sum"
-"  5-6","neural",24.04,12801.85
-"  7-9","neural",866.28,12801.85
-" 10-12","neural",2010.62,12801.85
-" 14-21","neural",1790.56,12801.85
-" 24-34","neural",2810.88,12801.85
-" 36-46","neural",1896.92,12801.85
-" 48-58","neural",937.64,12801.85
-" 60-70","neural",665.6,12801.85
-" 72-82","neural",354.21,12801.85
-" 84-94","neural",370.79,12801.85
-" 96-106","neural",233.37,12801.85
-"108-118","neural",453.88,12801.85
-"120","neural",387.06,12801.85
-"  7-9","eye",137.56,4685.6
-" 10-12","eye",111.25,4685.6
-" 14-21","eye",137.07,4685.6
-" 24-34","eye",407.54,4685.6
-" 36-46","eye",821.01,4685.6
-" 48-58","eye",1073.4,4685.6
-" 60-70","eye",756.2,4685.6
-" 72-82","eye",233.02,4685.6
-" 84-94","eye",285.4,4685.6
-" 96-106","eye",193.67,4685.6
-"108-118","eye",271.7,4685.6
-"120","eye",257.78,4685.6
-" 14-21","spinal cord",300.63,1280.71
-" 24-34","spinal cord",470.59,1280.71
-" 36-46","spinal cord",318.39,1280.71
-" 48-58","spinal cord",127.34,1280.71
-" 60-70","spinal cord",32.45,1280.71
-" 72-82","spinal cord",11.4,1280.71
-" 84-94","spinal cord",4.8,1280.71
-"108-118","spinal cord",4.94,1280.71
-"120","spinal cord",10.17,1280.71
-" 14-21","mesenchyme",84.89,1207.31
-" 24-34","mesenchyme",225.39,1207.31
-" 36-46","mesenchyme",161.35,1207.31
-" 48-58","mesenchyme",176.73,1207.31
-" 60-70","mesenchyme",160.98,1207.31
-" 72-82","mesenchyme",114.72,1207.31
-" 84-94","mesenchyme",115.84,1207.31
-" 96-106","mesenchyme",69.92,1207.31
-"108-118","mesenchyme",54.66,1207.31
-"120","mesenchyme",42.83,1207.31
-"  5-6","paraxial mesoderm",25.84,635.1
-"  7-9","paraxial mesoderm",297.99,635.1
-" 10-12","paraxial mesoderm",307.58,635.1
-" 14-21","paraxial mesoderm",3.69,635.1
-" 14-21","glial",20.62,609.35
-" 24-34","glial",43.23,609.35
-" 36-46","glial",59.86,609.35
-" 48-58","glial",77.03,609.35
-" 60-70","glial",87.02,609.35
-" 72-82","glial",83.77,609.35
-" 84-94","glial",49.78,609.35
-" 96-106","glial",48.81,609.35
-"108-118","glial",60.16,609.35
-"120","glial",79.07,609.35
-" 14-21","epidermis",122.64,284.82
-" 24-34","epidermis",28.83,284.82
-" 36-46","epidermis",27.36,284.82
-" 48-58","epidermis",18.62,284.82
-" 60-70","epidermis",28.45,284.82
-" 72-82","epidermis",15.93,284.82
-" 84-94","epidermis",12.73,284.82
-" 96-106","epidermis",9.6,284.82
-"108-118","epidermis",17.42,284.82
-"120","epidermis",3.24,284.82
-" 14-21","muscle",51.65,279.57
-" 24-34","muscle",50.22,279.57
-" 36-46","muscle",39.02,279.57
-" 48-58","muscle",28.33,279.57
-" 60-70","muscle",14,279.57
-" 72-82","muscle",18.08,279.57
-" 84-94","muscle",30.37,279.57
-" 96-106","muscle",14.88,279.57
-"108-118","muscle",18.08,279.57
-"120","muscle",14.94,279.57
-"  3-4","axial",124.56,210.23
-"  5-6","axial",42.59,210.23
-"  7-9","axial",40.4,210.23
-" 96-106","axial",2.68,210.23
-"  3-4","periderm",86.46,194.01
-"  5-6","periderm",28.7,194.01
-" 14-21","periderm",5.85,194.01
-" 24-34","periderm",11.67,194.01
-" 36-46","periderm",27.03,194.01
-" 48-58","periderm",6.11,194.01
-" 60-70","periderm",8.57,194.01
-" 72-82","periderm",2.08,194.01
-" 84-94","periderm",4.58,194.01
-" 96-106","periderm",2.17,194.01
-"108-118","periderm",2.02,194.01
-"120","periderm",8.77,194.01
-" 14-21","vasculature",3.3,166.66
-" 24-34","vasculature",24.92,166.66
-" 36-46","vasculature",20.6,166.66
-" 48-58","vasculature",15.04,166.66
-" 60-70","vasculature",18.12,166.66
-" 72-82","vasculature",25.26,166.66
-" 84-94","vasculature",17.67,166.66
-" 96-106","vasculature",11.59,166.66
-"108-118","vasculature",13.83,166.66
-"120","vasculature",16.33,166.66
-" 10-12","erythrocytes",8.31,156.37
-" 14-21","erythrocytes",28.47,156.37
-" 24-34","erythrocytes",14.49,156.37
-" 36-46","erythrocytes",2.6,156.37
-" 48-58","erythrocytes",10.22,156.37
-" 60-70","erythrocytes",4.59,156.37
-" 72-82","erythrocytes",9.5,156.37
-" 84-94","erythrocytes",10.55,156.37
-" 96-106","erythrocytes",18.15,156.37
-"108-118","erythrocytes",16.7,156.37
-"120","erythrocytes",32.79,156.37
-"  7-9","endoderm",14.67,124.46
-" 10-12","endoderm",91.35,124.46
-" 14-21","endoderm",16.59,124.46
-" 24-34","endoderm",1.85,124.46
-"  7-9","notochord",16.92,107.13
-" 10-12","notochord",18.89,107.13
-" 14-21","notochord",25.37,107.13
-" 24-34","notochord",22.53,107.13
-" 36-46","notochord",4.79,107.13
-" 48-58","notochord",6.81,107.13
-" 60-70","notochord",3.57,107.13
-" 84-94","notochord",1.28,107.13
-" 96-106","notochord",3.38,107.13
-"108-118","notochord",1.14,107.13
-"120","notochord",2.45,107.13
-" 10-12","pronephros",74.81,97.2
-" 14-21","pronephros",9.06,97.2
-" 24-34","pronephros",2.65,97.2
-" 36-46","pronephros",5.93,97.2
-" 60-70","pronephros",0.62,97.2
-" 72-82","pronephros",2.8,97.2
-" 84-94","pronephros",0.8,97.2
-"108-118","pronephros",0.53,97.2
-" 24-34","immune",4.2,88.08
-" 36-46","immune",8.98,88.08
-" 48-58","immune",2.9,88.08
-" 60-70","immune",5.67,88.08
-" 72-82","immune",15.54,88.08
-" 84-94","immune",9.94,88.08
-" 96-106","immune",11.18,88.08
-"108-118","immune",17.27,88.08
-"120","immune",12.4,88.08
-" 14-21","olfactory",12.08,85.5
-" 24-34","olfactory",32.75,85.5
-" 36-46","olfactory",10.48,85.5
-" 48-58","olfactory",3.29,85.5
-" 60-70","olfactory",3.52,85.5
-" 72-82","olfactory",5.5,85.5
-" 84-94","olfactory",8.75,85.5
-" 96-106","olfactory",5.55,85.5
-"108-118","olfactory",3.58,85.5
-" 14-21","presomitic mesoderm",71.65,81.05
-" 24-34","presomitic mesoderm",2.32,81.05
-" 36-46","presomitic mesoderm",1.63,81.05
-" 48-58","presomitic mesoderm",5.45,81.05
-" 14-21","otic",7.3,80.38
-" 24-34","otic",20.02,80.38
-" 36-46","otic",6.51,80.38
-" 48-58","otic",17.9,80.38
-" 60-70","otic",3.31,80.38
-" 72-82","otic",3.08,80.38
-" 84-94","otic",5.49,80.38
-" 96-106","otic",11.27,80.38
-"108-118","otic",3.64,80.38
-"120","otic",1.86,80.38
-" 10-12","somites",6.05,70.98
-" 14-21","somites",51.67,70.98
-" 24-34","somites",13.26,70.98
-"  7-9","hatching gland",38.12,67.8
-" 10-12","hatching gland",23.32,67.8
-" 14-21","hatching gland",6.36,67.8
-" 14-21","gut",3.39,66.62
-" 24-34","gut",0.67,66.62
-" 36-46","gut",0.74,66.62
-" 48-58","gut",2.32,66.62
-" 72-82","gut",8.42,66.62
-" 84-94","gut",18.21,66.62
-" 96-106","gut",10.55,66.62
-"108-118","gut",10.93,66.62
-"120","gut",11.39,66.62
-" 24-34","mural cell",1.73,53.89
-" 36-46","mural cell",6.14,53.89
-" 48-58","mural cell",5.14,53.89
-" 60-70","mural cell",16.79,53.89
-" 72-82","mural cell",4.99,53.89
-" 84-94","mural cell",9.05,53.89
-" 96-106","mural cell",3.03,53.89
-"108-118","mural cell",1.44,53.89
-"120","mural cell",5.58,53.89
-" 24-34","xanthophores",2.87,51.32
-" 36-46","xanthophores",11.39,51.32
-" 48-58","xanthophores",7.7,51.32
-" 60-70","xanthophores",4.96,51.32
-" 72-82","xanthophores",4.49,51.32
-" 84-94","xanthophores",3.06,51.32
-" 96-106","xanthophores",16.85,51.32
-" 24-34","iridophores",4.15,38.6
-" 36-46","iridophores",9.1,38.6
-" 48-58","iridophores",4.63,38.6
-" 60-70","iridophores",4.23,38.6
-" 72-82","iridophores",4.51,38.6
-" 84-94","iridophores",4.71,38.6
-" 96-106","iridophores",3.36,38.6
-"108-118","iridophores",3.91,38.6
-" 24-34","liver",3.3,27.34
-" 36-46","liver",0.57,27.34
-" 48-58","liver",4.2,27.34
-" 60-70","liver",1.32,27.34
-" 72-82","liver",1.52,27.34
-" 84-94","liver",4.76,27.34
-" 96-106","liver",2.69,27.34
-"108-118","liver",4.71,27.34
-"120","liver",4.27,27.34
-" 14-21","ionocyte",5.11,26.27
-" 24-34","ionocyte",8.56,26.27
-" 48-58","ionocyte",0.37,26.27
-" 60-70","ionocyte",2.21,26.27
-" 72-82","ionocyte",1.36,26.27
-" 84-94","ionocyte",2.28,26.27
-" 96-106","ionocyte",0.73,26.27
-"108-118","ionocyte",2.8,26.27
-"120","ionocyte",2.85,26.27
-" 14-21","heart",2.02,19.84
-" 36-46","heart",0.68,19.84
-" 60-70","heart",1.7,19.84
-" 72-82","heart",0.5,19.84
-" 84-94","heart",3.42,19.84
-" 96-106","heart",2.81,19.84
-"108-118","heart",1.26,19.84
-"120","heart",7.45,19.84
-" 14-21","lateral line",1.72,17.79
-" 24-34","lateral line",2.2,17.79
-" 48-58","lateral line",1.02,17.79
-" 60-70","lateral line",2.86,17.79
-" 72-82","lateral line",0.92,17.79
-" 84-94","lateral line",4.03,17.79
-"108-118","lateral line",2.4,17.79
-"120","lateral line",2.64,17.79
-" 24-34","melanocytes",1.41,16.49
-" 36-46","melanocytes",5.58,16.49
-" 60-70","melanocytes",4.38,16.49
-" 72-82","melanocytes",5.12,16.49
-" 24-34","fin epithelia",1.5,13.99
-" 36-46","fin epithelia",5.36,13.99
-" 60-70","fin epithelia",6.71,13.99
-"108-118","fin epithelia",0.42,13.99
-" 24-34","fin mesenchyme",1.3,12.87
-" 48-58","fin mesenchyme",3.51,12.87
-" 72-82","fin mesenchyme",2.14,12.87
-" 84-94","fin mesenchyme",3.33,12.87
-" 96-106","fin mesenchyme",1.7,12.87
-"108-118","fin mesenchyme",0.89,12.87
-"  7-9","pgc",7.58,7.58
-" 60-70","visceral smooth muscle",1.54,7.28
-" 72-82","visceral smooth muscle",1.52,7.28
-"120","visceral smooth muscle",4.22,7.28
-" 72-82","exocrine pancreas",0.55,6.97
-" 84-94","exocrine pancreas",0.64,6.97
-" 96-106","exocrine pancreas",3.22,6.97
-"108-118","exocrine pancreas",2.56,6.97
-" 72-82","taste",0.67,6.92
-" 84-94","taste",2.24,6.92
-" 96-106","taste",3.18,6.92
-"108-118","taste",0.83,6.92
-" 72-82","pericytes",2.17,6.24
-" 84-94","pericytes",1.31,6.24
-"120","pericytes",2.76,6.24
-" 24-34","mucous",1.67,4.36
-" 36-46","mucous",1.16,4.36
-" 60-70","mucous",1.53,4.36
-" 24-34","slow muscle",3.12,4.25
-" 36-46","slow muscle",1.13,4.25
-" 14-21","endocrine pancreas",3.36,4.2
-" 24-34","endocrine pancreas",0.84,4.2
-" 72-82","fast muscle",1.66,1.66
-" 72-82","vascular smooth muscle",0.85,0.85
+"stage","tissue","cell_counts","Total_sum"
+" 14-21 hpf","mesenchyme",303,10741.26
+" 24-34 hpf","mesenchyme",739.59,10741.26
+" 36-46 hpf","mesenchyme",693.68,10741.26
+" 48-58 hpf","mesenchyme",1137.86,10741.26
+" 60-70 hpf","mesenchyme",1437.93,10741.26
+" 72-82 hpf","mesenchyme",1927.98,10741.26
+" 84-94 hpf","mesenchyme",1471.98,10741.26
+" 96-106 hpf","mesenchyme",1113.61,10741.26
+"108-118 hpf","mesenchyme",947.5,10741.26
+"120 hpf","mesenchyme",968.13,10741.26
+"  5-6 hpf","neural",6.13,9541.62
+"  7-9 hpf","neural",402.19,9541.62
+" 10-12 hpf","neural",824.51,9541.62
+" 14-21 hpf","neural",898,9541.62
+" 24-34 hpf","neural",2082.51,9541.62
+" 36-46 hpf","neural",2122.94,9541.62
+" 48-58 hpf","neural",1103.43,9541.62
+" 60-70 hpf","neural",511.37,9541.62
+" 72-82 hpf","neural",481.01,9541.62
+" 84-94 hpf","neural",277.19,9541.62
+" 96-106 hpf","neural",243.7,9541.62
+"108-118 hpf","neural",271.15,9541.62
+"120 hpf","neural",317.49,9541.62
+" 14-21 hpf","glial",35,5012.29
+" 24-34 hpf","glial",109.17,5012.29
+" 36-46 hpf","glial",354.49,5012.29
+" 48-58 hpf","glial",630.04,5012.29
+" 60-70 hpf","glial",641.92,5012.29
+" 72-82 hpf","glial",895.28,5012.29
+" 84-94 hpf","glial",565,5012.29
+" 96-106 hpf","glial",579.21,5012.29
+"108-118 hpf","glial",516.26,5012.29
+"120 hpf","glial",685.92,5012.29
+" 14-21 hpf","spinal cord",256,2114.12
+" 24-34 hpf","spinal cord",479.38,2114.12
+" 36-46 hpf","spinal cord",598.61,2114.12
+" 48-58 hpf","spinal cord",458.47,2114.12
+" 60-70 hpf","spinal cord",148.21,2114.12
+" 72-82 hpf","spinal cord",55.95,2114.12
+" 84-94 hpf","spinal cord",54.16,2114.12
+" 96-106 hpf","spinal cord",21.86,2114.12
+"108-118 hpf","spinal cord",19.92,2114.12
+"120 hpf","spinal cord",21.56,2114.12
+" 14-21 hpf","muscle",305,1925.05
+" 24-34 hpf","muscle",316.85,1925.05
+" 36-46 hpf","muscle",255.4,1925.05
+" 48-58 hpf","muscle",179.6,1925.05
+" 60-70 hpf","muscle",105.02,1925.05
+" 72-82 hpf","muscle",154.12,1925.05
+" 84-94 hpf","muscle",138.06,1925.05
+" 96-106 hpf","muscle",138.79,1925.05
+"108-118 hpf","muscle",157.79,1925.05
+"120 hpf","muscle",174.42,1925.05
+"  7-9 hpf","eye",26.29,1448.75
+" 10-12 hpf","eye",22.03,1448.75
+" 14-21 hpf","eye",76,1448.75
+" 24-34 hpf","eye",86.19,1448.75
+" 36-46 hpf","eye",87.82,1448.75
+" 48-58 hpf","eye",148.04,1448.75
+" 60-70 hpf","eye",115.82,1448.75
+" 72-82 hpf","eye",197.31,1448.75
+" 84-94 hpf","eye",250.64,1448.75
+" 96-106 hpf","eye",173.76,1448.75
+"108-118 hpf","eye",121.79,1448.75
+"120 hpf","eye",143.06,1448.75
+" 10-12 hpf","somites",9.44,1379.6
+" 14-21 hpf","somites",1212,1379.6
+" 24-34 hpf","somites",156.78,1379.6
+" 36-46 hpf","somites",0.81,1379.6
+" 48-58 hpf","somites",0.57,1379.6
+"  7-9 hpf","notochord",60.46,1194.96
+" 10-12 hpf","notochord",25.18,1194.96
+" 14-21 hpf","notochord",200,1194.96
+" 24-34 hpf","notochord",242.97,1194.96
+" 36-46 hpf","notochord",207.86,1194.96
+" 48-58 hpf","notochord",111.32,1194.96
+" 60-70 hpf","notochord",56.93,1194.96
+" 72-82 hpf","notochord",42.21,1194.96
+" 84-94 hpf","notochord",52.04,1194.96
+" 96-106 hpf","notochord",44.81,1194.96
+"108-118 hpf","notochord",55.15,1194.96
+"120 hpf","notochord",96.03,1194.96
+" 14-21 hpf","epidermis",193,605.84
+" 24-34 hpf","epidermis",44.33,605.84
+" 36-46 hpf","epidermis",16.11,605.84
+" 48-58 hpf","epidermis",16.64,605.84
+" 60-70 hpf","epidermis",16.69,605.84
+" 72-82 hpf","epidermis",40.25,605.84
+" 84-94 hpf","epidermis",43.54,605.84
+" 96-106 hpf","epidermis",79.78,605.84
+"108-118 hpf","epidermis",71.23,605.84
+"120 hpf","epidermis",84.27,605.84
+"  3-4 hpf","blastomeres",210.85,582.11
+"  5-6 hpf","blastomeres",337.13,582.11
+"  7-9 hpf","blastomeres",18.4,582.11
+" 10-12 hpf","blastomeres",15.73,582.11
+" 14-21 hpf","otic",122,437.93
+" 24-34 hpf","otic",58.28,437.93
+" 36-46 hpf","otic",15.31,437.93
+" 48-58 hpf","otic",16.07,437.93
+" 60-70 hpf","otic",20.61,437.93
+" 72-82 hpf","otic",21.6,437.93
+" 84-94 hpf","otic",40.36,437.93
+" 96-106 hpf","otic",42.62,437.93
+"108-118 hpf","otic",52.09,437.93
+"120 hpf","otic",48.99,437.93
+" 14-21 hpf","periderm",25,405.8
+" 24-34 hpf","periderm",26.27,405.8
+" 36-46 hpf","periderm",30.62,405.8
+" 48-58 hpf","periderm",22.95,405.8
+" 60-70 hpf","periderm",41.22,405.8
+" 72-82 hpf","periderm",32.39,405.8
+" 84-94 hpf","periderm",86.03,405.8
+" 96-106 hpf","periderm",63.39,405.8
+"108-118 hpf","periderm",36.77,405.8
+"120 hpf","periderm",41.16,405.8
+"  5-6 hpf","paraxial mesoderm",6.13,196.56
+"  7-9 hpf","paraxial mesoderm",68.35,196.56
+" 10-12 hpf","paraxial mesoderm",100.7,196.56
+" 14-21 hpf","paraxial mesoderm",20,196.56
+" 36-46 hpf","paraxial mesoderm",0.81,196.56
+" 48-58 hpf","paraxial mesoderm",0.57,196.56
+" 10-12 hpf","presomitic mesoderm",3.15,170.81
+" 14-21 hpf","presomitic mesoderm",163,170.81
+" 24-34 hpf","presomitic mesoderm",3.28,170.81
+" 36-46 hpf","presomitic mesoderm",0.81,170.81
+" 48-58 hpf","presomitic mesoderm",0.57,170.81
+" 24-34 hpf","fin mesenchyme",9.03,139.26
+" 36-46 hpf","fin mesenchyme",13.7,139.26
+" 48-58 hpf","fin mesenchyme",18.94,139.26
+" 60-70 hpf","fin mesenchyme",12.76,139.26
+" 72-82 hpf","fin mesenchyme",22.58,139.26
+" 84-94 hpf","fin mesenchyme",19.12,139.26
+" 96-106 hpf","fin mesenchyme",16.39,139.26
+"108-118 hpf","fin mesenchyme",13.02,139.26
+"120 hpf","fin mesenchyme",13.72,139.26
+" 36-46 hpf","mural cell",2.42,135.59
+" 48-58 hpf","mural cell",12.05,135.59
+" 60-70 hpf","mural cell",18.65,135.59
+" 72-82 hpf","mural cell",27.49,135.59
+" 84-94 hpf","mural cell",28.68,135.59
+" 96-106 hpf","mural cell",15.3,135.59
+"108-118 hpf","mural cell",15.32,135.59
+"120 hpf","mural cell",15.68,135.59
+" 48-58 hpf","vascular smooth muscle",1.15,93.43
+" 60-70 hpf","vascular smooth muscle",11.78,93.43
+" 72-82 hpf","vascular smooth muscle",15.71,93.43
+" 84-94 hpf","vascular smooth muscle",21.24,93.43
+" 96-106 hpf","vascular smooth muscle",10.93,93.43
+"108-118 hpf","vascular smooth muscle",13.02,93.43
+"120 hpf","vascular smooth muscle",19.6,93.43
+" 14-21 hpf","gut",12,87.15
+" 24-34 hpf","gut",0.82,87.15
+" 36-46 hpf","gut",1.61,87.15
+" 48-58 hpf","gut",0.57,87.15
+" 60-70 hpf","gut",2.94,87.15
+" 72-82 hpf","gut",8.83,87.15
+" 84-94 hpf","gut",11.68,87.15
+" 96-106 hpf","gut",20.76,87.15
+"108-118 hpf","gut",12.26,87.15
+"120 hpf","gut",15.68,87.15
+"  5-6 hpf","axial",42.91,78.74
+"  7-9 hpf","axial",34.17,78.74
+" 48-58 hpf","axial",0.57,78.74
+" 96-106 hpf","axial",1.09,78.74
+" 24-34 hpf","fin epithelia",7.39,76.76
+" 36-46 hpf","fin epithelia",8.06,76.76
+" 48-58 hpf","fin epithelia",7.46,76.76
+" 60-70 hpf","fin epithelia",5.89,76.76
+" 72-82 hpf","fin epithelia",4.91,76.76
+" 84-94 hpf","fin epithelia",10.62,76.76
+" 96-106 hpf","fin epithelia",7.65,76.76
+"108-118 hpf","fin epithelia",13.02,76.76
+"120 hpf","fin epithelia",11.76,76.76
+" 14-21 hpf","vasculature",5,75.56
+" 24-34 hpf","vasculature",26.27,75.56
+" 36-46 hpf","vasculature",10.47,75.56
+" 48-58 hpf","vasculature",6.89,75.56
+" 60-70 hpf","vasculature",4.91,75.56
+" 72-82 hpf","vasculature",3.93,75.56
+" 84-94 hpf","vasculature",5.31,75.56
+" 96-106 hpf","vasculature",5.46,75.56
+"108-118 hpf","vasculature",5.36,75.56
+"120 hpf","vasculature",1.96,75.56
+" 14-21 hpf","ionocyte",4,69.17
+" 24-34 hpf","ionocyte",6.57,69.17
+" 36-46 hpf","ionocyte",1.61,69.17
+" 48-58 hpf","ionocyte",1.72,69.17
+" 60-70 hpf","ionocyte",3.93,69.17
+" 72-82 hpf","ionocyte",5.89,69.17
+" 84-94 hpf","ionocyte",11.68,69.17
+" 96-106 hpf","ionocyte",9.84,69.17
+"108-118 hpf","ionocyte",16.09,69.17
+"120 hpf","ionocyte",7.84,69.17
+" 10-12 hpf","pronephros",12.59,59.81
+" 14-21 hpf","pronephros",12,59.81
+" 24-34 hpf","pronephros",5.75,59.81
+" 36-46 hpf","pronephros",5.64,59.81
+" 48-58 hpf","pronephros",0.57,59.81
+" 60-70 hpf","pronephros",2.94,59.81
+" 72-82 hpf","pronephros",0.98,59.81
+" 96-106 hpf","pronephros",5.46,59.81
+"108-118 hpf","pronephros",9.96,59.81
+"120 hpf","pronephros",3.92,59.81
+"  7-9 hpf","hatching gland",39.43,52.65
+" 10-12 hpf","hatching gland",9.44,52.65
+" 14-21 hpf","hatching gland",1,52.65
+" 24-34 hpf","hatching gland",0.82,52.65
+" 72-82 hpf","hatching gland",1.96,52.65
+" 14-21 hpf","erythrocytes",20,51.44
+" 24-34 hpf","erythrocytes",4.93,51.44
+" 48-58 hpf","erythrocytes",1.72,51.44
+" 60-70 hpf","erythrocytes",1.96,51.44
+" 72-82 hpf","erythrocytes",1.96,51.44
+" 84-94 hpf","erythrocytes",7.43,51.44
+" 96-106 hpf","erythrocytes",7.65,51.44
+"108-118 hpf","erythrocytes",3.83,51.44
+"120 hpf","erythrocytes",1.96,51.44
+"  7-9 hpf","endoderm",2.63,50.87
+" 10-12 hpf","endoderm",18.88,50.87
+" 14-21 hpf","endoderm",23,50.87
+" 24-34 hpf","endoderm",2.46,50.87
+" 72-82 hpf","endoderm",0.98,50.87
+" 84-94 hpf","endoderm",1.06,50.87
+" 96-106 hpf","endoderm",1.09,50.87
+"108-118 hpf","endoderm",0.77,50.87
+" 24-34 hpf","liver",3.28,43.22
+" 36-46 hpf","liver",4.03,43.22
+" 48-58 hpf","liver",5.16,43.22
+" 60-70 hpf","liver",2.94,43.22
+" 72-82 hpf","liver",1.96,43.22
+" 84-94 hpf","liver",4.25,43.22
+" 96-106 hpf","liver",3.28,43.22
+"108-118 hpf","liver",4.6,43.22
+"120 hpf","liver",13.72,43.22
+" 24-34 hpf","olfactory",5.75,38.24
+" 36-46 hpf","olfactory",2.42,38.24
+" 48-58 hpf","olfactory",2.87,38.24
+" 60-70 hpf","olfactory",2.94,38.24
+" 72-82 hpf","olfactory",0.98,38.24
+" 84-94 hpf","olfactory",3.19,38.24
+" 96-106 hpf","olfactory",7.65,38.24
+"108-118 hpf","olfactory",4.6,38.24
+"120 hpf","olfactory",7.84,38.24
+" 24-34 hpf","fast muscle",0.82,33.55
+" 48-58 hpf","fast muscle",5.74,33.55
+" 60-70 hpf","fast muscle",7.85,33.55
+" 72-82 hpf","fast muscle",2.94,33.55
+" 84-94 hpf","fast muscle",2.12,33.55
+" 96-106 hpf","fast muscle",4.37,33.55
+"108-118 hpf","fast muscle",3.83,33.55
+"120 hpf","fast muscle",5.88,33.55
+" 14-21 hpf","heart",3,32.1
+" 24-34 hpf","heart",2.46,32.1
+" 36-46 hpf","heart",3.22,32.1
+" 48-58 hpf","heart",1.72,32.1
+" 60-70 hpf","heart",5.89,32.1
+" 72-82 hpf","heart",2.94,32.1
+" 96-106 hpf","heart",5.46,32.1
+"108-118 hpf","heart",1.53,32.1
+"120 hpf","heart",5.88,32.1
+" 72-82 hpf","exocrine pancreas",0.98,31.14
+" 84-94 hpf","exocrine pancreas",4.25,31.14
+" 96-106 hpf","exocrine pancreas",4.37,31.14
+"108-118 hpf","exocrine pancreas",17.62,31.14
+"120 hpf","exocrine pancreas",3.92,31.14
+" 48-58 hpf","pericytes",1.15,28.9
+" 60-70 hpf","pericytes",1.96,28.9
+" 72-82 hpf","pericytes",10.8,28.9
+" 84-94 hpf","pericytes",3.19,28.9
+" 96-106 hpf","pericytes",3.28,28.9
+"108-118 hpf","pericytes",4.6,28.9
+"120 hpf","pericytes",3.92,28.9
+" 24-34 hpf","immune",0.82,26
+" 36-46 hpf","immune",1.61,26
+" 48-58 hpf","immune",1.15,26
+" 60-70 hpf","immune",2.94,26
+" 72-82 hpf","immune",0.98,26
+" 84-94 hpf","immune",2.12,26
+" 96-106 hpf","immune",4.37,26
+"108-118 hpf","immune",6.13,26
+"120 hpf","immune",5.88,26
+" 24-34 hpf","lateral line",1.64,21.44
+" 36-46 hpf","lateral line",1.61,21.44
+" 48-58 hpf","lateral line",2.3,21.44
+" 72-82 hpf","lateral line",0.98,21.44
+" 84-94 hpf","lateral line",1.06,21.44
+" 96-106 hpf","lateral line",3.28,21.44
+"108-118 hpf","lateral line",0.77,21.44
+"120 hpf","lateral line",9.8,21.44
+" 14-21 hpf","slow muscle",11,20.36
+" 24-34 hpf","slow muscle",3.28,20.36
+" 36-46 hpf","slow muscle",1.61,20.36
+" 48-58 hpf","slow muscle",0.57,20.36
+" 72-82 hpf","slow muscle",0.98,20.36
+" 84-94 hpf","slow muscle",1.06,20.36
+" 96-106 hpf","slow muscle",1.09,20.36
+"108-118 hpf","slow muscle",0.77,20.36
+" 60-70 hpf","visceral smooth muscle",0.98,19.85
+" 72-82 hpf","visceral smooth muscle",0.98,19.85
+" 84-94 hpf","visceral smooth muscle",8.5,19.85
+" 96-106 hpf","visceral smooth muscle",4.37,19.85
+"108-118 hpf","visceral smooth muscle",3.06,19.85
+"120 hpf","visceral smooth muscle",1.96,19.85
+" 72-82 hpf","taste",2.94,17.95
+" 84-94 hpf","taste",2.12,17.95
+" 96-106 hpf","taste",4.37,17.95
+"108-118 hpf","taste",4.6,17.95
+"120 hpf","taste",3.92,17.95
+" 24-34 hpf","iridophores",2.46,17.1
+" 48-58 hpf","iridophores",0.57,17.1
+" 72-82 hpf","iridophores",0.98,17.1
+" 84-94 hpf","iridophores",4.25,17.1
+" 96-106 hpf","iridophores",1.09,17.1
+"108-118 hpf","iridophores",3.83,17.1
+"120 hpf","iridophores",3.92,17.1
+" 36-46 hpf","xanthophores",0.81,16.33
+" 48-58 hpf","xanthophores",3.44,16.33
+" 60-70 hpf","xanthophores",2.94,16.33
+" 72-82 hpf","xanthophores",3.93,16.33
+" 84-94 hpf","xanthophores",1.06,16.33
+" 96-106 hpf","xanthophores",1.09,16.33
+"108-118 hpf","xanthophores",3.06,16.33
+" 14-21 hpf","endocrine pancreas",1,15.72
+" 24-34 hpf","endocrine pancreas",0.82,15.72
+" 36-46 hpf","endocrine pancreas",0.81,15.72
+" 72-82 hpf","endocrine pancreas",2.94,15.72
+" 84-94 hpf","endocrine pancreas",4.25,15.72
+" 96-106 hpf","endocrine pancreas",4.37,15.72
+"108-118 hpf","endocrine pancreas",1.53,15.72
+" 24-34 hpf","mucous",0.82,9.8
+" 36-46 hpf","mucous",0.81,9.8
+" 48-58 hpf","mucous",0.57,9.8
+" 60-70 hpf","mucous",1.96,9.8
+" 72-82 hpf","mucous",1.96,9.8
+" 84-94 hpf","mucous",1.06,9.8
+" 96-106 hpf","mucous",1.09,9.8
+"108-118 hpf","mucous",1.53,9.8
+" 14-21 hpf","melanocytes",1,5.4
+" 36-46 hpf","melanocytes",0.81,5.4
+" 48-58 hpf","melanocytes",0.57,5.4
+" 60-70 hpf","melanocytes",0.98,5.4
+" 72-82 hpf","melanocytes",0.98,5.4
+" 84-94 hpf","melanocytes",1.06,5.4
+" 36-46 hpf","pgc",0.81,0.81

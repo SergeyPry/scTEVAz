@@ -1,40 +1,70 @@
 "stage","tissue","counts_sum","Total_sum"
-"10dpf","central_nervous_system",846.65,2344.99
-"12hpf","central_nervous_system",6.08,2344.99
-"14hpf","central_nervous_system",10.12,2344.99
-"16hpf","central_nervous_system",20.22,2344.99
-"19hpf","central_nervous_system",29.35,2344.99
-"24hpf","central_nervous_system",37.31,2344.99
-"2dpf","central_nervous_system",507.86,2344.99
-"3dpf","central_nervous_system",730.33,2344.99
-"5dpf","central_nervous_system",157.07,2344.99
-"10dpf","mesenchyme",48.64,405.67
-"2dpf","mesenchyme",132.69,405.67
-"3dpf","mesenchyme",91.44,405.67
-"5dpf","mesenchyme",132.9,405.67
-"10dpf","lateral_mesoderm",2.85,162.25
-"24hpf","lateral_mesoderm",5.71,162.25
-"2dpf","lateral_mesoderm",125.25,162.25
-"3dpf","lateral_mesoderm",8.52,162.25
-"5dpf","lateral_mesoderm",19.92,162.25
-"10dpf","periderm",5.09,117.62
-"14hpf","periderm",2.58,117.62
-"24hpf","periderm",2.92,117.62
-"2dpf","periderm",47.13,117.62
-"3dpf","periderm",0.98,117.62
-"5dpf","periderm",58.92,117.62
-"10dpf","intermediate_mesoderm",15.57,65.39
-"16hpf","intermediate_mesoderm",2.13,65.39
-"19hpf","intermediate_mesoderm",4.05,65.39
-"24hpf","intermediate_mesoderm",2.1,65.39
-"2dpf","intermediate_mesoderm",21.48,65.39
-"3dpf","intermediate_mesoderm",6.44,65.39
-"5dpf","intermediate_mesoderm",13.62,65.39
-"10dpf","paraxial_mesoderm",6.07,49.44
-"24hpf","paraxial_mesoderm",2.68,49.44
-"2dpf","paraxial_mesoderm",28.58,49.44
-"3dpf","paraxial_mesoderm",1.66,49.44
-"5dpf","paraxial_mesoderm",10.45,49.44
-"2dpf","neural_crest",14.9,19.04
-"3dpf","neural_crest",1.02,19.04
-"5dpf","neural_crest",3.12,19.04
+"10 dpf","mesenchyme",448,4533.86
+"14 hpf","mesenchyme",8.14,4533.86
+"16 hpf","mesenchyme",11.9,4533.86
+"19 hpf","mesenchyme",6.01,4533.86
+"24 hpf","mesenchyme",66.86,4533.86
+"2 dpf","mesenchyme",1672.28,4533.86
+"3 dpf","mesenchyme",742.89,4533.86
+"5 dpf","mesenchyme",1577.78,4533.86
+"10 dpf","central nervous system",429.19,1740.38
+"10 hpf","central nervous system",9.41,1740.38
+"12 hpf","central nervous system",7.68,1740.38
+"14 hpf","central nervous system",16.07,1740.38
+"16 hpf","central nervous system",9.39,1740.38
+"19 hpf","central nervous system",4.64,1740.38
+"24 hpf","central nervous system",33.9,1740.38
+"2 dpf","central nervous system",541.85,1740.38
+"3 dpf","central nervous system",415.33,1740.38
+"5 dpf","central nervous system",272.92,1740.38
+"10 dpf","lateral mesoderm",20.68,611.46
+"14 hpf","lateral mesoderm",12.51,611.46
+"16 hpf","lateral mesoderm",22.82,611.46
+"19 hpf","lateral mesoderm",6.47,611.46
+"24 hpf","lateral mesoderm",110.24,611.46
+"2 dpf","lateral mesoderm",382,611.46
+"3 dpf","lateral mesoderm",17.68,611.46
+"5 dpf","lateral mesoderm",39.06,611.46
+"10 dpf","paraxial mesoderm",41.36,500.5
+"14 hpf","paraxial mesoderm",43.2,500.5
+"16 hpf","paraxial mesoderm",93.01,500.5
+"19 hpf","paraxial mesoderm",12.34,500.5
+"24 hpf","paraxial mesoderm",69.88,500.5
+"2 dpf","paraxial mesoderm",94.45,500.5
+"3 dpf","paraxial mesoderm",21.16,500.5
+"5 dpf","paraxial mesoderm",125.1,500.5
+"10 dpf","periderm",20.13,351.87
+"10 hpf","periderm",82.85,351.87
+"12 hpf","periderm",81.91,351.87
+"14 hpf","periderm",8.4,351.87
+"16 hpf","periderm",6.02,351.87
+"19 hpf","periderm",1.84,351.87
+"24 hpf","periderm",3.12,351.87
+"2 dpf","periderm",62.31,351.87
+"3 dpf","periderm",8.29,351.87
+"5 dpf","periderm",77,351.87
+"10 dpf","notochord",2.34,230.89
+"19 hpf","notochord",31.07,230.89
+"24 hpf","notochord",4.98,230.89
+"2 dpf","notochord",129.91,230.89
+"5 dpf","notochord",62.59,230.89
+"10 dpf","neural crest",10.47,86.56
+"2 dpf","neural crest",24.69,86.56
+"3 dpf","neural crest",11.2,86.56
+"5 dpf","neural crest",40.2,86.56
+"10 dpf","intermediate mesoderm",12.43,40.12
+"19 hpf","intermediate mesoderm",1.67,40.12
+"24 hpf","intermediate mesoderm",0.84,40.12
+"2 dpf","intermediate mesoderm",14.81,40.12
+"3 dpf","intermediate mesoderm",0.32,40.12
+"5 dpf","intermediate mesoderm",10.05,40.12
+"10 dpf","hematopoietic system",4.22,22.83
+"16 hpf","hematopoietic system",3.14,22.83
+"19 hpf","hematopoietic system",2.62,22.83
+"2 dpf","hematopoietic system",6.91,22.83
+"3 dpf","hematopoietic system",0.48,22.83
+"5 dpf","hematopoietic system",5.46,22.83
+"10 dpf","endoderm",10.46,19.07
+"2 dpf","endoderm",0.9,19.07
+"3 dpf","endoderm",2.28,19.07
+"5 dpf","endoderm",5.43,19.07

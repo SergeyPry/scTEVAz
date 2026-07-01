@@ -10,6 +10,9 @@ library(shinycssloaders)
 library(bsicons)
 library(stringr)
 library(svglite)
+library(forcats)
+library(pals)
+library(RColorBrewer)
 
 # packages for interactive plots 
 library(ggiraph)
@@ -164,7 +167,16 @@ ui <- fluidPage(
                             multiple = FALSE,
                             width = '200px'
                           ),
-                    )),
+                    ),
+                   column(width = 7,
+                          radioButtons("daniocell_grouping", h4(strong("Choose how to group the data:")),
+                                       c("By tissue or lineage" = "tissue",
+                                         "By stage" = "stage"),
+                                       selected = "tissue",
+                                       inline = TRUE)
+                          )
+                   
+                   ),
       
           
           # Input 2: Cell Type Filtering
@@ -423,15 +435,26 @@ ui <- fluidPage(
           class = "sidebar",
           h3(strong("Input Parameters"), style = "color: #1e3a8a;"),
           
-          tags$label(h4(strong("Please input gene symbol:"))),
           # Input 1: Gene Selection
-          selectizeInput(
-            inputId = "zcl_gene_id", 
-            label = NULL,
-            choices = NULL, 
-            selected = NULL,
-            multiple = FALSE,
-            width = '200px'
+          fluidRow(column(width = 5,           
+                          tags$label(h4(strong("Please input gene symbol:"))),
+                          # Input 1: Gene Selection
+                          selectizeInput(
+                            inputId = "zcl_gene_id", 
+                            label = NULL,
+                            choices = NULL, 
+                            selected = NULL,
+                            multiple = FALSE,
+                            width = '200px'
+                          ),
+          ),
+          column(width = 7,
+                 radioButtons("zcl_grouping", h4(strong("Choose how to group the data:")),
+                              c("By tissue or lineage" = "tissue",
+                                "By stage" = "stage"),
+                              selected = "tissue",
+                              inline = TRUE))
+          
           ),
           
           
@@ -756,18 +779,28 @@ ui <- fluidPage(
           class = "sidebar",
           h3(strong("Input Parameters"), style = "color: #1e3a8a;"),
           
-          tags$label(h4(strong("Please input gene symbol:"))),
-          # Input 1: Gene Selection
-          selectizeInput(
-            inputId = "zhub_gene_id", 
-            label = NULL,
-            choices = NULL, 
-            selected = NULL,
-            multiple = FALSE,
-            width = '200px'
+          fluidRow(column(width = 5,           
+                          tags$label(h4(strong("Please input gene symbol:"))),
+                          # Input 1: Gene Selection
+                          selectizeInput(
+                            inputId = "zhub_gene_id", 
+                            label = NULL,
+                            choices = NULL, 
+                            selected = NULL,
+                            multiple = FALSE,
+                            width = '200px'
+                          ),
+                        ),
+          column(width = 7,
+                 radioButtons("zhub_grouping", h4(strong("Choose how to group the data:")),
+                              c("By tissue or lineage" = "tissue",
+                                "By stage" = "stage"),
+                              selected = "tissue",
+                              inline = TRUE))
+          
           ),
           
-          
+
           # Input 2: Cell Type Filtering
           tags$label(h4(strong("Filter by lineage:"))),
           
@@ -1336,7 +1369,10 @@ server <- function(input, output, session) {
     ############################# Plotting part of the function ###############
     
     # define relevant factors
-    data_long$stage <- factor(data_long$stage, levels = Daniocell_stages$stage)
+    data_long$stage <- factor(paste(data_long$stage, "hpf"), levels = paste(Daniocell_stages$stage, "hpf"))
+    # update the selected stages
+    selected_stages <- paste(selected_stages, "hpf")
+    
     
     # convert tissue and selected_tissues to the version with spaces
     data_long$tissue <- str_replace_all(data_long$tissue, "_", " ")
@@ -1405,56 +1441,129 @@ server <- function(input, output, session) {
       # define the plot depending on the y scale that was specified in the input
       if(input$y_scale == "linear"){
         
-        p_ggiraph <- ggplot(data, aes(x = stage, y = .data[[y_value]], fill = stage)) +
-          geom_col_interactive(  aes(tooltip = paste0("Stage: ", stage, 
-                                 "<br>", y_label, ": ", round(.data[[y_value]], 2),
-                                 "<br>Tissue: ", tissue),
-                data_id = paste(stage, tissue, sep = "_") )
-          ) +
-          scale_y_continuous(n.breaks = 5) +
-          facet_wrap(~tissue, scales = "fixed", axes = "all_x", ncol = 5) +
-          ylab(y_label) +
-          ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
-          theme_bw() + 
-          scale_fill_paletteer_d("colorBlindness::paletteMartin") +
-          theme(plot.title = element_text(size = 12, face = "bold"),
-                strip.text.x = element_text(size = 8, margin = margin(0.1,0,0.1,0, "cm")),
-                axis.text.y = element_text(size = 8),
-                axis.title.y = element_text(size = 12, face = "bold"),
-                axis.title.x = element_text(size = 12, face = "bold"),
-                axis.text.x = element_text(angle = 70, vjust=0.6, colour="grey20", size= 7.5, face="plain"),
-                legend.title = element_text(size = 8, face = "bold"),
-                legend.text = element_text(size = 8, face = "plain"),
-                legend.key.size = unit(0.15, "cm"),
-                panel.spacing = unit(0.1, "lines"))   
+        # change the output based on the grouping
+        if(input$daniocell_grouping == "tissue"){
+          
+          p_ggiraph <- ggplot(data, aes(x = stage, y = .data[[y_value]], fill = stage)) +
+            geom_col_interactive(  aes(tooltip = paste0("Stage: ", stage, 
+                                                        "<br>", y_label, ": ", round(.data[[y_value]], 2),
+                                                        "<br>Tissue: ", tissue),
+                                       data_id = paste(stage, tissue, sep = "_") )
+            ) +
+            scale_y_continuous(n.breaks = 5) +
+            facet_wrap(~tissue, scales = "fixed", axes = "all_x", ncol = 5) +
+            ylab(y_label) +
+            ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
+            theme_bw() + 
+            scale_fill_paletteer_d("colorBlindness::paletteMartin") +
+            theme(plot.title = element_text(size = 12, face = "bold"),
+                  strip.text.x = element_text(size = 8, margin = margin(0.1,0,0.1,0, "cm")),
+                  axis.text.y = element_text(size = 8),
+                  axis.title.y = element_text(size = 12, face = "bold"),
+                  axis.title.x = element_text(size = 12, face = "bold"),
+                  axis.text.x = element_text(angle = 70, vjust=0.6, colour="grey20", size= 7.5, face="plain"),
+                  legend.title = element_text(size = 8, face = "bold"),
+                  legend.text = element_text(size = 8, face = "plain"),
+                  legend.key.size = unit(0.15, "cm"),
+                  panel.spacing = unit(0.1, "lines"))   
+          
+        # stage grouping  
+        } else {
+
+          p_ggiraph <- ggplot(data, aes(x = tissue, y = .data[[y_value]], fill = tissue)) +
+            geom_col_interactive(width = 0.75,  aes(tooltip = paste0("Stage: ", stage, 
+                                                        "<br>", y_label, ": ", round(.data[[y_value]], 2),
+                                                        "<br>Tissue: ", tissue),
+                                       data_id = paste(stage, tissue, sep = "_") )
+            ) +
+            scale_y_continuous(n.breaks = 5) +
+            facet_wrap(~stage, scales = "free", ncol = 2) +
+            ylab(y_label) +
+            ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
+            theme_bw() + 
+            scale_fill_viridis_d(option = "turbo", direction = 1) +
+            theme(plot.title = element_text(size = 12, face = "bold"),
+                  strip.text.x = element_text(size = 8, margin = margin(0.1,0,0.1,0, "cm")),
+                  axis.text.y = element_text(size = 8),
+                  axis.title.y = element_text(size = 12, face = "bold"),
+                  axis.title.x = element_text(size = 12, face = "bold"),
+                  axis.text.x = element_text(angle = 45, vjust=1, hjust = 1, colour="grey20", 
+                                             size= 8, face="plain"),
+                  legend.title = element_text(size = 8, face = "bold"),
+                  legend.text = element_text(size = 8, face = "plain"),
+                  legend.key.size = unit(0.15, "cm"),
+                  legend.position = "top", 
+                  legend.direction = "vertical",
+                  panel.spacing = unit(0.1, "lines")) +
+            guides(fill=guide_legend(nrow = 5))
+          
+        } # end of grouping else-branch
+        
         
         return(p_ggiraph) 
         
         
       } else{
         
-        p_ggiraph <- ggplot(data, aes(x = stage, y = .data[[y_value]], fill = stage)) +
-          geom_col_interactive(  aes(tooltip = paste0("Stage: ", stage, 
-                                 "<br>", y_label, ": ", round(.data[[y_value]], 2),
-                                 "<br>Tissue: ", tissue),
-                data_id = paste(stage, tissue, sep = "_"))
-          ) +
-          scale_y_sqrt(n.breaks = 5) +
-          facet_wrap(~tissue, scales = "fixed", axes = "all_x", ncol = 5) +
-          ylab(y_label) +
-          ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
-          theme_bw() + 
-          scale_fill_paletteer_d("colorBlindness::paletteMartin") +
-          theme(plot.title = element_text(size = 12, face = "bold"),
-                strip.text.x = element_text(size = 8, margin = margin(0.1,0,0.1,0, "cm")),
-                axis.text.y = element_text(size = 8),
-                axis.title.y = element_text(size = 12, face = "bold"),
-                axis.title.x = element_text(size = 12, face = "bold"),
-                axis.text.x = element_text(angle = 70, vjust=0.6, colour="grey20", size= 7.5, face="plain"),
-                legend.title = element_text(size = 8, face = "bold"),
-                legend.text = element_text(size = 8, face = "plain"),
-                legend.key.size = unit(0.15, "cm"),
-                panel.spacing = unit(0.1, "lines"))     
+        # change the output based on the grouping
+        if(input$daniocell_grouping == "tissue"){
+          
+          p_ggiraph <- ggplot(data, aes(x = stage, y = .data[[y_value]], fill = stage)) +
+            geom_col_interactive(  aes(tooltip = paste0("Stage: ", stage, 
+                                                        "<br>", y_label, ": ", round(.data[[y_value]], 2),
+                                                        "<br>Tissue: ", tissue),
+                                       data_id = paste(stage, tissue, sep = "_"))
+            ) +
+            scale_y_sqrt(n.breaks = 5) +
+            facet_wrap(~tissue, scales = "fixed", axes = "all_x", ncol = 5) +
+            ylab(y_label) +
+            ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
+            theme_bw() + 
+            scale_fill_paletteer_d("colorBlindness::paletteMartin") +
+            theme(plot.title = element_text(size = 12, face = "bold"),
+                  strip.text.x = element_text(size = 8, margin = margin(0.1,0,0.1,0, "cm")),
+                  axis.text.y = element_text(size = 8),
+                  axis.title.y = element_text(size = 12, face = "bold"),
+                  axis.title.x = element_text(size = 12, face = "bold"),
+                  axis.text.x = element_text(angle = 70, vjust=0.6, colour="grey20", size= 7.5, face="plain"),
+                  legend.title = element_text(size = 8, face = "bold"),
+                  legend.text = element_text(size = 8, face = "plain"),
+                  legend.key.size = unit(0.15, "cm"),
+                  panel.spacing = unit(0.1, "lines"))     
+          
+        # stage grouping 
+        } else {
+          
+          p_ggiraph <- ggplot(data, aes(x = tissue, y = .data[[y_value]], fill = tissue)) +
+            geom_col_interactive(width = 0.75,  aes(tooltip = paste0("Stage: ", stage, 
+                                                        "<br>", y_label, ": ", round(.data[[y_value]], 2),
+                                                        "<br>Tissue: ", tissue),
+                                       data_id = paste(stage, tissue, sep = "_"))
+            ) +
+            scale_y_sqrt(n.breaks = 5) +
+            facet_wrap(~stage, scales = "free", ncol = 2) +
+            ylab(y_label) +
+            ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
+            theme_bw() + 
+            scale_fill_viridis_d(option = "turbo", direction = 1) +
+            theme(plot.title = element_text(size = 12, face = "bold"),
+                  strip.text.x = element_text(size = 8, margin = margin(0.1,0,0.1,0, "cm")),
+                  axis.text.y = element_text(size = 8),
+                  axis.title.y = element_text(size = 12, face = "bold"),
+                  axis.title.x = element_text(size = 12, face = "bold"),
+                  axis.text.x = element_text(angle = 45, vjust=1, hjust = 1, colour="grey20", 
+                                             size= 8, face="plain"),
+                  legend.title = element_text(size = 8, face = "bold"),
+                  legend.text = element_text(size = 8, face = "plain"),
+                  legend.key.size = unit(0.15, "cm"),
+                  legend.position = "top", 
+                  legend.direction = "vertical",
+                  panel.spacing = unit(0.1, "lines")) +
+            guides(fill=guide_legend(nrow = 5))
+          
+          
+          
+        } # end of grouping else-branch
         
         return(p_ggiraph)
       
@@ -1476,16 +1585,39 @@ server <- function(input, output, session) {
     
     # 2. read the data and define how many facets there will be
     df <- read.csv("./Daniocell_dataset/temp.csv")
-    n_facets = length(unique(df$tissue))
+    n_facets <-  length(unique(df$tissue))
+    n_stages <- length(unique(df$stage))
     
-    if(n_facets < 5){
-      calc_width = n_facets * FACET_SIZE + 0.5
-      calc_height = FACET_SIZE + 0.5
-    } else{
-      # do the final calculation
-      calc_width = 5 * FACET_SIZE
-      calc_height = ceiling(n_facets/5)*FACET_SIZE + 1
-    }
+    # isolate the grouping variable
+    grouping_selection <- isolate(input$daniocell_grouping)
+    
+    # change the output based on the grouping
+    if(grouping_selection == "tissue"){
+      
+      if(n_facets < 5){
+        calc_width <-  n_facets * FACET_SIZE + 0.5
+        calc_height <-  FACET_SIZE + 0.5
+      } else{
+        # do the final calculation
+        calc_width <-  5 * FACET_SIZE
+        calc_height <-  ceiling(n_facets/5)*FACET_SIZE + 1
+      }
+      
+      # stage grouping 
+    } else {
+      
+      if(n_stages < 3){
+        calc_width <-  n_stages * FACET_SIZE * 2 + 1
+        calc_height <- FACET_SIZE * 1.5 + 1
+      } else{
+        # do the final calculation
+        calc_width <-  5 * FACET_SIZE
+        calc_height <-  ceiling(n_stages/2)*FACET_SIZE* 1.5 + 1
+      }
+
+      
+    } # end of grouping else-branch
+    
     
     # Convert the ggplot object to a girafe object
     girafe(ggobj = output_obj, width_svg = calc_width, height_svg = calc_height, 
@@ -1504,15 +1636,36 @@ server <- function(input, output, session) {
       # obtain the data for the size parameters of the plot
       df <- read.csv("./Daniocell_dataset/temp.csv")
       n_facets = length(unique(df$tissue))
+      n_stages <- length(unique(df$stage))
       
-      if(n_facets < 5){
-        calc_width = n_facets * FACET_SIZE + 0.5
-        calc_height = FACET_SIZE + 0.5
-      } else{
-        # do the final calculation
-        calc_width = 5 * FACET_SIZE
-        calc_height = ceiling(n_facets/5)*FACET_SIZE + 1
-      }
+      
+      # isolate the grouping variable
+      grouping_selection <- isolate(input$daniocell_grouping)
+      
+      # change the output based on the grouping
+      if(grouping_selection == "tissue"){
+        
+        if(n_facets < 5){
+          calc_width <-  n_facets * FACET_SIZE + 0.5
+          calc_height <-  FACET_SIZE + 0.5
+        } else{
+          # do the final calculation
+          calc_width <-  5 * FACET_SIZE
+          calc_height <-  ceiling(n_facets/5)*FACET_SIZE + 1
+        }
+        
+        # stage grouping 
+      } else {
+        
+        if(n_stages < 3){
+          calc_width <-  n_stages * FACET_SIZE * 2 + 1
+          calc_height <- FACET_SIZE * 1.5 + 1
+        } else{
+          # do the final calculation
+          calc_width <-  5 * FACET_SIZE
+          calc_height <-  ceiling(n_stages/2)*FACET_SIZE* 1.5 + 1
+        }
+      } # end of grouping else-branch
       
       # Use ggsave on the ggplot object      
       ggsave(file, plot = daniocell_data(), device = "png", dpi = 300, 
@@ -1530,15 +1683,36 @@ server <- function(input, output, session) {
       # obtain the data for the size parameters of the plot
       df <- read.csv("./Daniocell_dataset/temp.csv")
       n_facets = length(unique(df$tissue))
+      n_stages <- length(unique(df$stage))
       
-      if(n_facets < 5){
-        calc_width = n_facets * FACET_SIZE + 0.5
-        calc_height = FACET_SIZE + 0.5
-      } else{
-        # do the final calculation
-        calc_width = 5 * FACET_SIZE
-        calc_height = ceiling(n_facets/5)*FACET_SIZE + 1
-      }
+      
+      # isolate the grouping variable
+      grouping_selection <- isolate(input$daniocell_grouping)
+      
+      # change the output based on the grouping
+      if(grouping_selection == "tissue"){
+        
+        if(n_facets < 5){
+          calc_width <-  n_facets * FACET_SIZE + 0.5
+          calc_height <-  FACET_SIZE + 0.5
+        } else{
+          # do the final calculation
+          calc_width <-  5 * FACET_SIZE
+          calc_height <-  ceiling(n_facets/5)*FACET_SIZE + 1
+        }
+        
+        # stage grouping 
+      } else {
+        
+        if(n_stages < 3){
+          calc_width <-  n_stages * FACET_SIZE * 2 + 1
+          calc_height <- FACET_SIZE * 1.5 + 1
+        } else{
+          # do the final calculation
+          calc_width <-  5 * FACET_SIZE
+          calc_height <-  ceiling(n_stages/2)*FACET_SIZE* 1.5 + 1
+        }
+      } # end of grouping else-branch
       
       # Use ggsave on the ggplot object      
       ggsave(file, plot = daniocell_data(), device = cairo_pdf, dpi = 300, 
@@ -1574,6 +1748,9 @@ server <- function(input, output, session) {
       # use this file name to insert it into the code file
       data_filename <- paste0("Daniocell_data_", input$daniocell_gene_id, '_', Sys.Date(), ".csv")
       
+      # isolate the grouping variable
+      grouping_selection <- isolate(input$daniocell_grouping)
+      
       # load the templates as appropriate
 
       if(input$data_type == "count_sum"){
@@ -1581,14 +1758,28 @@ server <- function(input, output, session) {
         # choose the scale to load the templates
         if(input$y_scale == "linear"){
           
-          # count_sum - linear
-          file_path <- "./templates/counts_sum_linear.R" 
-          script_code <- read_file(file_path)
-          
+          # change the output based on the grouping
+          if(grouping_selection == "tissue"){
+            # count_sum - linear
+            file_path <- "./templates/counts_sum_linear_tissue.R" 
+            script_code <- read_file(file_path)
+          } else{
+            file_path <- "./templates/counts_sum_linear_stage.R" 
+            script_code <- read_file(file_path)
+          }
+            
         } else{
-          # count_sum - sqrt
-          file_path <- "./templates/counts_sum_sqrt.R" 
-          script_code <- read_file(file_path)          
+          
+          # change the output based on the grouping
+          if(grouping_selection == "tissue"){
+            # count_sum - sqrt
+            file_path <- "./templates/counts_sum_sqrt_tissue.R" 
+            script_code <- read_file(file_path)
+          } else{
+            file_path <- "./templates/counts_sum_sqrt_stage.R" 
+            script_code <- read_file(file_path)
+          }
+          
           
         }
         
@@ -1597,15 +1788,29 @@ server <- function(input, output, session) {
 
         # choose the scale to load the templates
         if(input$y_scale == "linear"){
-          # count_sum - linear
-          file_path <- "./templates/cell_counts_linear.R" 
-          script_code <- read_file(file_path)
+          
+          # change the output based on the grouping
+          if(grouping_selection == "tissue"){
+            # cell_counts - linear
+            file_path <- "./templates/cell_counts_linear_tissue.R" 
+            script_code <- read_file(file_path)
+          } else{
+            file_path <- "./templates/cell_counts_linear_stage.R" 
+            script_code <- read_file(file_path)
+          }
           
         } else{
-          # count_sum - sqrt
-          file_path <- "./templates/cell_counts_sqrt.R" 
-          script_code <- read_file(file_path)
-                    
+          
+          # change the output based on the grouping
+          if(grouping_selection == "tissue"){
+            # cell_counts - sqrt
+            file_path <- "./templates/cell_counts_sqrt_tissue.R" 
+            script_code <- read_file(file_path)
+          } else{
+            file_path <- "./templates/cell_counts_sqrt_stage.R" 
+            script_code <- read_file(file_path)
+          }
+          
         }
         
       }
@@ -1756,12 +1961,13 @@ server <- function(input, output, session) {
     data_long$stage <- factor(data_long$stage, levels = zcl_stages$stage)
     data_long$tissue <- factor(data_long$tissue, levels = zcl_tissues$tissue)
     
-    
         
     # 7. filter the data frame by the selected tissues and stages
     data <- filter(data_long, tissue %in% selected_tissues & stage %in% selected_stages)
     gene <- gene_id
-
+    
+    # map the relevant values to a generally accepted format
+    levels(data$stage) <- c("24 hpf", "72 hpf", "21 dpf", "3 mpf", "22 mpf")
     
     # 8. Sorting the data 
     if(input$lineage_data_type == "count_sum"){
@@ -1817,55 +2023,122 @@ server <- function(input, output, session) {
       # define the plot depending on the y scale that was specified in the input
       if(input$lineage_y_scale == "linear"){
         
-        p_ggiraph <- ggplot(data, aes(x = stage, y = .data[[y_value]], fill = stage)) +
-          geom_col_interactive(  aes(tooltip = paste0("Stage: ", stage, 
-                                 "<br>", y_label, ": ", round(.data[[y_value]], 2),
-                                 "<br>Tissue: ", tissue),
-                data_id = paste(stage, tissue, sep = "_"))
-          ) +
-          scale_y_continuous(n.breaks = 5) +
-          facet_wrap(~tissue, scales = "fixed", axes = "all_x", ncol = 5) +
-          ylab(y_label) +
-          ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
-          theme_bw() + 
-          scale_fill_paletteer_d("colorBlindness::paletteMartin") +
-          theme(plot.title = element_text(size = 12, face = "bold"),
-                strip.text.x = element_text(size = 8, margin = margin(0.1,0,0.1,0, "cm")),
-                axis.text.y = element_text(size = 8),
-                axis.title.y = element_text(size = 12, face = "bold"),
-                axis.title.x = element_text(size = 12, face = "bold"),
-                axis.text.x = element_text(angle = 70, vjust=0.6, colour="grey20", size= 7.5, face="plain"),
-                legend.title = element_text(size = 8, face = "bold"),
-                legend.text = element_text(size = 8, face = "plain"),
-                legend.key.size = unit(0.15, "cm"),
-                panel.spacing = unit(0.1, "lines"))  
+        # change the output based on the grouping
+        if(input$zcl_grouping == "tissue"){
+          
+          p_ggiraph <- ggplot(data, aes(x = stage, y = .data[[y_value]], fill = stage)) +
+            geom_col_interactive(  aes(tooltip = paste0("Stage: ", stage, 
+                                                        "<br>", y_label, ": ", round(.data[[y_value]], 2),
+                                                        "<br>Tissue: ", tissue),
+                                       data_id = paste(stage, tissue, sep = "_") )
+            ) +
+            scale_y_continuous(n.breaks = 5) +
+            facet_wrap(~tissue, scales = "fixed", axes = "all_x", ncol = 5) +
+            ylab(y_label) +
+            ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
+            theme_bw() + 
+            scale_fill_paletteer_d("colorBlindness::paletteMartin") +
+            theme(plot.title = element_text(size = 12, face = "bold"),
+                  strip.text.x = element_text(size = 8, margin = margin(0.1,0,0.1,0, "cm")),
+                  axis.text.y = element_text(size = 8),
+                  axis.title.y = element_text(size = 12, face = "bold"),
+                  axis.title.x = element_text(size = 12, face = "bold"),
+                  axis.text.x = element_text(angle = 70, vjust=0.6, colour="grey20", size= 7.5, face="plain"),
+                  legend.title = element_text(size = 8, face = "bold"),
+                  legend.text = element_text(size = 8, face = "plain"),
+                  legend.key.size = unit(0.15, "cm"),
+                  panel.spacing = unit(0.1, "lines"))   
+          
+          # stage grouping  
+        } else {
+          
+          p_ggiraph <- ggplot(data, aes(x = tissue, y = .data[[y_value]], fill = tissue)) +
+            geom_col_interactive(width = 0.75,  aes(tooltip = paste0("Stage: ", stage, 
+                                                                     "<br>", y_label, ": ", round(.data[[y_value]], 2),
+                                                                     "<br>Tissue: ", tissue),
+                                                    data_id = paste(stage, tissue, sep = "_") )
+            ) +
+            scale_y_continuous(n.breaks = 5) +
+            facet_wrap(~stage, scales = "free", ncol = 2) +
+            ylab(y_label) +
+            ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
+            theme_bw() + 
+            scale_fill_viridis_d(option = "turbo", direction = 1) +
+            theme(plot.title = element_text(size = 12, face = "bold"),
+                  strip.text.x = element_text(size = 8, margin = margin(0.1,0,0.1,0, "cm")),
+                  axis.text.y = element_text(size = 8),
+                  axis.title.y = element_text(size = 12, face = "bold"),
+                  axis.title.x = element_text(size = 12, face = "bold"),
+                  axis.text.x = element_text(angle = 45, vjust=1, hjust = 1, colour="grey20", 
+                                             size= 8, face="plain"),
+                  legend.title = element_text(size = 8, face = "bold"),
+                  legend.text = element_text(size = 8, face = "plain"),
+                  legend.key.size = unit(0.15, "cm"),
+                  legend.direction = "vertical",
+                  panel.spacing = unit(0.1, "lines")) 
+          
+        } # end of grouping else-branch
         
         return(p_ggiraph)
         
       } else{
         
-        p_ggiraph <- ggplot(data, aes(x = stage, y = .data[[y_value]], fill = stage)) +
-          geom_col_interactive( aes(tooltip = paste0("Stage: ", stage, 
-                                 "<br>", y_label, ": ", round(.data[[y_value]], 2),
-                                 "<br>Tissue: ", tissue),
-                data_id = paste(stage, tissue, sep = "_"))
-          ) +
-          scale_y_sqrt(n.breaks = 5) +
-          facet_wrap(~tissue, scales = "fixed", axes = "all_x", ncol = 5) +
-          ylab(y_label) +
-          ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
-          theme_bw() + 
-          scale_fill_paletteer_d("colorBlindness::paletteMartin") +
-          theme(plot.title = element_text(size = 12, face = "bold"),
-                strip.text.x = element_text(size = 8, margin = margin(0.1,0,0.1,0, "cm")),
-                axis.text.y = element_text(size = 8),
-                axis.title.y = element_text(size = 12, face = "bold"),
-                axis.title.x = element_text(size = 12, face = "bold"),
-                axis.text.x = element_text(angle = 70, vjust=0.6, colour="grey20", size= 7.5, face="plain"),
-                legend.title = element_text(size = 8, face = "bold"),
-                legend.text = element_text(size = 8, face = "plain"),
-                legend.key.size = unit(0.15, "cm"),
-                panel.spacing = unit(0.1, "lines"))       
+        # change the output based on the grouping
+        if(input$zcl_grouping == "tissue"){
+          
+          p_ggiraph <- ggplot(data, aes(x = stage, y = .data[[y_value]], fill = stage)) +
+            geom_col_interactive(  aes(tooltip = paste0("Stage: ", stage, 
+                                                        "<br>", y_label, ": ", round(.data[[y_value]], 2),
+                                                        "<br>Tissue: ", tissue),
+                                       data_id = paste(stage, tissue, sep = "_"))
+            ) +
+            scale_y_sqrt(n.breaks = 5) +
+            facet_wrap(~tissue, scales = "fixed", axes = "all_x", ncol = 5) +
+            ylab(y_label) +
+            ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
+            theme_bw() + 
+            scale_fill_paletteer_d("colorBlindness::paletteMartin") +
+            theme(plot.title = element_text(size = 12, face = "bold"),
+                  strip.text.x = element_text(size = 8, margin = margin(0.1,0,0.1,0, "cm")),
+                  axis.text.y = element_text(size = 8),
+                  axis.title.y = element_text(size = 12, face = "bold"),
+                  axis.title.x = element_text(size = 12, face = "bold"),
+                  axis.text.x = element_text(angle = 70, vjust=0.6, colour="grey20", size= 7.5, face="plain"),
+                  legend.title = element_text(size = 8, face = "bold"),
+                  legend.text = element_text(size = 8, face = "plain"),
+                  legend.key.size = unit(0.15, "cm"),
+                  panel.spacing = unit(0.1, "lines"))     
+          
+          # stage grouping 
+        } else {
+          
+          p_ggiraph <- ggplot(data, aes(x = tissue, y = .data[[y_value]], fill = tissue)) +
+            geom_col_interactive(width = 0.75,  aes(tooltip = paste0("Stage: ", stage, 
+                                                                     "<br>", y_label, ": ", round(.data[[y_value]], 2),
+                                                                     "<br>Tissue: ", tissue),
+                                                    data_id = paste(stage, tissue, sep = "_"))
+            ) +
+            scale_y_sqrt(n.breaks = 5) +
+            facet_wrap(~stage, scales = "free", ncol = 2) +
+            ylab(y_label) +
+            ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
+            theme_bw() + 
+            scale_fill_viridis_d(option = "turbo", direction = 1) +
+            theme(plot.title = element_text(size = 12, face = "bold"),
+                  strip.text.x = element_text(size = 8, margin = margin(0.1,0,0.1,0, "cm")),
+                  axis.text.y = element_text(size = 8),
+                  axis.title.y = element_text(size = 12, face = "bold"),
+                  axis.title.x = element_text(size = 12, face = "bold"),
+                  axis.text.x = element_text(angle = 45, vjust=1, hjust = 1, colour="grey20", 
+                                             size= 8, face="plain"),
+                  legend.title = element_text(size = 8, face = "bold"),
+                  legend.text = element_text(size = 8, face = "plain"),
+                  legend.key.size = unit(0.15, "cm"),
+                  legend.direction = "vertical",
+                  panel.spacing = unit(0.1, "lines"))
+          
+        } # end of grouping else-branch
+        
         
         return(p_ggiraph)
         
@@ -2019,6 +2292,9 @@ server <- function(input, output, session) {
     data <- filter(data_long, tissue %in% selected_tissues & stage %in% selected_stages)
     gene <- gene_id
     
+    # map the relevant values to a generally accepted format
+    levels(data$stage) <- c("24 hpf", "72 hpf", "21 dpf", "3 mpf", "22 mpf")
+    
     # 8. Sorting the data 
     if(input$celltypes_data_type == "count_sum"){
       
@@ -2073,56 +2349,126 @@ server <- function(input, output, session) {
       # define the plot depending on the y scale that was specified in the input
       if(input$celltypes_y_scale == "linear"){
         
-        p_ggiraph <- ggplot(data, aes(x = stage, y = .data[[y_value]], fill = stage)) +
-          geom_col_interactive( aes(tooltip = paste0("Stage: ", stage, 
-                                 "<br>", y_label, ": ", round(.data[[y_value]], 2),
-                                 "<br>Tissue: ", tissue),
-                data_id = paste(stage, tissue, sep = "_"))
-          ) +
-          scale_y_continuous(n.breaks = 5) +
-          facet_wrap(~tissue, scales = "fixed", axes = "all_x", ncol = 5) +
-          ylab(y_label) +
-          ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
-          theme_bw() + 
-          scale_fill_paletteer_d("colorBlindness::paletteMartin") +
-          theme(plot.title = element_text(size = 12, face = "bold"),
-                strip.text.x = element_text(size = 8, margin = margin(0.1,0,0.1,0, "cm")),
-                axis.text.y = element_text(size = 8),
-                axis.title.y = element_text(size = 12, face = "bold"),
-                axis.title.x = element_text(size = 12, face = "bold"),
-                axis.text.x = element_text(angle = 70, vjust=0.6, colour="grey20", size= 7.5, face="plain"),
-                legend.title = element_text(size = 8, face = "bold"),
-                legend.text = element_text(size = 8, face = "plain"),
-                legend.key.size = unit(0.15, "cm"),
-                panel.spacing = unit(0.1, "lines"))     
+        # change the output based on the grouping
+        if(input$zcl_grouping == "tissue"){
+          
+          p_ggiraph <- ggplot(data, aes(x = stage, y = .data[[y_value]], fill = stage)) +
+            geom_col_interactive(  aes(tooltip = paste0("Stage: ", stage, 
+                                                        "<br>", y_label, ": ", round(.data[[y_value]], 2),
+                                                        "<br>Tissue: ", tissue),
+                                       data_id = paste(stage, tissue, sep = "_") )
+            ) +
+            scale_y_continuous(n.breaks = 5) +
+            facet_wrap(~tissue, scales = "fixed", axes = "all_x", ncol = 5) +
+            ylab(y_label) +
+            ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
+            theme_bw() + 
+            scale_fill_paletteer_d("colorBlindness::paletteMartin") +
+            theme(plot.title = element_text(size = 12, face = "bold"),
+                  strip.text.x = element_text(size = 8, margin = margin(0.1,0,0.1,0, "cm")),
+                  axis.text.y = element_text(size = 8),
+                  axis.title.y = element_text(size = 12, face = "bold"),
+                  axis.title.x = element_text(size = 12, face = "bold"),
+                  axis.text.x = element_text(angle = 70, vjust=0.6, colour="grey20", size= 7.5, face="plain"),
+                  legend.title = element_text(size = 8, face = "bold"),
+                  legend.text = element_text(size = 8, face = "plain"),
+                  legend.key.size = unit(0.15, "cm"),
+                  panel.spacing = unit(0.1, "lines"))   
+          
+          # stage grouping  
+        } else {
+          
+          p_ggiraph <- ggplot(data, aes(x = tissue, y = .data[[y_value]], fill = tissue)) +
+            geom_col_interactive(width = 0.75,  aes(tooltip = paste0("Stage: ", stage, 
+                                                                     "<br>", y_label, ": ", round(.data[[y_value]], 2),
+                                                                     "<br>Tissue: ", tissue),
+                                                    data_id = paste(stage, tissue, sep = "_") )
+            ) +
+            scale_y_continuous(n.breaks = 5) +
+            facet_wrap(~stage, scales = "free", ncol = 2) +
+            ylab(y_label) +
+            ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
+            theme_bw() + 
+            scale_fill_viridis_d(option = "turbo", direction = 1) +
+            theme(plot.title = element_text(size = 12, face = "bold"),
+                  strip.text.x = element_text(size = 8, margin = margin(0.1,0,0.1,0, "cm")),
+                  axis.text.y = element_text(size = 8),
+                  axis.title.y = element_text(size = 12, face = "bold"),
+                  axis.title.x = element_text(size = 12, face = "bold"),
+                  axis.text.x = element_text(angle = 45, vjust=1, hjust = 1, colour="grey20", 
+                                             size= 8, face="plain"),
+                  legend.title = element_text(size = 8, face = "bold"),
+                  legend.text = element_text(size = 8, face = "plain"),
+                  legend.key.size = unit(0.15, "cm"),
+                  legend.position = "top", 
+                  legend.direction = "vertical",
+                  panel.spacing = unit(0.1, "lines")) +
+            guides(fill=guide_legend(nrow = 5))
+          
+        } # end of grouping else-branch
         
         return(p_ggiraph)
         
         
       } else{
         
-        p_ggiraph <- ggplot(data, aes(x = stage, y = .data[[y_value]], fill = stage)) +
-          geom_col_interactive( aes(tooltip = paste0("Stage: ", stage, 
-                                 "<br>", y_label, ": ", round(.data[[y_value]], 2),
-                                 "<br>Tissue: ", tissue),
-                data_id = paste(stage, tissue, sep = "_"))
-          ) +
-          scale_y_sqrt(n.breaks = 5) +
-          facet_wrap(~tissue, scales = "fixed", axes = "all_x", ncol = 5) +
-          ylab(y_label) +
-          ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
-          theme_bw() + 
-          scale_fill_paletteer_d("colorBlindness::paletteMartin") +
-          theme(plot.title = element_text(size = 12, face = "bold"),
-                strip.text.x = element_text(size = 8, margin = margin(0.1,0,0.1,0, "cm")),
-                axis.text.y = element_text(size = 8),
-                axis.title.y = element_text(size = 12, face = "bold"),
-                axis.title.x = element_text(size = 12, face = "bold"),
-                axis.text.x = element_text(angle = 70, vjust=0.6, colour="grey20", size= 7.5, face="plain"),
-                legend.title = element_text(size = 8, face = "bold"),
-                legend.text = element_text(size = 8, face = "plain"),
-                legend.key.size = unit(0.15, "cm"),
-                panel.spacing = unit(0.1, "lines"))        
+        # change the output based on the grouping
+        if(input$zcl_grouping == "tissue"){
+          
+          p_ggiraph <- ggplot(data, aes(x = stage, y = .data[[y_value]], fill = stage)) +
+            geom_col_interactive(  aes(tooltip = paste0("Stage: ", stage, 
+                                                        "<br>", y_label, ": ", round(.data[[y_value]], 2),
+                                                        "<br>Tissue: ", tissue),
+                                       data_id = paste(stage, tissue, sep = "_"))
+            ) +
+            scale_y_sqrt(n.breaks = 5) +
+            facet_wrap(~tissue, scales = "fixed", axes = "all_x", ncol = 5) +
+            ylab(y_label) +
+            ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
+            theme_bw() + 
+            scale_fill_paletteer_d("colorBlindness::paletteMartin") +
+            theme(plot.title = element_text(size = 12, face = "bold"),
+                  strip.text.x = element_text(size = 8, margin = margin(0.1,0,0.1,0, "cm")),
+                  axis.text.y = element_text(size = 8),
+                  axis.title.y = element_text(size = 12, face = "bold"),
+                  axis.title.x = element_text(size = 12, face = "bold"),
+                  axis.text.x = element_text(angle = 70, vjust=0.6, colour="grey20", size= 7.5, face="plain"),
+                  legend.title = element_text(size = 8, face = "bold"),
+                  legend.text = element_text(size = 8, face = "plain"),
+                  legend.key.size = unit(0.15, "cm"),
+                  panel.spacing = unit(0.1, "lines"))     
+          
+          # stage grouping 
+        } else {
+          
+          p_ggiraph <- ggplot(data, aes(x = tissue, y = .data[[y_value]], fill = tissue)) +
+            geom_col_interactive(width = 0.75,  aes(tooltip = paste0("Stage: ", stage, 
+                                                                     "<br>", y_label, ": ", round(.data[[y_value]], 2),
+                                                                     "<br>Tissue: ", tissue),
+                                                    data_id = paste(stage, tissue, sep = "_"))
+            ) +
+            scale_y_sqrt(n.breaks = 5) +
+            facet_wrap(~stage, scales = "free", ncol = 2) +
+            ylab(y_label) +
+            ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
+            theme_bw() + 
+            scale_fill_viridis_d(option = "turbo", direction = 1) +
+            theme(plot.title = element_text(size = 12, face = "bold"),
+                  strip.text.x = element_text(size = 8, margin = margin(0.1,0,0.1,0, "cm")),
+                  axis.text.y = element_text(size = 8),
+                  axis.title.y = element_text(size = 12, face = "bold"),
+                  axis.title.x = element_text(size = 12, face = "bold"),
+                  axis.text.x = element_text(angle = 45, vjust=1, hjust = 1, colour="grey20", 
+                                             size= 8, face="plain"),
+                  legend.title = element_text(size = 8, face = "bold"),
+                  legend.text = element_text(size = 8, face = "plain"),
+                  legend.key.size = unit(0.15, "cm"),
+                  legend.position = "top", 
+                  legend.direction = "vertical",
+                  panel.spacing = unit(0.1, "lines")) +
+            guides(fill=guide_legend(nrow = 5))
+          
+        } # end of grouping else-branch
         
         return(p_ggiraph)
         
@@ -2147,16 +2493,35 @@ server <- function(input, output, session) {
       # 2. read the data and define how many facets there will be
       df <- read.csv("./ZCL_dataset_lineages/temp.csv")
       n_facets = length(unique(df$tissue))
+      n_stages <- length(unique(df$stage))
       
-      if(n_facets < 5){
-        calc_width = n_facets * FACET_SIZE + 0.5
-        calc_height = FACET_SIZE + 0.5
-      } else{
-        # do the final calculation
-        calc_width = 5 * FACET_SIZE
-        calc_height = ceiling(n_facets/5)*FACET_SIZE + 1
-      }
+      # isolate the grouping variable
+      grouping_selection <- isolate(input$zcl_grouping)
       
+      # change the output based on the grouping
+      if(grouping_selection == "tissue"){
+        
+        if(n_facets < 5){
+          calc_width <-  n_facets * FACET_SIZE + 0.5
+          calc_height <-  FACET_SIZE + 0.5
+        } else{
+          # do the final calculation
+          calc_width <-  5 * FACET_SIZE
+          calc_height <-  ceiling(n_facets/5)*FACET_SIZE + 1
+        }
+        
+        # stage grouping 
+      } else {
+        
+        if(n_stages < 3){
+          calc_width <-  n_stages * FACET_SIZE * 2 + 1
+          calc_height <- FACET_SIZE * 1.5 + 1
+        } else{
+          # do the final calculation
+          calc_width <-  5 * FACET_SIZE
+          calc_height <-  ceiling(n_stages/2)*FACET_SIZE* 1.5 + 1
+        }
+      } # end of grouping else-branch
       
       # Convert the ggplot object to a girafe object
       return( girafe(ggobj = output_obj, width_svg = calc_width, height_svg = calc_height, 
@@ -2172,15 +2537,35 @@ server <- function(input, output, session) {
       # 2. read the data and define how many facets there will be
       df <- read.csv("./ZCL_dataset_celltypes/temp.csv")
       n_facets = length(unique(df$tissue))
+      n_stages <- length(unique(df$stage))
       
-      if(n_facets < 5){
-        calc_width = n_facets * FACET_SIZE + 0.5
-        calc_height = FACET_SIZE + 0.5
-      } else{
-        # do the final calculation
-        calc_width = 5 * FACET_SIZE
-        calc_height = ceiling(n_facets/5)*FACET_SIZE + 1
-      }
+      # isolate the grouping variable
+      grouping_selection <- isolate(input$zcl_grouping)
+      
+      # change the output based on the grouping
+      if(grouping_selection == "tissue"){
+        
+        if(n_facets < 5){
+          calc_width <-  n_facets * FACET_SIZE + 0.5
+          calc_height <-  FACET_SIZE + 0.5
+        } else{
+          # do the final calculation
+          calc_width <-  5 * FACET_SIZE
+          calc_height <-  ceiling(n_facets/5)*FACET_SIZE + 1
+        }
+        
+        # stage grouping 
+      } else {
+        
+        if(n_stages < 3){
+          calc_width <-  n_stages * FACET_SIZE * 2 + 1
+          calc_height <- FACET_SIZE * 1.5 + 1
+        } else{
+          # do the final calculation
+          calc_width <-  5 * FACET_SIZE
+          calc_height <-  ceiling(n_stages/2)*FACET_SIZE* 1.5 + 1
+        }
+      } # end of grouping else-branch
       
       # Convert the ggplot object to a girafe object
       return( girafe(ggobj = output_obj, width_svg = calc_width, height_svg = calc_height, 
@@ -2217,15 +2602,35 @@ server <- function(input, output, session) {
       
       # get a measure of the data size
       n_facets = length(unique(df$tissue))
+      n_stages <- length(unique(df$stage))
       
-      if(n_facets < 5){
-        calc_width = n_facets * FACET_SIZE + 0.5
-        calc_height = FACET_SIZE + 0.5
-      } else{
-        # do the final calculation
-        calc_width = 5 * FACET_SIZE
-        calc_height = ceiling(n_facets/5)*FACET_SIZE + 1
-      }
+      # isolate the grouping variable
+      grouping_selection <- isolate(input$zcl_grouping)
+      
+      # change the output based on the grouping
+      if(grouping_selection == "tissue"){
+        
+        if(n_facets < 5){
+          calc_width <-  n_facets * FACET_SIZE + 0.5
+          calc_height <-  FACET_SIZE + 0.5
+        } else{
+          # do the final calculation
+          calc_width <-  5 * FACET_SIZE
+          calc_height <-  ceiling(n_facets/5)*FACET_SIZE + 1
+        }
+        
+        # stage grouping 
+      } else {
+        
+        if(n_stages < 3){
+          calc_width <-  n_stages * FACET_SIZE * 2 + 1
+          calc_height <- FACET_SIZE * 1.5 + 1
+        } else{
+          # do the final calculation
+          calc_width <-  5 * FACET_SIZE
+          calc_height <-  ceiling(n_stages/2)*FACET_SIZE* 1.5 + 1
+        }
+      } # end of grouping else-branch
       
       # Use ggsave on the ggplot object      
       ggsave(file, plot = result, device = "png", dpi = 300, 
@@ -2261,15 +2666,35 @@ server <- function(input, output, session) {
       
       # get a measure of the data size
       n_facets = length(unique(df$tissue))
+      n_stages <- length(unique(df$stage))
       
-      if(n_facets < 5){
-        calc_width = n_facets * FACET_SIZE + 0.5
-        calc_height = FACET_SIZE + 0.5
-      } else{
-        # do the final calculation
-        calc_width = 5 * FACET_SIZE
-        calc_height = ceiling(n_facets/5)*FACET_SIZE + 1
-      }
+      # isolate the grouping variable
+      grouping_selection <- isolate(input$zcl_grouping)
+      
+      # change the output based on the grouping
+      if(grouping_selection == "tissue"){
+        
+        if(n_facets < 5){
+          calc_width <-  n_facets * FACET_SIZE + 0.5
+          calc_height <-  FACET_SIZE + 0.5
+        } else{
+          # do the final calculation
+          calc_width <-  5 * FACET_SIZE
+          calc_height <-  ceiling(n_facets/5)*FACET_SIZE + 1
+        }
+        
+        # stage grouping 
+      } else {
+        
+        if(n_stages < 3){
+          calc_width <-  n_stages * FACET_SIZE * 2 + 1
+          calc_height <- FACET_SIZE * 1.5 + 1
+        } else{
+          # do the final calculation
+          calc_width <-  5 * FACET_SIZE
+          calc_height <-  ceiling(n_stages/2)*FACET_SIZE* 1.5 + 1
+        }
+      } # end of grouping else-branch
       
       # Use ggsave on the ggplot object      
       ggsave(file, plot = result, device = cairo_pdf, dpi = 300, 
@@ -2325,20 +2750,37 @@ server <- function(input, output, session) {
       
       if( rv$lastBtn == "lineages_plot_zcl" ){
         
+        grouping_selection <- isolate(input$zcl_grouping)
+        
         # load the templates as appropriate
+        
         if(input$lineage_data_type == "count_sum"){
           
           # choose the scale to load the templates
           if(input$lineage_y_scale == "linear"){
             
-            # count_sum - linear
-            file_path <- "./templates/counts_sum_linear.R" 
-            script_code <- read_file(file_path)
+            # change the output based on the grouping
+            if(grouping_selection == "tissue"){
+              # count_sum - linear
+              file_path <- "./templates/counts_sum_linear_tissue.R" 
+              script_code <- read_file(file_path)
+            } else{
+              file_path <- "./templates/counts_sum_linear_stage.R" 
+              script_code <- read_file(file_path)
+            }
             
           } else{
-            # count_sum - sqrt
-            file_path <- "./templates/counts_sum_sqrt.R" 
-            script_code <- read_file(file_path)          
+            
+            # change the output based on the grouping
+            if(grouping_selection == "tissue"){
+              # count_sum - sqrt
+              file_path <- "./templates/counts_sum_sqrt_tissue.R" 
+              script_code <- read_file(file_path)
+            } else{
+              file_path <- "./templates/counts_sum_sqrt_stage.R" 
+              script_code <- read_file(file_path)
+            }
+            
             
           }
           
@@ -2347,38 +2789,69 @@ server <- function(input, output, session) {
           
           # choose the scale to load the templates
           if(input$lineage_y_scale == "linear"){
-            # count_sum - linear
-            file_path <- "./templates/cell_counts_linear.R" 
-            script_code <- read_file(file_path)
+            
+            # change the output based on the grouping
+            if(grouping_selection == "tissue"){
+              # cell_counts - linear
+              file_path <- "./templates/cell_counts_linear_tissue.R" 
+              script_code <- read_file(file_path)
+            } else{
+              file_path <- "./templates/cell_counts_linear_stage.R" 
+              script_code <- read_file(file_path)
+            }
             
           } else{
-            # count_sum - sqrt
-            file_path <- "./templates/cell_counts_sqrt.R" 
-            script_code <- read_file(file_path)
+            
+            # change the output based on the grouping
+            if(grouping_selection == "tissue"){
+              # cell_counts - sqrt
+              file_path <- "./templates/cell_counts_sqrt_tissue.R" 
+              script_code <- read_file(file_path)
+            } else{
+              file_path <- "./templates/cell_counts_sqrt_stage.R" 
+              script_code <- read_file(file_path)
+            }
             
           }
           
         }
         
-      }
+      } # end of rv$lastBtn
       
       
       if( rv$lastBtn == "celltypes_plot_zcl" ){
+
+        grouping_selection <- isolate(input$zcl_grouping)
         
         # load the templates as appropriate
+        
         if(input$celltypes_data_type == "count_sum"){
           
           # choose the scale to load the templates
           if(input$celltypes_y_scale == "linear"){
             
-            # count_sum - linear
-            file_path <- "./templates/counts_sum_linear.R" 
-            script_code <- read_file(file_path)
+            # change the output based on the grouping
+            if(grouping_selection == "tissue"){
+              # count_sum - linear
+              file_path <- "./templates/counts_sum_linear_tissue.R" 
+              script_code <- read_file(file_path)
+            } else{
+              file_path <- "./templates/counts_sum_linear_stage.R" 
+              script_code <- read_file(file_path)
+            }
             
           } else{
-            # count_sum - sqrt
-            file_path <- "./templates/counts_sum_sqrt.R" 
-            script_code <- read_file(file_path)          
+            
+            # change the output based on the grouping
+            if(grouping_selection == "tissue"){
+              # count_sum - sqrt
+              file_path <- "./templates/counts_sum_sqrt_tissue.R" 
+              script_code <- read_file(file_path)
+            } else{
+              file_path <- "./templates/counts_sum_sqrt_stage.R" 
+              script_code <- read_file(file_path)
+            }
+            
             
           }
           
@@ -2387,20 +2860,32 @@ server <- function(input, output, session) {
           
           # choose the scale to load the templates
           if(input$celltypes_y_scale == "linear"){
-            # count_sum - linear
-            file_path <- "./templates/cell_counts_linear.R" 
-            script_code <- read_file(file_path)
+            
+            # change the output based on the grouping
+            if(grouping_selection == "tissue"){
+              # cell_counts - linear
+              file_path <- "./templates/cell_counts_linear_tissue.R" 
+              script_code <- read_file(file_path)
+            } else{
+              file_path <- "./templates/cell_counts_linear_stage.R" 
+              script_code <- read_file(file_path)
+            }
             
           } else{
-            # count_sum - sqrt
-            file_path <- "./templates/cell_counts_sqrt.R" 
-            script_code <- read_file(file_path)
             
+            # change the output based on the grouping
+            if(grouping_selection == "tissue"){
+              # cell_counts - sqrt
+              file_path <- "./templates/cell_counts_sqrt_tissue.R" 
+              script_code <- read_file(file_path)
+            } else{
+              file_path <- "./templates/cell_counts_sqrt_stage.R" 
+              script_code <- read_file(file_path)
+            }
           }
-          
         }
         
-      }
+      } # end of rv$lastBtn section
       
       # replace temp.csv with the current data file name
       script_code <- str_replace(script_code, 'temp.csv', data_filename)
@@ -2410,7 +2895,7 @@ server <- function(input, output, session) {
       
       
       # insert code for sorting stages 
-      script_code <- str_replace(script_code, '# sorting code', '#sort the data\n data$stage <- factor(data$stage, levels = c("24hpf", "72hpf","21Day", "3Month","22Month"))')
+      script_code <- str_replace(script_code, '# sorting code', '#sort the data\n data$stage <- factor(data$stage, levels = c("24 hpf", "72 hpf", "21 dpf", "3 mpf", "22 mpf") )')
       
       # Write the data to a temporary file
       writeChar(script_code, file)
@@ -2522,12 +3007,29 @@ server <- function(input, output, session) {
 
     # define relevant factors
     data_long$stage <- factor(data_long$stage, levels = zhub_stages$stage)
+    
+    # convert tissue and selected_tissues 
+    # previous values are names and have '_' and values are new ones
+    
+    map_tissues <- c("central_nervous_system" = "central nervous system", "endoderm" = "endoderm", 
+                     "hematopoietic_system" = "hematopoietic system", "intermediate_mesoderm" = "intermediate mesoderm", 
+                     "lateral_mesoderm" = "lateral mesoderm", "mesenchyme" = "mesenchyme", "neural_crest" = "neural crest", 
+                     "notochord" = "notochord", "paraxial_mesoderm" = "paraxial mesoderm", "periderm" = "periderm")
+    
+    # Replace values in the column using the named vector for indexing
+    data_long$tissue <- map_tissues[as.character(data_long$tissue)]
+    zhub_tissues$tissue <- map_tissues[as.character(zhub_tissues$tissue)]
+    selected_tissues <- map_tissues[as.character(selected_tissues)]
+    
+    
     data_long$tissue <- factor(data_long$tissue, levels = zhub_tissues$tissue)
     
     # 7. filter the data frame by the selected tissues and stages
     data <- filter(data_long, tissue %in% selected_tissues & stage %in% selected_stages)
     gene <- gene_id
   
+    # map the relevant values to a generally accepted format
+    levels(data$stage) <- c("10 hpf", "12 hpf", "14 hpf", "16 hpf", "19 hpf", "24 hpf", "2 dpf", "3 dpf", "5 dpf", "10 dpf")
     
     # 8. Sorting the data 
     if(input$zhub_data_type == "count_sum"){
@@ -2583,55 +3085,125 @@ server <- function(input, output, session) {
       # define the plot depending on the y scale that was specified in the input
       if(input$zhub_y_scale == "linear"){
         
-        p_ggiraph <- ggplot(data, aes(x = stage, y = .data[[y_value]], fill = stage)) +
-          geom_col_interactive( aes(tooltip = paste0("Stage: ", stage, 
-                                 "<br>", y_label, ": ", round(.data[[y_value]], 2),
-                                 "<br>Tissue: ", tissue),
-                data_id = paste(stage, tissue, sep = "_"))
-          ) +
-          scale_y_continuous(n.breaks = 5) +
-          facet_wrap(~tissue, scales = "fixed", axes = "all_x", ncol = 5) +
-          ylab(y_label) +
-          ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
-          theme_bw() + 
-          scale_fill_paletteer_d("colorBlindness::paletteMartin") +
-          theme(plot.title = element_text(size = 12, face = "bold"),
-                strip.text.x = element_text(size = 8, margin = margin(0.1,0,0.1,0, "cm")),
-                axis.text.y = element_text(size = 8),
-                axis.title.y = element_text(size = 12, face = "bold"),
-                axis.title.x = element_text(size = 12, face = "bold"),
-                axis.text.x = element_text(angle = 70, vjust=0.6, colour="grey20", size= 7.5, face="plain"),
-                legend.title = element_text(size = 8, face = "bold"),
-                legend.text = element_text(size = 8, face = "plain"),
-                legend.key.size = unit(0.15, "cm"),
-                panel.spacing = unit(0.1, "lines"))  
+        # change the output based on the grouping
+        if(input$zhub_grouping == "tissue"){
+          
+          p_ggiraph <- ggplot(data, aes(x = stage, y = .data[[y_value]], fill = stage)) +
+            geom_col_interactive(  aes(tooltip = paste0("Stage: ", stage, 
+                                                        "<br>", y_label, ": ", round(.data[[y_value]], 2),
+                                                        "<br>Tissue: ", tissue),
+                                       data_id = paste(stage, tissue, sep = "_") )
+            ) +
+            scale_y_continuous(n.breaks = 5) +
+            facet_wrap(~tissue, scales = "fixed", axes = "all_x", ncol = 5) +
+            ylab(y_label) +
+            ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
+            theme_bw() + 
+            scale_fill_paletteer_d("colorBlindness::paletteMartin") +
+            theme(plot.title = element_text(size = 12, face = "bold"),
+                  strip.text.x = element_text(size = 8, margin = margin(0.1,0,0.1,0, "cm")),
+                  axis.text.y = element_text(size = 8),
+                  axis.title.y = element_text(size = 12, face = "bold"),
+                  axis.title.x = element_text(size = 12, face = "bold"),
+                  axis.text.x = element_text(angle = 70, vjust=0.6, colour="grey20", size= 7.5, face="plain"),
+                  legend.title = element_text(size = 8, face = "bold"),
+                  legend.text = element_text(size = 8, face = "plain"),
+                  legend.key.size = unit(0.15, "cm"),
+                  panel.spacing = unit(0.1, "lines"))   
+          
+          # stage grouping  
+        } else {
+          
+          p_ggiraph <- ggplot(data, aes(x = tissue, y = .data[[y_value]], fill = tissue)) +
+            geom_col_interactive(width = 0.75,  aes(tooltip = paste0("Stage: ", stage, 
+                                                                     "<br>", y_label, ": ", round(.data[[y_value]], 2),
+                                                                     "<br>Tissue: ", tissue),
+                                                    data_id = paste(stage, tissue, sep = "_") )
+            ) +
+            scale_y_continuous(n.breaks = 5) +
+            facet_wrap(~stage, scales = "free", ncol = 2) +
+            ylab(y_label) +
+            ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
+            theme_bw() + 
+            scale_fill_viridis_d(option = "turbo", direction = 1) +
+            theme(plot.title = element_text(size = 12, face = "bold"),
+                  strip.text.x = element_text(size = 8, margin = margin(0.1,0,0.1,0, "cm")),
+                  axis.text.y = element_text(size = 8),
+                  axis.title.y = element_text(size = 12, face = "bold"),
+                  axis.title.x = element_text(size = 12, face = "bold"),
+                  axis.text.x = element_text(angle = 45, vjust=1, hjust = 1, colour="grey20", 
+                                             size= 8, face="plain"),
+                  legend.title = element_text(size = 8, face = "bold"),
+                  legend.text = element_text(size = 8, face = "plain"),
+                  legend.key.size = unit(0.15, "cm"),
+                  legend.position = "top", 
+                  legend.direction = "vertical",
+                  panel.spacing = unit(0.1, "lines")) +
+            guides(fill=guide_legend(nrow = 2))
+          
+        } # end of grouping else-branch
         
         return(p_ggiraph) 
         
-      } else{
+      } else{ 
         
-        p_ggiraph <- ggplot(data, aes(x = stage, y = .data[[y_value]], fill = stage)) +
-          geom_col_interactive( aes(tooltip = paste0("Stage: ", stage, 
-                                 "<br>", y_label, ": ", round(.data[[y_value]], 2),
-                                 "<br>Tissue: ", tissue),
-                data_id = paste(stage, tissue, sep = "_"))
-          ) +
-          scale_y_sqrt(n.breaks = 5) +
-          facet_wrap(~tissue, scales = "fixed", axes = "all_x", ncol = 5) +
-          ylab(y_label) +
-          ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
-          theme_bw() + 
-          scale_fill_paletteer_d("colorBlindness::paletteMartin") +
-          theme(plot.title = element_text(size = 12, face = "bold"),
-                strip.text.x = element_text(size = 8, margin = margin(0.1,0,0.1,0, "cm")),
-                axis.text.y = element_text(size = 8),
-                axis.title.y = element_text(size = 12, face = "bold"),
-                axis.title.x = element_text(size = 12, face = "bold"),
-                axis.text.x = element_text(angle = 70, vjust=0.6, colour="grey20", size= 7.5, face="plain"),
-                legend.title = element_text(size = 8, face = "bold"),
-                legend.text = element_text(size = 8, face = "plain"),
-                legend.key.size = unit(0.15, "cm"),
-                panel.spacing = unit(0.1, "lines"))      
+        # change the output based on the grouping
+        if(input$zhub_grouping == "tissue"){
+          
+          p_ggiraph <- ggplot(data, aes(x = stage, y = .data[[y_value]], fill = stage)) +
+            geom_col_interactive(  aes(tooltip = paste0("Stage: ", stage, 
+                                                        "<br>", y_label, ": ", round(.data[[y_value]], 2),
+                                                        "<br>Tissue: ", tissue),
+                                       data_id = paste(stage, tissue, sep = "_"))
+            ) +
+            scale_y_sqrt(n.breaks = 5) +
+            facet_wrap(~tissue, scales = "fixed", axes = "all_x", ncol = 5) +
+            ylab(y_label) +
+            ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
+            theme_bw() + 
+            scale_fill_paletteer_d("colorBlindness::paletteMartin") +
+            theme(plot.title = element_text(size = 12, face = "bold"),
+                  strip.text.x = element_text(size = 8, margin = margin(0.1,0,0.1,0, "cm")),
+                  axis.text.y = element_text(size = 8),
+                  axis.title.y = element_text(size = 12, face = "bold"),
+                  axis.title.x = element_text(size = 12, face = "bold"),
+                  axis.text.x = element_text(angle = 70, vjust=0.6, colour="grey20", size= 7.5, face="plain"),
+                  legend.title = element_text(size = 8, face = "bold"),
+                  legend.text = element_text(size = 8, face = "plain"),
+                  legend.key.size = unit(0.15, "cm"),
+                  panel.spacing = unit(0.1, "lines"))     
+          
+          # stage grouping 
+        } else {
+          
+          p_ggiraph <- ggplot(data, aes(x = tissue, y = .data[[y_value]], fill = tissue)) +
+            geom_col_interactive(width = 0.75,  aes(tooltip = paste0("Stage: ", stage, 
+                                                                     "<br>", y_label, ": ", round(.data[[y_value]], 2),
+                                                                     "<br>Tissue: ", tissue),
+                                                    data_id = paste(stage, tissue, sep = "_"))
+            ) +
+            scale_y_sqrt(n.breaks = 5) +
+            facet_wrap(~stage, scales = "free", ncol = 2) +
+            ylab(y_label) +
+            ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
+            theme_bw() + 
+            scale_fill_viridis_d(option = "turbo", direction = 1) +
+            theme(plot.title = element_text(size = 12, face = "bold"),
+                  strip.text.x = element_text(size = 8, margin = margin(0.1,0,0.1,0, "cm")),
+                  axis.text.y = element_text(size = 8),
+                  axis.title.y = element_text(size = 12, face = "bold"),
+                  axis.title.x = element_text(size = 12, face = "bold"),
+                  axis.text.x = element_text(angle = 45, vjust=1, hjust = 1, colour="grey20", 
+                                             size= 8, face="plain"),
+                  legend.title = element_text(size = 8, face = "bold"),
+                  legend.text = element_text(size = 8, face = "plain"),
+                  legend.key.size = unit(0.15, "cm"),
+                  legend.position = "top", 
+                  legend.direction = "vertical",
+                  panel.spacing = unit(0.1, "lines")) +
+            guides(fill=guide_legend(nrow = 2))
+          
+        } # end of grouping else-branch        
         
         return(p_ggiraph)
         
@@ -2654,15 +3226,35 @@ server <- function(input, output, session) {
     # 2. read the data and define how many facets there will be
     df <- read.csv("./Zebrahub_dataset/temp.csv")
     n_facets = length(unique(df$tissue))
+    n_stages <- length(unique(df$stage))
     
-    if(n_facets < 5){
-      calc_width = n_facets * FACET_SIZE + 0.5
-      calc_height = FACET_SIZE + 0.5
-    } else{
-      # do the final calculation
-      calc_width = 5 * FACET_SIZE
-      calc_height = ceiling(n_facets/5)*FACET_SIZE + 1
-    }
+    # isolate the grouping variable
+    grouping_selection <- isolate(input$zhub_grouping)
+    
+    # change the output based on the grouping
+    if(grouping_selection == "tissue"){
+      
+      if(n_facets < 5){
+        calc_width <-  n_facets * FACET_SIZE + 0.5
+        calc_height <-  FACET_SIZE + 0.5
+      } else{
+        # do the final calculation
+        calc_width <-  5 * FACET_SIZE
+        calc_height <-  ceiling(n_facets/5)*FACET_SIZE + 1
+      }
+      
+      # stage grouping 
+    } else {
+      
+      if(n_stages < 3){
+        calc_width <-  n_stages * FACET_SIZE * 2 + 1
+        calc_height <- FACET_SIZE * 1.5 + 1
+      } else{
+        # do the final calculation
+        calc_width <-  5 * FACET_SIZE
+        calc_height <-  ceiling(n_stages/2)*FACET_SIZE* 1.5 + 1
+      }
+    } # end of grouping else-branch
     
     # Convert the ggplot object to a girafe object
     return( girafe(ggobj = output_obj, width_svg = calc_width, height_svg = calc_height, 
@@ -2698,15 +3290,35 @@ server <- function(input, output, session) {
       # obtain the data for the size parameters of the plot
       df <- read.csv("./Zebrahub_dataset/temp.csv")
       n_facets = length(unique(df$tissue))
+      n_stages <- length(unique(df$stage))
       
-      if(n_facets < 5){
-        calc_width = n_facets * FACET_SIZE + 0.5
-        calc_height = FACET_SIZE + 0.5
-      } else{
-        # do the final calculation
-        calc_width = 5 * FACET_SIZE
-        calc_height = ceiling(n_facets/5)*FACET_SIZE + 1
-      }
+      # isolate the grouping variable
+      grouping_selection <- isolate(input$zhub_grouping)
+      
+      # change the output based on the grouping
+      if(grouping_selection == "tissue"){
+        
+        if(n_facets < 5){
+          calc_width <-  n_facets * FACET_SIZE + 0.5
+          calc_height <-  FACET_SIZE + 0.5
+        } else{
+          # do the final calculation
+          calc_width <-  5 * FACET_SIZE
+          calc_height <-  ceiling(n_facets/5)*FACET_SIZE + 1
+        }
+        
+        # stage grouping 
+      } else {
+        
+        if(n_stages < 3){
+          calc_width <-  n_stages * FACET_SIZE * 2 + 1
+          calc_height <- FACET_SIZE * 1.5 + 1
+        } else{
+          # do the final calculation
+          calc_width <-  5 * FACET_SIZE
+          calc_height <-  ceiling(n_stages/2)*FACET_SIZE* 1.5 + 1
+        }
+      } # end of grouping else-branch
       
       # Use ggsave on the ggplot object      
       ggsave(file, plot = zhub_data(), device = "png", dpi = 300, 
@@ -2725,15 +3337,35 @@ server <- function(input, output, session) {
       # obtain the data for the size parameters of the plot
       df <- read.csv("./Zebrahub_dataset/temp.csv")
       n_facets = length(unique(df$tissue))
+      n_stages <- length(unique(df$stage))
       
-      if(n_facets < 5){
-        calc_width = n_facets * FACET_SIZE + 0.5
-        calc_height = FACET_SIZE + 0.5
-      } else{
-        # do the final calculation
-        calc_width = 5 * FACET_SIZE
-        calc_height = ceiling(n_facets/5)*FACET_SIZE + 1
-      }
+      # isolate the grouping variable
+      grouping_selection <- isolate(input$zhub_grouping)
+      
+      # change the output based on the grouping
+      if(grouping_selection == "tissue"){
+        
+        if(n_facets < 5){
+          calc_width <-  n_facets * FACET_SIZE + 0.5
+          calc_height <-  FACET_SIZE + 0.5
+        } else{
+          # do the final calculation
+          calc_width <-  5 * FACET_SIZE
+          calc_height <-  ceiling(n_facets/5)*FACET_SIZE + 1
+        }
+        
+        # stage grouping 
+      } else {
+        
+        if(n_stages < 3){
+          calc_width <-  n_stages * FACET_SIZE * 2 + 1
+          calc_height <- FACET_SIZE * 1.5 + 1
+        } else{
+          # do the final calculation
+          calc_width <-  5 * FACET_SIZE
+          calc_height <-  ceiling(n_stages/2)*FACET_SIZE* 1.5 + 1
+        }
+      } # end of grouping else-branch
       
       # Use ggsave on the ggplot object      
       ggsave(file, plot = zhub_data(), device = cairo_pdf, dpi = 300, 
@@ -2757,19 +3389,37 @@ server <- function(input, output, session) {
       
       # load the templates as appropriate
       
+      grouping_selection <- isolate(input$zhub_grouping)
+      
+      # load the templates as appropriate
+      
       if(input$zhub_data_type == "count_sum"){
         
         # choose the scale to load the templates
         if(input$zhub_y_scale == "linear"){
           
-          # count_sum - linear
-          file_path <- "./templates/counts_sum_linear.R" 
-          script_code <- read_file(file_path)
+          # change the output based on the grouping
+          if(grouping_selection == "tissue"){
+            # count_sum - linear
+            file_path <- "./templates/counts_sum_linear_tissue.R" 
+            script_code <- read_file(file_path)
+          } else {
+            file_path <- "./templates/counts_sum_linear_stage.R" 
+            script_code <- read_file(file_path)
+          }
           
         } else{
-          # count_sum - sqrt
-          file_path <- "./templates/counts_sum_sqrt.R" 
-          script_code <- read_file(file_path)          
+          
+          # change the output based on the grouping
+          if(grouping_selection == "tissue"){
+            # count_sum - sqrt
+            file_path <- "./templates/counts_sum_sqrt_tissue.R" 
+            script_code <- read_file(file_path)
+          } else{
+            file_path <- "./templates/counts_sum_sqrt_stage.R" 
+            script_code <- read_file(file_path)
+          }
+          
           
         }
         
@@ -2778,18 +3428,33 @@ server <- function(input, output, session) {
         
         # choose the scale to load the templates
         if(input$zhub_y_scale == "linear"){
-          # count_sum - linear
-          file_path <- "./templates/cell_counts_linear.R" 
-          script_code <- read_file(file_path)
+          
+          # change the output based on the grouping
+          if(grouping_selection == "tissue"){
+            # cell_counts - linear
+            file_path <- "./templates/cell_counts_linear_tissue.R" 
+            script_code <- read_file(file_path)
+          } else{
+            file_path <- "./templates/cell_counts_linear_stage.R" 
+            script_code <- read_file(file_path)
+          }
           
         } else{
-          # count_sum - sqrt
-          file_path <- "./templates/cell_counts_sqrt.R" 
-          script_code <- read_file(file_path)
+          
+          # change the output based on the grouping
+          if(grouping_selection == "tissue"){
+            # cell_counts - sqrt
+            file_path <- "./templates/cell_counts_sqrt_tissue.R" 
+            script_code <- read_file(file_path)
+          } else{
+            file_path <- "./templates/cell_counts_sqrt_stage.R" 
+            script_code <- read_file(file_path)
+          }
           
         }
         
       }
+      
       
       # replace temp.csv with the current data file name
       script_code <- str_replace(script_code, 'temp.csv', data_filename)
@@ -2798,7 +3463,7 @@ server <- function(input, output, session) {
       script_code <- str_replace(script_code, 'current_gene', input$zhub_gene_id)
       
       # insert code for sorting stages 
-      script_code <- str_replace(script_code, '# sorting code', '#sort the data\n data$stage <- factor(data$stage, levels = c("10hpf","12hpf","14hpf","16hpf","19hpf","24hpf","2dpf","3dpf","5dpf","10dpf"))')
+      script_code <- str_replace(script_code, '# sorting code', '#sort the data\n data$stage <- factor(data$stage, levels = c("10 hpf", "12 hpf", "14 hpf", "16 hpf", "19 hpf", "24 hpf", "2 dpf", "3 dpf", "5 dpf", "10 dpf"))')
       
       # Write the data to a temporary file
       writeChar(script_code, file)

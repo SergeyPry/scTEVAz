@@ -1,41 +1,86 @@
 "stage","tissue","counts_sum","Total_sum"
-"21Day","Neural progenitor cell",26.77,543.51
-"22Month","Neural progenitor cell",0.55,543.51
-"24hpf","Neural progenitor cell",416.81,543.51
-"3Month","Neural progenitor cell",0.96,543.51
-"72hpf","Neural progenitor cell",98.42,543.51
-"22Month","Spermatocyte",1.09,249.37
-"3Month","Spermatocyte",248.28,249.37
-"21Day","Neural cell",32.12,198.86
-"22Month","Neural cell",1.09,198.86
-"24hpf","Neural cell",12.26,198.86
-"3Month","Neural cell",5.76,198.86
-"72hpf","Neural cell",147.63,198.86
-"21Day","Hepatocyte",1.34,73.47
-"22Month","Hepatocyte",53.57,73.47
-"3Month","Hepatocyte",18.56,73.47
-"21Day","Epithelial cell",5.35,62.16
-"22Month","Epithelial cell",8.75,62.16
-"24hpf","Epithelial cell",8.17,62.16
-"3Month","Epithelial cell",37.75,62.16
-"72hpf","Epithelial cell",2.14,62.16
-"21Day","Mesenchymal cell",9.37,58.98
-"22Month","Mesenchymal cell",4.37,58.98
-"24hpf","Mesenchymal cell",20.43,58.98
-"3Month","Mesenchymal cell",4.48,58.98
-"72hpf","Mesenchymal cell",20.33,58.98
-"22Month","Primordial germ cell",6.56,35.04
-"3Month","Primordial germ cell",28.48,35.04
-"21Day","Retinal cone cell",26.77,34.26
-"72hpf","Retinal cone cell",7.49,34.26
-"21Day","Retinal cell",16.06,33.09
-"22Month","Retinal cell",6.01,33.09
-"3Month","Retinal cell",0.32,33.09
-"72hpf","Retinal cell",10.7,33.09
-"21Day","Keratinocyte",2.68,30.95
-"24hpf","Keratinocyte",8.17,30.95
-"3Month","Keratinocyte",5.12,30.95
-"72hpf","Keratinocyte",14.98,30.95
-"21Day","Radial glia",5.35,29.21
-"3Month","Radial glia",0.32,29.21
-"72hpf","Radial glia",23.54,29.21
+"21 dpf","Hepatocyte",38.82,2254.23
+"22 mpf","Hepatocyte",1368.28,2254.23
+"3 mpf","Hepatocyte",844.99,2254.23
+"72 hpf","Hepatocyte",2.14,2254.23
+"21 dpf","Intestinal bulb cell",145.9,523.42
+"22 mpf","Intestinal bulb cell",216.48,523.42
+"3 mpf","Intestinal bulb cell",159.97,523.42
+"72 hpf","Intestinal bulb cell",1.07,523.42
+"21 dpf","Epithelial cell",13.39,67.3
+"22 mpf","Epithelial cell",27.88,67.3
+"3 mpf","Epithelial cell",24.96,67.3
+"72 hpf","Epithelial cell",1.07,67.3
+"21 dpf","Pancreatic cell",14.72,33.44
+"22 mpf","Pancreatic cell",1.64,33.44
+"3 mpf","Pancreatic cell",12.8,33.44
+"72 hpf","Pancreatic cell",4.28,33.44
+"21 dpf","Mesenchymal cell",14.72,33.18
+"22 mpf","Mesenchymal cell",8.75,33.18
+"3 mpf","Mesenchymal cell",8.64,33.18
+"72 hpf","Mesenchymal cell",1.07,33.18
+"21 dpf","Neurosecretory cell",9.37,25.9
+"22 mpf","Neurosecretory cell",8.2,25.9
+"3 mpf","Neurosecretory cell",5.12,25.9
+"72 hpf","Neurosecretory cell",3.21,25.9
+"22 mpf","Ionocyte",1.09,21.41
+"3 mpf","Ionocyte",3.2,21.41
+"72 hpf","Ionocyte",17.12,21.41
+"21 dpf","Enterocyte",13.39,20.42
+"22 mpf","Enterocyte",3.83,20.42
+"3 mpf","Enterocyte",3.2,20.42
+"21 dpf","Muscle cell",1.34,17.74
+"22 mpf","Muscle cell",7.65,17.74
+"3 mpf","Muscle cell",7.68,17.74
+"72 hpf","Muscle cell",1.07,17.74
+"21 dpf","Nephron cell",4.02,16.18
+"3 mpf","Nephron cell",12.16,16.18
+"21 dpf","Neural cell",9.37,15.91
+"22 mpf","Neural cell",0.55,15.91
+"3 mpf","Neural cell",0.64,15.91
+"72 hpf","Neural cell",5.35,15.91
+"21 dpf","Keratinocyte",5.35,13.71
+"22 mpf","Keratinocyte",1.64,13.71
+"3 mpf","Keratinocyte",6.72,13.71
+"21 dpf","Macrophage",4.02,13.66
+"22 mpf","Macrophage",6.01,13.66
+"3 mpf","Macrophage",2.56,13.66
+"72 hpf","Macrophage",1.07,13.66
+"22 mpf","Goblet cell",6.56,12
+"3 mpf","Goblet cell",5.44,12
+"22 mpf","Granulocyte",7.11,11.59
+"3 mpf","Granulocyte",4.48,11.59
+"22 mpf","Immune cell",1.64,9.32
+"3 mpf","Immune cell",7.68,9.32
+"22 mpf","Erythrocyte (Liver)",6.01,9.21
+"3 mpf","Erythrocyte (Liver)",3.2,9.21
+"21 dpf","T cell",1.34,8.37
+"22 mpf","T cell",3.83,8.37
+"3 mpf","T cell",3.2,8.37
+"22 mpf","Primordial germ cell",1.64,7.72
+"3 mpf","Primordial germ cell",6.08,7.72
+"21 dpf","Neural progenitor cell",4.02,7.23
+"72 hpf","Neural progenitor cell",3.21,7.23
+"21 dpf","Erythrocyte",4.02,5.09
+"72 hpf","Erythrocyte",1.07,5.09
+"3 mpf","Spermatocyte",4.16,4.16
+"22 mpf","Endothelial cell",3.83,4.15
+"3 mpf","Endothelial cell",0.32,4.15
+"21 dpf","Retinal cone cell",4.02,4.02
+"22 mpf","Smooth muscle cell",0.55,3.75
+"3 mpf","Smooth muscle cell",3.2,3.75
+"21 dpf","Immune progenitor cell",1.34,3.53
+"22 mpf","Immune progenitor cell",2.19,3.53
+"21 dpf","Radial glia",2.68,3.23
+"22 mpf","Radial glia",0.55,3.23
+"21 dpf","Granulosa cell",1.34,2.98
+"22 mpf","Granulosa cell",1.64,2.98
+"21 dpf","Osteoblast",1.34,2.96
+"22 mpf","Osteoblast",0.55,2.96
+"72 hpf","Osteoblast",1.07,2.96
+"22 mpf","Oligodendrocyte",1.09,2.37
+"3 mpf","Oligodendrocyte",1.28,2.37
+"22 mpf","Oocyte",2.19,2.19
+"22 mpf","Erythroid progenitor cell",0.55,0.55
+"3 mpf","Cardiomyocyte",0.32,0.32
+"3 mpf","Retinal cell",0.32,0.32
