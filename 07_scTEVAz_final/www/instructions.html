@@ -19,26 +19,59 @@
 <p style="font-size: 18px;">In developing scTEVAz, the main motivation was to use existing scRNA-seq datasets to visualize expression of multiple unstudied genes we were working on. The existing tools from the respective atlases were somewhat helpful but were not customizable and inconsistent between different atlases. This limitation led us to develop this tool to provide an easy access to valuable aggregated expression data derived from all available zebrafish scRNA-seq datasets. Integrating these datasets creates a more comprehensive overview since <strong>Daniocell</strong>, <strong>ZCL</strong> and <strong>Zebrahub</strong> provide different stages, cell types and levels of data aggregation.</p>
 
 
-<figure style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
-    <div style="flex-shrink: 0;">
-        <img src="scTEVAz_workflow.png" alt="scTEVAz Workflow" width="600px" style="display: block;"/>
-    </div>
+<figure style="display: block; gap: 20px; margin: 40px 0;">
+    
+	<img src="scTEVAz_workflow.png" alt="scTEVAz Workflow" width="1200px" />
 	
-    <figcaption style="font-size: 18px; line-height: 1.5;">
+	
+    <figcaption style="margin-top: 40px; font-size: 18px; line-height: 1.5;">
         <strong>An overview of the inputs for scTEVAz and its workflow.</strong> 
-        The program has the indicated on the figure inputs and options. It is essential to first choose the dataset ("Dataset choice: Daniocell, Zebrafish Cell Landscape, Zebrahub"). The user then needs to choose which gene to focus on ("gene symbol") by pasting or typing the gene symbol. The "Data type" option requires the choice between the 'count sums' and 'cell counts' options. Tissues and stages tickboxes do not need to be modified initially, but after the first run they can be narrowed down to the most relevant ones. For ZCL data, there is a choice between lineages or cell types. The "Sorting option" indicates whether to sort the tissue or cell types alphabetically or by the sum of all values for all stages. To facilitate visualization of values at different orders of magnitude, "y-scale option" provides either 'continuous' or 'square root' choices. The data for the given combination of inputs is then plotted for the user to view and in the form of download buttons for the plot, data and code.
+        The program has the indicated on the figure inputs and options. It is essential to first choose the dataset. <strong>Dataset choice:</strong> 
+		<ul>
+         <li>Daniocell</li>
+         <li>Zebrafish Cell Landscape</li>
+         <li>Zebrahub</li>
+        </ul>
+		The user then needs to choose which Gene Symbol to focus on (<strong>Please input gene symbol</strong>) by pasting or typing the gene symbol. The field will automatically provide the most suitable options.<br/>
+		
+		Grouping Method for Faceting in the plot (<strong>Choose how to group the data:</strong>) is a fundamental choice for this workflow and has the following options:
+		<ul>
+         <li>By tissue or lineage</li>
+         <li>By stage</li>
+        </ul>
+		
+		Tissue Type (<strong>Filter by tissue:</strong>) and Developmental Stage (<strong>Filter by stage:</strong>) tickboxes do not need to be modified initially, but after the first run they can be narrowed down to the most relevant ones. For ZCL data, there is a choice between lineages or cell types.<br/>
+		
+		The Data Type option (<strong>Choose the type of data</strong>) has the following options:
+        <ul>
+         <li>Sum of normalized read counts</li>
+         <li>Normalized cell counts</li>
+        </ul>
+		
+		To facilitate visualization of values at different orders of magnitude, Y-axis scale option (<strong>Choose the y-axis scale:</strong>) has two choices:
+        <ul>
+         <li>Linear</li>
+         <li>Square root</li>
+        </ul>
+		The Sort Data option (<strong>Choose how to sort the data:</strong>) indicates whether to sort the tissue, lineages or cell types by the sum of all values for all stages or alphabetically:
+		<ul>
+         <li>Sum of values</li>
+         <li>Alphabetical</li>
+        </ul>
+		
+		The data for the given combination of inputs is then plotted for the user to view and in the form of download buttons for the plot, data and code (<strong>Export Plot, Code and Data</strong>).
     </figcaption>
 </figure>
 
-<h3>Interface</h3>
+<h3><strong>Interface</strong></h3>
 <p style="font-size: 18px">All inputs and parameters are set using the panel to the left. They have been broadly described in the figure above. We can add here that the "Filter by tissue" or "Filter by stage" input groups contain 'Select all' and 'Deselect all' buttons that can help with defining the selection of data. The other options are based on simple radio buttons. Finally, submission of inputs is controlled by the <strong>GENERATE PLOT</strong> button. At the right side, there are two tabs: <strong>Instructions</strong> and <strong>Results</strong>. Due to the number of inputs, the user needs to provide all of them and then press <strong>GENERATE PLOT</strong> button. This will result in a plot being generated by <strong>ggiraph</strong> package on the <strong>Results</strong> tab. To avoid excessive computations, additional input updates require the <strong>GENERATE PLOT</strong> button to be pushed again in order to update the output on the <strong>Results</strong> tab. The output also contains the following download buttons: <strong>"SAVE PLOT(PNG)"</strong>, <strong>"EXPORT DATA"</strong> and <strong>"SAVE THE PLOT CODE"</strong>. To use these downloaded items, they have to come from the same session, be located in the same folder and the code needs to be run fully on a machine where all required R packages are installed. The main difference between the online scTEVAz tool and the downloaded code is that the latter uses <strong>ggplot2</strong> for plotting. The advantage of working with these small gene-specific datasets is that you can further customize your plots as desired and there is no need to work with full datasets which have fairly large hardware requirements.</p>
 
-<h3>Citation</h3>
+<h3><strong>Citation</strong></h3>
 <p style="font-size: 18px"> scTEVAz was developed by <strong>Sergey Prykhozhij</strong>. If you encounter a problem, please send an email to <strong>Sergey Prykhozhij</strong> at <strong><font style= "color: darkblue">s.prykhozhij@gmail.com</font></strong>. I can only make it better if you tell me when you encounter a problem.</p>
 
 
 
-<h3>Acknowledgements</h3>
+<h3><strong>Acknowledgements</strong> </h3>
 
 <ul style="list-style-type: none; padding-left: 0; line-height: 1.6;">
         <li><strong>R</strong>: R Core Team (2013). R: A language and environment for statistical computing. R Foundation for  Statistical Computing, Vienna, Austria. <a href="https://www.r-project.org/">https://www.r-project.org/</a>.</li>
