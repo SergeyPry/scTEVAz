@@ -1,12 +1,9 @@
 # single-cell Tissue Expression Values Aggregator in zebrafish - scTEVAz
 
-Multiple single-cell RNA sequencing (scRNAseq) atlases have been published for zebrafish and many other animal model species. Each such project has their own software tools, websites and interfaces to help make sense of the data. However, many of the visualizations for individual gene expression profiles are not very informative and concise enough to inform the researchers using these tools. Different atlases also understandably did not make their visualizations mutually consistent. Plots for quantitative expression comparisons across different classified cell types are also seriously lacking in many of these atlas projects.
+Multiple single-cell RNA sequencing (scRNAseq) atlases have been published for zebrafish and many other animal model species. Each of these projects have their own software tools, websites, and interfaces to help researchers make sense of the data. However, many of the visualizations for individual gene expression profiles are not informative and concise enough to provide meaningful interpretations. Inconsistent methods of representation are also used between these tools, with many lacking quantitative comparisons of gene expression levels across classified cell types.
 
-Given these current limitations, we used three zebrafish scRNAseq datasets in a project to allow visualizing normalized expression values for all detectable genes in each dataset or gene-positive cell numbers across the tissues or cell types identified in that dataset. This allows cross-referencing information from different stages of development and adulthood across multiple datasets to obtain highly informative and reliable insights into tissue/lineage or expression patterns of genes, for which little experimental expression pattern evidence exists. However, these expression pattern plots should not be understood as the ultimate truth due to potential limitations of scRNAseq but rather as the guiding light for further experimental work.
+Given these current limitations, we used three zebrafish scRNAseq datasets in a project to allow visualization of normalized expression values for all detectable genes, gene-positive cell numbers across various tissues, or cell types identified in each dataset. This allows data from embryonic, larval and adult stages to be cross-referenced across datasets to obtain highly informative and reliable insights on gene expression patterns, which are particularly invaluable for less-studied genes. While certain limitations are associated with scRNAseq methods, these expression pattern plots provide a guiding light for further experimental work.
 
-## Description
-
-An in-depth paragraph about your project and overview of use.
 
 ## Getting Started
 To be able to reproduce the results described in this repository and project, a sufficiently modern and powerful PC or a laptop is strongly recommended with 64 GB of RAM and other appropriate specifications.
@@ -28,7 +25,6 @@ This repository for the scTEVAz project describes all the relevant steps perform
 - [04_Data_cleanup](https://github.com/SergeyPry/scTEVAz/tree/main/04_Data_cleanup) - Detailed description and code for filtering data frames to keep only those that contain more than a single number. After this filtering, the information on available genes for each dataset was updated.
 
 - [05_Standalone_plotting_scripts](https://github.com/SergeyPry/scTEVAz/tree/main/05_Standalone_plotting_scripts) - The scripts that work with the original large data and allow custom coding to generate plots. 
-
 
 
 ## Author
