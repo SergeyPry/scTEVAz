@@ -12,7 +12,7 @@ data <- read.csv("temp.csv")
 
 # specify value and label to use in the plot
 y_value = "counts_sum"
-y_label = "Normalized cell expression value"
+y_label = "Sum of normalized read counts"
 
 gene <- "current_gene"
 
@@ -23,7 +23,7 @@ gene <- "current_gene"
 # need to adjust them further
 ggplot(data, aes(x = stage, y = .data[[y_value]], fill = stage)) +
           geom_col() +
-          scale_y_continuous(n.breaks = 5) +
+          scale_y_sqrt(n.breaks = 5) +
           facet_wrap(~tissue, scales = "fixed", axes = "all_x", ncol = 5) +
           ylab(y_label) +
           ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
@@ -40,6 +40,7 @@ ggplot(data, aes(x = stage, y = .data[[y_value]], fill = stage)) +
                 legend.key.size = unit(0.15, "cm"),
                 panel.spacing = unit(0.1, "lines")
           ) 
+
 
 # optionally save the plot as desired including a new file name
 ggsave("plot.png", dpi = 300)

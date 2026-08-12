@@ -1514,7 +1514,7 @@ server <- function(input, output, session) {
                                                         "<br>Tissue: ", tissue),
                                        data_id = paste(stage, tissue, sep = "_"))
             ) +
-            scale_y_sqrt(n.breaks = 5) +
+            scale_y_sqrt(n.breaks = 8) +
             facet_wrap(~tissue, scales = "fixed", axes = "all_x", ncol = 5) +
             ylab(y_label) +
             ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
@@ -1540,7 +1540,7 @@ server <- function(input, output, session) {
                                                         "<br>Tissue: ", tissue),
                                        data_id = paste(stage, tissue, sep = "_"))
             ) +
-            scale_y_sqrt(n.breaks = 5) +
+            scale_y_sqrt(n.breaks = 8) +
             facet_wrap(~stage, scales = "free", ncol = 2) +
             ylab(y_label) +
             ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
@@ -2092,7 +2092,7 @@ server <- function(input, output, session) {
                                                         "<br>Tissue: ", tissue),
                                        data_id = paste(stage, tissue, sep = "_"))
             ) +
-            scale_y_sqrt(n.breaks = 5) +
+            scale_y_sqrt(n.breaks = 8) +
             facet_wrap(~tissue, scales = "fixed", axes = "all_x", ncol = 5) +
             ylab(y_label) +
             ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
@@ -2118,7 +2118,7 @@ server <- function(input, output, session) {
                                                                      "<br>Tissue: ", tissue),
                                                     data_id = paste(stage, tissue, sep = "_"))
             ) +
-            scale_y_sqrt(n.breaks = 5) +
+            scale_y_sqrt(n.breaks = 8) +
             facet_wrap(~stage, scales = "free", ncol = 2) +
             ylab(y_label) +
             ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
@@ -2421,7 +2421,7 @@ server <- function(input, output, session) {
                                                         "<br>Tissue: ", tissue),
                                        data_id = paste(stage, tissue, sep = "_"))
             ) +
-            scale_y_sqrt(n.breaks = 5) +
+            scale_y_sqrt(n.breaks = 8) +
             facet_wrap(~tissue, scales = "fixed", axes = "all_x", ncol = 5) +
             ylab(y_label) +
             ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
@@ -2447,7 +2447,7 @@ server <- function(input, output, session) {
                                                                      "<br>Tissue: ", tissue),
                                                     data_id = paste(stage, tissue, sep = "_"))
             ) +
-            scale_y_sqrt(n.breaks = 5) +
+            scale_y_sqrt(n.breaks = 8) +
             facet_wrap(~stage, scales = "free", ncol = 2) +
             ylab(y_label) +
             ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
@@ -3156,7 +3156,7 @@ server <- function(input, output, session) {
                                                         "<br>Tissue: ", tissue),
                                        data_id = paste(stage, tissue, sep = "_"))
             ) +
-            scale_y_sqrt(n.breaks = 5) +
+            scale_y_sqrt(n.breaks = 8) +
             facet_wrap(~tissue, scales = "fixed", axes = "all_x", ncol = 5) +
             ylab(y_label) +
             ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +
@@ -3182,7 +3182,7 @@ server <- function(input, output, session) {
                                                                      "<br>Tissue: ", tissue),
                                                     data_id = paste(stage, tissue, sep = "_"))
             ) +
-            scale_y_sqrt(n.breaks = 5) +
+            scale_y_sqrt(n.breaks = 8) +
             facet_wrap(~stage, scales = "free", ncol = 2) +
             ylab(y_label) +
             ggtitle(paste("Summarised expression plot for", gene, "in zebrafish")) +

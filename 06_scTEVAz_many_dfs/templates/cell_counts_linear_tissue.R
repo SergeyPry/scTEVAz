@@ -11,7 +11,7 @@ data <- read.csv("temp.csv")
 
 # specify value and label to use in the plot
 y_value = "cell_counts"
-y_label = "Normalized cell count"
+y_label = "Normalized cell counts"
 
 gene <- "current_gene"
 
